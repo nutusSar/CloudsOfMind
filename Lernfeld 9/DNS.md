@@ -1,5 +1,5 @@
-#Berufsschule #Lernfeld9 
-<h2>Dynamic Naming System </h2>
+#Berufsschule #Lernfeld9 #Protokolle #Anwendungsschicht 
+## Dynamic Naming System
 
 Das Domain Name System ordnet lesbare / merkbare Namen bzw. Adressen (google.com) zu IPs zu. DNS ist ein weltweites, hierarchisches System mit Delegation.
 * . :Root-Zone
@@ -8,7 +8,12 @@ Das Domain Name System ordnet lesbare / merkbare Namen bzw. Adressen (google.com
 * Bildung : Subdomain
 * Moodle : Hostname
 
-<h2>Resource Records </h2>
+## Ports
+* 53 TCP/UDP
+* 853 TCP nur mit TLS (RFC 7858)
+* 853 UDP nur mit DTLS (RFC 8094)
+
+## Resource Records
 DNS hat mehrere Resource Records (DNS-RR), welche dazu dienen bei Abfragen an den DNS anzugeben, was man genau möchte.
 * Type A ("Address"): IPv4-Adresse
 * Type PTR (Pointer): Reverse DNS
@@ -28,7 +33,7 @@ C:\Users\Mein Computer> nslookup
 ```
 den gewünschten Typen des Records eingeben, wonach man die gewünschte Domain eingeben kann und das Ergebnis erhält.
 
-<h2>Beispiel</h2>
+## Beispiel
 * IPv4 von moodle.bildung.koblenz.de:
 	```console
 	Name: moodle.bildung.koblenz.de
@@ -48,7 +53,7 @@ den gewünschten Typen des Records eingeben, wonach man die gewünschte Domain e
 	“v=spf1 mx ip4:94.130.176.143 ip6:2a01:4f8:c0c:a39a::1 -all” gibip.de text =“Hallo      BSIT22c!”
 	```
 
-<h2>Root Zone</h2>
+## Root Zone
 Die Root-Zone wird von 13 Root-Nameservern bedient, a-root-servers.net bis m.root-servers.net
 ```console
 C:\Users\Mein Computer> nslookup
@@ -60,7 +65,7 @@ C:\Users\Mein Computer> nslookup
 ```
 Zur Vermeidung von Ausfällen sind diese 13 Adressen sogenannte "Anycast-Adressen". Es gibt in Wahrheit also deutlich mehr als 13 Root-Server.
 
-<h2>Reverse DNS</h2>
+## Reverse DNS
 Für den Reverse lookup gibt es einen eigenen Resource Record "PTR-Record".
 Beispiel 10.7.4.2 hat einen PTR-Eintrag in der Domain 2.4.7.10.in-addr.arpa.
 ```console
@@ -71,7 +76,28 @@ C:\Users\Mein Computer> nslookup
 ```
 Bei IPv6 ist die Reverse-Zone ip6.arpa.
 
-<h2>Aufbau eines Records</h2>
+## DNS vs. DNS-Ressolver
+Man unterscheidet zwischen echten DNS-Servern und DNS-Resolvern
+* **Server**:
+	Zuständig für eine oder mehrere Zonen. Erhält die Zuständigkeit durch Delegation (SOA/NS-Record).
+* **Resolver**:
+	Nimmt Clients die Arbeit ab
+	->Rekursiver Durchlauf aller Zonen
+	z.B.: moodle.bildung.koblennz.de
+	1) Frage Root-Server nach Zone de
+	2) Frage de-Server nach Zone koblenz.de
+	3) Frage koblenz.de-Server nach Zone bildung.koblenz.de
+	4) Frage bildung.koblenz.de-Server nach A-Record für moodle.bildung.koblenz.de
+	=> Rekursive Nameserver-Abfrage 
+	
+Bekannte öffentliche Resolver:
+* Google: 8.8.8.8, 8.8.4.4
+* Cloud Flare: 1.1.1.1, 1.1.2.2
+* Andere: 9.9.9.9
+
+Pi-Hole als Resolver z.B. als Adblocker
+
+## Aufbau eines Records
 Eine DNS-Zone ist in einer Zonendatei hinterlegt
 Beispiel für eine Zonendatei der Domain gibip.de:
 ```
@@ -94,3 +120,15 @@ www 300 IN AAAA 2001:6f8:128d::1
 Dies gilt nur solange der Punkt hinter de ist!!!
 Der allgemeine Aufbau ist:
 Zone---TTL---Internet---ResoruceRecordTyp---Daten
+```
+example.com. 1800  IN  SOA  ns1.example.com. mailbox.example.com. (
+                                                100   ; Seriennummer
+                                                300   ; Refresh Time
+                                                100   ; Retry Time
+                                                6000  ; Expire Time
+                                                600   ; negative Caching Zeit
+                                               )
+example.com. 1800  IN  NS   ns1.example.com.
+```
+
+

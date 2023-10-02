@@ -1,5 +1,5 @@
-#Berufsschule #Lernfeld9
-<h2>Dynamic Host Configuration Protocol</h2>
+#Berufsschule #Lernfeld9 #Protokolle #Anwendungsschicht
+## Dynamic Host Configuration Protocol
 DHCP Verteilt IPv4 Adressen an Hosts im Lan. Dabei werden auch Zusatz Informationen weitergegeben z.B.:
 * Gateway
 * [[DNS]]
@@ -7,7 +7,13 @@ DHCP Verteilt IPv4 Adressen an Hosts im Lan. Dabei werden auch Zusatz Informatio
 * ...
 Die zu verteilende IPv4 Adresse kommt aus einem Adresspool. Sie wird temporär mit einer einstellbaren Lease-Dauer vergeben.
 
-<h2>Grundablauf</h2>
+## Ports
+ * 67 UDP IPv4 Server oder Relay-Agent
+ * 68 UDP IPv4 Client
+ * 547 UDP IPv6 Server oder Relay-Agent
+ * 546 UDP IPv6 Client
+
+## Grundablauf
 DORA: 
 1. **DHCP DISCOVER**
 	* Client (Broadcast auf Layer 2): "Hat es einen DHCP-Server?"
@@ -18,7 +24,7 @@ DORA:
 4. **DHCP ACK**
 	* Server: "OK, ist eingetragen"
 
-<h2>Rogue DHCP Server</h2>
+## Rogue DHCP Server
 Ist ein von Admin nicht eingerichteter Server der falsche Info rausgibt. 
 * falsche Adresse
 * falscher Gateway
@@ -27,13 +33,13 @@ Abhilfe:
 * DHCP Snooping aktivieren
 * DHCP Guard
 
-<h2>DHCP Starvation</h2>
+## DHCP Starvation
 Massiv viele "DORA mit Fake-MAC leeren den verfügbaren Adresspool
 -> Denial of Service für neue Clients im LAN
 Abhilfe:
 * Port Security (Anzahl MAC-Adressen pro Port begrenzen)
 
-<h2>IPv6-Adressvergabe</h2>
+## IPv6-Adressvergabe
 * SLAAC (Stateless Address Auto Configuration)
 	-> Präfix aus Router Advertisment, Hostanteil aus EUI64
 	-> Hostanteil wird von der eigenen MAC-Adresse abgeleitet
