@@ -1,8 +1,8 @@
-#DHCP #Lernfeld9
+#Berufsschule #Lernfeld9
 <h2>Dynamic Host Configuration Protocol</h2>
 DHCP Verteilt IPv4 Adressen an Hosts im Lan. Dabei werden auch Zusatz Informationen weitergegeben z.B.:
 * Gateway
-* DNS
+* [[DNS]]
 * NTP
 * ...
 Die zu verteilende IPv4 Adresse kommt aus einem Adresspool. Sie wird temporär mit einer einstellbaren Lease-Dauer vergeben.
