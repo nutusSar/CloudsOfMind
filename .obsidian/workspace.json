@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protokolle/UDP.md",
-                "mode": "source",
+                "file": "Lernfeld 9/DNS.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 289.5
   },
   "right": {
     "id": "5c2cbcb20a05d1a3",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protokolle/UDP.md",
+                "file": "Lernfeld 9/DNS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protokolle/UDP.md",
+                "file": "Lernfeld 9/DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protokolle/UDP.md"
+                "file": "Lernfeld 9/DNS.md"
               }
             }
           }
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 213.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,10 +149,10 @@
   "active": "5cd47d21909c4240",
   "lastOpenFiles": [
     "Protokolle/TCP.md",
-    "Protokolle/UDP.md",
-    "Lernfeld 9/DHCP.md",
     "Lernfeld 9/DNS.md",
+    "Lernfeld 9/DHCP.md",
     "Protokolle/Protokolle.md",
+    "Protokolle/UDP.md",
     "Protokolle",
     "[[DNS.md",
     "Lernfeld 9/Test.md",
