@@ -1,8 +1,7 @@
 [
-  "obsidian42-brat",
-  "obsidian-snippet-downloader",
   "calendar",
   "obsidian-kanban",
-  "obsidian-plantuml",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian42-brat",
+  "obsidian-plantuml"
 ]
