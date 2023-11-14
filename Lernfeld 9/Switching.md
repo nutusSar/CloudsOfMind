@@ -29,7 +29,7 @@ show mac address-table
 ## Übersicht der Methoden
 > [!ascii] Schaubild
 >Bytes:
->ㅤㅤ   7      1   6     6      2      max 1500    4
+>ㅤㅤ   7      1   6      6      2      max 1500    4
 >ㅤ╔════════╤═══╤═════╤══════╤═══════╤════════════╤═══╗
 >ㅤ║Preamble│SFD│Dest.│Source│Length/│    Data    │FCS║
 >ㅤ║        │   │Addr │Addr. │ Type  │            │   ║
