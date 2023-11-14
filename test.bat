@@ -1,6 +1,5 @@
 @echo off
-FOR /F "TOKENS=1 DELIMS=:" %%A IN ('TIME/T') DO SET HH=%%A
-FOR /F "TOKENS=2 DELIMS=:" %%A IN ('TIME/T') DO SET MM=%%A
-echo %HH%:%MM%
+For /f "tokens=1-2 delims=/:" %%a in ('time /t') do (set mytime=%%a:%%b:%%c)
 echo %time%
+echo %mytime%
 pause
