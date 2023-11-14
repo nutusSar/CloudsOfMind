@@ -1,7 +1,7 @@
 .callout[data-callout="ascii"] {
     font-family: monospace;
     white-space: break-spaces;
-    
+    --callout-icon: lucide-info;
 }
 
 .HyperMD-quote{

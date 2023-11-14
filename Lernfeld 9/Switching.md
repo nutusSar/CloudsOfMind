@@ -26,6 +26,20 @@ show mac address-table
 + **Fast forward:** nach Ziel-MAC
 + **Fragment Free:** nach 64 Byte (Mindestgröße) -> Kompromiss zwischen Fehlerkontrolle und Geschwindigkeit 
 
+## Übersicht der Methoden
+> [!ascii] Schaubild
+>Bytes:
+>ㅤㅤ   7      1   6     6      2      max 1500    4
+>ㅤ╔════════╤═══╤═════╤══════╤═══════╤════════════╤═══╗
+>ㅤ║Preamble│SFD│Dest.│Source│Length/│    Data    │FCS║
+>ㅤ║        │   │Addr │Addr. │ Type  │            │   ║
+>ㅤ╚════════╧═══╧═════╧══════╧═══════╧════════════╧═══╝
+>ㅤ             ⇑                      ⇑            ⇑
+>ㅤ        Fast Forward          Fragment Free  Store and
+>ㅤ               ⇖                   ⇗          Forward
+>ㅤ                     Cut-Trough
+
+
 ## Kollisionsdomäne / Collision Domain (CD)
 Bereich, in dem max. 1 Gerät pro Richtung reden kann 
 **Beispiel IRL:**
@@ -36,4 +50,6 @@ Mit modernen Switches ist jeder Link (Switch zu Gerät) eine eigene CD
 ## Broadcast-Domain
 Bereich, in dem Broadcasts weitergeleitet werden
 + Entspricht dem Lan (Layer 2)
++ Layer 2 Geräte gehören zu einer Broadcastdomain 
++ Layer 3 Geräte (Router) teilen sich eine Broadcastdomain
 + Endet am Router

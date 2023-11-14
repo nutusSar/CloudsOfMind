@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0529c0606a958ca6",
+        "id": "c670fe1cf3b098be",
         "type": "tabs",
         "children": [
           {
-            "id": "a3c55475fe73959c",
+            "id": "bf938b45b219ef06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lernfeld 9/DHCP.md",
-                "mode": "source",
-                "source": false
+                "file": "Lernfeld 9/Switching.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 200
   },
   "right": {
     "id": "5c2cbcb20a05d1a3",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lernfeld 9/DHCP.md",
+                "file": "Lernfeld 9/Switching.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lernfeld 9/DHCP.md",
+                "file": "Lernfeld 9/Switching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lernfeld 9/DHCP.md"
+                "file": "Lernfeld 9/Switching.md"
               }
             }
           }
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 213.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,44 +147,44 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "740dda16f3245ff6",
+  "active": "bf938b45b219ef06",
   "lastOpenFiles": [
+    "Lernfeld 9/Ethernet Frame.md",
+    "Lernfeld 9/Switching.md",
+    "Lernfeld 9/DHCP.md",
+    "Lernfeld 9/DNS.md",
+    "DevelopingExtras/ASCii.md",
+    "Lernfeld 9/Cisco Config CheatSheet.md",
+    "Sozialkunde/Themen der Klassenarbeit 11.12.2023.md",
+    "TestFolder/Test.md",
+    "Sozialkunde/Berufsbildungsgesetz.md",
+    "Sozialkunde/Sozialkunde.md",
     "Git.bat",
     "AutoSave.bat",
     "test.txt",
     "Neues Textdokument.txt",
-    "Lernfeld 9/Cisco Config CheatSheet.md",
     "Lernfeld 9/Cisco.md",
     "Protokolle/Grunddateneinheiten.md",
     "Protokolle/TCP.md",
     "Protokolle/UDP.md",
     "Protokolle/Protokolle.md",
-    "DevelopingExtras/ASCii.md",
-    "Lernfeld 9/Ethernet Frame.md",
-    "Lernfeld 9/Switching.md",
-    "TestFolder/Test.md",
     "00 ```═```.md",
-    "Lernfeld 9/DNS.md",
     "DevelopingExtras",
     "TestFolder",
     "test html.md",
     "Lernfeld 9/Bilder/switch_logik.png",
     "Lernfeld 9/Bilder/modi_uebersicht_router.png",
-    "Sozialkunde/Themen der Klassenarbeit 11.12.2023.md",
     "Sozialkunde/Besitz und Eigentum.md",
     "Lernfeld 9/Kollisionsdomäne (Collision Domain CD).md",
     "EthernetFrame.md",
     "Frame.md",
     "Ethernet.md",
-    "Lernfeld 9/DHCP.md",
     "Lernfeld 9/Cisco/Untitled.md",
-    "Sozialkunde/Berufsbildungsgesetz.md",
     "Sozialkunde/Externe Sourcen/82316_sowirp_lb1_besitz_eigentum_arbeitsblatt.pdf",
     "Sozialkunde/Externe Sourcen",
     "82316_sowirp_lb1_besitz_eigentum_arbeitsblatt.pdf.md",
     "Sozialkunde/82316_sowirp_lb1_besitz_eigentum_arbeitsblatt.pdf",
     "Sozialkunde",
-    "Lernfeld 9/Cisco",
     "www.google.de.md",
     "[.md",
     "Untitled.canvas"
