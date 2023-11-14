@@ -1,5 +1,5 @@
-## Switch
-+ Switches arbeiten auf Layer 2
+## [Switch](Switch)
++ [Switches](Switch) arbeiten auf Layer 2
 + Speichern Ziel MAC-Adressen mit dem Port in einer MAC-Address-Table 
 + Eingangsport (Ingress) eines Frames kann nie gleichzeitig Ausgangsport (Egress) sein
 + Anzeigen der MAC-Address-Table:

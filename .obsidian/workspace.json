@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lernfeld 9/Switching.md",
-                "mode": "source",
+                "file": "Lernfeld 9/Switch.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lernfeld 9/Switching.md",
+                "file": "Lernfeld 9/Switch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lernfeld 9/Switching.md",
+                "file": "Lernfeld 9/Switch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lernfeld 9/Switching.md"
+                "file": "Lernfeld 9/Switch.md"
               }
             }
           },
@@ -157,16 +157,18 @@
   },
   "active": "f911d04d8b14a302",
   "lastOpenFiles": [
+    "Lernfeld 9/Ethernet Frame.md",
+    "Lernfeld 9/DNS.md",
+    "Lernfeld 9/DHCP.md",
+    "Lernfeld 9/Cisco Config CheatSheet.md",
+    "Lernfeld 9/Bilder/modi_uebersicht_router.png",
+    "Lernfeld 9/Cisco.md",
+    "Lernfeld 9/Switch.md",
     "Lernfeld 9/Switching.md",
     "test.bat",
     "Neues Textdokument.txt",
     "AutoSave.bat",
-    "Lernfeld 9/Ethernet Frame.md",
     "Lernfeld 9/Bilder/switch_logik.png",
-    "Lernfeld 9/DNS.md",
-    "Lernfeld 9/DHCP.md",
-    "Lernfeld 9/Cisco Config CheatSheet.md",
-    "Lernfeld 9/Cisco.md",
     "Sozialkunde/Externe Sourcen/82316_sowirp_lb1_besitz_eigentum_arbeitsblatt.pdf",
     "Sozialkunde/Themen der Klassenarbeit 11.12.2023.md",
     "Sozialkunde/Sozialkunde.md",
@@ -179,7 +181,6 @@
     "Protokolle/Protokolle.md",
     "Protokolle/Grunddateneinheiten.md",
     "Protokolle",
-    "Lernfeld 9/Bilder/modi_uebersicht_router.png",
     "Lernfeld 9/Bilder",
     "[[DNS.md",
     "Lernfeld 9/Test.md",
