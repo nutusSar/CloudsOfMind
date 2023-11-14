@@ -1,3 +1,4 @@
+#Layer2
 ## Frame 
 Die normale Größe eines Frames beträgt 1500 Byte
 Die minimale Größe eines Frames beträgt 64 Byte. Frames die kleiner als die minimale Größe sind, heißen Runt-Frames.
