@@ -1,0 +1,25 @@
+.callout[data-callout="ascii"] {
+    font-family: monospace;
+    white-space: break-spaces;
+    
+}
+
+.HyperMD-quote{
+    font-family: monospace;
+}
+
+.callout[data-callout="ascii"] br{
+    display: none;
+}
+
+div[data-callout-metadata*="center"]{
+    text-align: center;
+}
+
+.theme-light .callout[data-callout="ascii"] {
+    --callout-color: 0, 0, 0;
+}
+
+.theme-dark .callout[data-callout="ascii"] {
+    --callout-color: 255, 255, 255;
+}

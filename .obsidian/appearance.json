@@ -1,3 +1,13 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "baseFontSize": 19,
+  "enabledCssSnippets": [
+    "MCL Gallery Cards",
+    "MCL Multi Column",
+    "MCL Wide Views",
+    "Monospace",
+    "MyCallouts"
+  ],
+  "cssTheme": "Obsidianite",
+  "theme": "obsidian"
 }
