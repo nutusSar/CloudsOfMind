@@ -2,11 +2,11 @@
 ### Nötige Kenntnisse
 + - [ ] Nutzen und stets Anwenden der betriebseigenen Regelungen zur IT-Sicherheit und für den Datenschutz
 + - [ ] Anwenden des organisatorischen Prozesses zur Gewährleistung der IT-Sicherheit und des Datenschutzes (IT-Sicherheitsmanagement)
-### Schutzziele
-+ - [ ] Vertraulichkeit
-+ - [ ] Integrität
-+ - [ ] Authentizität
-+ - [ ] Verfügbarkeit
+### [[Schutzziele]]
++ - [x] Vertraulichkeit
++ - [x] Integrität
++ - [x] Authentizität
++ - [x] Verfügbarkeit
 ### Maßnahmen zur Informationssicherheit
 + - [ ] Organisatorische Maßnahmen z.B. IT-Sicherheitsbeauftragter im Betrieb, Erstellung einer IT-Sicherheitsrichtlinie, z.B. Passwort-Policy
 + - [ ] Technische Maßnahmen z.B. Virenschutzsystem, Firewall, Anti-Spam
@@ -25,7 +25,7 @@
 + - [ ] Räume
 + - [ ] Kommunikationsverbindungen
 ### Anwenden von Evaluierungstechniken zur IT-Sicherheit (IT-Grundschutz-Handbuch)
-+ - [ ] Erledigt
++ - [ ] Anwenden von Evaluierungstechniken zur IT-Sicherheit (IT-Grundschutz-Handbuch)
 ### Schutzbedarfskategorien (normal, hoch, sehr hoch)
 + - [ ] Erreichen eines mittleren, angemessenen und ausreichenden Schutzniveaus für IT-Systeme durch technische Sicherheitsmaßnahmen und infrastrukturelle, organisatorische und personelle Schutzmaßnahmen
 ### IT-Sicherheitsmanagementsystem implementieren 

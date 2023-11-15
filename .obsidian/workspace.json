@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/IT-Sicherheit/Schutzziele.md",
+                "file": "AP1/IT-Sicherheit/Informationssicherheit.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/IT-Sicherheit/Schutzziele.md",
+                "file": "AP1/IT-Sicherheit/Informationssicherheit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/IT-Sicherheit/Schutzziele.md",
+                "file": "AP1/IT-Sicherheit/Informationssicherheit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/IT-Sicherheit/Schutzziele.md"
+                "file": "AP1/IT-Sicherheit/Informationssicherheit.md"
               }
             }
           },
@@ -170,9 +170,10 @@
   },
   "active": "fc53c546452dec10",
   "lastOpenFiles": [
-    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
+    "AP1/IT-Sicherheit/Kryptographie.md",
     "AP1/IT-Sicherheit/Schutzziele.md",
     "AP1/IT-Sicherheit/Informationssicherheit.md",
+    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
     "AP1/IT-Sicherheit",
     "Lernfeld 9/Switching.md",
     "Lernfeld 9/Switch.md",
@@ -205,7 +206,6 @@
     "Lernfeld 9/Kollisionsdomäne (Collision Domain CD).md",
     "EthernetFrame.md",
     "Frame.md",
-    "Ethernet.md",
     "Sozialkunde/Externe Sourcen/82316_sowirp_lb1_besitz_eigentum_arbeitsblatt.pdf",
     "Sozialkunde/Externe Sourcen",
     "Untitled.canvas"
