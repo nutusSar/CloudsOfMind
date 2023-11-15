@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/IT-Sicherheit/Informationssicherheit.md",
-                "mode": "source",
-                "source": false
+                "file": "AP1/IT-Sicherheit/Schutzziele.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/IT-Sicherheit/Informationssicherheit.md",
+                "file": "AP1/IT-Sicherheit/Schutzziele.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/IT-Sicherheit/Informationssicherheit.md",
+                "file": "AP1/IT-Sicherheit/Schutzziele.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/IT-Sicherheit/Informationssicherheit.md"
+                "file": "AP1/IT-Sicherheit/Schutzziele.md"
               }
             }
           },
@@ -158,11 +158,11 @@
   "active": "f911d04d8b14a302",
   "lastOpenFiles": [
     "AP1/IT-Sicherheit/Kryptographie.md",
+    "AP1/IT-Sicherheit/Informationssicherheit.md",
+    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
     "AP1/IT-Sicherheit/Schutzziele.md",
     "Lernfeld 9/Switch.md",
-    "AP1/IT-Sicherheit/Informationssicherheit.md",
     "AP1/IT-Sicherheit",
-    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
     "AP1",
     "Lernfeld 9/Ethernet Frame.md",
     "Lernfeld 9/DNS.md",

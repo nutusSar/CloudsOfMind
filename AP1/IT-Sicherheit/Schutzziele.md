@@ -7,31 +7,55 @@ CIA steht für:
 + Confidentiality (Vertraulichkeit)
 + Integrity (Integrität)
 + Availability (Verfügbarkeit)
-Dabei handelt es sich um die drei wichtigsten Schutzziele
+
+Dabei handelt es sich um die drei wichtigsten Schutzziele.
 
 ### Vertraulichkeit 
 > [!Quote] Definition des BSI:
->Vertraulichkeit ist der Schutz vor unbefugter Preisgabe von Informationen. Vertrauliche Daten dürfen ausschließlich Befugten in der zulässigen Weise zugänglich sein
+>Vertraulichkeit ist der Schutz vor unbefugter Preisgabe von Informationen. Vertrauliche Daten dürfen ausschließlich Befugten in der zulässigen Weise zugänglich sein.
+
+**Vertraulichkeit ist der Schutz von Informationen vor dem Zugriff unbefugter Dritter.**
 
 Ein Verstoß gegen die Vertraulichkeit wäre z.B., wenn ausgefüllte Formulare von Kunden offen auf einem Schreibtisch rumliegen und somit einsehbar für jeden sind, der am Schreibtisch vorbeigeht.
 
 Es muss also klar definiert werden, wer auf welche Art und Weise berechtigt ist, auf Daten zuzugreifen.
 
+**Maßnahmen zum Schutz der Vertraulichkeit:**
++ Verschlüsselung von Daten
++ Zugangssteuerung
++ Physische Sicherheit und Umgebungssicherheit
++ Betriebssicherheit
++ Kommunikationssicherheit
+
 ### Integrität
 > [!Quote] Definition des BSI:
 > Integrität bezeichnet die Sicherstellung der Korrektheit (Unversehrtheit) von Daten und der korrekten Funktionsweise von Systemen. Wenn der Begriff Integrität auf "Daten" angewendet wird, drückt er aus, dass die Daten vollständig und unverändert sind. In der Informationstechnik wird er in der Regel aber weiter gefasst und auf "Informationen" angewendet. Der Begriff "Informationen" wird dabei für "Daten" verwendet, denen je nach Zusammenhang bestimmte Attribute wie z.B. Autor oder Zeitpunkt der Erstellung zugeordnet werden können. Der Verlust der Integrität von Informationen kann daher bedeuten, dass diese unerlaubt verändert, Angaben zum Autor verfälscht oder Zeitangaben zur Erstellung manipuliert wurden.
 
-Integritätsverlust tritt bei unautorisierten Ändern, Löschen oder Einfügen von Daten ein. Dies kann bewusst durch Menschen aber auch unbewusst durch Fehlerhafte Prozesse passieren. 
+**Mit Integrität ist der Schutz vor unbemerkten Veränderungen gemeint. Dabei ist es egal ob es durch einen Menschen oder ein fehlerhaftes System oder einen fehlerhaften Prozess passiert**
 
-Zur Gewährleistung der Integrität muss also entweder, das Ändern von Daten erkennbar oder gänzlich ausgeschlossen sein.
+Integritätsverlust tritt bei unautorisierten Ändern, Löschen oder Einfügen von Daten ein. Dies kann bewusst durch Menschen, aber auch unbewusst durch Fehlerhafte Prozesse passieren. 
+
+Zur Gewährleistung der Integrität muss also entweder das Ändern von Daten erkennbar oder gänzlich ausgeschlossen sein.
+
+**Maßnahmen zum Schutz der Integrität:**
++ Zugangssteuerung
++ Management der Werte+
++ Anschaffung, Entwicklung und Instandhaltung von Systemen
++ Dokumentation von Veränderungen
 
 ### Verfügbarkeit
 > [!Quote] Definition des BSI:
 > Die Verfügbarkeit von Dienstleistungen, Funktionen eines IT-Systems, IT-Anwendungen oder IT-Netzen oder auch von Informationen ist vorhanden, wenn diese von den Anwendern stets wie vorgesehen genutzt werden können.
 
+**Das Schutzziel Verfügbarkeit behandelt den Aufbau einer technologischen Infrastruktur, die Daten und Informationen verfügbar macht.**
+
 Verfügbarkeit bedeutet nicht, dass Systeme oder Informationen permanent zugänglich sein müssen, sondern in festgelegten Zeiträumen. So muss eine Gehaltsabrechnung z.B. nur einige Monate verfügbar sein, während Patientendaten im Krankenhaus über mehrere Jahre. 
 
-Eine Maßnahme wäre z.B. eine Risikoanalyse, welche Ausfallwahrscheinlichkeiten, Schadenspotential und Ausfallszeiten bewwertet.
+**Maßnahmen zum Schutz der Integrität:**
++ Risikoanalyse
++ Anschaffung, Entwicklung und Instandhalten von Systemen
++ Management von Informationssicherheitsvorfällen
++ Betriebliches Kontinuitätsmanagement
 
 ## Erweiterte Schutzziele
 Neben den primären (CIA-Schutzziele) gibt es die Erweiterten Schutzziele. Zu diesen Zählen:
