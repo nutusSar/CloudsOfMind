@@ -7,7 +7,7 @@
 + - [x] Integrität
 + - [x] Authentizität
 + - [x] Verfügbarkeit
-### Maßnahmen zur Informationssicherheit
+### [Maßnahmen zur Informationssicherheit](Informationssicherheit)
 + - [ ] Organisatorische Maßnahmen z.B. IT-Sicherheitsbeauftragter im Betrieb, Erstellung einer IT-Sicherheitsrichtlinie, z.B. Passwort-Policy
 + - [ ] Technische Maßnahmen z.B. Virenschutzsystem, Firewall, Anti-Spam
 + - [ ] Personelle Maßnahmen, Sicherheitsbewusstsein herstellen
@@ -63,7 +63,7 @@
 + - [ ] Spam, Phishing, Sniffing, Spoofing, Man-in-the-Middle
 + - [ ] SQL-Injection, XSS, CSRF, Session Hijacking, DoS, DDoS
 + - [ ] Backdoor, Exploit, 0-Day-Exploit, Rootkit
-### Kryptographie
+### [[Kryptographie]]
 + - [ ] Verschlüsselungstechniken, symmetrische, asymmetrische Verschlüsselung
 + - [ ] Hashverfahren
 + - [ ] CAs, Zertifikate, Digitale Signaturen, PKI

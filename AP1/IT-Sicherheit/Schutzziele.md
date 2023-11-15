@@ -60,7 +60,7 @@ Verfügbarkeit bedeutet nicht, dass Systeme oder Informationen permanent zugäng
 ## Erweiterte Schutzziele
 Neben den primären (CIA-Schutzziele) gibt es die Erweiterten Schutzziele. Zu diesen Zählen:
 + Authentizität
-+ Nichtabstreitbarkeit
++ Nichtabstreitbarkeit / Zurechenbarkeit 
 + Verbindlichkeit
 + Zuverlässigkeit
 
@@ -68,17 +68,30 @@ Neben den primären (CIA-Schutzziele) gibt es die Erweiterten Schutzziele. Zu di
 > [!Quote] Definition des BSI:
 > Mit dem Begriff Authentizität wird die Eigenschaft bezeichnet, die gewährleistet, dass ein Kommunikationspartner tatsächlich derjenige ist, der er vorgibt zu sein. Bei authentischen Informationen ist sichergestellt, dass die von der angegebenen Quelle erstellt wurden. Der Begriff wird nicht nur verwendet, wenn die Identität von Personen geprüft wird, sondern auch bei IT-Komponenten oder Anwendungen
 
+**Unter Authentizität versteht man die Überprüfung  der Echtheit von Informationen**
+
 Bei der Gewährleistung der Authentizität ist es möglich, die Vertrauenswürdigkeit  des Ursprungs einer Information zu überprüfen.
 
-### Nichtabstreitbarkeit
+### Nichtabstreitbarkeit / Zurechenbarkeit 
 > [!Quote] Definition des BSI:
 > Bei der Nichtabstreitbarkeit liegt der Schwerpunkt auf der Nachweisbarkeit gegenüber Dritten. Ziel ist es zu gewährleisten, dass der Versand und Empfang von Daten und Informationen nicht in Abrede gestellt werden kann. Es wird unterschieden zwischen:
 > + Nichtabstreitbarkeit der Herkunft: Es soll einem Absender einer Nachricht unmöglich sein, das Absenden einer bestimmten Nachricht nachträglich zu bestreiten.
 > + Nichtabstreitbarkeit des Erhalts: Es soll einem Empfänger einer Nachricht unmöglich sein, den Enthalt einer gesendeten Nachricht nachträglich zu bestreiten.
 
+**Unter Zurechenbarkeit versteht man, dass es möglich ist, eine Handlung der Person, die die Handlung ausgeführt hat, eindeutig zuordnen zu können**
+
+**Maßnahmen zum Schutz der Zurechenbarkeit:**
++ Passwörter
++ Identitätsmanagement 
+
 ### Verbindlichkeit
 > [!Quote] Definition des BSI:
 > Unter Verbindlichkeit werden die Schutzziele Authentizität und Nichtabstreitbarkeit zusammengefasst. Bei der Übertragung von Informationen bedeutet dies, dass die Informationsquelle ihre Identität bewiesen hat und der Empfang der Nachricht nicht in Abrede gestellt werden kann.
+
+**Es darf nicht möglich sein ausgeführte Handlungen abzustreiten.**
+
+**Maßnahmen zum Schutz der Verbindlichkeit:**
++ Dokumentation von Änderungen in Kombination mit Identitätsmanagement 
 
 ### Zuverlässigkeit
 > [!Quote] Definition des BSI:

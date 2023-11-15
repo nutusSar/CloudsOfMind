@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "96f434bcd3cc81f5",
+        "id": "2476ffd81bc9759e",
         "type": "tabs",
         "children": [
           {
-            "id": "f911d04d8b14a302",
+            "id": "e6adb667b7c74495",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/IT-Sicherheit/Schutzziele.md",
-                "mode": "preview",
-                "source": true
+                "file": "AP1/IT-Sicherheit/Kryptographie.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/IT-Sicherheit/Schutzziele.md",
+                "file": "AP1/IT-Sicherheit/Kryptographie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/IT-Sicherheit/Schutzziele.md",
+                "file": "AP1/IT-Sicherheit/Kryptographie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/IT-Sicherheit/Schutzziele.md"
+                "file": "AP1/IT-Sicherheit/Kryptographie.md"
               }
             }
           },
@@ -155,12 +155,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f911d04d8b14a302",
+  "active": "e6adb667b7c74495",
   "lastOpenFiles": [
-    "AP1/IT-Sicherheit/Kryptographie.md",
     "AP1/IT-Sicherheit/Informationssicherheit.md",
-    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
+    "AP1/IT-Sicherheit/Kryptographie.md",
     "AP1/IT-Sicherheit/Schutzziele.md",
+    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
     "Lernfeld 9/Switch.md",
     "AP1/IT-Sicherheit",
     "AP1",
