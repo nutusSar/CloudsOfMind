@@ -28,4 +28,36 @@
 + - [ ] Erledigt
 ### Schutzbedarfskategorien (normal, hoch, sehr hoch)
 + - [ ] Erreichen eines mittleren, angemessenen und ausreichenden Schutzniveaus für IT-Systeme durch technische Sicherheitsmaßnahmen und infrastrukturelle, organisatorische und personelle Schutzmaßnahmen
-### IT-Sicherheitsmana
+### IT-Sicherheitsmanagementsystem implementieren 
++ - [ ] Betrieblicher IT-Sicherheitsbeauftragter
++ - [ ] Schaffung eines Sicherheitsbewusstseins bei den Mitarbeitern
++ - [ ] Durch technische, infrastrukturelle, organisatorische und personelle Schutzmaßnahmen
++ - [ ] Verhindern oder Abwehr von Gefahren für die Informationssicherheit oder Bedrohungen des Datenschutzes z.B. durch Etablierung eines IT-Sicherheitsmanagements (ISMS) unter Verwendung von Standards wie IT-Grundschutz, ISO/IEC 27001
+### Security by 
++ - [ ] Design
++ - [ ] Default
+### Datensicherung/Backup-Verfahren
++ - [ ] Wie erkennt die Software, welche Daten zu sichern sind?
++ - [ ] Inkrementelles, differenzielles und Vollbackup
++ - [ ] Generationsprinzip bzw. Großvater/Vater/Sohn 
++ - [ ] Medien nennen und erläutern
+	+ - [ ] Kriterien bei der Auswahl von Backupmedien: Lebensdauer, Zugriffgeschwindigkeit, Kosten, Störanfälligkeit, Kapazität
++ - [ ] Hold/Cold Backup
++ - [ ] Was sind sicherungswürdige Daten?
++ - [ ] Mögliche Gründe für Datenverluste auf Servern erläutern und Gegenmaßnahmen vorschlagen
++ - [ ] Folgen von Datenverlust, Auswirkungen von Datenverlust für das Unternehmen erläutern
++ - [ ] Maßnahmen der Mitarbeiter zur Vermeidung von Datenverlust erläutern
+### Verschrottung von Datenträgern
++ - [ ] Verschrottung von Datenträgern
+### Sicherung der Verfügbarkeit
++ - [ ] RAID-Systeme
+	+ - [ ] Raid 0, 1, 5, 6, 01, 10 JBOD erklären
+	+ - [ ] Nested RAID Levels
++ - [ ] SAN
+### Zugangs- und Zugriffskontrolle
++ - [ ] Zugangs- und Zugriffskontrolle
+### Grundbegriffe 
++ - [ ] Schadprogramme: Vieren, Würmer, Rootkits, Botnetze, Trojaner, Maleware, Ransomware, Spyware, Adware, Scareware, Hoax, Dialer (veraltet), Keylogger
+	+ - [ ] Verbreitung von Viren/Würmer/Trojaner erläutern
++ Hacker (White / Black Hat), Cracker, Script-Kiddies 
++ - [ ] Spam, Phishing, Sniffing, 

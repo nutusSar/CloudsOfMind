@@ -15,7 +15,7 @@
               "state": {
                 "file": "AP1/Inhalte IT-Sicherheit.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -157,8 +157,8 @@
   },
   "active": "bf938b45b219ef06",
   "lastOpenFiles": [
-    "Lernfeld 9/Switching.md",
     "AP1/Inhalte IT-Sicherheit.md",
+    "Lernfeld 9/Switching.md",
     "Lernfeld 9/Switch.md",
     "AP1",
     "Lernfeld 9/Ethernet Frame.md",
