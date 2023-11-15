@@ -1,4 +1,4 @@
-## Themen
+## IT-Sicherheit
 ### Nötige Kenntnisse
 + - [ ] Nutzen und stets Anwenden der betriebseigenen Regelungen zur IT-Sicherheit und für den Datenschutz
 + - [ ] Anwenden des organisatorischen Prozesses zur Gewährleistung der IT-Sicherheit und des Datenschutzes (IT-Sicherheitsmanagement)
@@ -90,3 +90,17 @@
 ### Authentifizierung vs. Autorisierung
 + - [ ] MFA
 + - [ ] Passwort-Policy
+## Datenschutz
+### Datenschutzgesetz- national und auf EU-Ebene z.B. DSVGO, BDSG
++ - [ ] Definition von personenbezogenen Daten
++ - [ ] Maßnahmen des Datenschutzes: Datensparsamkeit, Zweckbindung usw.
++ - [ ] Betroffenenrechte: Auskunftsrecht, Recht auf Lösungen etc.
+### Grundsätze des Datenschutzes
++ - [ ] Gesetzmäßigkeit (Erfordernis der gesetzlichen Grundlage)
++ - [ ] Verhältnismäßigkeit (Datensparsamkeit und Datenvermeidung (§3a BDSG))
++ - [ ] Zweckbindung
++ - [ ] Richtigkeit/Integrität
++ - [ ] Transparenz gegenüber der betroffenen Personen
++ - [ ] Informationssicherheit
+### Persönlichkeitsrechte
++ - [ ] Recht am eigenen Bild
