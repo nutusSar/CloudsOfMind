@@ -27,7 +27,7 @@
               "state": {
                 "file": "AP1/IT-Sicherheit/Schutzziele.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -170,9 +170,9 @@
   },
   "active": "fc53c546452dec10",
   "lastOpenFiles": [
-    "AP1/IT-Sicherheit/Informationssicherheit.md",
-    "AP1/IT-Sicherheit/Schutzziele.md",
     "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
+    "AP1/IT-Sicherheit/Schutzziele.md",
+    "AP1/IT-Sicherheit/Informationssicherheit.md",
     "AP1/IT-Sicherheit",
     "Lernfeld 9/Switching.md",
     "Lernfeld 9/Switch.md",
