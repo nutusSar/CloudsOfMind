@@ -4,6 +4,9 @@ Das Ziel der Informationssicherheit ist es, Informationen von beliebiger Art und
 
 ## Maßnahmen 
 ### Organisatorische
++ Eine Firme muss ihre Informationswerte und Geschäftsprozesse kennen => Risikoanalyse
++ Minimalprinzip, jeder Mitarbeiter sollte nur die nötigsten Informationen haben um seine Aufgaben zu erfüllen 
 ### Technische 
 ### Personelle
-
++ Schulungen und Sensibilisierung der Mitarbeiter, dass Informationssicherheit nicht nur ein technisches Thema ist.
++ 

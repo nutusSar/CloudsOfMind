@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c670fe1cf3b098be",
+        "id": "96f434bcd3cc81f5",
         "type": "tabs",
         "children": [
           {
-            "id": "bf938b45b219ef06",
+            "id": "f911d04d8b14a302",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "5c2cbcb20a05d1a3",
@@ -86,7 +86,7 @@
               "type": "backlink",
               "state": {
                 "file": "AP1/IT-Sicherheit/Informationssicherheit.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -104,7 +104,7 @@
               "state": {
                 "file": "AP1/IT-Sicherheit/Informationssicherheit.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,46 +155,42 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "bf938b45b219ef06",
+  "active": "f911d04d8b14a302",
   "lastOpenFiles": [
-    "AP1/IT-Sicherheit/Schutzziele.md",
-    "AP1/IT-Sicherheit/Informationssicherheit.md",
-    "Lernfeld 9/Ethernet Frame.md",
-    "Protokolle/Grunddateneinheiten.md",
-    "Lernfeld 9/Switch.md",
-    "Lernfeld 9/Switching.md",
-    "Lernfeld 9/DNS.md",
-    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
     "AP1/IT-Sicherheit/Kryptographie.md",
+    "AP1/IT-Sicherheit/Schutzziele.md",
+    "Lernfeld 9/Switch.md",
+    "AP1/IT-Sicherheit/Informationssicherheit.md",
     "AP1/IT-Sicherheit",
+    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
     "AP1",
+    "Lernfeld 9/Ethernet Frame.md",
+    "Lernfeld 9/DNS.md",
     "Lernfeld 9/DHCP.md",
-    "DevelopingExtras/ASCii.md",
     "Lernfeld 9/Cisco Config CheatSheet.md",
-    "Sozialkunde/Themen der Klassenarbeit 11.12.2023.md",
-    "TestFolder/Test.md",
-    "Sozialkunde/Berufsbildungsgesetz.md",
-    "Sozialkunde/Sozialkunde.md",
-    "Git.bat",
-    "AutoSave.bat",
-    "test.txt",
-    "Neues Textdokument.txt",
-    "Lernfeld 9/Cisco.md",
-    "Protokolle/TCP.md",
-    "Protokolle/UDP.md",
-    "Protokolle/Protokolle.md",
-    "00 ```═```.md",
-    "DevelopingExtras",
-    "TestFolder",
-    "test html.md",
-    "Lernfeld 9/Bilder/switch_logik.png",
     "Lernfeld 9/Bilder/modi_uebersicht_router.png",
-    "Sozialkunde/Besitz und Eigentum.md",
-    "Lernfeld 9/Kollisionsdomäne (Collision Domain CD).md",
-    "EthernetFrame.md",
-    "Frame.md",
+    "Lernfeld 9/Cisco.md",
+    "Lernfeld 9/Switching.md",
+    "test.bat",
+    "Neues Textdokument.txt",
+    "AutoSave.bat",
+    "Lernfeld 9/Bilder/switch_logik.png",
     "Sozialkunde/Externe Sourcen/82316_sowirp_lb1_besitz_eigentum_arbeitsblatt.pdf",
+    "Sozialkunde/Themen der Klassenarbeit 11.12.2023.md",
+    "Sozialkunde/Sozialkunde.md",
     "Sozialkunde/Externe Sourcen",
-    "Untitled.canvas"
+    "Sozialkunde/Besitz und Eigentum.md",
+    "Sozialkunde/Berufsbildungsgesetz.md",
+    "Sozialkunde",
+    "Protokolle/UDP.md",
+    "Protokolle/TCP.md",
+    "Protokolle/Protokolle.md",
+    "Protokolle/Grunddateneinheiten.md",
+    "Protokolle",
+    "Lernfeld 9/Bilder",
+    "[[DNS.md",
+    "Lernfeld 9/Test.md",
+    "Untitled.canvas",
+    "2023-10-02.md"
   ]
 }
