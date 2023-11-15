@@ -60,4 +60,33 @@
 + - [ ] Schadprogramme: Vieren, Würmer, Rootkits, Botnetze, Trojaner, Maleware, Ransomware, Spyware, Adware, Scareware, Hoax, Dialer (veraltet), Keylogger
 	+ - [ ] Verbreitung von Viren/Würmer/Trojaner erläutern
 + Hacker (White / Black Hat), Cracker, Script-Kiddies 
-+ - [ ] Spam, Phishing, Sniffing, 
++ - [ ] Spam, Phishing, Sniffing, Spoofing, Man-in-the-Middle
++ - [ ] SQL-Injection, XSS, CSRF, Session Hijacking, DoS, DDoS
++ - [ ] Backdoor, Exploit, 0-Day-Exploit, Rootkit
+### Kryptographie
++ - [ ] Verschlüsselungstechniken, symmetrische, asymmetrische Verschlüsselung
++ - [ ] Hashverfahren
++ - [ ] CAs, Zertifikate, Digitale Signaturen, PKI
++ - [ ] Techniken wie HTTPS, TLS
+### SSH vs. Telnet
++ - [ ] SSH vs. Telnet
+### WLAN
++ - [ ] SSID, MAC-Filter, WPS, WI-FI, Easy Connect
++ - [ ] Sicherheitsmethoden: WEP, WPA, 1/2/3 (PSK, Enterprise), RADIUS
++ - [ ] Verschlüsselungsstandards: AES, TKIP, SAE
+### Endpoint-Security
++ - [ ] Virenscanner
++ - [ ] Firewall
++ - [ ] Application Control 
++ - [ ] Datenträgerverschlüsselung
+### Arten und Funktionsweise von Firewalls
++ - [ ] Packet Filter
++ - [ ] Stateful Packet Inspection
++ - [ ] Application Firewall
++ - [ ] WAF
+### Sinn und Aufbau einer DMZ
++ - [ ] DMZ
++ - [ ] Port Forwarding erklären
+### Authentifizierung vs. Autorisierung
++ - [ ] MFA
++ - [ ] Passwort-Policy
