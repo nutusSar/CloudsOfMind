@@ -1,4 +1,13 @@
-#Informationssicherheit #Schutzziele #IT-Sicherheit #AP1 
+---
+title:
+  - Kryptographie
+tags:
+  - Informationssicherheit
+  - Schutzziele
+  - IT-Sicherheit
+  - AP1
+topic: IT-Sicherheit
+---
 ## Bedeutung
 Der Begriff Kryptographie stammt von den beiden altgriechischen Wörtern "kryptos" (geheim) und "graphien" (schreiben) zusammen.
 Ursprünglich war diese die Wissenschaft der Verschlüsselung, jedoch befasst sie sich heute mehr mit der [[Informationssicherheit]] und deren [[Schutzziele]].
