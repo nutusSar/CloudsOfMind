@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -152,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -172,17 +171,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eb9699aac87f96df",
+  "active": "aed0115657475101",
   "lastOpenFiles": [
+    "AP1/IT-Sicherheit/Verschlüsselung.md",
+    "AP1/IT-Sicherheit/Kryptographie.md",
     "AP1/Alle AP1 Notes.md",
     "AP1/IT-Sicherheit/Caesar-Verschlüsselung.md",
     "AP1/IT-Sicherheit/AES.md",
-    "AP1/IT-Sicherheit/Verschlüsselung.md",
     "templates/IT-Sicherheit.md",
     "AP1/IT-Sicherheit/Schutzziele.md",
     "AP1/IT-Sicherheit/HTTPS & TLS.md",
     "AP1/IT-Sicherheit/Digitale Signaturen & Zertifikate.md",
-    "AP1/IT-Sicherheit/Kryptographie.md",
     "templates/Dataview.md",
     "AP1/IT-Sicherheit/Informationssicherheit.md",
     "AP1/IT-Sicherheit/Hashverfahren.md",
