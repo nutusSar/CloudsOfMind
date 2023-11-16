@@ -1,4 +1,8 @@
 #IT-Sicherheit #Informationssicherheit #Kryptographie #AP1
+
+name:: Verschlüsselung
+oberthema:: IT-Sicherheit
+
 ## Bedeutung
 Unter Verschlüsselung versteht man das Umwandeln eines Textes, dem sogenannten Klartext in einen Geheimtext. Für dies Umwandlung verwändet man einen Schlüssel. Dabei ist es wichtig, dass man den Geheimtext auch wieder in den Klartext zurück wandeln kann.
 Verschlüsselung hat als Ziel die [Vertraulichkeit](Schutzziele) einer Nachricht zu bewahren.

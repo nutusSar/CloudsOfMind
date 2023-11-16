@@ -104,3 +104,4 @@
 + - [ ] Informationssicherheit
 ### Persönlichkeitsrechte
 + - [ ] Recht am eigenen Bild
+
