@@ -1,4 +1,4 @@
-#IT-Sicherheit #Informationssicherheit
+#IT-Sicherheit #Informationssicherheit #AP1 
 ## Bedeutung
 Schutzziele sind Ziele / Anforderungen an ein System, die erfüllt sein müssen, damit Güter geschützt sind. Es kann vorkommen, dass sich Schutzziele gegenseitig widersprechen und somit nicht alle geleichermaßen erfüllt sein können.
 
