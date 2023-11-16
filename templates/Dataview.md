@@ -1,24 +1,27 @@
+
+
+
 <%*
-const dv = this.DataviewAPI
-const escapePipe = s => new String(s).replace(/\|/, '\\|') // required for links in Markdown table
-/*
-  You may want to collect your utilities in a central Javascript module below
-  the Obsidian vault, e.g. in a file lib/utils.js.
-  The file can be included via
-    const { escapePipe } = require(app.vault.adapter.basePath + "/lib/utils.js")
-*/
+const dv = app.plugins.plugins["dataview"].api;
+const filename = "Alle AP1 Notes";
+const query = `table topic as Topic, file.tags as Tags
+from "AP1"
+where contains(file.tags, "AP1")
+sort choice(file.name = "Alle AP1 Notes", 1, "other"), file.name ASC`;
+
+const tFile = tp.file.find_tfile(filename);
+const queryOutput = await dv.queryMarkdown(query);
+const metadata = `---
+tags:
+  - AP1
+  - Übersicht 
+topic: Übersicht
+---`
+const filecontent = metadata + queryOutput.value
+// write query output to file
+await app.vault.modify(tFile, filecontent);
 %>
 
-| Project | Tasks |
-| ------- | ----- |
-<%
-// Note that dv.table() cannot be used as it creates HTML but we want Markdown.
-dv.pages("!#template")
-  .where(p => p.doctype == 'project') // a custom attribute, specified like "doctype:: project"
-  .map(p => {
-    let project = escapePipe(dv.fileLink(p.file.path))
-    let tasklist = p.file.tasks.map(t => `${t.text} ${escapePipe(t.link)}`).join('<br>')
-    return `|${project}|${tasklist}|`
-  })
-  .join("\n")
-%>
+
+
+
