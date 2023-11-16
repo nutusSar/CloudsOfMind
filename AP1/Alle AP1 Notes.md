@@ -6,7 +6,7 @@ topic: Übersicht
 ---
 
 ```dataview
-table file.name as Name, topic as Topic, title
+table topic as Topic
 from "AP1"
 where contains(file.tags, "AP1")
 sort file.name ASC
