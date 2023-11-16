@@ -8,6 +8,24 @@
         "type": "tabs",
         "children": [
           {
+            "id": "b7407438c2033bc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Dataview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c1f440526c8d5b47",
+        "type": "tabs",
+        "children": [
+          {
             "id": "f2a8c98b10617bed",
             "type": "leaf",
             "state": {
@@ -18,41 +36,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "48af12f01eb58b8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP1/Alle AP1 Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92b0295f420008b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Dataview.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b7407438c2033bc6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,13 +176,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "92b0295f420008b1",
+  "active": "b7407438c2033bc6",
   "lastOpenFiles": [
     "AP1/Alle AP1 Notes.md",
     "templates/Dataview.md",
+    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
     "templates/IT-Sicherheit.md",
     "AP1/IT-Sicherheit/Verschlüsselung.md",
-    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
     "AP1/IT-Sicherheit/AES.md",
     "AP1/IT-Sicherheit/Testfile.md",
     "AP1/IT-Sicherheit/Testfile 2.md",
