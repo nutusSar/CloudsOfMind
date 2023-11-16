@@ -13,14 +13,20 @@ AES steht für Advanced Encryption Standard und wurde von Joan Daemen und Vincen
 Die Blockgröße beträgt 128 Bit während die Schlüssellänge zwischen 128, 192 oder 256 Bit variieren kann. Man spricht dann auch von AES-128, AES-192 oder AES-256.
 
 ## Anwendung 
-AES findet in den Verschiedensten Bereichen Anwendung
+AES findet in den Verschiedensten Bereichen Anwendung, da es der heutige symmetrische Verschlüsselungsstandard ist. Dieses verfahren wird mittlerweile durch Prozessoren unterstützt. So haben Prozessoren erweiterte Befehlssätze für AES.
+Zu diesen Bereichen zählen z.B.
++ WLan (IEEE 802.11i)
++ WPA2
++ SSH
++ IPSec
++ ...
 
 ## Ablauf
 
 ### Anzahl der Runden
 
 | Schlüsselgröße: | 128 | 192 | 256 |
-| :--: | :--: | :--: | :--: | 
+| -- | -- | -- | -- | 
 | Anzahl Runden R: | 10 | 12 | 14 |
 
 ### PAP
