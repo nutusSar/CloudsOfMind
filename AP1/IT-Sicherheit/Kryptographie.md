@@ -1,9 +1,9 @@
 ---
 tags:
-  - Informationssicherheit
-  - Schutzziele
-  - IT-Sicherheit
-  - AP1
+  - "#Informationssicherheit"
+  - "#Schutzziele"
+  - "#IT-Sicherheit"
+  - "#AP1"
 topic: IT-Sicherheit
 ---
 ## Bedeutung

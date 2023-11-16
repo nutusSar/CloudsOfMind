@@ -1,9 +1,9 @@
 ---
 tags:
-  - AP1
-  - IT-Sicherheit
-  - Informationssicherheit
-  - Kryptographie
+  - "#AP1"
+  - "#IT-Sicherheit"
+  - "#Informationssicherheit"
+  - "#Kryptographie"
 topic: IT-Sicherheit
 ---
 ## Bedeutung

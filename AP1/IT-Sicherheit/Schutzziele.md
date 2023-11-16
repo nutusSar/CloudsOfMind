@@ -1,8 +1,8 @@
 ---
 tags:
-  - IT-Sicherheit
-  - Informationssicherheit
-  - AP1
+  - "#IT-Sicherheit"
+  - "#Informationssicherheit"
+  - "#AP1"
 topic: IT-Sicherheit
 ---
 ## Bedeutung
