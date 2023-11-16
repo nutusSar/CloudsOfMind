@@ -4,15 +4,17 @@
       "id": "29cdfcae-bde5-46f8-b070-83f22724776d",
       "name": "IT-Sicherheit",
       "type": "Template",
-      "command": false,
-      "templatePath": "",
+      "command": true,
+      "templatePath": "templates/IT-Sicherheit.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
       },
       "folder": {
-        "enabled": false,
-        "folders": [],
+        "enabled": true,
+        "folders": [
+          "AP1/IT-Sicherheit"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false

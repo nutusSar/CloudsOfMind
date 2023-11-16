@@ -1,6 +1,4 @@
 ---
-title:
-  - Verschlüsselung
 tags:
   - AP1
   - IT-Sicherheit
@@ -28,7 +26,7 @@ Die Symmetrische Verschlüsselung benutzt den gleichen Schlüssel für die Versc
 
 ## Asymmetrische Verschlüsselung
 ### Definition
-Bei der asymmetrischen Verschlüsselung werden zwei Schlüssel generiert. Der erste Schlüssel ist der öffentliche Schlüssel, welcher ohne preisgegeben werden darf. Er dient zur Verschlüsselung einer Nachricht Der zweite Schlüssel ist der private Schlüssel, welcher nur der Person bekannt ist, für die die Nachricht bestimmt ist. Dieser wird zum Entschlüsseln der Nachricht verwendet.
+Bei der asymmetrischen Verschlüsselung werden zwei Schlüssel generiert. Der erste Schlüssel ist der öffentliche Schlüssel, welcher ohne bedenken preisgegeben werden darf. Er dient zur Verschlüsselung einer Nachricht Der zweite Schlüssel ist der private Schlüssel, welcher nur der Person bekannt ist, für die die Nachricht bestimmt ist. Dieser wird zum Entschlüsseln der Nachricht verwendet.
 
 Die Asymmetrische Verschlüsselung beruht meist auf mathematischen Rechenproblemen (auch Einweg Funktionen), die in eine Richtung sehr einfach, aber in die Rückrichtung aufwändig zu rechnen sind. Ein Beispiel ist das Zerlegen einer Zahl in ihre Primfaktoren.
 >[!multi-column]

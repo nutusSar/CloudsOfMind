@@ -1,6 +1,4 @@
 ---
-title:
-  - Schutzziele
 tags:
   - IT-Sicherheit
   - Informationssicherheit
@@ -39,7 +37,7 @@ Es muss also klar definiert werden, wer auf welche Art und Weise berechtigt ist,
 > [!Quote] Definition des BSI:
 > Integrität bezeichnet die Sicherstellung der Korrektheit (Unversehrtheit) von Daten und der korrekten Funktionsweise von Systemen. Wenn der Begriff Integrität auf "Daten" angewendet wird, drückt er aus, dass die Daten vollständig und unverändert sind. In der Informationstechnik wird er in der Regel aber weiter gefasst und auf "Informationen" angewendet. Der Begriff "Informationen" wird dabei für "Daten" verwendet, denen je nach Zusammenhang bestimmte Attribute wie z.B. Autor oder Zeitpunkt der Erstellung zugeordnet werden können. Der Verlust der Integrität von Informationen kann daher bedeuten, dass diese unerlaubt verändert, Angaben zum Autor verfälscht oder Zeitangaben zur Erstellung manipuliert wurden.
 
-**Mit Integrität ist der Schutz vor unbemerkten Veränderungen gemeint. Dabei ist es egal ob es durch einen Menschen oder ein fehlerhaftes System oder einen fehlerhaften Prozess passiert**
+**Mit Integrität ist der Schutz vor unbemerkten Veränderungen gemeint. Dabei ist es egal ob es durch einen Menschen oder ein fehlerhaftes System oder einen fehlerhaften Prozess passiert.**
 
 Integritätsverlust tritt bei unautorisierten Ändern, Löschen oder Einfügen von Daten ein. Dies kann bewusst durch Menschen, aber auch unbewusst durch Fehlerhafte Prozesse passieren. 
 
@@ -47,7 +45,7 @@ Zur Gewährleistung der Integrität muss also entweder das Ändern von Daten erk
 
 **Maßnahmen zum Schutz der Integrität:**
 + Zugangssteuerung
-+ Management der Werte+
++ Management der Werte
 + Anschaffung, Entwicklung und Instandhaltung von Systemen
 + Dokumentation von Veränderungen
 

@@ -1,6 +1,4 @@
 ---
-title:
-  - Alle AP1 Notes
 tags:
   - Übersicht
   - AP1
@@ -8,8 +6,8 @@ topic: Übersicht
 ---
 
 ```dataview
-table topic
+table file.name as Name, topic as Topic, title
 from "AP1"
-where tags = #AP1 
-sort title ASC
+where contains(file.tags, "AP1")
+sort file.name ASC
 ```

@@ -1,6 +1,4 @@
 ---
-title:
-  - Informationssicherheit
 tags:
   - "#Grundbegriff"
   - "#Informationssicherheit"
