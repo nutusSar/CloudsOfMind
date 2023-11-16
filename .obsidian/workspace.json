@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6a68aed42d10cbbd",
+        "id": "2476ffd81bc9759e",
         "type": "tabs",
         "children": [
           {
-            "id": "4526050e65c9eab8",
+            "id": "e6adb667b7c74495",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/IT-Sicherheit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aed0115657475101",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP1/IT-Sicherheit/Caesar-Verschlüsselung.md",
+                "file": "AP1/Alle AP1 Notes.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#AP1",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "5c2cbcb20a05d1a3",
@@ -98,8 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/IT-Sicherheit/Caesar-Verschlüsselung.md",
-                "collapseAll": true,
+                "file": "AP1/Alle AP1 Notes.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -115,9 +102,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/IT-Sicherheit/Caesar-Verschlüsselung.md",
+                "file": "AP1/Alle AP1 Notes.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/IT-Sicherheit/Caesar-Verschlüsselung.md"
+                "file": "AP1/Alle AP1 Notes.md"
               }
             }
           },
@@ -155,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,45 +158,46 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aed0115657475101",
+  "active": "e6adb667b7c74495",
   "lastOpenFiles": [
     "AP1/IT-Sicherheit/Verschlüsselung.md",
-    "AP1/IT-Sicherheit/Kryptographie.md",
     "AP1/Alle AP1 Notes.md",
+    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
     "AP1/IT-Sicherheit/Caesar-Verschlüsselung.md",
     "AP1/IT-Sicherheit/AES.md",
+    "AP1/IT-Sicherheit/Kryptographie.md",
     "templates/IT-Sicherheit.md",
-    "AP1/IT-Sicherheit/Schutzziele.md",
+    "templates/Dataview.md",
+    "templates",
     "AP1/IT-Sicherheit/HTTPS & TLS.md",
     "AP1/IT-Sicherheit/Digitale Signaturen & Zertifikate.md",
-    "templates/Dataview.md",
-    "AP1/IT-Sicherheit/Informationssicherheit.md",
     "AP1/IT-Sicherheit/Hashverfahren.md",
-    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
-    "Untitled",
-    "AP1/IT-Sicherheit/Testfile.md",
-    "AP1/IT-Sicherheit/Testfile 2.md",
-    "Excalidraw/Drawing 2023-11-16 13.32.41.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-16 13.32.06.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-16 12.26.06.excalidraw.md",
-    "Excalidraw",
-    "AP1/IT-Sicherheit/Test1.md",
-    "AP1/IT-Sicherheit/Test.md",
-    "AP1/IT-Sicherheit/Vigenere-Ciffre.md",
-    "AP1/IT-Sicherheit/Ceasar-Verschlüsselung.md",
-    "Caesar-Verschlüsselung.md",
-    "Test.md",
-    "AP1/Test.md",
-    "templates",
+    "Hashfunktionen.md",
+    "AP1/IT-Sicherheit/Schutzziele.md",
+    "AP1/IT-Sicherheit/Informationssicherheit.md",
+    "Lernfeld 9/Switch.md",
     "AP1/IT-Sicherheit",
     "AP1",
-    "Git.bat",
-    "AutoSave.bat",
-    "test.txt",
-    "Neues Textdokument.txt",
-    "DevelopingExtras",
-    "Lernfeld 9/Bilder/switch_logik.png",
+    "Lernfeld 9/Ethernet Frame.md",
+    "Lernfeld 9/DNS.md",
+    "Lernfeld 9/DHCP.md",
+    "Lernfeld 9/Cisco Config CheatSheet.md",
     "Lernfeld 9/Bilder/modi_uebersicht_router.png",
+    "Lernfeld 9/Cisco.md",
+    "Lernfeld 9/Switching.md",
+    "test.bat",
+    "Neues Textdokument.txt",
+    "AutoSave.bat",
+    "Lernfeld 9/Bilder/switch_logik.png",
+    "Sozialkunde/Externe Sourcen/82316_sowirp_lb1_besitz_eigentum_arbeitsblatt.pdf",
+    "Sozialkunde/Themen der Klassenarbeit 11.12.2023.md",
+    "Sozialkunde/Sozialkunde.md",
+    "Sozialkunde/Externe Sourcen",
+    "Sozialkunde/Besitz und Eigentum.md",
+    "Sozialkunde/Berufsbildungsgesetz.md",
+    "Sozialkunde",
+    "Protokolle/UDP.md",
+    "Protokolle",
     "Untitled.canvas"
   ]
 }
