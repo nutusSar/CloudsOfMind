@@ -5,12 +5,35 @@ Verschlüsselung hat als Ziel die [Vertraulichkeit](Schutzziele) einer Nachricht
 ## Mono- vs. Polyalphabetische Verschlüsselung
 
 ## Symmetrische Verschlüsselung
-Die Symmetrische Verschlüsselung benutzt den gleichen Schlüssel für die Verschlüsselung als auch für die Entschlüsselung.
-Die bringt Vor- als auch Nachteile mit sich.
-|Vorteile | Nachteile|
+Die Symmetrische Verschlüsselung benutzt den gleichen Schlüssel für die Verschlüsselung als auch für die Entschlüsselung. Daraus resultiert das Schlüsselaustauschproblem, denn für die Ver- und Entschlüsselung benötigen beide Parteien den gleichen Schlüssel. Doch wenn der Schlüssel nun Ausgetauscht wird und eine unbefugte dritte Partei dies Mitbekommt, kann diese alle Nachrichten entschlüsseln als auch verschlüsseln. 
 
+### Bekannte Verfahren:
++ [[Caesar-Verschlüsselung]]
++ [[]]
 
 ## Asymmetrische Verschlüsselung
+Bei der asymmetrischen Verschlüsselung werden zwei Schlüssel generiert. Der erste Schlüssel ist der öffentliche Schlüssel, welcher ohne preisgegeben werden darf. Er dient zur Verschlüsselung einer Nachricht Der zweite Schlüssel ist der private Schlüssel, welcher nur der Person bekannt ist, für die die Nachricht bestimmt ist. Dieser wird zum Entschlüsseln der Nachricht verwendet.
+
+Die Asymmetrische Verschlüsselung beruht meist auf mathematischen Rechenproblemen (auch Einweg Funktionen), die in eine Richtung sehr einfach, aber in die Rückrichtung aufwändig zu rechnen sind. Ein Beispiel ist das Zerlegen einer Zahl in ihre Primfaktoren.
+>[!multi-column]
+>>Die Hinrichtung:
+>>3 * 7 = 21
+>
+>>Die Rückrichtung:
+>>Welche beiden Primzahlen ergeben multipliziert 21?
+
+
+
+## Symmetrisch vs. Asymmetrisch
+
+| **Symmetrisch** | **Asymmetrisch** |
+| :--: | :--: |
+| Geringer Rechenaufwand | Mehr Rechenaufwand |
+| Schneller | Langsamer |
+| Sicherer | Theoretisch immer brechbar |
+| Ein Schlüssel zum Ver- Entschlüsseln | Ein Schlüssel zum Verschlüsseln und ein Schlüssel zum Entschlüsseln |
+| Eigener Schlüssel für jeden Kommunikationspartner | Jede Person besitzt einen öffentlichen und einen privaten Schlüssel|
+
 
 ## Fachbegriffe
 + Brechen => Knacken einer Verschlüsselung
