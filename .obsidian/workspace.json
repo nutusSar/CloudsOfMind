@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/Alle AP1 Notes.md",
-                "mode": "preview",
+                "file": "templates/Untitled.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/Alle AP1 Notes.md",
+                "file": "templates/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/Alle AP1 Notes.md",
+                "file": "templates/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/Alle AP1 Notes.md"
+                "file": "templates/Untitled.md"
               }
             }
           },
@@ -160,9 +160,12 @@
   },
   "active": "e6adb667b7c74495",
   "lastOpenFiles": [
-    "AP1/IT-Sicherheit/Verschlüsselung.md",
-    "AP1/Alle AP1 Notes.md",
+    "Lernfeld 9/Ethernet Frame.md",
+    "templates/Untitled.md",
+    "Lernfeld 9/Switch.md",
     "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
+    "AP1/Alle AP1 Notes.md",
+    "AP1/IT-Sicherheit/Verschlüsselung.md",
     "AP1/IT-Sicherheit/Caesar-Verschlüsselung.md",
     "AP1/IT-Sicherheit/AES.md",
     "AP1/IT-Sicherheit/Kryptographie.md",
@@ -175,10 +178,8 @@
     "Hashfunktionen.md",
     "AP1/IT-Sicherheit/Schutzziele.md",
     "AP1/IT-Sicherheit/Informationssicherheit.md",
-    "Lernfeld 9/Switch.md",
     "AP1/IT-Sicherheit",
     "AP1",
-    "Lernfeld 9/Ethernet Frame.md",
     "Lernfeld 9/DNS.md",
     "Lernfeld 9/DHCP.md",
     "Lernfeld 9/Cisco Config CheatSheet.md",
@@ -196,7 +197,6 @@
     "Sozialkunde/Besitz und Eigentum.md",
     "Sozialkunde/Berufsbildungsgesetz.md",
     "Sozialkunde",
-    "Protokolle/UDP.md",
     "Protokolle",
     "Untitled.canvas"
   ]
