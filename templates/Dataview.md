@@ -1,9 +1,8 @@
 <%*
 const dv = app.plugins.plugins["dataview"].api;
 const filename = "Alle AP1 Notes";
-const col1 = "<div style='width:300px;'>Topic<div>"
 const query = `table topic as 
-\<test, file.tags as Tags
+"\<div style\=\'width\:150px\;\'\>Topic\<div\>", file.tags as "\<div style\=\'width\:200px\;\'\>Tags\<div\>"
 from "AP1"
 where contains(file.tags, "AP1")
 sort choice(file.name = "Alle AP1 Notes", 1, "other"), file.name ASC`;
