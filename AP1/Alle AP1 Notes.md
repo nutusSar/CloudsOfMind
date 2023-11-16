@@ -9,5 +9,5 @@ topic: Übersicht
 table topic as Topic
 from "AP1"
 where contains(file.tags, "AP1")
-sort file.name ASC
+sort file.name choice(name = "Alle AP1 Notes", 1, "other") ASC
 ```
