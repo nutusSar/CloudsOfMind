@@ -8,43 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4526050e65c9eab8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/IT-Sicherheit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aed0115657475101",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP1/IT-Sicherheit/Caesar-Verschlüsselung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "111efe136d1854ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/IT-Sicherheit/Vigenere-Ciffre.md",
+                "file": "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4395fa4f4d73b10d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Grundbegriffe Temp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b211972ba6037ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/AP1 Notes Temp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7429b6b7adf77543",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP1/IT-Sicherheit/Grundbegriffe.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/IT-Sicherheit/Vigenere-Ciffre.md",
+                "file": "templates/Grundbegriffe Temp.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/IT-Sicherheit/Vigenere-Ciffre.md",
+                "file": "templates/Grundbegriffe Temp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/IT-Sicherheit/Vigenere-Ciffre.md"
+                "file": "templates/Grundbegriffe Temp.md"
               }
             }
           },
@@ -192,15 +204,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "111efe136d1854ff",
+  "active": "4395fa4f4d73b10d",
   "lastOpenFiles": [
+    "AP1/Alle AP1 Notes.md",
+    "AP1/IT-Sicherheit/Grundbegriffe.md",
+    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
+    "templates/Grundbegriffe Temp.md",
+    "templates/IT-Sicherheit.md",
+    "templates/AP1 Notes Temp.md",
+    "AP1/IT-Sicherheit/Schadensprogramme.md",
+    "AP1/IT-Sicherheit/Vigenere-Ciffre.md",
+    "AP1/IT-Sicherheit/Schutzziele.md",
+    "AP1/IT-Sicherheit/Verschlüsselung.md",
+    "AP1/IT-Sicherheit/Caesar-Verschlüsselung.md",
+    "AP1/IT-Sicherheit/AES.md",
     "AP1/IT-Sicherheit/Digitale Signaturen & Zertifikate.md",
     "AP1/IT-Sicherheit/HTTPS & TLS.md",
-    "AP1/IT-Sicherheit/Vigenere-Ciffre.md",
     "AP1/IT-Sicherheit/Hashverfahren.md",
-    "AP1/IT-Sicherheit/AES.md",
-    "AP1/IT-Sicherheit/Caesar-Verschlüsselung.md",
-    "AP1/IT-Sicherheit/Verschlüsselung.md",
     "AP1/Bilder/Pasted image 20231117115423.png",
     "AP1/Bilder/Pasted image 20231117130233.png",
     "Pasted image 20231117125953.png",
@@ -214,13 +234,8 @@
     "Pasted image 20231117124225.png",
     "AP1/Bilder",
     "AP1/Untitled.md",
-    "AP1/Alle AP1 Notes.md",
     "templates/Showcase.md",
-    "templates/IT-Sicherheit.md",
-    "AP1/IT-Sicherheit/Schutzziele.md",
-    "templates/Dataview.md",
     "AP1/IT-Sicherheit/Informationssicherheit.md",
-    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
     "AP1/IT-Sicherheit/Testfile.md",
     "AP1/IT-Sicherheit/Testfile 2.md",
     "Excalidraw/Drawing 2023-11-16 13.32.41.excalidraw.md",
@@ -229,8 +244,6 @@
     "Excalidraw",
     "AP1/IT-Sicherheit/Test1.md",
     "AP1/IT-Sicherheit/Test.md",
-    "AP1/IT-Sicherheit/Ceasar-Verschlüsselung.md",
-    "Caesar-Verschlüsselung.md",
     "templates",
     "AP1/IT-Sicherheit",
     "AP1",
