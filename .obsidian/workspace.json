@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/IT-Sicherheit/Caesar-Verschlüsselung.md",
+                "file": "AP1/IT-Sicherheit/Vigenere-Ciffre.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/IT-Sicherheit/Caesar-Verschlüsselung.md",
+                "file": "AP1/IT-Sicherheit/Vigenere-Ciffre.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/IT-Sicherheit/Caesar-Verschlüsselung.md",
+                "file": "AP1/IT-Sicherheit/Vigenere-Ciffre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/IT-Sicherheit/Caesar-Verschlüsselung.md"
+                "file": "AP1/IT-Sicherheit/Vigenere-Ciffre.md"
               }
             }
           },
@@ -161,9 +161,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "3d8a5c9095187a48",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -180,16 +188,20 @@
       "obsidian42-brat:BRAT": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "cmdr:QuickAdd: IT-Sicherheit": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "111efe136d1854ff",
+  "active": "740dda16f3245ff6",
   "lastOpenFiles": [
+    "AP1/Bilder",
+    "AP1/Untitled.md",
     "AP1/IT-Sicherheit/Vigenere-Ciffre.md",
+    "AP1/Bilder/Pasted image 20231117115423.png",
+    "AP1/IT-Sicherheit/Verschlüsselung.md",
     "AP1/IT-Sicherheit/Caesar-Verschlüsselung.md",
     "AP1/IT-Sicherheit/Hashverfahren.md",
     "AP1/Alle AP1 Notes.md",
-    "AP1/IT-Sicherheit/Verschlüsselung.md",
     "templates/Showcase.md",
     "AP1/IT-Sicherheit/Kryptographie.md",
     "AP1/IT-Sicherheit/AES.md",
@@ -200,7 +212,6 @@
     "templates/Dataview.md",
     "AP1/IT-Sicherheit/Informationssicherheit.md",
     "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
-    "Untitled",
     "AP1/IT-Sicherheit/Testfile.md",
     "AP1/IT-Sicherheit/Testfile 2.md",
     "Excalidraw/Drawing 2023-11-16 13.32.41.excalidraw.md",
@@ -211,8 +222,6 @@
     "AP1/IT-Sicherheit/Test.md",
     "AP1/IT-Sicherheit/Ceasar-Verschlüsselung.md",
     "Caesar-Verschlüsselung.md",
-    "Test.md",
-    "AP1/Test.md",
     "templates",
     "AP1/IT-Sicherheit",
     "AP1",

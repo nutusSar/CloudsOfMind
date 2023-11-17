@@ -5,9 +5,10 @@
   "obsidian42-brat",
   "obsidian-plantuml",
   "obsidian-snippet-downloader",
-  "cmdr",
   "dataview",
   "obsidian-excalidraw-plugin",
+  "quickadd",
+  "cmdr",
   "templater-obsidian",
-  "quickadd"
+  "table-editor-obsidian"
 ]
