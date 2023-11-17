@@ -4,8 +4,8 @@ const filename = "Alle AP1 Notes";
 const query = `table topic as 
 "\<div style\=\'width\:150px\;\'\>Topic\<div\>", tags as "\<div style\=\'width\:200px\;\'\>Tags\<div\>"
 from "AP1"
-where contains(file.tags, "AP1")
-sort choice(file.name = "Alle AP1 Notes", 1, "other"), file.name ASC`;
+where contains(file.tags, "AP1") and !contains(file.tags, "Übersicht")
+sort file.name ASC`;
 
 const tFile = tp.file.find_tfile(filename);
 const queryOutput = await dv.queryMarkdown(query);

@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Grundbegriffe Temp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b211972ba6037ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/AP1 Notes Temp.md",
+                "file": "AP1/IT-Sicherheit/Schadensprogramme.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Grundbegriffe Temp.md",
+                "file": "AP1/IT-Sicherheit/Schadensprogramme.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Grundbegriffe Temp.md",
+                "file": "AP1/IT-Sicherheit/Schadensprogramme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Grundbegriffe Temp.md"
+                "file": "AP1/IT-Sicherheit/Schadensprogramme.md"
               }
             }
           },
@@ -183,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -206,13 +194,13 @@
   },
   "active": "4395fa4f4d73b10d",
   "lastOpenFiles": [
-    "AP1/Alle AP1 Notes.md",
-    "AP1/IT-Sicherheit/Grundbegriffe.md",
     "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
+    "AP1/IT-Sicherheit/Schadensprogramme.md",
+    "AP1/IT-Sicherheit/Grundbegriffe.md",
+    "templates/AP1 Notes Temp.md",
+    "AP1/Alle AP1 Notes.md",
     "templates/Grundbegriffe Temp.md",
     "templates/IT-Sicherheit.md",
-    "templates/AP1 Notes Temp.md",
-    "AP1/IT-Sicherheit/Schadensprogramme.md",
     "AP1/IT-Sicherheit/Vigenere-Ciffre.md",
     "AP1/IT-Sicherheit/Schutzziele.md",
     "AP1/IT-Sicherheit/Verschlüsselung.md",
