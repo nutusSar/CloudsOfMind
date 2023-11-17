@@ -11,6 +11,14 @@
             "id": "111efe136d1854ff",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "7429b6b7adf77543",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
@@ -20,31 +28,19 @@
             }
           },
           {
-            "id": "4395fa4f4d73b10d",
+            "id": "4de291be0940048e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/IT-Sicherheit/Schadensprogramme.md",
+                "file": "AP1/IT-Sicherheit/Hacker.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7429b6b7adf77543",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP1/IT-Sicherheit/Grundbegriffe.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/IT-Sicherheit/Schadensprogramme.md",
+                "file": "AP1/IT-Sicherheit/Hacker.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/IT-Sicherheit/Schadensprogramme.md",
+                "file": "AP1/IT-Sicherheit/Hacker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/IT-Sicherheit/Schadensprogramme.md"
+                "file": "AP1/IT-Sicherheit/Hacker.md"
               }
             }
           },
@@ -171,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -192,11 +188,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4395fa4f4d73b10d",
+  "active": "4de291be0940048e",
   "lastOpenFiles": [
-    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
-    "AP1/IT-Sicherheit/Schadensprogramme.md",
     "AP1/IT-Sicherheit/Grundbegriffe.md",
+    "AP1/IT-Sicherheit/Hacker.md",
+    "AP1/IT-Sicherheit/Schadensprogramme.md",
+    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
     "templates/AP1 Notes Temp.md",
     "AP1/Alle AP1 Notes.md",
     "templates/Grundbegriffe Temp.md",
@@ -231,7 +228,6 @@
     "Excalidraw/Drawing 2023-11-16 12.26.06.excalidraw.md",
     "Excalidraw",
     "AP1/IT-Sicherheit/Test1.md",
-    "AP1/IT-Sicherheit/Test.md",
     "templates",
     "AP1/IT-Sicherheit",
     "AP1",

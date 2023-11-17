@@ -57,9 +57,9 @@
 ### Zugangs- und Zugriffskontrolle
 + - [ ] Zugangs- und Zugriffskontrolle
 ### [[Grundbegriffe]]
-+ - [ ] Schadprogramme: Vieren, Würmer, Rootkits, Botnetze, Trojaner, Maleware, Ransomware, Spyware, Adware, Scareware, Hoax, Dialer (veraltet), Keylogger
-	+ - [ ] Verbreitung von Viren/Würmer/Trojaner erläutern
-+ Hacker (White / Black Hat), Cracker, Script-Kiddies 
++ - [x] Schadprogramme: Vieren, Würmer, Rootkits, Botnetze, Trojaner, Maleware, Ransomware, Spyware, Adware, Scareware, Hoax, Dialer (veraltet), Keylogger
+	+ - [x] Verbreitung von Viren/Würmer/Trojaner erläutern
++ - [ ] Hacker (White / Black Hat), Cracker, Script-Kiddies 
 + - [ ] Spam, Phishing, Sniffing, Spoofing, Man-in-the-Middle
 + - [ ] SQL-Injection, XSS, CSRF, Session Hijacking, DoS, DDoS
 + - [ ] Backdoor, Exploit, 0-Day-Exploit, Rootkit
