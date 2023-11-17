@@ -19,9 +19,7 @@ Dadurch erfolgt eine Zuordnung von Buchstaben.
 
 Eine solche Zuordnung könnte wie folgt aussehen (Verschiebung 3):
 
-|a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z|
-|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z|a|b|c|
+![[Pasted image 20231117124305.png]]
 
 Beim Verschlüsseln wird nun der Buchstabe des Klartextes in der oberen Zeile nachgeschlagen und mit dem darunter liegenden Buchstaben ersetzt.
 Aus z.B. CAESAR wird dann FDHVDU.
