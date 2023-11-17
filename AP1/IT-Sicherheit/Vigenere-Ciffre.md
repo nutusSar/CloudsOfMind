@@ -6,11 +6,31 @@ tags:
   - "#Symmetrisch"
 topic: IT-Sicherheit
 ---
-## Erkärung
-
-## Anwendung
-
+## Erklärung
+Die Vigenere-Chiffre ist eine symmetrische Verschlüsselung aus dem 16. Jahrhundert.  Sie ist polyalphabetisch, d.h., dass Buchstaben sich im Schlüssel wiederholen dürfen.
 ## Ablauf
 
+Zuerst wird das sogenannte "Vigenere-Quadrat" gebildet. Dies sieht wie folgt aus:
 ![[Pasted image 20231117130233.png]]
+
+In der obersten Zeile befindet sich die Klartextzeile, während die Spalte ganz links die Schlüsselspalte ist.
+Nun kann man sich einen beliebigen Schlüssel aussuchen. In diesem Fall der Schlüssel "PASSWORT".
+Im nächsten Schritt wird der Schlüssel so oft wie möglich Buchstabe für Buchstape über den Klartext geschrieben.
+Achtung es ist wichtig, dass jeder Buchstabe am Ende genau einem anderen Buchstaben zugeordnet ist.
+
+Ein Beispiel:
+
+|  P  |  A  |  S  |  S  |  W  |  O  |  R  |  T  |  P  |  A  |  S  |  S  |  W  |  O  |  R  |  T  |  P  |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  S  |  U  |  P  |  E  |  R  |  G  |  E  |  H  |  E  |  I  |  M  |  E  |  R  |  T  |  E  |  X  |  T  |
+ 
+Als nächstes erfolgt die Verschlüsselung. Dabei wird in der Schlüsselspalte die Zeile mit dem aktuellen Buchstaben des Schlüssels gesucht und in der Klartextzeile die Spalte des Klartextes. Wo sich dann die Beiden Zeilen und Spalten dann treffen, befindet sich der entsprechende Buchstabe des Geheimtextes.
+
+Ein Beispiel:
+
+P ist der erste Buchstabe des Schlüssels, also ist unsere Zeile die P Zeile.
+S ist der erste Buchstabe des Klartextes, also ist unsere Spalte die S Spalte.
+
+Es wird geschaut, wo die P Zeile und die S Spalte sich kreuzen. Dies passiert an der Stelle H. Somit ist H der erste Buchstabe unseres Geheimtextes.
+
 
