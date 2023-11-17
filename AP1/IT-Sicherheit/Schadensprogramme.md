@@ -28,7 +28,7 @@ Ransomware sind Schadensprogramme, die den Zugriff auf Daten und Systemen blocki
 
 
 ## Spyware
-Der Begriff Spyware bezeichnet Programme, die unbemerkt auf den Computer gelangen um Private Daten abzugreifen.
+Der Begriff Spyware bezeichnet Programme, die unbemerkt und ohne Zustimmung auf den Computer gelangen, um Private Daten abzugreifen.
 
 ##
 
