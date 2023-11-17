@@ -13,3 +13,4 @@ topic: Übersicht
 | [[AP1/IT-Sicherheit/Kryptographie.md\|Kryptographie]]                   | IT-Sicherheit                        | <ul><li>#Informationssicherheit</li><li>#Schutzziele</li><li>#IT-Sicherheit</li><li>#AP1</li></ul>   |
 | [[AP1/IT-Sicherheit/Schutzziele.md\|Schutzziele]]                       | IT-Sicherheit                        | <ul><li>#IT-Sicherheit</li><li>#Informationssicherheit</li><li>#AP1</li></ul>                        |
 | [[AP1/IT-Sicherheit/Verschlüsselung.md\|Verschlüsselung]]               | IT-Sicherheit                        | <ul><li>#AP1</li><li>#IT-Sicherheit</li><li>#Informationssicherheit</li><li>#Kryptographie</li></ul> |
+| [[AP1/IT-Sicherheit/Vigenere-Ciffre.md\|Vigenere-Ciffre]]               | IT-Sicherheit                        | <ul><li>#AP1</li><li>#IT-Sicherheit</li><li>#Verschlüsselung</li><li>#Symmetrisch</li></ul>          |
