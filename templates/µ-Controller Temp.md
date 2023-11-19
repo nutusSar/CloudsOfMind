@@ -3,7 +3,7 @@ const dv = app.plugins.plugins["dataview"].api;
 const filename = "µ-Controller";
 const query = `table topic as 
 "\<div style\=\'width\:150px\;\'\>Topic\<div\>", tags as "\<div style\=\'width\:200px\;\'\>Tags\<div\>"
-from #µ-Controller 
+from "µ-Controller"
 where !contains(file.tags, "Übersicht")
 sort file.name ASC`;
 
