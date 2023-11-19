@@ -1,4 +1,11 @@
-#Berufsschule #Lernfeld9 #Protokolle #Anwendungsschicht 
+---
+tags:
+  - "#Berufsschule"
+  - "#Lernfeld9"
+  - "#Protokolle"
+  - "#Anwendungsschicht"
+topic: Netzwerktechnik
+---
 ## Dynamic Naming System
 
 Das Domain Name System ordnet lesbare / merkbare Namen bzw. Adressen (google.com) zu IPs zu. DNS ist ein weltweites, hierarchisches System mit Delegation.
