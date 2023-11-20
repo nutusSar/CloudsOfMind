@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "2476ffd81bc9759e",
+        "id": "fd917aa52d7d86e2",
         "type": "tabs",
         "children": [
           {
-            "id": "e6adb667b7c74495",
+            "id": "a764511837dc4eb0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "templates/µ-Controller QuickADD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a4d01b91c43a4ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "µ-Controller/Wichtige Befehle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ace8a0566e10ec6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "µ-Controller/Wichtige Befehle.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "5c2cbcb20a05d1a3",
@@ -81,7 +110,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "µ-Controller/Wichtige Befehle.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -92,24 +122,25 @@
             }
           },
           {
-            "id": "a6e6f7cf7454dacd",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
             "id": "42bf7dfd1b7f1572",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "a6e6f7cf7454dacd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "µ-Controller/Wichtige Befehle.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -118,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "µ-Controller/Wichtige Befehle.md"
+              }
             }
           },
           {
@@ -128,13 +161,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "3d8a5c9095187a48",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 213.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,52 +188,57 @@
       "obsidian42-brat:BRAT": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "cmdr:QuickAdd: IT-Sicherheit": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e6adb667b7c74495",
+  "active": "ace8a0566e10ec6b",
   "lastOpenFiles": [
-    "µ-Controller/Wichtige Befehle.md",
     "µ-Controller/µ-Controller.md",
     "templates/µ-Controller Temp.md",
-    "µ-Controller/Wiederstände.md",
+    "templates/AP1 Notes Temp.md",
+    "µ-Controller/Wichtige Befehle.md",
     "µ-Controller/Led-Schaltung.md",
-    "templates/µ-Controller QuickADD.md",
-    "templates/Untitled.md",
-    "µ-Controller/Bilder/Pasted image 20231119160912.png",
+    "µ-Controller/Wiederstände.md",
     "µ-Controller/Bilder/Pasted image 20231119162109.png",
     "µ-Controller/Bilder",
-    "µ-Controller",
+    "µ-Controller/Bilder/Pasted image 20231119160912.png",
+    "templates/µ-Controller QuickADD.md",
+    "µ-Controller/Untitled.md",
+    "µ-Controller/Testfile.md",
+    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
     "templates/Grundbegriffe Temp.md",
-    "templates/AP1 Notes Temp.md",
-    "AP1/IT-Sicherheit/Vigenere-Ciffre.md",
-    "AP1/IT-Sicherheit/Schadensprogramme.md",
+    "Untitled",
+    "µ-Controller",
+    "Protokolle/Grunddateneinheiten.md",
+    "Lernfeld 9/DNS.md",
     "AP1/IT-Sicherheit/Hacker.md",
     "AP1/IT-Sicherheit/Grundbegriffe.md",
-    "AP1/Bilder/Pasted image 20231117130233.png",
-    "AP1/Bilder/Pasted image 20231117124305.png",
-    "AP1/Bilder",
-    "Lernfeld 9/Ethernet Frame.md",
-    "Lernfeld 9/Switch.md",
-    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
+    "AP1/IT-Sicherheit/Schadensprogramme.md",
     "AP1/Alle AP1 Notes.md",
+    "templates/IT-Sicherheit.md",
+    "AP1/IT-Sicherheit/Vigenere-Ciffre.md",
+    "AP1/IT-Sicherheit/Schutzziele.md",
     "AP1/IT-Sicherheit/Verschlüsselung.md",
     "AP1/IT-Sicherheit/Caesar-Verschlüsselung.md",
     "AP1/IT-Sicherheit/AES.md",
-    "AP1/IT-Sicherheit/Kryptographie.md",
-    "templates/IT-Sicherheit.md",
-    "templates/Dataview.md",
-    "templates",
-    "AP1/IT-Sicherheit/HTTPS & TLS.md",
     "AP1/IT-Sicherheit/Digitale Signaturen & Zertifikate.md",
+    "AP1/IT-Sicherheit/HTTPS & TLS.md",
+    "AP1/Bilder/Pasted image 20231117115423.png",
+    "AP1/Bilder/Pasted image 20231117130233.png",
+    "Pasted image 20231117125953.png",
+    "Pasted image 20231117123856.png",
+    "Pasted image 20231117123956.png",
+    "Pasted image 20231117124015.png",
+    "Pasted image 20231117124038.png",
+    "Pasted image 20231117124126.png",
+    "AP1/Bilder",
+    "Excalidraw",
+    "templates",
     "AP1/IT-Sicherheit",
     "AP1",
-    "Lernfeld 9/Bilder/modi_uebersicht_router.png",
-    "test.bat",
-    "Neues Textdokument.txt",
+    "Git.bat",
     "AutoSave.bat",
-    "Lernfeld 9/Bilder/switch_logik.png",
-    "Sozialkunde/Externe Sourcen/82316_sowirp_lb1_besitz_eigentum_arbeitsblatt.pdf",
     "Untitled.canvas"
   ]
 }
