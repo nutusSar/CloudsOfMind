@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6292ee9b90900143",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lernfeld 7/Analyse OPC UA.md",
+                "file": "index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lernfeld 7/Analyse OPC UA.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lernfeld 7/Analyse OPC UA.md"
+                "file": "index.md"
               }
             }
           },
@@ -192,21 +204,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "740dda16f3245ff6",
+  "active": "6292ee9b90900143",
   "lastOpenFiles": [
-    "Lernfeld 7/Bilder/Screenshot_2023-11-13_130000.png",
+    "templates/index Temp.md",
+    "templates/IT-Sicherheit.md",
+    "index.md",
+    "templates/µ-Controller Temp.md",
     "Lernfeld 7/Analyse OPC UA.md",
-    "Lernfeld 7/Bilder",
     "Lernfeld 7/Bilder/Abfullen.png",
+    "µ-Controller/Led-Schaltung.md",
+    "µ-Controller/µ-Controller.md",
+    "Lernfeld 7/Bilder/Screenshot_2023-11-13_130000.png",
+    "Lernfeld 7/Bilder",
     "Lernfeld 7/Bilder/Screenshot_2023-11-13_125930.png",
     "Lernfeld 7/Bilder/Screenshot_2023-11-13_125856.png",
-    "µ-Controller/Led-Schaltung.md",
     "Lernfeld 7",
     "µ-Controller/Wichtige Befehle.md",
     "µ-Controller/Wiederstände.md",
-    "µ-Controller/µ-Controller.md",
     "AP1/IT-Sicherheit/Vigenere-Ciffre.md",
-    "templates/µ-Controller Temp.md",
     "templates/AP1 Notes Temp.md",
     "µ-Controller/Bilder/Pasted image 20231119162109.png",
     "µ-Controller/Bilder",
@@ -223,12 +238,10 @@
     "AP1/IT-Sicherheit/Grundbegriffe.md",
     "AP1/IT-Sicherheit/Schadensprogramme.md",
     "AP1/Alle AP1 Notes.md",
-    "templates/IT-Sicherheit.md",
     "AP1/IT-Sicherheit/Schutzziele.md",
     "AP1/IT-Sicherheit/Verschlüsselung.md",
     "AP1/IT-Sicherheit/Caesar-Verschlüsselung.md",
     "AP1/IT-Sicherheit/AES.md",
-    "AP1/IT-Sicherheit/Digitale Signaturen & Zertifikate.md",
     "AP1/Bilder/Pasted image 20231117115423.png",
     "AP1/Bilder/Pasted image 20231117130233.png",
     "Pasted image 20231117125953.png",
