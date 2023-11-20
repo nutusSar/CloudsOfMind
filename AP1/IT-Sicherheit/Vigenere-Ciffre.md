@@ -18,10 +18,10 @@ Im nächsten Schritt wird der Schlüssel so oft wie möglich Buchstabe für Buch
 Achtung es ist wichtig, dass jeder Buchstabe am Ende genau einem anderen Buchstaben zugeordnet ist.
 
 Ein Beispiel:
-
-|  P  |  A  |  S  |  S  |  W  |  O  |  R  |  T  |  P  |  A  |  S  |  S  |  W  |  O  |  R  |  T  |  P  |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  S  |  U  |  P  |  E  |  R  |  G  |  E  |  H  |  E  |  I  |  M  |  E  |  R  |  T  |  E  |  X  |  T  |
+<div style="font-family: Monospace;">
+Passw ortPassw ortP <br>
+Super geheimer Text
+</div>
 
 ### Verschlüsselung
 Als nächstes erfolgt die Verschlüsselung. Dabei wird in der Schlüsselspalte die Zeile mit dem aktuellen Buchstaben des Schlüssels gesucht und in der Klartextzeile die Spalte des Klartextes. Wo sich dann die Beiden Zeilen und Spalten dann treffen, befindet sich der entsprechende Buchstabe des Geheimtextes.
