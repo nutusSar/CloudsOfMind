@@ -3,7 +3,7 @@ tags:
   - "#Angular"
 topic: Grundlagen
 ---
-## Erstellen einer Basic Directive
+## Erstellen einer Basic Direktive
 ```ts
 @Directive({
 	selector: '[appBasicHighight]'
@@ -16,10 +16,10 @@ export class BasicHighlightDirective {
 }
 ```
 
-Eigene Directives müssen in der **app.module.ts** dem Array @ngModule hinzugefügt werden .
+Eigene Direktives müssen in der **app.module.ts** dem Array @ngModule hinzugefügt werden .
 Die eckigen Klammern im Selektor gehören nicht zum Namen, sondern geben an, dass es wie ein Attribute einem HTML-Element hinzugefügt werden kann.
 
-## Erstellen einer Directive mit dem Renderer
+## Erstellen einer Direktive mit dem Renderer
 ```ts
 @Directive({
 	selector: '[appBetterHighlight]'
@@ -83,4 +83,54 @@ export class BetterhighlightDirective implements OnInit {
 ```
 
 Die HostBinding Annotation ermöglicht das Binden an eine bestimmte Eigenschaft des Host-Elements.
-## Binden an Directives-Eigenschaften
+## Binden an Direktiven-Eigenschaften
+```ts
+@Directive({
+	selector: '[appBetterHighlight]'
+})
+export class BetterhighlightDirective implements OnInit {
+	@Input() defaultColor: string = 'transparent';
+	@Input() higghlightColor: string = 'blue';
+	@HostBinding('style.backgroundColor') backgroundColor: string;
+
+	constructor(private elRef: ElementRef, private renderer: Renderer2){}
+	ngOnInit(){
+		backgroundColor = 'transparent';
+	}
+
+	@HostListener('mouseenter') mouseover(eventData: Event){
+			this.backgroundColor = this.highlightColor;
+	}
+	
+	@HostListener('mouseleave') mouseleave(eventData: Event){
+			this.backgroundColor = this.defaultColor;
+	}
+}
+```
+
+## Strukturelle Direktiven
+
+Der * bei z.B. ngIf soll es vereinfachen strukturelle Direktiven zu erkennen, denn im Hintergrund wandelt Angular diese um. Somit hat der * keine Funktion sondern eher eine Bedeutung.
+
+### Eigene strukturelle Direktive:
+
+```ts
+@Directive({
+	selector: '[appUnless]'
+})
+export class UnlessDirective {
+	@Input() set appUnless(condition: boolean) {
+		if (!condition){
+			this.vcRef.createEmbeddedView(this.templateRef);
+		} else {
+			this.vcRef.clear()
+		}
+	}
+
+	constructor(private templateRef: TemplateRef<any>, private vcRef: ViewContainerRef) { }
+}
+```
+
+Der Name des Attributes, an welches gebunden wird, muss mit dem des Selektors übereinstimmen. 
+
+## ngSwitch
