@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/Angular.md",
+                "file": "Angular/Directives.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/Angular.md",
+                "file": "Angular/Directives.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular/Angular.md",
+                "file": "Angular/Directives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular/Angular.md"
+                "file": "Angular/Directives.md"
               }
             }
           },
@@ -206,8 +206,9 @@
   },
   "active": "6292ee9b90900143",
   "lastOpenFiles": [
-    "Lernfeld 9/DHCP.md",
     "Angular/Angular.md",
+    "Angular/Directives.md",
+    "Lernfeld 9/DHCP.md",
     "Angular",
     "Lernfeld 9/Switching.md",
     "Lernfeld 9/Switch.md",
@@ -242,7 +243,6 @@
     "templates/Grundbegriffe Temp.md",
     "µ-Controller",
     "Protokolle/Grunddateneinheiten.md",
-    "AP1/IT-Sicherheit/Hacker.md",
     "AP1/Bilder/Pasted image 20231117115423.png",
     "AP1/Bilder/Pasted image 20231117130233.png",
     "Pasted image 20231117125953.png",
