@@ -134,7 +134,7 @@ export class UnlessDirective {
 }
 ```
 
-Der Name des Attributes, an welches gebunden wird, muss mit dem des Selektors übereinstimmen. 
+Der Name des Attributes, an welches gebunden wird, muss mit dem Namen des Selektors übereinstimmen. 
 
 ## ngSwitch
 ```html
@@ -142,4 +142,4 @@ Der Name des Attributes, an welches gebunden wird, muss mit dem des Selektors ü
 <p *ngSwitchCase="10"> Value is 10 </p>
 ```
 
-Wenn eine große Anzahl an if-cases abgehandelt werden müssen ist ngSwitch vlt. die Bessere Lösung.
+Wenn eine große Anzahl an if-cases abgehandelt werden muss, ist ngSwitch vlt. die bessere Lösung.
