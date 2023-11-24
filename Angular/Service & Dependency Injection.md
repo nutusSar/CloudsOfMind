@@ -1,6 +1,7 @@
 ---
 tags:
   - Angular
+topic: Grundlagen
 ---
 ## Service
 Services agieren als eine Art zentrales Rpository für eine Angular Anwendung. Das heißt, dass wenn Codeduplikate vorliegen, könne diese in einem Service Zentral für alle Komponenten bereitgestellt werden. 
@@ -33,4 +34,24 @@ Es gibt auch die inject() Methode. Doch üblich ist die Dependency injection üb
 
 ## Hierarchical Injector
 + **AppModule:** Die **selbe** Instanz eines Service ist global in der App verfügbar
-+ **AppComponent:** Die **selbe** Instanz eines Service 
++ **AppComponent:** Die **selbe** Instanz eines Service ist für alle Komponenten, aber nicht für andere Services erreichbar.
++ **Jede andere Komponente:** Die **selbe** Instanz ist nur für die Komponente, sowie all ihren Kinder-Komponenten verfügbar.
+
+Niedrigere Ebenen dieser Hierarchie überschreiben die Instanzen der höheren Ebenen für ihren eignen Zuständigkeitsbereich. 
+Um jedoch die selbe Instanz zu bekommen, muss der Service aus dem Provider-Array der niedrigeren Ebene der Hierarchie entfernt werden.
+
+
+## Services in Services
+Um einen Service in einen Service zu injizieren, muss dem äußeren eine Annotation hinzugefügt werden. Zudem muss der Service auf der AppModul Ebene bereitgestellt werden. 
+```ts
+@Injectable()
+export class OuterService(){
+	constructor(private innerService: InnerService){ }
+}
+```
+
+Seit Angular 6+ kann man, alternativ zu der AppModule Ebene, auch in der package.jason ein Konfiguration vornehmen. 
+```jason
+@Injectable({providedIn:'root'})
+export class MyService{}
+```
