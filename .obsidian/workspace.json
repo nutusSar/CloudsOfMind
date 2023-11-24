@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/Directives.md",
+                "file": "Angular/Service.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/Directives.md",
+                "file": "Angular/Service.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular/Directives.md",
+                "file": "Angular/Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular/Directives.md"
+                "file": "Angular/Service.md"
               }
             }
           },
@@ -169,6 +169,8 @@
   },
   "active": "6292ee9b90900143",
   "lastOpenFiles": [
+    "Angular/Directive.md",
+    "Angular/Service.md",
     "Angular/Angular.md",
     "Lernfeld 7/Analyse OPC UA.md",
     "µ-Controller/Wichtige Befehle.md",
@@ -176,7 +178,6 @@
     "templates/µ-Controller Temp.md",
     "templates/µ-Controller QuickADD.md",
     "µ-Controller/µ-Controller.md",
-    "Angular/Directives.md",
     "Lernfeld 9/DHCP.md",
     "Angular",
     "Lernfeld 9/Switching.md",
@@ -204,7 +205,6 @@
     "µ-Controller/Untitled.md",
     "µ-Controller/Testfile.md",
     "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
-    "templates/Grundbegriffe Temp.md",
     "µ-Controller",
     "AP1/Bilder/Pasted image 20231117115423.png",
     "AP1/Bilder/Pasted image 20231117130233.png",
