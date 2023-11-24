@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/Service.md",
+                "file": "Angular/Service & Dependency Injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/Service.md",
+                "file": "Angular/Service & Dependency Injection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular/Service.md",
+                "file": "Angular/Service & Dependency Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular/Service.md"
+                "file": "Angular/Service & Dependency Injection.md"
               }
             }
           },
@@ -170,7 +170,7 @@
   "active": "6292ee9b90900143",
   "lastOpenFiles": [
     "Angular/Directive.md",
-    "Angular/Service.md",
+    "Angular/Service & Dependency Injection.md",
     "Angular/Angular.md",
     "Lernfeld 7/Analyse OPC UA.md",
     "µ-Controller/Wichtige Befehle.md",
