@@ -1,7 +1,9 @@
-```dataview
-table topic as Topic, tags as Tags
-from "Angular"
-where contains(file.tags, "#Angular") and file.name != Angular
-sort file.name ASC
-```
-
+---
+tags:
+  - "#Angular"
+  - "#Übersicht"
+topic: Übersicht
+---
+| <div style="width:275px;">File<div>   | <div style='width:150px;'>Topic<div> | <div style='width:200px;'>Tags<div> |
+| ------------------------------------- | ------------------------------------ | ----------------------------------- |
+| [[Angular/Directives.md\|Directives]] | Grundlagen                           | <ul><li>#Angular</li></ul>          |

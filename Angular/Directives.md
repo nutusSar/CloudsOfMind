@@ -110,6 +110,9 @@ export class BetterhighlightDirective implements OnInit {
 
 ## Strukturelle Direktiven
 
+Strukturelle Direktiven verändern den Dom selbst und nicht nur Eigenschaften oder Werte.
+
+### * Keyword
 Der * bei z.B. ngIf soll es vereinfachen strukturelle Direktiven zu erkennen, denn im Hintergrund wandelt Angular diese um. Somit hat der * keine Funktion sondern eher eine Bedeutung.
 
 ### Eigene strukturelle Direktive:
@@ -134,3 +137,9 @@ export class UnlessDirective {
 Der Name des Attributes, an welches gebunden wird, muss mit dem des Selektors übereinstimmen. 
 
 ## ngSwitch
+```html
+<p *ngSwitchCase="5"> Value is 5 </p>
+<p *ngSwitchCase="10"> Value is 10 </p>
+```
+
+Wenn eine große Anzahl an if-cases abgehandelt werden müssen ist ngSwitch vlt. die Bessere Lösung.
