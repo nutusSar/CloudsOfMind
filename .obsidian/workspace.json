@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/Service & Dependency Injection.md",
+                "file": "Angular/CLI.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/Service & Dependency Injection.md",
+                "file": "Angular/CLI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular/Service & Dependency Injection.md",
+                "file": "Angular/CLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular/Service & Dependency Injection.md"
+                "file": "Angular/CLI.md"
               }
             }
           },
@@ -169,8 +169,9 @@
   },
   "active": "6292ee9b90900143",
   "lastOpenFiles": [
-    "Angular/Angular.md",
     "Angular/Directive.md",
+    "Angular/CLI.md",
+    "Angular/Angular.md",
     "Angular/Service & Dependency Injection.md",
     "Sozialkunde/Sozialkunde.md",
     "Sozialkunde/Mutterschutz, Mutterschutzgesetz.md",
@@ -196,7 +197,6 @@
     "index.md",
     "templates/IT-Sicherheit.md",
     "Lernfeld 7/Bilder/Abfullen.png",
-    "µ-Controller/Led-Schaltung.md",
     "Lernfeld 7/Bilder/Screenshot_2023-11-13_130000.png",
     "Lernfeld 7/Bilder",
     "Lernfeld 7/Bilder/Screenshot_2023-11-13_125930.png",
