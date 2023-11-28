@@ -21,5 +21,26 @@ Es gibt heut zu Tage vielfach andere Werte, denn heißt heute immer cool, fresh,
 + **Originalität:** Werbung soll sich von den Konkurrenten Abheben.
 
 ## Unterschied zwischen direkter und indirekter Werbung?
-+ **Direkte Werbung
++ **Direkte Werbung:** Spricht den Kunden direkt an 
++ **Indirekte Werbung:** Alles andere z.B. eine Anzeige in der Zeitung, im Fernsehen 
+## Nennen Sie die wichtigsten Werbemitte und erarbeiten Sie unter Zuhilfenahme des Buches Beispiele für die entsprechenden Werbemittel?
++ **Grafische Werbemittel:**
+	+ Umdrucke
+	+ Leuchtreklame
+	+ Werbefotos in Prospekten 
+	+ Flyer
++ **Akustische/Optische Werbemittel:**
+	+ Werbefilme
+	+ Radio
+	+ Werbevorträge
++ **Verpackung als Werbemittel:**
+	+ Wiedererkennungswert durch Verpackung
++ **Werbeverkaufshilfen:**
+	+ Werbegeschenke
+	+ Aktionen (Black Friday, Rabatte usw...)
+## Funktion und Aufbau einer Werbung unterliegen dem sogenannten AIDA-Prinzip. Das AIDA-Prinzip steht für:
++ **A**: Attention, Aufmerksamkeit des Verbrauchers erregen
++ **I:** Interest Interesse erwecken
++ **D:** Desire Wunsch des Kaufens beim Kunden wecken 
++ **A:** Action Die Handlung des Kaufens 
  
