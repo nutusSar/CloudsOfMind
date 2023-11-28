@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sozialkunde/Werbung.md",
+                "file": "Angular/Service & Dependency Injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sozialkunde/Werbung.md",
+                "file": "Angular/Service & Dependency Injection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sozialkunde/Werbung.md",
+                "file": "Angular/Service & Dependency Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sozialkunde/Werbung.md"
+                "file": "Angular/Service & Dependency Injection.md"
               }
             }
           },
@@ -169,14 +169,15 @@
   },
   "active": "6292ee9b90900143",
   "lastOpenFiles": [
+    "Angular/Angular.md",
+    "Angular/Directive.md",
+    "Angular/Service & Dependency Injection.md",
+    "Sozialkunde/Sozialkunde.md",
     "Sozialkunde/Mutterschutz, Mutterschutzgesetz.md",
+    "Sozialkunde/Besitz und Eigentum.md",
+    "Sozialkunde/Berufsbildungsgesetz.md",
     "Sozialkunde/Werbung.md",
     "Sozialkunde/Themen der Klassenarbeit 11.12.2023.md",
-    "Sozialkunde/Besitz und Eigentum.md",
-    "Sozialkunde/Sozialkunde.md",
-    "Angular/Service & Dependency Injection.md",
-    "Angular/Directive.md",
-    "Angular/Angular.md",
     "Lernfeld 7/Analyse OPC UA.md",
     "µ-Controller/Wichtige Befehle.md",
     "templates/Angular Temp.md",
@@ -201,7 +202,6 @@
     "Lernfeld 7/Bilder/Screenshot_2023-11-13_125930.png",
     "Lernfeld 7/Bilder/Screenshot_2023-11-13_125856.png",
     "Lernfeld 7",
-    "µ-Controller/Wiederstände.md",
     "µ-Controller/Bilder/Pasted image 20231119162109.png",
     "µ-Controller/Bilder",
     "µ-Controller/Bilder/Pasted image 20231119160912.png",

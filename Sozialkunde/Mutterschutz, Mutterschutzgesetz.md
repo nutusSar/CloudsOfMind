@@ -1,4 +1,3 @@
-
 ## Wann dürfen werdende Mütter nicht beschäftigt werden?
 Prinzipiell 6 Wochen vorher, 8 Wochen nachher. Mütter dürfen aber auf eigenen Wunsch vor der Geburt arbeiten gehen.
 3 Wochen Pflicht nach der Entbindung.

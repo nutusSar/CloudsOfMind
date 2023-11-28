@@ -4,7 +4,7 @@ tags:
 topic: Grundlagen
 ---
 ## Service
-Services agieren als eine Art zentrales Rpository für eine Angular Anwendung. Das heißt, dass wenn Codeduplikate vorliegen, könne diese in einem Service Zentral für alle Komponenten bereitgestellt werden. 
+Services agieren als eine Art zentrales Repository für eine Angular Anwendung. Das heißt, dass wenn Codeduplikate vorliegen, könne diese in einem Service Zentral für alle Komponenten bereitgestellt werden. 
 Somit werden Zentrale Funktionen, auf die mehrere Komponenten zugreifen, in einem Service bereitgestellt.
 
 ```ts
