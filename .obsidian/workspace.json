@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/Service & Dependency Injection.md",
-                "mode": "source",
+                "file": "Angular/Directive.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/Service & Dependency Injection.md",
+                "file": "Angular/Directive.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular/Service & Dependency Injection.md",
+                "file": "Angular/Directive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular/Service & Dependency Injection.md"
+                "file": "Angular/Directive.md"
               }
             }
           },
@@ -169,10 +169,10 @@
   },
   "active": "6292ee9b90900143",
   "lastOpenFiles": [
+    "Angular/Service & Dependency Injection.md",
     "Angular/Directive.md",
     "Angular/CLI.md",
     "Angular/Angular.md",
-    "Angular/Service & Dependency Injection.md",
     "Sozialkunde/Sozialkunde.md",
     "Sozialkunde/Mutterschutz, Mutterschutzgesetz.md",
     "Sozialkunde/Besitz und Eigentum.md",
