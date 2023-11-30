@@ -30,4 +30,18 @@ Ermöglicht das Auslesen eines Wertes an einem Pin.
 delay(mili: int);
 ```
 Verzögerung der darunterliegenden Abschnitte in Millisekunden.
-
+## Serial.begin
+```C++
+Serial.begin(speed: int);
+```
+Startet die Serielle Schnittstelle und gehört in den Setupteil des Programmes.
+## Serial.write
+```C++
+Serial.write(message: String);
+```
+Übergibt den Text an die Serielle Schnittstelle, welche diesen ohne Zeilenumbruch ausgibt.
+## Serial.println
+```C++
+Serial.println(message: String)
+```
+Übergibt den Text an die Serielle Schnittstelle, welche diese mit Zeilenumbruch ausgibt.
