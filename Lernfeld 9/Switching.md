@@ -53,3 +53,8 @@ Bereich, in dem Broadcasts weitergeleitet werden
 + Layer 2 Geräte gehören zu einer Broadcastdomain 
 + Layer 3 Geräte (Router) teilen sich eine Broadcastdomain
 + Endet am Router
+
+## 
+Switches bilden mathematisch gesehen einen Graphen, d.h. ein Gebilde aus Knoten (Switches) und Kanten (Leitungen).
+Das es auf Layer 2 keine TTL o.ä. gibt muss ein Zyklus (eine Schleife) unbedingt verhindert werden.
+-> sonst kompletter Stillstand durch im Kreis gesendeter Frames
