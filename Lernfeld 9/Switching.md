@@ -58,3 +58,6 @@ Bereich, in dem Broadcasts weitergeleitet werden
 Switches bilden mathematisch gesehen einen Graphen, d.h. ein Gebilde aus Knoten (Switches) und Kanten (Leitungen).
 Das es auf Layer 2 keine TTL o.ä. gibt muss ein Zyklus (eine Schleife) unbedingt verhindert werden.
 -> sonst kompletter Stillstand durch im Kreis gesendeter Frames
+
+**Lösung:** Abschaffen von redundanten Verbindungen um einen schleifenfreien Graph (-> einen Baum) zu bekommen. -> Spanning Tree Protocol (STP) 
+
