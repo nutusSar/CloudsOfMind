@@ -12,3 +12,8 @@ Unter Blackhat Hackern versteht man Kriminelle Hacker, die Versuchen in Systeme 
 Den Blackhat Hackern gegenübergestellt sind die Whitehat Hacker. Diese versuchen, unter Verwendung von sogenannter Pentest-Tools, Schwachstellen eines Systems zu identifizieren. Dies geschieht legal unter Zustimmung des Eigentümers des Systems.
 
 ## Cracker
+
+## Script-Kiddies
+
+
+

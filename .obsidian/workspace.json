@@ -25,14 +25,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/IT-Sicherheit/Hacker.md",
+                "file": "AP1/IT-Sicherheit/Hacker, Cracker, Script-Kiddies.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "0302a7400d52e98d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-12-06 10.25.13.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/IT-Sicherheit/Hacker.md",
+                "file": "Excalidraw/Drawing 2023-12-06 10.25.13.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/IT-Sicherheit/Hacker.md",
+                "file": "Excalidraw/Drawing 2023-12-06 10.25.13.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/IT-Sicherheit/Hacker.md"
+                "file": "Excalidraw/Drawing 2023-12-06 10.25.13.excalidraw.md"
               }
             }
           },
@@ -180,10 +190,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "89d978b6aad785a7",
+  "active": "0302a7400d52e98d",
   "lastOpenFiles": [
+    "AP1/IT-Sicherheit/Hacker, Cracker, Script-Kiddies.md",
+    "Excalidraw/Drawing 2023-12-06 10.25.13.excalidraw.md",
+    "Excalidraw",
     "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
-    "AP1/IT-Sicherheit/Hacker.md",
     "AP1/IT-Sicherheit/Digitale Signaturen & Zertifikate.md",
     "AP1/IT-Sicherheit/Caesar-Verschlüsselung.md",
     "AP1/IT-Sicherheit/Verschlüsselung.md",
@@ -208,7 +220,6 @@
     "µ-Controller/µ-Controller.md",
     "Lernfeld 9/DHCP.md",
     "Angular",
-    "Lernfeld 9/Ethernet Frame.md",
     "Lernfeld 7/Bilder/Abfullen.png",
     "Lernfeld 7/Bilder/Screenshot_2023-11-13_130000.png",
     "Lernfeld 7/Bilder",
@@ -224,7 +235,6 @@
     "Pasted image 20231117125953.png",
     "Pasted image 20231117123856.png",
     "AP1/Bilder",
-    "Excalidraw",
     "templates",
     "AP1/IT-Sicherheit",
     "AP1",
