@@ -25,24 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/IT-Sicherheit/Hacker, Cracker, Script-Kiddies.md",
+                "file": "Sozialkunde/Berufsbildungsgesetz.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "0302a7400d52e98d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-12-06 10.25.13.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-06 10.25.13.excalidraw.md",
+                "file": "Sozialkunde/Berufsbildungsgesetz.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-06 10.25.13.excalidraw.md",
+                "file": "Sozialkunde/Berufsbildungsgesetz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-06 10.25.13.excalidraw.md"
+                "file": "Sozialkunde/Berufsbildungsgesetz.md"
               }
             }
           },
@@ -190,8 +180,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0302a7400d52e98d",
+  "active": "89d978b6aad785a7",
   "lastOpenFiles": [
+    "Sozialkunde/Werbung.md",
+    "Sozialkunde/Mutterschutz, Mutterschutzgesetz.md",
+    "Sozialkunde/Besitz und Eigentum.md",
+    "Sozialkunde/Berufsbildungsgesetz.md",
+    "Sozialkunde/Themen der Klassenarbeit 11.12.2023.md",
     "AP1/IT-Sicherheit/Hacker, Cracker, Script-Kiddies.md",
     "Excalidraw/Drawing 2023-12-06 10.25.13.excalidraw.md",
     "Excalidraw",
@@ -207,11 +202,6 @@
     "Angular/CLI.md",
     "Angular/Angular.md",
     "Sozialkunde/Sozialkunde.md",
-    "Sozialkunde/Mutterschutz, Mutterschutzgesetz.md",
-    "Sozialkunde/Besitz und Eigentum.md",
-    "Sozialkunde/Berufsbildungsgesetz.md",
-    "Sozialkunde/Werbung.md",
-    "Sozialkunde/Themen der Klassenarbeit 11.12.2023.md",
     "Lernfeld 7/Analyse OPC UA.md",
     "µ-Controller/Wichtige Befehle.md",
     "templates/Angular Temp.md",
