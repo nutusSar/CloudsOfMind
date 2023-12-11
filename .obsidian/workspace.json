@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sozialkunde/Berufsbildungsgesetz.md",
+                "file": "Sozialkunde/Mutterschutz, Mutterschutzgesetz.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sozialkunde/Berufsbildungsgesetz.md",
+                "file": "Sozialkunde/Mutterschutz, Mutterschutzgesetz.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sozialkunde/Berufsbildungsgesetz.md",
+                "file": "Sozialkunde/Mutterschutz, Mutterschutzgesetz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sozialkunde/Berufsbildungsgesetz.md"
+                "file": "Sozialkunde/Mutterschutz, Mutterschutzgesetz.md"
               }
             }
           },
@@ -182,10 +182,11 @@
   },
   "active": "89d978b6aad785a7",
   "lastOpenFiles": [
-    "Sozialkunde/Werbung.md",
-    "Sozialkunde/Mutterschutz, Mutterschutzgesetz.md",
+    "Sozialkunde/Sozialkunde.md",
     "Sozialkunde/Besitz und Eigentum.md",
     "Sozialkunde/Berufsbildungsgesetz.md",
+    "Sozialkunde/Werbung.md",
+    "Sozialkunde/Mutterschutz, Mutterschutzgesetz.md",
     "Sozialkunde/Themen der Klassenarbeit 11.12.2023.md",
     "AP1/IT-Sicherheit/Hacker, Cracker, Script-Kiddies.md",
     "Excalidraw/Drawing 2023-12-06 10.25.13.excalidraw.md",
@@ -201,7 +202,6 @@
     "Angular/Service & Dependency Injection.md",
     "Angular/CLI.md",
     "Angular/Angular.md",
-    "Sozialkunde/Sozialkunde.md",
     "Lernfeld 7/Analyse OPC UA.md",
     "µ-Controller/Wichtige Befehle.md",
     "templates/Angular Temp.md",
