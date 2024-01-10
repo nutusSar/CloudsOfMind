@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "SQL/Spaltenausdrücke.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -169,10 +169,11 @@
   },
   "active": "89d978b6aad785a7",
   "lastOpenFiles": [
-    "SQL/SELECT und FROM.md",
-    "SQL/Spaltenausdrücke.md",
     "SQL/SQL Statements.md",
     "SQL/SQL.md",
+    "SQL/Statistikfunktionen.md",
+    "SQL/Spaltenausdrücke.md",
+    "SQL/SELECT und FROM.md",
     "SQL/SQL - Structured Query Language.md",
     "templates/SQL Temp.md",
     "SQL/ABC.md",
@@ -195,7 +196,6 @@
     "Protokolle/Protokolle.md",
     "SQL",
     "Lernfeld 9/Switching.md",
-    "Lernfeld 9/Switch.md",
     "Excalidraw",
     "Angular",
     "Lernfeld 7/Bilder/Abfullen.png",
