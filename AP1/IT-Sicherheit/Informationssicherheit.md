@@ -1,7 +1,5 @@
 ---
 tags:
-  - "#Grundbegriff"
-  - "#Informationssicherheit"
   - "#IT-Sicherheit"
   - "#AP1"
 topic: IT-Sicherheit

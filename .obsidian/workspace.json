@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6292ee9b90900143",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "89d978b6aad785a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sozialkunde/Werbung.md",
+                "file": "SQL/SQL - Structured Query Language.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sozialkunde/Werbung.md",
+                "file": "SQL/SQL - Structured Query Language.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sozialkunde/Werbung.md",
+                "file": "SQL/SQL - Structured Query Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sozialkunde/Werbung.md"
+                "file": "SQL/SQL - Structured Query Language.md"
               }
             }
           },
@@ -182,33 +169,34 @@
   },
   "active": "89d978b6aad785a7",
   "lastOpenFiles": [
-    "Sozialkunde/Berufsbildungsgesetz.md",
-    "Sozialkunde/Mutterschutz, Mutterschutzgesetz.md",
-    "Sozialkunde/Sozialkunde.md",
-    "Sozialkunde/Besitz und Eigentum.md",
-    "Sozialkunde/Werbung.md",
-    "Sozialkunde/Themen der Klassenarbeit 11.12.2023.md",
-    "AP1/IT-Sicherheit/Hacker, Cracker, Script-Kiddies.md",
-    "Excalidraw/Drawing 2023-12-06 10.25.13.excalidraw.md",
-    "Excalidraw",
-    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
-    "AP1/IT-Sicherheit/Digitale Signaturen & Zertifikate.md",
+    "templates/SQL Temp.md",
+    "SQL/SQL.md",
+    "SQL/ABC.md",
+    "SQL/SQL - Structured Query Language.md",
+    "templates/Angular Temp.md",
+    "AP1/Alle AP1 Notes.md",
+    "AP1/IT-Sicherheit/AES.md",
     "AP1/IT-Sicherheit/Caesar-Verschlüsselung.md",
+    "AP1/IT-Sicherheit/Digitale Signaturen & Zertifikate.md",
+    "AP1/IT-Sicherheit/Hacker, Cracker, Script-Kiddies.md",
+    "AP1/IT-Sicherheit/Hashverfahren.md",
+    "AP1/IT-Sicherheit/HTTPS & TLS.md",
+    "AP1/IT-Sicherheit/Informationssicherheit.md",
+    "AP1/IT-Sicherheit/Kryptographie.md",
+    "AP1/IT-Sicherheit/Schadensprogramme.md",
+    "AP1/IT-Sicherheit/Schutzziele.md",
     "AP1/IT-Sicherheit/Verschlüsselung.md",
-    "AP1/IT-Sicherheit/Grundbegriffe.md",
+    "AP1/IT-Sicherheit/Vigenere-Ciffre.md",
+    "index.md",
+    "Angular/Angular.md",
+    "Protokolle/Protokolle.md",
+    "SQL",
     "Lernfeld 9/Switching.md",
     "Lernfeld 9/Switch.md",
-    "Angular/Directive.md",
-    "Angular/Service & Dependency Injection.md",
-    "Angular/CLI.md",
-    "Angular/Angular.md",
-    "Lernfeld 7/Analyse OPC UA.md",
-    "µ-Controller/Wichtige Befehle.md",
-    "templates/Angular Temp.md",
-    "templates/µ-Controller Temp.md",
-    "templates/µ-Controller QuickADD.md",
-    "µ-Controller/µ-Controller.md",
+    "Lernfeld 9/Ethernet Frame.md",
+    "Lernfeld 9/DNS.md",
     "Lernfeld 9/DHCP.md",
+    "Excalidraw",
     "Angular",
     "Lernfeld 7/Bilder/Abfullen.png",
     "Lernfeld 7/Bilder/Screenshot_2023-11-13_130000.png",
@@ -227,7 +215,6 @@
     "AP1/Bilder",
     "templates",
     "AP1/IT-Sicherheit",
-    "AP1",
     "Untitled.canvas"
   ]
 }
