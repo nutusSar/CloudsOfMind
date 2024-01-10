@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/SQL - Structured Query Language.md",
+                "file": "SQL/Spaltenausdrücke.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQL - Structured Query Language.md",
+                "file": "SQL/Spaltenausdrücke.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SQL - Structured Query Language.md",
+                "file": "SQL/Spaltenausdrücke.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SQL - Structured Query Language.md"
+                "file": "SQL/Spaltenausdrücke.md"
               }
             }
           },
@@ -169,10 +169,13 @@
   },
   "active": "89d978b6aad785a7",
   "lastOpenFiles": [
-    "templates/SQL Temp.md",
+    "SQL/SELECT und FROM.md",
+    "SQL/Spaltenausdrücke.md",
+    "SQL/SQL Statements.md",
     "SQL/SQL.md",
-    "SQL/ABC.md",
     "SQL/SQL - Structured Query Language.md",
+    "templates/SQL Temp.md",
+    "SQL/ABC.md",
     "templates/Angular Temp.md",
     "AP1/Alle AP1 Notes.md",
     "AP1/IT-Sicherheit/AES.md",
@@ -193,9 +196,6 @@
     "SQL",
     "Lernfeld 9/Switching.md",
     "Lernfeld 9/Switch.md",
-    "Lernfeld 9/Ethernet Frame.md",
-    "Lernfeld 9/DNS.md",
-    "Lernfeld 9/DHCP.md",
     "Excalidraw",
     "Angular",
     "Lernfeld 7/Bilder/Abfullen.png",

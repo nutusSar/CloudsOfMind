@@ -12,4 +12,7 @@ Dabei wird eine Unabhängigkeit der Anwendung vom eingesetzten DBMS angestrebt.
 ## Sprachelemente
 **Es gibt folgende drei Kategorien:**
 + DML (Data Manipulation Language): Datenmanipulation (Abfragen, Ändern, Einfügen, Löschen)
-+ DDL (Data Defini)
++ DDL (Data Definition Language): Definition des Datenbankschemas
++ DCL (Data Control Language): Rechteverwaltung und Transaktionskontrolle
+Die Ergebnisse einer Abfrage werden in Form einer Tabelle dargestellt und können auch so bearbeitet und weiterverwendet werden.
+
