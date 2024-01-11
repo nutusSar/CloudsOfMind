@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Statistikfunktionen.md",
+                "file": "AP1/IT-Sicherheit/Schadensprogramme.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Statistikfunktionen.md",
+                "file": "AP1/IT-Sicherheit/Schadensprogramme.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Statistikfunktionen.md",
+                "file": "AP1/IT-Sicherheit/Schadensprogramme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Statistikfunktionen.md"
+                "file": "AP1/IT-Sicherheit/Schadensprogramme.md"
               }
             }
           },
@@ -182,9 +182,9 @@
   },
   "active": "8e5e50338aabb076",
   "lastOpenFiles": [
+    "SQL/Statistikfunktionen.md",
     "SQL/SQL Statements.md",
     "SQL/SQL.md",
-    "SQL/Statistikfunktionen.md",
     "SQL/Spaltenausdrücke.md",
     "SQL/SELECT und FROM.md",
     "SQL/SQL - Structured Query Language.md",
