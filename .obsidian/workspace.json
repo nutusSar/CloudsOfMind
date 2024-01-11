@@ -23,9 +23,11 @@
             "id": "8e5e50338aabb076",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "SQL/Statistikfunktionen.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Spaltenausdrücke.md",
+                "file": "SQL/Statistikfunktionen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Spaltenausdrücke.md",
+                "file": "SQL/Statistikfunktionen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Spaltenausdrücke.md"
+                "file": "SQL/Statistikfunktionen.md"
               }
             }
           },
