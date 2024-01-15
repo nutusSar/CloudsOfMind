@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/SQL Statements.md",
+                "file": "Lernfeld 9/DHCP.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQL Statements.md",
+                "file": "Lernfeld 9/DHCP.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SQL Statements.md",
+                "file": "Lernfeld 9/DHCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SQL Statements.md"
+                "file": "Lernfeld 9/DHCP.md"
               }
             }
           },
@@ -180,12 +180,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e5e50338aabb076",
+  "active": "740dda16f3245ff6",
   "lastOpenFiles": [
+    "Lernfeld 9/Switching.md",
+    "SQL/SQL Statements.md",
     "SQL/Spaltenausdrücke.md",
     "AP1/IT-Sicherheit/Schadensprogramme.md",
     "SQL/Statistikfunktionen.md",
-    "SQL/SQL Statements.md",
     "SQL/SQL.md",
     "SQL/SELECT und FROM.md",
     "SQL/SQL - Structured Query Language.md",
@@ -208,7 +209,6 @@
     "Angular/Angular.md",
     "Protokolle/Protokolle.md",
     "SQL",
-    "Lernfeld 9/Switching.md",
     "Excalidraw",
     "Angular",
     "Lernfeld 7/Bilder/Abfullen.png",

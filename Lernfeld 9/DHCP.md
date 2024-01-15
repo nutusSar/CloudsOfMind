@@ -20,7 +20,7 @@ DORA:
 2. **DHCP OFFER**
 	* Server: "Ich bin einer und hätte die 10.x.y.z für dich."
 3. **DHCP REQUEST**
-	* Client: "Danke, die nehme ich"
+	* Client: "Danke, die hätte ich gerne"
 4. **DHCP ACK**
 	* Server: "OK, ist eingetragen"
 
