@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lernfeld 9/DHCP.md",
+                "file": "SQL/Spaltenausdrücke.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lernfeld 9/DHCP.md",
+                "file": "SQL/Spaltenausdrücke.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lernfeld 9/DHCP.md"
+                "file": "SQL/Spaltenausdrücke.md"
               }
             }
           },
