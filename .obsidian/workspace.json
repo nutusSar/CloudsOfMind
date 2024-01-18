@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lernfeld 9/DHCP.md",
+                "file": "Lernfeld 3/Wie funktionieren Netzwerke.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Spaltenausdrücke.md",
+                "file": "Lernfeld 3/Wie funktionieren Netzwerke.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Spaltenausdrücke.md",
+                "file": "Lernfeld 3/Wie funktionieren Netzwerke.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Spaltenausdrücke.md"
+                "file": "Lernfeld 3/Wie funktionieren Netzwerke.md"
               }
             }
           },
@@ -180,11 +180,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "740dda16f3245ff6",
+  "active": "8e5e50338aabb076",
   "lastOpenFiles": [
+    "Lernfeld 3/Netzwerkgrundlagen Übersicht.md",
+    "Lernfeld 3/Wie funktionieren Netzwerke.md",
+    "Lernfeld 9/Ethernet Frame.md",
+    "Lernfeld 9/DNS.md",
+    "Lernfeld 9/DHCP.md",
+    "Lernfeld 9/Cisco Config CheatSheet.md",
+    "Lernfeld 9/Cisco.md",
+    "SQL/Spaltenausdrücke.md",
+    "Lernfeld 3",
     "Lernfeld 9/Switching.md",
     "SQL/SQL Statements.md",
-    "SQL/Spaltenausdrücke.md",
     "AP1/IT-Sicherheit/Schadensprogramme.md",
     "SQL/Statistikfunktionen.md",
     "SQL/SQL.md",
@@ -201,13 +209,6 @@
     "AP1/IT-Sicherheit/Hashverfahren.md",
     "AP1/IT-Sicherheit/HTTPS & TLS.md",
     "AP1/IT-Sicherheit/Informationssicherheit.md",
-    "AP1/IT-Sicherheit/Kryptographie.md",
-    "AP1/IT-Sicherheit/Schutzziele.md",
-    "AP1/IT-Sicherheit/Verschlüsselung.md",
-    "AP1/IT-Sicherheit/Vigenere-Ciffre.md",
-    "index.md",
-    "Angular/Angular.md",
-    "Protokolle/Protokolle.md",
     "SQL",
     "Excalidraw",
     "Angular",
@@ -227,7 +228,6 @@
     "Pasted image 20231117123856.png",
     "AP1/Bilder",
     "templates",
-    "AP1/IT-Sicherheit",
     "Untitled.canvas"
   ]
 }
