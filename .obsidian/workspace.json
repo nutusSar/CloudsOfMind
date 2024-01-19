@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lernfeld 3/Wie funktionieren Netzwerke.md",
+                "file": "Sozialkunde/Besitz und Eigentum.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lernfeld 3/Wie funktionieren Netzwerke.md",
+                "file": "Sozialkunde/Besitz und Eigentum.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lernfeld 3/Wie funktionieren Netzwerke.md",
+                "file": "Sozialkunde/Besitz und Eigentum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lernfeld 3/Wie funktionieren Netzwerke.md"
+                "file": "Sozialkunde/Besitz und Eigentum.md"
               }
             }
           },
@@ -182,9 +182,9 @@
   },
   "active": "8e5e50338aabb076",
   "lastOpenFiles": [
+    "Lernfeld 3/Wie funktionieren Netzwerke.md",
     "Lernfeld 3/Netzwerkgrundlagen Übersicht.md",
     "Lernfeld 9/Switch.md",
-    "Lernfeld 3/Wie funktionieren Netzwerke.md",
     "Lernfeld 9/Ethernet Frame.md",
     "Lernfeld 9/DNS.md",
     "Lernfeld 9/DHCP.md",
