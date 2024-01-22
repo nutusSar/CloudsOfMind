@@ -25,14 +25,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sozialkunde/Besitz und Eigentum.md",
+                "file": "Lernfeld 9/NAT Network Address Translation Protokoll.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "33803364104138be",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-22 14.31.59.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sozialkunde/Besitz und Eigentum.md",
+                "file": "Excalidraw/Drawing 2024-01-22 14.31.59.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sozialkunde/Besitz und Eigentum.md",
+                "file": "Excalidraw/Drawing 2024-01-22 14.31.59.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sozialkunde/Besitz und Eigentum.md"
+                "file": "Excalidraw/Drawing 2024-01-22 14.31.59.excalidraw.md"
               }
             }
           },
@@ -180,19 +190,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e5e50338aabb076",
+  "active": "33803364104138be",
   "lastOpenFiles": [
+    "Lernfeld 9/NAT Network Address Translation Protokoll.md",
+    "Excalidraw/Drawing 2024-01-22 14.31.59.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-22 14.50.27.excalidraw.md",
+    "Excalidraw",
+    "Lernfeld 9/Cisco.md",
+    "Lernfeld 9/Cisco Config CheatSheet.md",
+    "Lernfeld 9/DHCP.md",
+    "Lernfeld 9/DNS.md",
+    "Lernfeld 9/Ethernet Frame.md",
+    "Lernfeld 9/Switch.md",
+    "Lernfeld 9/Switching.md",
+    "Protokolle/Protokolle.md",
+    "Sozialkunde/Besitz und Eigentum.md",
     "Lernfeld 3/Wie funktionieren Netzwerke.md",
     "Lernfeld 3/Netzwerkgrundlagen Übersicht.md",
-    "Lernfeld 9/Switch.md",
-    "Lernfeld 9/Ethernet Frame.md",
-    "Lernfeld 9/DNS.md",
-    "Lernfeld 9/DHCP.md",
-    "Lernfeld 9/Cisco Config CheatSheet.md",
-    "Lernfeld 9/Cisco.md",
     "SQL/Spaltenausdrücke.md",
     "Lernfeld 3",
-    "Lernfeld 9/Switching.md",
     "SQL/SQL Statements.md",
     "AP1/IT-Sicherheit/Schadensprogramme.md",
     "SQL/Statistikfunktionen.md",
@@ -204,13 +220,7 @@
     "templates/Angular Temp.md",
     "AP1/Alle AP1 Notes.md",
     "AP1/IT-Sicherheit/AES.md",
-    "AP1/IT-Sicherheit/Caesar-Verschlüsselung.md",
-    "AP1/IT-Sicherheit/Digitale Signaturen & Zertifikate.md",
-    "AP1/IT-Sicherheit/Hacker, Cracker, Script-Kiddies.md",
-    "AP1/IT-Sicherheit/Hashverfahren.md",
-    "AP1/IT-Sicherheit/HTTPS & TLS.md",
     "SQL",
-    "Excalidraw",
     "Angular",
     "Lernfeld 7/Bilder/Abfullen.png",
     "Lernfeld 7/Bilder/Screenshot_2023-11-13_130000.png",
