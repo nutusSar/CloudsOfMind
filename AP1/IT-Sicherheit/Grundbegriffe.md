@@ -55,3 +55,54 @@ Der Begriff "Cracker" wird oft synonym mit "Hacker" verwendet, obwohl es Untersc
 
 ### Script-Kiddies
 Script-Kiddies sind unerfahrene Personen, die vorgefertigte Skripte oder Tools verwenden, um Cyberangriffe durchzuführen. Im Gegensatz zu professionellen Hackern fehlt ihnen oft das Verständnis für die zugrunde liegende Technik. Ihr Handeln basiert auf Nachahmung und nicht auf tiefem Verständnis der Systeme, die sie angreifen.
+
+## Netzwerkangriffe und Täuschungstechniken
+
+### Spam
+Unerwünschte Massen-E-Mails oder Nachrichten, die an eine große Anzahl von Empfängern gesendet werden. Das Hauptziel ist oft Werbung, aber es kann auch schädlichen Code oder betrügerische Inhalte enthalten.
+
+### Phishing
+Betrügerische Methode, bei der Angreifer vorgeben, legitime Entitäten zu sein, um persönliche Informationen wie Benutzernamen, Passwörter oder Finanzdaten von ahnungslosen Opfern zu stehlen. Dies geschieht oft über gefälschte E-Mails oder Websites.
+
+### Sniffing
+Abfangen und Überwachen von Netzwerkdatenverkehr. Dies kann dazu verwendet werden, sensible Informationen wie Benutzernamen und Passwörter zu erfassen. Sniffing ist besonders gefährlich in ungesicherten Netzwerken.
+
+### Spoofing
+Manipulation von Datenpaketen oder Identitätsinformationen, um vorzutäuschen, dass sie von einer vertrauenswürdigen Quelle stammen. Spoofing kann bei E-Mails, IP-Adressen oder Webseiten auftreten und dient oft dazu, betrügerische Aktivitäten zu verschleiern.
+
+### Man-in-the-Middle-Angriff
+Ein Angriff, bei dem ein Angreifer den Datenverkehr zwischen zwei Parteien abfängt und möglicherweise manipuliert, ohne dass die Kommunikationspartner dies bemerken. Dies kann zu Diebstahl von sensiblen Informationen führen.
+
+## Webanwendungsangriffe und Netzwerküberlastungen
+
+### SQL-Injection
+Injektion schädlicher SQL-Codefragmente in Anwendungen, um auf Datenbanken zuzugreifen oder diese zu manipulieren.
+
+### XSS (Cross-Site Scripting)
+Einschleusen von bösartigem Skriptcode in Webseiten, der dann von anderen Benutzern ausgeführt wird.
+
+### CSRF (Cross-Site Request Forgery)
+Manipulation von Nutzeranfragen, um ungewollte Aktionen im Namen des authentifizierten Benutzers durchzuführen.
+
+### Session Hijacking
+Übernahme einer laufenden Benutzersitzung, um unberechtigten Zugriff auf geschützte Bereiche zu erhalten.
+
+### DoS (Denial of Service)
+Gezielte Überlastung eines Systems, um die Verfügbarkeit für legitime Benutzer zu beeinträchtigen.
+
+### DDoS (Distributed Denial of Service)
+Koordination von Angriffen aus verschiedenen Quellen, um die Ressourcen eines Systems zu überlasten und es unzugänglich zu machen.
+
+## Sicherheitsbedrohungen und Exploits
+
+### Backdoor
+Versteckter Zugangspunkt zu einem Computersystem, der von Angreifern genutzt wird, um unbefugten Zugriff zu erhalten.
+
+### Exploit
+Ein Softwarecode oder Mechanismus, der eine Sicherheitslücke ausnutzt, um unerlaubten Zugriff auf ein System zu erlangen oder schädliche Aktionen durchzuführen.
+
+### 0-Day-Exploit
+Ausnutzung einer Sicherheitslücke, die den Entwicklern noch nicht bekannt ist oder für die es noch keinen Patch gibt.
+
+### Rootkit
+Sammlung von Tools und Techniken, die dazu dienen, die Existenz und Aktivitäten eines Eindringlings auf einem System zu verbergen. Rootkits können auch dazu verwendet werden, unbemerkt auf administrative Kontrollen zuzugreifen.
