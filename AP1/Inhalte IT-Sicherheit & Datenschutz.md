@@ -7,7 +7,7 @@
 + - [x] Integrität
 + - [x] Authentizität
 + - [x] Verfügbarkeit
-### [Maßnahmen zur Informationssicherheit](Informationssicherheit)
+### [Informationssicherheit](Informationssicherheit.md)
 + - [ ] Organisatorische Maßnahmen z.B. IT-Sicherheitsbeauftragter im Betrieb, Erstellung einer IT-Sicherheitsrichtlinie, z.B. Passwort-Policy
 + - [ ] Technische Maßnahmen z.B. Virenschutzsystem, Firewall, Anti-Spam
 + - [ ] Personelle Maßnahmen, Sicherheitsbewusstsein herstellen
