@@ -41,6 +41,6 @@ Die Sicherheit von TANs hängt von dem Medium ab, über welches diese ausgetausc
 ## CAPTCHAs ( Completely Automated Public Turing test to tell Computers and Humans Apart)
 CAPTCHAs sind Tests / Aufgaben, die es zu lösen gilt, um sicherzustellen dass ein menschlicher Benutzer die Interaktionen ausführt.
 Sie sollen es erschweren, dass bestimmte Interaktionen von dritten automatisiert werden.
-Die Sicherheit von Captchas 
+Die Sicherheit von Captchas hängt von der Vielfalt und der Komplexität der Aufgaben ab.
 
 

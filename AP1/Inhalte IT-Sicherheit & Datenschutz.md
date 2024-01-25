@@ -8,10 +8,10 @@
 + - [x] Authentizität
 + - [x] Verfügbarkeit
 ### [Informationssicherheit](Informationssicherheit.md)
-+ - [ ] Organisatorische Maßnahmen z.B. IT-Sicherheitsbeauftragter im Betrieb, Erstellung einer IT-Sicherheitsrichtlinie, z.B. Passwort-Policy
-+ - [ ] Technische Maßnahmen z.B. Virenschutzsystem, Firewall, Anti-Spam
-+ - [ ] Personelle Maßnahmen, Sicherheitsbewusstsein herstellen
-+ - [ ] Passwörter, PINs, TANs, Captchas erklären und Komplexität/Sicherheit berechnen
++ - [x] Organisatorische Maßnahmen z.B. IT-Sicherheitsbeauftragter im Betrieb, Erstellung einer IT-Sicherheitsrichtlinie, z.B. Passwort-Policy
++ - [x] Technische Maßnahmen z.B. Virenschutzsystem, Firewall, Anti-Spam
++ - [x] Personelle Maßnahmen, Sicherheitsbewusstsein herstellen
++ - [x] Passwörter, PINs, TANs, Captchas erklären und Komplexität/Sicherheit berechnen
 ### Nomen und Branchenstandards zur Informationssicherheit z.B.
 + - [ ] ISO 27001
 + - [ ] ISO 27002

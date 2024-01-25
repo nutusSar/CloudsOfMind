@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/IT-Sicherheit/Informationssicherheit.md",
+                "file": "AP1/IT-Sicherheit/Grundbegriffe.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/IT-Sicherheit/Informationssicherheit.md",
+                "file": "AP1/IT-Sicherheit/Grundbegriffe.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/IT-Sicherheit/Informationssicherheit.md",
+                "file": "AP1/IT-Sicherheit/Grundbegriffe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/IT-Sicherheit/Informationssicherheit.md"
+                "file": "AP1/IT-Sicherheit/Grundbegriffe.md"
               }
             }
           },
@@ -169,15 +169,21 @@
   },
   "active": "89d978b6aad785a7",
   "lastOpenFiles": [
+    "AP1/IT-Sicherheit/Hacker, Cracker, Script-Kiddies.md",
+    "AP1/IT-Sicherheit/Grundbegriffe.md",
+    "AP1/IT-Sicherheit/Hashverfahren.md",
+    "AP1/IT-Sicherheit/Vigenere-Ciffre.md",
+    "AP1/IT-Sicherheit/Verschlüsselung.md",
+    "AP1/IT-Sicherheit/AES.md",
+    "AP1/IT-Sicherheit/Caesar-Verschlüsselung.md",
+    "AP1/IT-Sicherheit/Digitale Signaturen & Zertifikate.md",
+    "AP1/IT-Sicherheit/HTTPS & TLS.md",
+    "AP1/IT-Sicherheit/Kryptographie.md",
+    "AP1/IT-Sicherheit/Informationssicherheit.md",
+    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
     "SQL/Spaltenausdrücke.md",
     "Lernfeld 9/NAT Network Address Translation Protokoll.md",
-    "AP1/IT-Sicherheit/Vigenere-Ciffre.md",
     "AP1/IT-Sicherheit/Schutzziele.md",
-    "AP1/IT-Sicherheit/Kryptographie.md",
-    "AP1/IT-Sicherheit/Hacker, Cracker, Script-Kiddies.md",
-    "AP1/IT-Sicherheit/Hashverfahren.md",
-    "AP1/IT-Sicherheit/Caesar-Verschlüsselung.md",
-    "AP1/IT-Sicherheit/AES.md",
     "Excalidraw/Drawing 2024-01-22 14.31.59.excalidraw.md",
     "Excalidraw/Drawing 2024-01-22 14.50.27.excalidraw.md",
     "Excalidraw",
@@ -190,13 +196,7 @@
     "Lernfeld 9/Switching.md",
     "Protokolle/Protokolle.md",
     "Sozialkunde/Besitz und Eigentum.md",
-    "Lernfeld 3/Wie funktionieren Netzwerke.md",
-    "Lernfeld 3/Netzwerkgrundlagen Übersicht.md",
     "Lernfeld 3",
-    "SQL/SQL Statements.md",
-    "AP1/IT-Sicherheit/Schadensprogramme.md",
-    "SQL/Statistikfunktionen.md",
-    "SQL/SQL.md",
     "SQL",
     "Angular",
     "Lernfeld 7/Bilder/Abfullen.png",
