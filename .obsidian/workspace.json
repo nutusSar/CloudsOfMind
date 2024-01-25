@@ -13,36 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Spaltenausdrücke.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e5e50338aabb076",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lernfeld 9/NAT Network Address Translation Protokoll.md",
+                "file": "AP1/IT-Sicherheit/Informationssicherheit.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "33803364104138be",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-01-22 14.31.59.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-22 14.31.59.excalidraw.md",
+                "file": "AP1/IT-Sicherheit/Informationssicherheit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-22 14.31.59.excalidraw.md",
+                "file": "AP1/IT-Sicherheit/Informationssicherheit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-22 14.31.59.excalidraw.md"
+                "file": "AP1/IT-Sicherheit/Informationssicherheit.md"
               }
             }
           },
@@ -190,9 +167,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "33803364104138be",
+  "active": "89d978b6aad785a7",
   "lastOpenFiles": [
+    "SQL/Spaltenausdrücke.md",
     "Lernfeld 9/NAT Network Address Translation Protokoll.md",
+    "AP1/IT-Sicherheit/Vigenere-Ciffre.md",
+    "AP1/IT-Sicherheit/Schutzziele.md",
+    "AP1/IT-Sicherheit/Kryptographie.md",
+    "AP1/IT-Sicherheit/Hacker, Cracker, Script-Kiddies.md",
+    "AP1/IT-Sicherheit/Hashverfahren.md",
+    "AP1/IT-Sicherheit/Caesar-Verschlüsselung.md",
+    "AP1/IT-Sicherheit/AES.md",
     "Excalidraw/Drawing 2024-01-22 14.31.59.excalidraw.md",
     "Excalidraw/Drawing 2024-01-22 14.50.27.excalidraw.md",
     "Excalidraw",
@@ -207,19 +192,11 @@
     "Sozialkunde/Besitz und Eigentum.md",
     "Lernfeld 3/Wie funktionieren Netzwerke.md",
     "Lernfeld 3/Netzwerkgrundlagen Übersicht.md",
-    "SQL/Spaltenausdrücke.md",
     "Lernfeld 3",
     "SQL/SQL Statements.md",
     "AP1/IT-Sicherheit/Schadensprogramme.md",
     "SQL/Statistikfunktionen.md",
     "SQL/SQL.md",
-    "SQL/SELECT und FROM.md",
-    "SQL/SQL - Structured Query Language.md",
-    "templates/SQL Temp.md",
-    "SQL/ABC.md",
-    "templates/Angular Temp.md",
-    "AP1/Alle AP1 Notes.md",
-    "AP1/IT-Sicherheit/AES.md",
     "SQL",
     "Angular",
     "Lernfeld 7/Bilder/Abfullen.png",
