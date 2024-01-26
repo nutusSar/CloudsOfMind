@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/IT-Sicherheit/Hashverfahren.md",
+                "file": "AP1/IT-Sicherheit/Secure Protokolle im Überblick.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/IT-Sicherheit/Hashverfahren.md",
+                "file": "AP1/IT-Sicherheit/Secure Protokolle im Überblick.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/IT-Sicherheit/Hashverfahren.md",
+                "file": "AP1/IT-Sicherheit/Secure Protokolle im Überblick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/IT-Sicherheit/Hashverfahren.md"
+                "file": "AP1/IT-Sicherheit/Secure Protokolle im Überblick.md"
               }
             }
           },
@@ -167,23 +167,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "89d978b6aad785a7",
+  "active": "740dda16f3245ff6",
   "lastOpenFiles": [
-    "AP1/IT-Sicherheit/Verschlüsselung.md",
-    "AP1/IT-Sicherheit/Grundbegriffe.md",
+    "AP1/IT-Sicherheit/Authentifizierung und Zertifikate.md",
     "AP1/IT-Sicherheit/Hashverfahren.md",
+    "AP1/IT-Sicherheit/Verschlüsselung.md",
+    "AP1/IT-Sicherheit/Kryptographie.md",
+    "AP1/IT-Sicherheit/Grundbegriffe.md",
+    "AP1/IT-Sicherheit/Schutzziele.md",
+    "AP1/IT-Sicherheit/Informationssicherheit.md",
+    "AP1/IT-Sicherheit/Secure Protokolle im Überblick.md",
+    "AP1/IT-Sicherheit/HTTPS & TLS.md",
+    "AP1/IT-Sicherheit/Hacker, Cracker, Script-Kiddies.md",
     "AP1/IT-Sicherheit/Caesar-Verschlüsselung.md",
     "AP1/IT-Sicherheit/AES.md",
-    "AP1/IT-Sicherheit/Hacker, Cracker, Script-Kiddies.md",
-    "AP1/IT-Sicherheit/Kryptographie.md",
     "AP1/IT-Sicherheit/Vigenere-Ciffre.md",
-    "AP1/IT-Sicherheit/Digitale Signaturen & Zertifikate.md",
-    "AP1/IT-Sicherheit/HTTPS & TLS.md",
-    "AP1/IT-Sicherheit/Informationssicherheit.md",
     "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
     "SQL/Spaltenausdrücke.md",
     "Lernfeld 9/NAT Network Address Translation Protokoll.md",
-    "AP1/IT-Sicherheit/Schutzziele.md",
     "Excalidraw/Drawing 2024-01-22 14.31.59.excalidraw.md",
     "Excalidraw/Drawing 2024-01-22 14.50.27.excalidraw.md",
     "Excalidraw",
@@ -195,7 +196,6 @@
     "Lernfeld 9/Switch.md",
     "Lernfeld 9/Switching.md",
     "Protokolle/Protokolle.md",
-    "Sozialkunde/Besitz und Eigentum.md",
     "Lernfeld 3",
     "SQL",
     "Angular",
