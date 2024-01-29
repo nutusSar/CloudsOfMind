@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/IT-Sicherheit/Informationssicherheit.md",
+                "file": "Lernfeld 8/ERM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c8ec330b6822bde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lernfeld 8/ERM.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/IT-Sicherheit/Informationssicherheit.md",
+                "file": "Lernfeld 8/ERM.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/IT-Sicherheit/Informationssicherheit.md",
+                "file": "Lernfeld 8/ERM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/IT-Sicherheit/Informationssicherheit.md"
+                "file": "Lernfeld 8/ERM.md"
               }
             }
           },
@@ -167,10 +180,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "89d978b6aad785a7",
+  "active": "3c8ec330b6822bde",
   "lastOpenFiles": [
-    "AP1/IT-Sicherheit/Schutzziele.md",
+    "Lernfeld 8/Bilder/Pasted image 20240129123841.png",
+    "Lernfeld 8/Bilder",
+    "Lernfeld 8/Untitled.md",
+    "Lernfeld 8/ERM.md",
+    "Lernfeld 8/Bilder/Pasted image 20240129122859.png",
+    "Excalidraw/Drawing 2024-01-29 12.23.56.excalidraw.md",
     "AP1/IT-Sicherheit/Informationssicherheit.md",
+    "Lernfeld 8",
+    "AP1/IT-Sicherheit/Schutzziele.md",
     "AP1/IT-Sicherheit/Grundbegriffe.md",
     "AP1/IT-Sicherheit/Kryptographie.md",
     "AP1/IT-Sicherheit/Verschlüsselung.md",
@@ -192,10 +212,6 @@
     "Lernfeld 9/Cisco Config CheatSheet.md",
     "Lernfeld 9/DHCP.md",
     "Lernfeld 9/DNS.md",
-    "Lernfeld 9/Ethernet Frame.md",
-    "Lernfeld 9/Switch.md",
-    "Lernfeld 9/Switching.md",
-    "Protokolle/Protokolle.md",
     "Lernfeld 3",
     "SQL",
     "Angular",
@@ -212,9 +228,6 @@
     "AP1/Bilder/Pasted image 20231117115423.png",
     "AP1/Bilder/Pasted image 20231117130233.png",
     "Pasted image 20231117125953.png",
-    "Pasted image 20231117123856.png",
-    "AP1/Bilder",
-    "templates",
     "Untitled.canvas"
   ]
 }
