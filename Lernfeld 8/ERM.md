@@ -41,11 +41,11 @@ Krankenhaus (<u>Krankenhausnummer</u>, Namen, Anschrift, AnzahlBetten)
 
 Arzt (<u>PersonalnummerAZ</u>, Namen, Adresse, Fachgebiet, *Krankenhausnummer*)
 
-Patient (<u>Patientennummer</u>, Namen, Geschlecht, Adresse, Geburtsdatum, Station, *Personalnummer*)
+Patient (<u>Patientennummer</u>, Namen, Geschlecht, Adresse, Geburtsdatum, Station, *PersonalnummerAZ*, *Zimmernummer*)
 
 Labor (<u>Labornummer</u>, Namen, Anschrift, Telefonnummer)
 
-LaborKrankenhaus (*Labornummer*, *Krankenhausnummer*)
+LaborKrankenhaus (<u>Labornummer, Krankenhausnummer</u>)
 
 Test (<u>Testcode</u>, Typenstatus, Datum, *Labornummer*, *Patientennummer*)
 
@@ -53,7 +53,13 @@ Pflegepersonal (<u>PersonalnummerPF</u>, Name, Adresse, Geschlecht, Station, Alt
 
 Zimmer (<u>Zimmernummer</u>, Bettenanzahl, *Krankenhausnummer*, *PersonalnummerPF*)
 
+Krankheit (<u>NameKR</u>, Symptome, Status)
 
+PatientKrankheit (<u>Patientennummer, NameKR</u>)
+
+Medikament (<u>NamenMD</u>, Preis, Bestand, Lieferanten)
+
+PatientMedikament (<u>Patientennummer, NamenMD</u>)
 
 
 
