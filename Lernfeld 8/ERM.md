@@ -32,4 +32,28 @@ Wunsch (<u>WNr</u>, Wunsch, *KNr*, *ONr*)
 
 Kind (<u>KNr</u>, Alter, Name, Adresse)
 
-<span style="text-decoration: overline">test</span>
+## Aufgabe 3
+![[Pasted image 20240131120636.png]]
+
+### Teil 1
+### Teil 2
+Krankenhaus (<u>Krankenhausnummer</u>, Namen, Anschrift, AnzahlBetten)
+
+Arzt (<u>PersonalnummerAZ</u>, Namen, Adresse, Fachgebiet, *Krankenhausnummer*)
+
+Patient (<u>Patientennummer</u>, Namen, Geschlecht, Adresse, Geburtsdatum, Station, *Personalnummer*)
+
+Labor (<u>Labornummer</u>, Namen, Anschrift, Telefonnummer)
+
+LaborKrankenhaus (*Labornummer*, *Krankenhausnummer*)
+
+Test (<u>Testcode</u>, Typenstatus, Datum, *Labornummer*, *Patientennummer*)
+
+Pflegepersonal (<u>PersonalnummerPF</u>, Name, Adresse, Geschlecht, Station, Alter)
+
+Zimmer (<u>Zimmernummer</u>, Bettenanzahl, *Krankenhausnummer*, *PersonalnummerPF*)
+
+
+
+
+
