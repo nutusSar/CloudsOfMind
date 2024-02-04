@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lernfeld 8/ERM.md",
+                "file": "Lernfeld 8/SQL Befehle auf einer Tabelle.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lernfeld 8/ERM.md",
+                "file": "Lernfeld 8/SQL Befehle auf einer Tabelle.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lernfeld 8/ERM.md",
+                "file": "Lernfeld 8/SQL Befehle auf einer Tabelle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lernfeld 8/ERM.md"
+                "file": "Lernfeld 8/SQL Befehle auf einer Tabelle.md"
               }
             }
           },
@@ -180,13 +180,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "740dda16f3245ff6",
+  "active": "3c8ec330b6822bde",
   "lastOpenFiles": [
+    "Lernfeld 8/ERM.md",
+    "Lernfeld 8/SQL Befehle auf einer Tabelle.md",
     "Lernfeld 8/Bilder/Pasted image 20240131120636.png",
     "Lernfeld 8/Bilder/Pasted image 20240129123841.png",
     "Lernfeld 8/Bilder",
-    "Lernfeld 8/Untitled.md",
-    "Lernfeld 8/ERM.md",
     "Lernfeld 8/Bilder/Pasted image 20240129122859.png",
     "Excalidraw/Drawing 2024-01-29 12.23.56.excalidraw.md",
     "AP1/IT-Sicherheit/Informationssicherheit.md",
@@ -227,7 +227,6 @@
     "µ-Controller/Bilder/Pasted image 20231119160912.png",
     "µ-Controller",
     "AP1/Bilder/Pasted image 20231117115423.png",
-    "AP1/Bilder/Pasted image 20231117130233.png",
     "Untitled.canvas"
   ]
 }
