@@ -20,6 +20,12 @@ Folgende Komponenten wurden für die Umsetzung der Wetterstation benötigt:
 + OLED-Display
 + Platinen, welche von Herr. Wintgen angefertigt wurden (Bluetooth- und OLED-Shield).
 
+
+## Aufbau der Projektstruktur
++ **WetterStation.ino:** Eigentlicher Programmcode für den ESP8266
++ **IndexPage.h:** HTML und JS für die Webseite
++ **Moon.h, Sun.h, WaterDroplets.h, SnowFlake.h und Flame.h:** Grafiken, die auf dem Display dargestellt werden.
+
 ## Programm
 Die Umsetzung der Grundanforderung gestaltete sich als relativ einfach mit wenigen Problemen, da das Unterrichtsmaterial gute Dokumentationen und Tipps zur Umsetzung dieser bereitstellte.
 
@@ -140,3 +146,23 @@ Nachdem ich mich mit D3.js vertraut gemacht hatte, erstellte ich die gewünschte
 ![[Pasted image 20240205010441.png]](Leeres Wetterdiagramm, letzten 24h mit Luftfeuchtigkeit auf der linken Seite und Temperatur auf der rechten)
 
 #### Schritt 2
+Nachdem ich das Diagramm verbessert und erste Dummydaten getestet hatte, fügte ich den Code zur Ergänzung der Webseite als Datei meinem ESP8266-Projekt hinzu. Diese Datei speicherte ich in einer Variable im PROGMEM-Bereich des Programms. Damit war die Webseite und das Diagramm direkt im Programm des ESP8266 enthalten und konnten bei Bedarf einfach abgerufen und angezeigt werden, ohne auf externe Ressourcen zugreifen zu müssen.
+![[Pasted image 20240205011211.png]]
+(Endgültiges aussehen des Diagrammes)
+
+![[Pasted image 20240205010859.png]](Vorbild des Diagrammes (https://www.klimadiagramme.de/Deutschland/Plots/freiburg.gif))
+
+#### Schritt 3
+Im letzten Schritt erstellte ich ein Array mit 194 Plätzen, wobei jeder Platz zwei Werte für Temperatur und Luftfeuchtigkeit enthält. Da alle 15 Minuten eine Messung erfolgt, ergibt sich dies aus 24 Stunden multipliziert mit 4 Messungen pro Stunde und 2 Werten pro Messung. In der Webseite fügte ich entsprechenden JavaScript-Code hinzu, der mithilfe des zuletzt gespeicherten Index das Array rückwärts auswertet und die Werte zum richtigen Zeitpunkt in das Diagramm einträgt. Diese Datenverarbeitung findet im Browser statt, da dieser auf leistungsfähigeren Geräten ausgeführt wird als der ESP8266 und somit besser geeignet ist, um die erforderlichen Berechnungen durchzuführen.
+
+## Verbesserung 
+Zur Verbesserung des Projekts gibt es zwei entscheidende Punkte. Zum einen wäre die Erweiterung des ESP8266 um mehr Speicher, um eine noch langfristigere Historie der Wetterdaten zu ermöglichen. Dadurch könnten mehr Daten über längere Zeiträume gespeichert und analysiert werden, was eine detailliertere Auswertung und bessere Vorhersagen ermöglichen würde.
+
+Zum anderen wäre die Anpassung des ESP8266-Codes für die Bildung von Durchschnittswerten anstatt von Rohwerten ein wichtiger Schritt. Durch die Berechnung von Durchschnittswerten über einen bestimmten Zeitraum könnten genauere und stabilerere Daten erfasst werden, was die Genauigkeit der Wettervorhersage verbessern würde. Diese beiden Punkte würden das Projekt deutlich leistungsfähiger machen und seine Anwendungsbereiche erweitern.
+
+## Fazit
+Insgesamt war die Entwicklung und Umsetzung des Projekts "Wetterstation" äußerst lehrreich und spannend. Angefangen von der Einbindung verschiedener Sensoren bis hin zur Implementierung eines Webservers auf dem ESP8266 gab es zahlreiche Herausforderungen zu bewältigen. Die Entscheidung, die Wetterdaten nicht nur lokal auf dem Display, sondern auch über eine Webseite verfügbar zu machen, erwies sich als äußerst sinnvoll, da dies die Zugänglichkeit und Benutzerfreundlichkeit des Systems deutlich verbesserte.
+
+Die Integration von D3.js und Observable für die Erstellung des Wetterdiagramms stellte eine interessante Lösung dar und ermöglichte es, die gemessenen Daten ansprechend und interaktiv darzustellen. Die Tatsache, dass die Datenverarbeitung und Darstellung im Browser erfolgte, bot eine flexible und leistungsfähige Plattform für die Visualisierung der Wetterdaten.
+
+Insgesamt bin ich mit dem Ergebnis des Projekts sehr zufrieden und habe viel darüber gelernt, wie man komplexe Systeme mit Mikrocontrollern und Webtechnologien entwickeln kann. Das Projekt hat mein Verständnis für die Anwendung von IoT-Technologien erweitert und mir wertvolle Erfahrungen in der Entwicklung von Embedded-Systemen sowie in der Webentwicklung gebracht.
