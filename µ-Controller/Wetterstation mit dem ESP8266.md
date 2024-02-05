@@ -1,3 +1,6 @@
+---
+autor: Jonas Klas
+---
 
 ## Einleitung
 Im Unterrichtsfach "Microcontroller" haben wir den Auftrag erhalten, ein Projekt namens "Wetterstation" zu realisieren. Vor diesem Projekt haben wir uns intensiv mit verschiedenen Funktionen des ESP8266 befasst und haben uns mit der Arduino IDE vertraut gemacht. Zur Erweiterung des ESP8266 haben wir einen DHT11-Sensor sowie ein OLED-Display integriert.
@@ -19,6 +22,12 @@ Folgende Komponenten wurden für die Umsetzung der Wetterstation benötigt:
 
 ## Programm
 Die Umsetzung der Grundanforderung gestaltete sich als relativ einfach mit wenigen Problemen, da das Unterrichtsmaterial gute Dokumentationen und Tipps zur Umsetzung dieser bereitstellte.
+
+Es müssen vorab verschiedene Bibliotheken installiert und hinzugefügt werden:
++ Adafruit NeoPixel
++ Adafruit SSD1306
++ Adafruit Unified Sensor
++ DHT sensor library
 
 ### Messen von Werten
 #### Schritt 1
@@ -102,4 +111,32 @@ Im Code ergeben sich zwei Besonderheiten: Zum einen mussten die Bilder zuvor als
 (links der Default Zeichensatz, des Displays, rechts die CP 437 )
 
 ### Besonderheiten 
-Um die Daten nicht Permanent zu messen, wird ein Intervall v
+Um die Daten nicht permanent zu messen, wird ein Intervall von 10 Sekunden verwendet. In einer If-Bedingung wird überprüft, ob 10 Sekunden vergangen sind. Wenn dies der Fall ist, werden neue Werte gemessen und das Display entsprechend aktualisiert. Die Verwendung einer If-Bedingung anstelle eines Delays hat einen besonderen Grund, auf den ich später eingehen werde.
+
+### Fazit
+Die Grundanforderungen sind erfüllt: Es werden drei Werte in einem regelmäßigen Intervall gemessen und auf dem OLED-Display dargestellt, dabei werden sie mit Grafiken veranschaulicht. Die Umsetzung gestaltete sich als relativ einfach, da das bereitgestellte Lernmaterial alle nötigen Informationen und Kommandos beinhaltet. Die Darstellung der Werte auf dem Display lässt jedoch Raum für Verbesserungen, und eine eigene Webseite könnte eine ansprechendere Lösung bieten.
+
+
+## Erweiterung 
+
+### ESP8266 als Accesspoint 
+Für die Erweiterung unseres Projekts "Wetterstation" entschied ich mich, einen Webserver auf dem ESP8266 laufen zu lassen, um die Wetterdaten auch über eine geringe Entfernung zugänglich zu machen. Zunächst wählte ich die Option, den ESP als Access Point zu nutzen, was sich als äußerst praktisch erwies. Dadurch konnte ich eine direkte Verbindung zu meinem ESP herstellen, ohne auf ein bestehendes WLAN-Netzwerk angewiesen zu sein. Die Implementierung erfolgte reibungslos, und ich konnte die gemessenen Daten problemlos über einen Webbrowser auf meinem Handy abrufen.
+
+Das Schlüsselstück dieser Lösung war die Möglichkeit, eine Webseite direkt vom ESP an mein Handy zu senden. Dies ermöglichte es mir, die aktuellen Wetterdaten komfortabel und in Echtzeit auf meinem mobilen Gerät zu visualisieren. Diese Methode erwies sich als äußerst praktisch, da sie es mir erlaubte, die Wetterinformationen bequem von jedem Ort aus abzurufen, solange ich mich in Reichweite des ESP befand. Diese Erweiterung des Projekts verbesserte die Zugänglichkeit der Wetterdaten erheblich und trug zu einer insgesamt benutzerfreundlicheren Erfahrung bei.
+Nachdem ich den ESP als Access Point eingerichtet hatte und erfolgreich eine Verbindung zu meinem Handy herstellen konnte, wurde deutlich, wie wichtig es war, dass die Messung der Daten nicht blockierend war. Ein blockierender Messvorgang hätte zur Folge gehabt, dass der Webserver des ESP auf eingehende Anfragen nicht hätte antworten können. Daher war es entscheidend, eine nicht-blockierende Messung zu implementieren, um sicherzustellen, dass der ESP gleichzeitig sowohl die Daten erfassen als auch auf Anfragen reagieren konnte. Umgesetzt durch die vorhin genannte If-Bedingung, anstatt des Delays.
+
+### Erdkunde LK und das Wetterdiagramm
+Da ich Erdkunde als Leistungskurs hatte, war es mir wichtig, eine 24-Stunden-Historie der Wetterdaten mit der üblichen Diagrammdarstellung zu erstellen. Anfangs erwog ich die Verwendung von Matplotlib in Python für diese Aufgabe. Allerdings stieß ich schnell auf die Herausforderung, wie ich Python auf dem ESP8266 oder im Browser einsetzen könnte, was diese Idee unpraktikabel machte.
+
+Daraufhin kam mir die Idee, eine JavaScript-Library zu nutzen, um die Diagramme zu erstellen. Nach einigem Recherchieren entschied ich mich für die Verwendung von D3.js by Observables, einer Plattform für interaktive Datenvisualisierung und -analyse im Webbrowser. Diese Lösung schien ideal, da sie es mir ermöglichte, die Daten direkt im Browser zu visualisieren und gleichzeitig die Flexibilität und Leistungsfähigkeit von D3.js auszunutzen.
+
+### Das Problem mit ESP8266 als Accesspoint
+Jedoch ergab sich daraus ein Problem: Um diese Visualisierung in meine Webseite einzubinden, benötigte man einen Internetzugang. Das bedeutete, dass der ESP8266 nicht mehr als Access Point fungieren konnte, sondern sich stattdessen mit einem Access Point verbinden musste, der Internetzugang bereitstellt. Damit wurde die Konfiguration komplexer, da der ESP8266 nun in ein vorhandenes WLAN-Netzwerk eingewählt werden musste, um auf die erforderlichen Ressourcen und Daten zugreifen zu können.
+
+### Ergänzung des Codes
+
+#### Schritt 1
+Nachdem ich mich mit D3.js vertraut gemacht hatte, erstellte ich die gewünschte Vorlage des Wetterdiagramms. Allerdings fehlten zu diesem Zeitpunkt noch die tatsächlichen Messwerte. Ich konzentrierte mich zunächst darauf, die Struktur und das Design des Diagramms gemäß meinen Vorstellungen umzusetzen. Dies ermöglichte es mir, eine klare Vorstellung davon zu bekommen, wie die Daten später in das Diagramm integriert werden könnten, und erleichterte mir die weitere Entwicklung des Projekts.
+![[Pasted image 20240205010441.png]](Leeres Wetterdiagramm, letzten 24h mit Luftfeuchtigkeit auf der linken Seite und Temperatur auf der rechten)
+
+#### Schritt 2
