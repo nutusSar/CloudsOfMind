@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fd917aa52d7d86e2",
+        "id": "2476ffd81bc9759e",
         "type": "tabs",
         "children": [
           {
-            "id": "6292ee9b90900143",
+            "id": "e6adb667b7c74495",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/Directive.md",
-                "mode": "preview",
+                "file": "Lernfeld 9/Ethernet Frame.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "5c2cbcb20a05d1a3",
@@ -85,8 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/Directive.md",
-                "collapseAll": true,
+                "file": "Lernfeld 9/Ethernet Frame.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -97,25 +97,25 @@
             }
           },
           {
+            "id": "a6e6f7cf7454dacd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lernfeld 9/Ethernet Frame.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
             "id": "42bf7dfd1b7f1572",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "a6e6f7cf7454dacd",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Angular/Directive.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "useHierarchy": true
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular/Directive.md"
+                "file": "Lernfeld 9/Ethernet Frame.md"
               }
             }
           },
@@ -136,21 +136,13 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "3d8a5c9095187a48",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,58 +156,57 @@
       "obsidian42-brat:BRAT": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "cmdr:QuickAdd: IT-Sicherheit": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "6292ee9b90900143",
+  "active": "e6adb667b7c74495",
   "lastOpenFiles": [
-    "Angular/Service & Dependency Injection.md",
-    "Angular/Directive.md",
-    "Angular/CLI.md",
-    "Angular/Angular.md",
-    "Sozialkunde/Sozialkunde.md",
-    "Sozialkunde/Mutterschutz, Mutterschutzgesetz.md",
-    "Sozialkunde/Besitz und Eigentum.md",
-    "Sozialkunde/Berufsbildungsgesetz.md",
-    "Sozialkunde/Werbung.md",
-    "Sozialkunde/Themen der Klassenarbeit 11.12.2023.md",
-    "Lernfeld 7/Analyse OPC UA.md",
-    "µ-Controller/Wichtige Befehle.md",
-    "templates/Angular Temp.md",
-    "templates/µ-Controller Temp.md",
-    "templates/µ-Controller QuickADD.md",
-    "µ-Controller/µ-Controller.md",
-    "Lernfeld 9/DHCP.md",
-    "Angular",
-    "Lernfeld 9/Switching.md",
-    "Lernfeld 9/Switch.md",
-    "Lernfeld 9/Ethernet Frame.md",
-    "Lernfeld 9/DNS.md",
-    "Lernfeld 9/Cisco Config CheatSheet.md",
-    "Lernfeld 9/Cisco.md",
     "templates/index Temp.md",
+    "templates/Angular Temp.md",
     "index.md",
-    "templates/IT-Sicherheit.md",
-    "Lernfeld 7/Bilder/Abfullen.png",
+    "Sozialkunde/Werbung.md",
+    "Sozialkunde/Mutterschutz, Mutterschutzgesetz.md",
     "Lernfeld 7/Bilder/Screenshot_2023-11-13_130000.png",
-    "Lernfeld 7/Bilder",
     "Lernfeld 7/Bilder/Screenshot_2023-11-13_125930.png",
     "Lernfeld 7/Bilder/Screenshot_2023-11-13_125856.png",
+    "Lernfeld 7/Bilder/Abfullen.png",
+    "Lernfeld 7/Bilder",
+    "Lernfeld 7/Analyse OPC UA.md",
     "Lernfeld 7",
+    "Angular/Directive.md",
+    "Angular/Service & Dependency Injection.md",
+    "Angular/CLI.md",
+    "Angular/Angular.md",
+    "Angular",
+    "µ-Controller/Wichtige Befehle.md",
+    "µ-Controller/µ-Controller.md",
+    "templates/µ-Controller Temp.md",
+    "µ-Controller/Wiederstände.md",
+    "µ-Controller/Led-Schaltung.md",
+    "templates/µ-Controller QuickADD.md",
+    "templates/Untitled.md",
+    "µ-Controller/Bilder/Pasted image 20231119160912.png",
     "µ-Controller/Bilder/Pasted image 20231119162109.png",
     "µ-Controller/Bilder",
-    "µ-Controller/Bilder/Pasted image 20231119160912.png",
     "µ-Controller",
-    "AP1/Bilder/Pasted image 20231117115423.png",
+    "templates/Grundbegriffe Temp.md",
+    "templates/AP1 Notes Temp.md",
+    "AP1/IT-Sicherheit/Vigenere-Ciffre.md",
+    "AP1/IT-Sicherheit/Schadensprogramme.md",
+    "AP1/IT-Sicherheit/Hacker.md",
+    "AP1/IT-Sicherheit/Grundbegriffe.md",
     "AP1/Bilder/Pasted image 20231117130233.png",
-    "Pasted image 20231117125953.png",
-    "Pasted image 20231117123856.png",
+    "AP1/Bilder/Pasted image 20231117124305.png",
     "AP1/Bilder",
-    "Excalidraw",
+    "Lernfeld 9/Ethernet Frame.md",
+    "Lernfeld 9/Switch.md",
+    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
     "templates",
     "AP1/IT-Sicherheit",
     "AP1",
+    "Lernfeld 9/Bilder/modi_uebersicht_router.png",
+    "test.bat",
+    "Lernfeld 9/Bilder/switch_logik.png",
     "Untitled.canvas"
   ]
 }
