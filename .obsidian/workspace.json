@@ -25,14 +25,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "µ-Controller/Wetterstation mit dem ESP8266.md",
+                "file": "Lernfeld 9/Bilder/RAID.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "62b8e5f413aa5cf3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "µ-Controller/Wetterstation mit dem ESP8266.md",
+                "file": "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "µ-Controller/Wetterstation mit dem ESP8266.md",
+                "file": "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "µ-Controller/Wetterstation mit dem ESP8266.md"
+                "file": "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md"
               }
             }
           },
@@ -180,10 +190,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c8ec330b6822bde",
+  "active": "62b8e5f413aa5cf3",
   "lastOpenFiles": [
-    "Lernfeld 8/ERM.md",
+    "Lernfeld 9/Bilder/RAID.md",
+    "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md",
     "µ-Controller/Wetterstation mit dem ESP8266.md",
+    "Lernfeld 8/ERM.md",
     "Pasted image 20240205011211.png",
     "µ-Controller/Bilder/Pasted image 20240205010859.png",
     "µ-Controller/Bilder/Pasted image 20240205010813.png",
@@ -217,7 +229,6 @@
     "Excalidraw",
     "Lernfeld 9/Cisco.md",
     "Lernfeld 9/Cisco Config CheatSheet.md",
-    "Lernfeld 9/DHCP.md",
     "Lernfeld 3",
     "SQL",
     "Angular",
