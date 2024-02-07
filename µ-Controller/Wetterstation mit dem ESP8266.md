@@ -147,7 +147,8 @@ Nachdem ich mich mit D3.js vertraut gemacht hatte, erstellte ich die gewünschte
 
 #### Schritt 2
 Nachdem ich das Diagramm verbessert und erste Dummydaten getestet hatte, fügte ich den Code zur Ergänzung der Webseite als Datei meinem ESP8266-Projekt hinzu. Diese Datei speicherte ich in einer Variable im PROGMEM-Bereich des Programms. Damit war die Webseite und das Diagramm direkt im Programm des ESP8266 enthalten und konnten bei Bedarf einfach abgerufen und angezeigt werden, ohne auf externe Ressourcen zugreifen zu müssen.
-![[Pasted image 20240205011211.png]]
+![[Pasted image 20240207211433.png]]
+
 (Endgültiges aussehen des Diagrammes)
 
 ![[Pasted image 20240205010859.png]](Vorbild des Diagrammes (https://www.klimadiagramme.de/Deutschland/Plots/freiburg.gif))

@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "µ-Controller/Wetterstation mit dem ESP8266.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "µ-Controller/Wetterstation mit dem ESP8266.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "µ-Controller/Wetterstation mit dem ESP8266.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "µ-Controller/Wetterstation mit dem ESP8266.md"
               }
             }
           },
@@ -216,11 +216,16 @@
   },
   "active": "ff75d2e1d640e9d1",
   "lastOpenFiles": [
+    "µ-Controller/Bilder/Pasted image 20240207211433.png",
+    "µ-Controller/Wiederstände.md",
+    "µ-Controller/µ-Controller.md",
+    "µ-Controller/Wichtige Befehle.md",
+    "AP1/GroupLearning/Gantt-Diagramm.md",
+    "index.md",
     "AP1/GroupLearning/IHK Themen Übersicht.md",
     "AP1/GroupLearning/Störungsmangement.md",
     "AP1/GroupLearning/Netzplan.md",
     "AP1/GroupLearning/Kundengespräch.md",
-    "AP1/GroupLearning/Gantt-Diagramm.md",
     "AP1/Alle AP1 Notes.md",
     "Excalidraw/Drawing 2024-01-22 14.31.59.excalidraw.md",
     "Excalidraw/Drawing 2024-01-22 14.50.27.excalidraw.md",
@@ -242,7 +247,6 @@
     "AP1/GroupLearning/Bilder/Pasted image 20240207171738.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240207171724.png",
     "AP1/GroupLearning/Bilder",
-    "index.md",
     "Pasted image 20240207170453.png",
     "Pasted image 20240207170445.png",
     "Pasted image 20240205011211.png",
@@ -254,10 +258,6 @@
     "µ-Controller/Bilder/Pasted image 20240205010859.png",
     "µ-Controller/Bilder/Pasted image 20240205010813.png",
     "templates/SQL Temp.md",
-    "SQL/Statistikfunktionen.md",
-    "SQL/SQL Statements.md",
-    "SQL/SQL.md",
-    "SQL/SQL - Structured Query Language.md",
     "SQL",
     "Lernfeld 8/Bilder",
     "Lernfeld 8",
