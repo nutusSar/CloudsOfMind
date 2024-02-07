@@ -18,8 +18,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b86bfc1c1a56c3bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP1/GroupLearning/Netzplan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3844dafd18658b37",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lernfeld 9/Ethernet Frame.md",
+                "file": "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lernfeld 9/Ethernet Frame.md",
+                "file": "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lernfeld 9/Ethernet Frame.md"
+                "file": "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md"
               }
             }
           },
@@ -159,54 +182,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e6adb667b7c74495",
+  "active": "3844dafd18658b37",
   "lastOpenFiles": [
-    "templates/index Temp.md",
-    "templates/Angular Temp.md",
-    "index.md",
-    "Sozialkunde/Werbung.md",
-    "Sozialkunde/Mutterschutz, Mutterschutzgesetz.md",
-    "Lernfeld 7/Bilder/Screenshot_2023-11-13_130000.png",
-    "Lernfeld 7/Bilder/Screenshot_2023-11-13_125930.png",
-    "Lernfeld 7/Bilder/Screenshot_2023-11-13_125856.png",
-    "Lernfeld 7/Bilder/Abfullen.png",
-    "Lernfeld 7/Bilder",
-    "Lernfeld 7/Analyse OPC UA.md",
-    "Lernfeld 7",
-    "Angular/Directive.md",
-    "Angular/Service & Dependency Injection.md",
-    "Angular/CLI.md",
-    "Angular/Angular.md",
-    "Angular",
-    "µ-Controller/Wichtige Befehle.md",
-    "µ-Controller/µ-Controller.md",
-    "templates/µ-Controller Temp.md",
-    "µ-Controller/Wiederstände.md",
-    "µ-Controller/Led-Schaltung.md",
-    "templates/µ-Controller QuickADD.md",
-    "templates/Untitled.md",
-    "µ-Controller/Bilder/Pasted image 20231119160912.png",
-    "µ-Controller/Bilder/Pasted image 20231119162109.png",
-    "µ-Controller/Bilder",
-    "µ-Controller",
-    "templates/Grundbegriffe Temp.md",
-    "templates/AP1 Notes Temp.md",
-    "AP1/IT-Sicherheit/Vigenere-Ciffre.md",
-    "AP1/IT-Sicherheit/Schadensprogramme.md",
-    "AP1/IT-Sicherheit/Hacker.md",
-    "AP1/IT-Sicherheit/Grundbegriffe.md",
-    "AP1/Bilder/Pasted image 20231117130233.png",
-    "AP1/Bilder/Pasted image 20231117124305.png",
-    "AP1/Bilder",
+    "conflict-files-obsidian-git.md",
+    "AP1/GroupLearning/Strukturplan.md",
+    "AP1/GroupLearning/IHK Themen Übersicht.md",
+    "AP1/GroupLearning/Bilder/Pasted image 20240207170500.png",
+    "AP1/GroupLearning/Netzplan.md",
+    "AP1/GroupLearning/Bilder/Pasted image 20240207171738.png",
+    "AP1/GroupLearning/Bilder/Pasted image 20240207171724.png",
     "Lernfeld 9/Ethernet Frame.md",
-    "Lernfeld 9/Switch.md",
+    "AP1/GroupLearning/Bilder",
+    "index.md",
+    "Pasted image 20240207170453.png",
+    "Pasted image 20240207170445.png",
+    "Pasted image 20240205011211.png",
+    "AP1/Alle AP1 Notes.md",
     "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
-    "templates",
-    "AP1/IT-Sicherheit",
-    "AP1",
-    "Lernfeld 9/Bilder/modi_uebersicht_router.png",
-    "test.bat",
-    "Lernfeld 9/Bilder/switch_logik.png",
+    "AP1/GroupLearning",
+    "AP1/Untitled.md",
+    "AP1/Untitled 1.md",
+    "µ-Controller/Wetterstation mit dem ESP8266.md",
+    "µ-Controller/Bilder/Pasted image 20240205010859.png",
+    "µ-Controller/Bilder/Pasted image 20240205010813.png",
+    "µ-Controller/Bilder/Pasted image 20240205010441.png",
+    "µ-Controller/Bilder/Pasted image 20240205003037.png",
+    "templates/SQL Temp.md",
+    "SQL/Statistikfunktionen.md",
+    "SQL/SQL Statements.md",
+    "SQL/SQL.md",
+    "SQL/SQL - Structured Query Language.md",
+    "SQL/SELECT und FROM.md",
+    "SQL/Spaltenausdrücke.md",
+    "SQL",
+    "Lernfeld 9/NAT Network Address Translation Protokoll.md",
+    "Lernfeld 9/Bilder/RAID.md",
+    "Lernfeld 8/SQL Befehle auf einer Tabelle.md",
+    "Lernfeld 8/ERM.md",
+    "Lernfeld 8/Bilder",
+    "Lernfeld 8",
+    "Lernfeld 3/Wie funktionieren Netzwerke.md",
+    "Lernfeld 3/Netzwerkgrundlagen Übersicht.md",
+    "Lernfeld 3",
+    "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md",
+    "Excalidraw",
+    "Lernfeld 7/Bilder",
+    "Lernfeld 7",
+    "Angular",
     "Untitled.canvas"
   ]
 }

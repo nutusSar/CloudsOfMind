@@ -1,7 +1,5 @@
 ---
 tags:
-  - "#Informationssicherheit"
-  - "#Schutzziele"
   - "#IT-Sicherheit"
   - "#AP1"
 topic: IT-Sicherheit
@@ -24,5 +22,5 @@ Dabei befassen sich nicht alle Verfahren der Kryptographie gleichermaßen mit al
 ## Verfahren der Kryptographie
 + [[Verschlüsselung]]
 + [[Hashverfahren]]
-+ [[Digitale Signaturen & Zertifikate]]
++ [[Authentifizierung und Zertifikate]]
 + [[HTTPS & TLS]]

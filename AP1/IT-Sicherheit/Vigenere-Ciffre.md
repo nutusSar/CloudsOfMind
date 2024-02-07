@@ -2,8 +2,6 @@
 tags:
   - "#AP1"
   - "#IT-Sicherheit"
-  - "#Verschlüsselung"
-  - "#Symmetrisch"
 topic: IT-Sicherheit
 ---
 ## Erklärung

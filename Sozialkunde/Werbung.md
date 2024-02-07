@@ -1,4 +1,4 @@
-## Definieren sie den Begriff Werbung
+jj## Definieren sie den Begriff Werbung
 Arbeitsleistungen und Güter mit dem Ziel Geld zu verdienen und Kaufinteresse zu erwecken.
 
 ## Warum werden Jugendliche werbemäßig besonders massiv in den Jugendzeitschriften, auf Plakaten, im Internet und besonders im Fernsehen angesprochen?

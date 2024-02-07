@@ -1,7 +1,6 @@
 ---
 tags:
   - "#IT-Sicherheit"
-  - "#Informationssicherheit"
   - "#AP1"
 topic: IT-Sicherheit
 ---
