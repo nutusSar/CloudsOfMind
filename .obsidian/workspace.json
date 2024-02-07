@@ -55,9 +55,11 @@
             "id": "ff75d2e1d640e9d1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md"
+                "file": "AP1/GroupLearning/IHK Themen Übersicht.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -138,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md",
+                "file": "AP1/GroupLearning/IHK Themen Übersicht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md",
+                "file": "AP1/GroupLearning/IHK Themen Übersicht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md"
+                "file": "AP1/GroupLearning/IHK Themen Übersicht.md"
               }
             }
           },
@@ -214,24 +216,27 @@
   },
   "active": "ff75d2e1d640e9d1",
   "lastOpenFiles": [
+    "AP1/GroupLearning/Störungsmangement.md",
+    "AP1/GroupLearning/Netzplan.md",
+    "AP1/GroupLearning/Kundengespräch.md",
+    "AP1/GroupLearning/IHK Themen Übersicht.md",
+    "AP1/GroupLearning/Gantt-Diagramm.md",
+    "AP1/Alle AP1 Notes.md",
+    "Excalidraw/Drawing 2024-01-22 14.31.59.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-22 14.50.27.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-29 12.23.56.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md",
     "Excalidraw/Drawing 2024-02-07 18.03.50.excalidraw.md",
     "AP1/GroupLearning/Bilder/Niklas Unterlagen.md",
     "AP1/GroupLearning/Dokumente",
     "AP1/GroupLearning/Dokumente/Prufungsvorbereitung_FI22.pdf",
     "AP1/GroupLearning/Bilder/Pasted image 20240207174056.png",
     "Prufungsvorbereitung_FI22.docx",
-    "AP1/GroupLearning/Kundengespräch.md",
-    "AP1/GroupLearning/Gantt-Diagramm.md",
-    "AP1/GroupLearning/Störungsmangement.md",
-    "AP1/GroupLearning/IHK Themen Übersicht.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240207174134.png",
     "Untitled.canvas",
     "Excalidraw/Drawing 2024-02-07 17.37.05.excalidraw.md",
     "Lernfeld 9/Ethernet Frame.md",
-    "Excalidraw/Drawing 2024-01-22 14.31.59.excalidraw.md",
-    "AP1/GroupLearning/Netzplan.md",
     "AP1/GroupLearning/Strukturplan.md",
-    "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240207170500.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240207171738.png",
@@ -241,7 +246,6 @@
     "Pasted image 20240207170453.png",
     "Pasted image 20240207170445.png",
     "Pasted image 20240205011211.png",
-    "AP1/Alle AP1 Notes.md",
     "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
     "AP1/GroupLearning",
     "AP1/Untitled.md",
@@ -254,8 +258,6 @@
     "SQL/SQL Statements.md",
     "SQL/SQL.md",
     "SQL/SQL - Structured Query Language.md",
-    "SQL/SELECT und FROM.md",
-    "SQL/Spaltenausdrücke.md",
     "SQL",
     "Lernfeld 8/Bilder",
     "Lernfeld 8",
