@@ -1,7 +1,13 @@
+---
+tags:
+  - Übersicht
+topic: Inhaltsverzeichnis
+---
+
 - [x] Strukturplan
-- [ ] Netzplan
-- [ ]  Gantt-Diagramm
-- [ ]  Störungsmanagment
+- [x] Netzplan
+- [x]  Gantt-Diagramm
+- [x]  Störungsmanagment
 - [ ]  Kundengespräch
 - [ ]  Stärken-Schwächen-Analyse
 - [ ]  Anwendungen/Betriebssysteme

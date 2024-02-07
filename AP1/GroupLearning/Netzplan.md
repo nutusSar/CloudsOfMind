@@ -1,7 +1,7 @@
 ## Definition
 Ein Netzplan bildet die Grundlage für die Terminplanung und hat folgende Funktionen:
 - er hilft bei der Ermittlung der Gesamtdauer eines Projekts.
-- er legt die zeitlichen und logischen Abhängigkeiten der Vorgänge in einem Projekt fest.
+- er legt die zeitlichen und logischen Abhängigkeiten (Abfolgen) der Vorgänge in einem Projekt fest.
 - er visualisiert den kritischen Pfad und somit die Vorgänge, die das geplante Projektende gefährden können.
 - er stellt mögliche Puffer bzw. Reserven in der Terminplanung dar.
 
@@ -16,3 +16,4 @@ Ein Netzplan bildet die Grundlage für die Terminplanung und hat folgende Funkti
 - und der freie Puffer (FP) (= FAZ des Nachfolgers – FEZ des aktuellen Vorgangs)
 ![[Pasted image 20240207171724.png]]
 ## Kritischer Pfad
+Als kritischen Pfad bezeichnet man in einem Projektplan die längste Kette von Vorgängen, bei denen es keinen Puffer (Puffer = 0) gibt.

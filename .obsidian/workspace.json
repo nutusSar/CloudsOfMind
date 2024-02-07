@@ -20,12 +20,32 @@
             }
           },
           {
-            "id": "b86bfc1c1a56c3bd",
+            "id": "12ab384d19adf09d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "AP1/GroupLearning/Bilder/Pasted image 20240207174134.png"
+              }
+            }
+          },
+          {
+            "id": "a1cddb7bfd891b53",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "AP1/GroupLearning/Bilder/Pasted image 20240207174056.png"
+              }
+            }
+          },
+          {
+            "id": "05e42f1d3e3ebc76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/Netzplan.md",
+                "file": "AP1/GroupLearning/Kundengespräch.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md",
+                "file": "AP1/GroupLearning/Kundengespräch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md",
+                "file": "AP1/GroupLearning/Kundengespräch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md"
+                "file": "AP1/GroupLearning/Kundengespräch.md"
               }
             }
           },
@@ -182,16 +202,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3844dafd18658b37",
+  "active": "05e42f1d3e3ebc76",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "AP1/GroupLearning/Strukturplan.md",
+    "AP1/GroupLearning/Gantt-Diagramm.md",
+    "AP1/GroupLearning/Kundengespräch.md",
+    "AP1/GroupLearning/Störungsmangement.md",
     "AP1/GroupLearning/IHK Themen Übersicht.md",
-    "AP1/GroupLearning/Bilder/Pasted image 20240207170500.png",
+    "AP1/GroupLearning/Bilder/Pasted image 20240207174056.png",
+    "AP1/GroupLearning/Bilder/Pasted image 20240207174134.png",
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2024-02-07 17.37.05.excalidraw.md",
+    "Lernfeld 9/Ethernet Frame.md",
+    "Excalidraw/Drawing 2024-01-22 14.31.59.excalidraw.md",
     "AP1/GroupLearning/Netzplan.md",
+    "AP1/GroupLearning/Strukturplan.md",
+    "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md",
+    "conflict-files-obsidian-git.md",
+    "AP1/GroupLearning/Bilder/Pasted image 20240207170500.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240207171738.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240207171724.png",
-    "Lernfeld 9/Ethernet Frame.md",
     "AP1/GroupLearning/Bilder",
     "index.md",
     "Pasted image 20240207170453.png",
@@ -205,8 +234,6 @@
     "µ-Controller/Wetterstation mit dem ESP8266.md",
     "µ-Controller/Bilder/Pasted image 20240205010859.png",
     "µ-Controller/Bilder/Pasted image 20240205010813.png",
-    "µ-Controller/Bilder/Pasted image 20240205010441.png",
-    "µ-Controller/Bilder/Pasted image 20240205003037.png",
     "templates/SQL Temp.md",
     "SQL/Statistikfunktionen.md",
     "SQL/SQL Statements.md",
@@ -217,18 +244,12 @@
     "SQL",
     "Lernfeld 9/NAT Network Address Translation Protokoll.md",
     "Lernfeld 9/Bilder/RAID.md",
-    "Lernfeld 8/SQL Befehle auf einer Tabelle.md",
-    "Lernfeld 8/ERM.md",
     "Lernfeld 8/Bilder",
     "Lernfeld 8",
-    "Lernfeld 3/Wie funktionieren Netzwerke.md",
-    "Lernfeld 3/Netzwerkgrundlagen Übersicht.md",
     "Lernfeld 3",
-    "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md",
     "Excalidraw",
     "Lernfeld 7/Bilder",
     "Lernfeld 7",
-    "Angular",
-    "Untitled.canvas"
+    "Angular"
   ]
 }
