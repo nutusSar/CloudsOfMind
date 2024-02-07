@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/IHK Themen Übersicht.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/IHK Themen Übersicht.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/IHK Themen Übersicht.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/IHK Themen Übersicht.md"
+                "file": "index.md"
               }
             }
           },
@@ -216,10 +216,10 @@
   },
   "active": "ff75d2e1d640e9d1",
   "lastOpenFiles": [
+    "AP1/GroupLearning/IHK Themen Übersicht.md",
     "AP1/GroupLearning/Störungsmangement.md",
     "AP1/GroupLearning/Netzplan.md",
     "AP1/GroupLearning/Kundengespräch.md",
-    "AP1/GroupLearning/IHK Themen Übersicht.md",
     "AP1/GroupLearning/Gantt-Diagramm.md",
     "AP1/Alle AP1 Notes.md",
     "Excalidraw/Drawing 2024-01-22 14.31.59.excalidraw.md",
