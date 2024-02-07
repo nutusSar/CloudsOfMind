@@ -45,9 +45,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/Kundengespräch.md",
+                "file": "AP1/GroupLearning/Bilder/Niklas Unterlagen.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "ff75d2e1d640e9d1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md"
               }
             }
           },
@@ -62,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -128,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/Kundengespräch.md",
+                "file": "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/Kundengespräch.md",
+                "file": "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/Kundengespräch.md"
+                "file": "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md"
               }
             }
           },
@@ -202,13 +212,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "05e42f1d3e3ebc76",
+  "active": "ff75d2e1d640e9d1",
   "lastOpenFiles": [
-    "AP1/GroupLearning/Gantt-Diagramm.md",
+    "Excalidraw/Drawing 2024-02-07 18.03.50.excalidraw.md",
+    "AP1/GroupLearning/Bilder/Niklas Unterlagen.md",
+    "AP1/GroupLearning/Dokumente",
+    "AP1/GroupLearning/Dokumente/Prufungsvorbereitung_FI22.pdf",
+    "AP1/GroupLearning/Bilder/Pasted image 20240207174056.png",
+    "Prufungsvorbereitung_FI22.docx",
     "AP1/GroupLearning/Kundengespräch.md",
+    "AP1/GroupLearning/Gantt-Diagramm.md",
     "AP1/GroupLearning/Störungsmangement.md",
     "AP1/GroupLearning/IHK Themen Übersicht.md",
-    "AP1/GroupLearning/Bilder/Pasted image 20240207174056.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240207174134.png",
     "Untitled.canvas",
     "Excalidraw/Drawing 2024-02-07 17.37.05.excalidraw.md",
@@ -242,14 +257,9 @@
     "SQL/SELECT und FROM.md",
     "SQL/Spaltenausdrücke.md",
     "SQL",
-    "Lernfeld 9/NAT Network Address Translation Protokoll.md",
-    "Lernfeld 9/Bilder/RAID.md",
     "Lernfeld 8/Bilder",
     "Lernfeld 8",
     "Lernfeld 3",
-    "Excalidraw",
-    "Lernfeld 7/Bilder",
-    "Lernfeld 7",
-    "Angular"
+    "Excalidraw"
   ]
 }
