@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/IHK Themen.md",
+                "file": "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/IHK Themen.md",
+                "file": "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/IHK Themen.md",
+                "file": "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/IHK Themen.md"
+                "file": "AP1/GroupLearning/Anwendungen, Betriebssysteme.md"
               }
             }
           },
@@ -169,8 +169,9 @@
   },
   "active": "4d8ee24a6ca9fd15",
   "lastOpenFiles": [
-    "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
+    "AP1/GroupLearning/Gantt-Diagramm.md",
     "AP1/GroupLearning/IHK Themen.md",
+    "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
     "Lernfeld 8/ERM.md",
     "Lernfeld 9/Bilder/RAID.md",
     "templates/IHK Themen Temp.md",
@@ -183,7 +184,6 @@
     "AP1/GroupLearning/Netzplan.md",
     "AP1/GroupLearning/Kundengespräch.md",
     "AP1/GroupLearning/IHK Themen ToDO.md",
-    "AP1/GroupLearning/Gantt-Diagramm.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240208102643.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240208102923.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240208101621.png",
