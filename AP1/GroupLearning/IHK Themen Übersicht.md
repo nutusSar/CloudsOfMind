@@ -9,7 +9,7 @@ topic: Inhaltsverzeichnis
 - [x]  Gantt-Diagramm
 - [x]  Störungsmanagment
 - [ ]  Kundengespräch
-- [ ]  Stärken-Schwächen-Analyse
+- [x]  Stärken-Schwächen-Analyse
 - [ ]  Anwendungen/Betriebssysteme
 - [ ]  Infrastuktur as a Service
 - [ ]  Netzwerkprotokolle

@@ -4,77 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "2476ffd81bc9759e",
+        "id": "fd917aa52d7d86e2",
         "type": "tabs",
         "children": [
           {
-            "id": "e6adb667b7c74495",
+            "id": "89d978b6aad785a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lernfeld 9/Ethernet Frame.md",
+                "file": "Lernfeld 8/ERM.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "12ab384d19adf09d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "AP1/GroupLearning/Bilder/Pasted image 20240207174134.png"
-              }
-            }
-          },
-          {
-            "id": "a1cddb7bfd891b53",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "AP1/GroupLearning/Bilder/Pasted image 20240207174056.png"
-              }
-            }
-          },
-          {
-            "id": "05e42f1d3e3ebc76",
+            "id": "3c8ec330b6822bde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/Bilder/Niklas Unterlagen.md",
+                "file": "Lernfeld 9/Bilder/RAID.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ff75d2e1d640e9d1",
+            "id": "62b8e5f413aa5cf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "µ-Controller/Wetterstation mit dem ESP8266.md",
+                "file": "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "3844dafd18658b37",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "5c2cbcb20a05d1a3",
@@ -140,8 +110,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "µ-Controller/Wetterstation mit dem ESP8266.md",
-                "collapseAll": false,
+                "file": "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -152,25 +122,25 @@
             }
           },
           {
-            "id": "a6e6f7cf7454dacd",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "µ-Controller/Wetterstation mit dem ESP8266.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
             "id": "42bf7dfd1b7f1572",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "a6e6f7cf7454dacd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -180,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "µ-Controller/Wetterstation mit dem ESP8266.md"
+                "file": "AP1/GroupLearning/Anwendungen, Betriebssysteme.md"
               }
             }
           },
@@ -191,17 +161,24 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "3d8a5c9095187a48",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 213.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -211,57 +188,58 @@
       "obsidian42-brat:BRAT": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "cmdr:QuickAdd: IT-Sicherheit": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ff75d2e1d640e9d1",
+  "active": "62b8e5f413aa5cf3",
   "lastOpenFiles": [
-    "µ-Controller/Bilder/Pasted image 20240207211433.png",
-    "µ-Controller/Wiederstände.md",
-    "µ-Controller/µ-Controller.md",
-    "µ-Controller/Wichtige Befehle.md",
-    "AP1/GroupLearning/Gantt-Diagramm.md",
-    "index.md",
     "AP1/GroupLearning/IHK Themen Übersicht.md",
-    "AP1/GroupLearning/Störungsmangement.md",
+    "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
+    "AP1/GroupLearning/Stärken- Schwächenanalyse.md",
     "AP1/GroupLearning/Netzplan.md",
-    "AP1/GroupLearning/Kundengespräch.md",
-    "AP1/Alle AP1 Notes.md",
-    "Excalidraw/Drawing 2024-01-22 14.31.59.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-22 14.50.27.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-29 12.23.56.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-07 18.03.50.excalidraw.md",
-    "AP1/GroupLearning/Bilder/Niklas Unterlagen.md",
-    "AP1/GroupLearning/Dokumente",
-    "AP1/GroupLearning/Dokumente/Prufungsvorbereitung_FI22.pdf",
-    "AP1/GroupLearning/Bilder/Pasted image 20240207174056.png",
-    "Prufungsvorbereitung_FI22.docx",
-    "AP1/GroupLearning/Bilder/Pasted image 20240207174134.png",
-    "Untitled.canvas",
-    "Excalidraw/Drawing 2024-02-07 17.37.05.excalidraw.md",
-    "Lernfeld 9/Ethernet Frame.md",
+    "AP1/GroupLearning/Störungsmangement.md",
     "AP1/GroupLearning/Strukturplan.md",
-    "conflict-files-obsidian-git.md",
-    "AP1/GroupLearning/Bilder/Pasted image 20240207170500.png",
-    "AP1/GroupLearning/Bilder/Pasted image 20240207171738.png",
-    "AP1/GroupLearning/Bilder/Pasted image 20240207171724.png",
-    "AP1/GroupLearning/Bilder",
-    "Pasted image 20240207170453.png",
-    "Pasted image 20240207170445.png",
-    "Pasted image 20240205011211.png",
-    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
-    "AP1/GroupLearning",
-    "AP1/Untitled.md",
-    "AP1/Untitled 1.md",
     "µ-Controller/Wetterstation mit dem ESP8266.md",
+    "Pasted image 20240208091512.png",
+    "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md",
+    "µ-Controller/Bilder/Pasted image 20240207211433.png",
+    "Excalidraw/Drawing 2024-02-07 18.03.50.excalidraw.md",
+    "AP1/GroupLearning/Dokumente/Prufungsvorbereitung_FI22.pdf",
+    "AP1/GroupLearning/Bilder/Pasted image 20240207174134.png",
+    "AP1/GroupLearning/Bilder/Pasted image 20240207171738.png",
+    "AP1/GroupLearning/Bilder/Pasted image 20240207174056.png",
+    "AP1/GroupLearning/Bilder/Pasted image 20240207171724.png",
+    "AP1/GroupLearning/Bilder/Pasted image 20240207170500.png",
+    "AP1/GroupLearning/Bilder/Niklas Unterlagen.md",
+    "AP1/GroupLearning/Kundengespräch.md",
+    "AP1/GroupLearning/Gantt-Diagramm.md",
+    "AP1/GroupLearning/Dokumente",
+    "AP1/GroupLearning/Bilder",
+    "AP1/GroupLearning",
+    "Lernfeld 9/Bilder/RAID.md",
+    "Lernfeld 8/ERM.md",
+    "Pasted image 20240205011211.png",
     "µ-Controller/Bilder/Pasted image 20240205010859.png",
     "µ-Controller/Bilder/Pasted image 20240205010813.png",
-    "templates/SQL Temp.md",
-    "SQL",
+    "Lernfeld 8/SQL Befehle auf einer Tabelle.md",
     "Lernfeld 8/Bilder",
+    "Excalidraw/Drawing 2024-01-29 12.23.56.excalidraw.md",
+    "AP1/IT-Sicherheit/Informationssicherheit.md",
     "Lernfeld 8",
+    "AP1/IT-Sicherheit/Schutzziele.md",
+    "AP1/IT-Sicherheit/Grundbegriffe.md",
+    "AP1/IT-Sicherheit/Kryptographie.md",
+    "AP1/IT-Sicherheit/Verschlüsselung.md",
+    "AP1/IT-Sicherheit/Hashverfahren.md",
+    "AP1/IT-Sicherheit/Authentifizierung und Zertifikate.md",
+    "AP1/IT-Sicherheit/Secure Protokolle im Überblick.md",
+    "AP1/IT-Sicherheit/HTTPS & TLS.md",
+    "AP1/IT-Sicherheit/Hacker, Cracker, Script-Kiddies.md",
+    "Excalidraw",
     "Lernfeld 3",
-    "Excalidraw"
+    "SQL",
+    "Angular",
+    "Untitled.canvas"
   ]
 }
