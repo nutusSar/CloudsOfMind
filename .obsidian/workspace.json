@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1035d9efc3535356",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,16 +204,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "62b8e5f413aa5cf3",
+  "active": "1035d9efc3535356",
   "lastOpenFiles": [
-    "AP1/GroupLearning/IHK Themen Übersicht.md",
+    "Excalidraw/Drawing 2024-02-08 09.45.22.excalidraw.md",
     "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
+    "AP1/GroupLearning/Bilder/Pasted image 20240208094830.png",
+    "AP1/GroupLearning/Bilder/Niklas Unterlagen.md",
+    "AP1/GroupLearning/Bilder/Pasted image 20240208091512.png",
+    "AP1/GroupLearning/Bilder/Pasted image 20240208094228.png",
+    "AP1/GroupLearning/IHK Themen Übersicht.md",
     "AP1/GroupLearning/Stärken- Schwächenanalyse.md",
     "AP1/GroupLearning/Netzplan.md",
     "AP1/GroupLearning/Störungsmangement.md",
     "AP1/GroupLearning/Strukturplan.md",
     "µ-Controller/Wetterstation mit dem ESP8266.md",
-    "Pasted image 20240208091512.png",
     "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md",
     "µ-Controller/Bilder/Pasted image 20240207211433.png",
     "Excalidraw/Drawing 2024-02-07 18.03.50.excalidraw.md",
@@ -211,7 +227,6 @@
     "AP1/GroupLearning/Bilder/Pasted image 20240207174056.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240207171724.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240207170500.png",
-    "AP1/GroupLearning/Bilder/Niklas Unterlagen.md",
     "AP1/GroupLearning/Kundengespräch.md",
     "AP1/GroupLearning/Gantt-Diagramm.md",
     "AP1/GroupLearning/Dokumente",
@@ -220,8 +235,6 @@
     "Lernfeld 9/Bilder/RAID.md",
     "Lernfeld 8/ERM.md",
     "Pasted image 20240205011211.png",
-    "µ-Controller/Bilder/Pasted image 20240205010859.png",
-    "µ-Controller/Bilder/Pasted image 20240205010813.png",
     "Lernfeld 8/SQL Befehle auf einer Tabelle.md",
     "Lernfeld 8/Bilder",
     "Excalidraw/Drawing 2024-01-29 12.23.56.excalidraw.md",
@@ -234,8 +247,6 @@
     "AP1/IT-Sicherheit/Hashverfahren.md",
     "AP1/IT-Sicherheit/Authentifizierung und Zertifikate.md",
     "AP1/IT-Sicherheit/Secure Protokolle im Überblick.md",
-    "AP1/IT-Sicherheit/HTTPS & TLS.md",
-    "AP1/IT-Sicherheit/Hacker, Cracker, Script-Kiddies.md",
     "Excalidraw",
     "Lernfeld 3",
     "SQL",
