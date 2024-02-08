@@ -1,3 +1,9 @@
+---
+tags:
+  - "#AP1"
+topic: Projektmanagement
+---
+
 ## Definition
 Ein Netzplan bildet die Grundlage für die Terminplanung und hat folgende Funktionen:
 - er hilft bei der Ermittlung der Gesamtdauer eines Projekts.

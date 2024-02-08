@@ -1,3 +1,9 @@
+---
+tags:
+  - "#AP1"
+topic: Wirtschaft
+---
+
 ## Definition 
 Auch **SWOT-Analyse** gennant, bezieht sich auf folgende vier Faktoren:
 - **S**trengths (deutsch: Stärken)

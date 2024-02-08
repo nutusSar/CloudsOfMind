@@ -1,3 +1,9 @@
+---
+tags:
+  - "#AP1"
+topic: Projektmanagement
+---
+
 ## Definition
 Diese Methode zeigt eine Gliederung des Projekts in seine einzelnen Elemente, die aufeinander aufbauen.
 ![[Pasted image 20240207170500.png]]

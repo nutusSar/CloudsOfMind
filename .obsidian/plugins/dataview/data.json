@@ -11,7 +11,7 @@
   "defaultDateFormat": "MMMM dd, yyyy",
   "defaultDateTimeFormat": "h:mm a - MMMM dd, yyyy",
   "maxRecursiveRenderDepth": 4,
-  "tableIdColumnName": "<div style=\"width:275px;\">File<div>",
+  "tableIdColumnName": "<div style=\"width:275px;\">File</div>",
   "tableGroupColumnName": "Group",
   "showResultCount": true,
   "allowHtml": true,
