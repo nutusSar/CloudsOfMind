@@ -11,9 +11,11 @@
             "id": "4d8ee24a6ca9fd15",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/Dokumente/Prufungsvorbereitung_FI22.pdf"
+                "file": "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/Dokumente/Prufungsvorbereitung_FI22.pdf",
+                "file": "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/Dokumente/Prufungsvorbereitung_FI22.pdf",
+                "file": "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/Dokumente/Prufungsvorbereitung_FI22.pdf"
+                "file": "AP1/GroupLearning/Anwendungen, Betriebssysteme.md"
               }
             }
           },
@@ -167,6 +169,8 @@
   },
   "active": "4d8ee24a6ca9fd15",
   "lastOpenFiles": [
+    "AP1/GroupLearning/Gantt-Diagramm.md",
+    "AP1/GroupLearning/Dokumente/Prufungsvorbereitung_FI22.pdf",
     "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
     "AP1/GroupLearning/Netzplan.md",
     "AP1/GroupLearning/Störungsmangement.md",
@@ -174,7 +178,6 @@
     "AP1/GroupLearning/Stärken- Schwächenanalyse.md",
     "AP1/GroupLearning/IHK Themen.md",
     "AP1/GroupLearning/Kundengespräch.md",
-    "AP1/GroupLearning/Gantt-Diagramm.md",
     "Lernfeld 8/ERM.md",
     "Lernfeld 9/Bilder/RAID.md",
     "templates/IHK Themen Temp.md",
@@ -202,7 +205,6 @@
     "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md",
     "µ-Controller/Bilder/Pasted image 20240207211433.png",
     "Excalidraw/Drawing 2024-02-07 18.03.50.excalidraw.md",
-    "AP1/GroupLearning/Dokumente/Prufungsvorbereitung_FI22.pdf",
     "AP1/GroupLearning/Dokumente",
     "AP1/GroupLearning/Bilder",
     "AP1/GroupLearning",
