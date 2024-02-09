@@ -8,6 +8,7 @@ topic: Übersicht
 | ----------------------------------------------------------------------------------- | ------------------------------------- | ------------------------------------ |
 | [[AP1/GroupLearning/Anwendungen, Betriebssysteme.md\|Anwendungen, Betriebssysteme]] | Funktionsweise PC                     | <ul><li>#AP1</li></ul>               |
 | [[AP1/GroupLearning/Gantt-Diagramm.md\|Gantt-Diagramm]]                             | Projektmanagement                     | <ul><li>#AP1</li></ul>               |
+| [[AP1/GroupLearning/Konsolenbefehle.md\|Konsolenbefehle]]                           | CheatSheet, Commands                  | <ul><li>#AP1</li></ul>               |
 | [[AP1/GroupLearning/Kundengespräch.md\|Kundengespräch]]                             | Wirtschaft                            | <ul><li>#AP1</li></ul>               |
 | [[AP1/GroupLearning/Netzplan.md\|Netzplan]]                                         | Projektmanagement                     | <ul><li>#AP1</li></ul>               |
 | [[AP1/GroupLearning/Stärken- Schwächenanalyse.md\|Stärken- Schwächenanalyse]]       | Wirtschaft                            | <ul><li>#AP1</li></ul>               |
