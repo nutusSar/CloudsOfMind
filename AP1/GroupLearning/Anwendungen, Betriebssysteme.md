@@ -3,7 +3,6 @@ tags:
   - "#AP1"
 topic: Funktionsweise PC
 ---
-
 ## Definition
 ![[Pasted image 20240208094830.png]]
 ## Aufgaben
