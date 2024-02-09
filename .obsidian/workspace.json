@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
+                "file": "µ-Controller/Wetterstation mit dem ESP8266.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "8a4e0cf786305949",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "µ-Controller/Bilder/Pasted image 20240207211433.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
+                "file": "µ-Controller/Bilder/Pasted image 20240207211433.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
+                "file": "µ-Controller/Bilder/Pasted image 20240207211433.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/Anwendungen, Betriebssysteme.md"
+                "file": "µ-Controller/Bilder/Pasted image 20240207211433.png"
               }
             }
           },
@@ -167,29 +178,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "256e64e9e4b5d68a",
+  "active": "8a4e0cf786305949",
   "lastOpenFiles": [
+    "µ-Controller/Wetterstation mit dem ESP8266.md",
+    "µ-Controller/Wiederstände.md",
+    "µ-Controller/Wichtige Befehle.md",
+    "AP1/GroupLearning/IHK Themen ToDO.md",
     "AP1/GroupLearning/IHK Themen.md",
+    "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
     "Protokolle/Grunddateneinheiten.md",
     "µ-Controller/µ-Controller.md",
     "templates/µ-Controller Temp.md",
-    "µ-Controller/Wetterstation mit dem ESP8266.md",
-    "µ-Controller/Wichtige Befehle.md",
-    "µ-Controller/Wiederstände.md",
     "µ-Controller/Led-Schaltung.md",
     "index.md",
     "AP1/GroupLearning/Gantt-Diagramm.md",
     "Excalidraw/Drawing 2024-02-09 13.00.48.excalidraw.md",
     "Lernfeld 9/DNS.md",
     "AP1/GroupLearning/Konsolenbefehle.md",
-    "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
     "Pasted image 20240209124039.png",
     "AP1/GroupLearning/Störungsmangement.md",
     "AP1/GroupLearning/Strukturplan.md",
     "AP1/GroupLearning/Stärken- Schwächenanalyse.md",
     "AP1/GroupLearning/Dokumente/Prufungsvorbereitung_FI22.pdf",
     "AP1/GroupLearning/Netzplan.md",
-    "AP1/GroupLearning/IHK Themen ToDO.md",
     "AP1/GroupLearning/Kundengespräch.md",
     "Lernfeld 8/ERM.md",
     "Lernfeld 9/Bilder/RAID.md",
