@@ -5,7 +5,7 @@ topic: Wirtschaft
 ---
 
 ## Definition 
-Auch **SWOT-Analyse** gennant, bezieht sich auf folgende vier Faktoren:
+Auch **SWOT-Analyse** genannt, bezieht sich auf folgende vier Faktoren:
 - **S**trengths (deutsch: Stärken)
 - **W**eaknesses (deutsch: Schwächen)
 - **O**pportunities (deutsch: Chancen)

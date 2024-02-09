@@ -11,11 +11,9 @@
             "id": "4d8ee24a6ca9fd15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "AP1/GroupLearning/Netzplan.md",
-                "mode": "source",
-                "source": false
+                "file": "AP1/GroupLearning/Dokumente/Prufungsvorbereitung_FI22.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/Netzplan.md",
+                "file": "AP1/GroupLearning/Dokumente/Prufungsvorbereitung_FI22.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/Netzplan.md",
+                "file": "AP1/GroupLearning/Dokumente/Prufungsvorbereitung_FI22.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/Netzplan.md"
+                "file": "AP1/GroupLearning/Dokumente/Prufungsvorbereitung_FI22.pdf"
               }
             }
           },
@@ -170,8 +168,13 @@
   "active": "4d8ee24a6ca9fd15",
   "lastOpenFiles": [
     "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
-    "AP1/GroupLearning/Gantt-Diagramm.md",
+    "AP1/GroupLearning/Netzplan.md",
+    "AP1/GroupLearning/Störungsmangement.md",
+    "AP1/GroupLearning/IHK Themen ToDO.md",
+    "AP1/GroupLearning/Stärken- Schwächenanalyse.md",
     "AP1/GroupLearning/IHK Themen.md",
+    "AP1/GroupLearning/Kundengespräch.md",
+    "AP1/GroupLearning/Gantt-Diagramm.md",
     "Lernfeld 8/ERM.md",
     "Lernfeld 9/Bilder/RAID.md",
     "templates/IHK Themen Temp.md",
@@ -179,11 +182,6 @@
     "templates/IT-Sicherheit.md",
     "templates/Grundbegriffe Temp.md",
     "AP1/GroupLearning/Strukturplan.md",
-    "AP1/GroupLearning/Störungsmangement.md",
-    "AP1/GroupLearning/Stärken- Schwächenanalyse.md",
-    "AP1/GroupLearning/Netzplan.md",
-    "AP1/GroupLearning/Kundengespräch.md",
-    "AP1/GroupLearning/IHK Themen ToDO.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240208102643.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240208102923.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240208101621.png",
