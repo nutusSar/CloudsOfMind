@@ -1,7 +1,10 @@
 ---
 autor: Jonas Klas
+tags:
+  - "#µ-Controller"
+  - "#Berufsschule"
+topic: 1. Projektarbeit, Doku
 ---
-
 ## Einleitung
 Im Unterrichtsfach "Microcontroller" haben wir den Auftrag erhalten, ein Projekt namens "Wetterstation" zu realisieren. Vor diesem Projekt haben wir uns intensiv mit verschiedenen Funktionen des ESP8266 befasst und haben uns mit der Arduino IDE vertraut gemacht. Zur Erweiterung des ESP8266 haben wir einen DHT11-Sensor sowie ein OLED-Display integriert.
 

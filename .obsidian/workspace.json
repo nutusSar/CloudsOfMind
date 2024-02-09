@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "78e6b787e3673b51",
+        "id": "893914813ee900a2",
         "type": "tabs",
         "children": [
           {
-            "id": "4d8ee24a6ca9fd15",
+            "id": "256e64e9e4b5d68a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/IHK Themen.md",
+                "file": "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/IHK Themen.md",
+                "file": "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/IHK Themen.md",
+                "file": "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/IHK Themen.md"
+                "file": "AP1/GroupLearning/Anwendungen, Betriebssysteme.md"
               }
             }
           },
@@ -167,13 +167,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4d8ee24a6ca9fd15",
+  "active": "256e64e9e4b5d68a",
   "lastOpenFiles": [
+    "AP1/GroupLearning/IHK Themen.md",
+    "Protokolle/Grunddateneinheiten.md",
+    "µ-Controller/µ-Controller.md",
+    "templates/µ-Controller Temp.md",
+    "µ-Controller/Wetterstation mit dem ESP8266.md",
+    "µ-Controller/Wichtige Befehle.md",
+    "µ-Controller/Wiederstände.md",
+    "µ-Controller/Led-Schaltung.md",
+    "index.md",
+    "AP1/GroupLearning/Gantt-Diagramm.md",
+    "Excalidraw/Drawing 2024-02-09 13.00.48.excalidraw.md",
+    "Lernfeld 9/DNS.md",
     "AP1/GroupLearning/Konsolenbefehle.md",
     "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
     "Pasted image 20240209124039.png",
-    "AP1/GroupLearning/Gantt-Diagramm.md",
-    "AP1/GroupLearning/IHK Themen.md",
     "AP1/GroupLearning/Störungsmangement.md",
     "AP1/GroupLearning/Strukturplan.md",
     "AP1/GroupLearning/Stärken- Schwächenanalyse.md",
@@ -192,20 +202,10 @@
     "AP1/GroupLearning/Bilder/Pasted image 20240208101621.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240208094228.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240207174056.png",
-    "AP1/Alle AP1 Notes.md",
-    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
-    "templates/SQL Temp.md",
-    "templates/Angular Temp.md",
-    "templates/µ-Controller QuickADD.md",
     "AP1/Bilder/Pasted image 20240208102319.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240208101817.png",
-    "Excalidraw/Drawing 2024-02-08 09.45.22.excalidraw.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240208094830.png",
-    "AP1/GroupLearning/Bilder/Niklas Unterlagen.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240208091512.png",
-    "µ-Controller/Wetterstation mit dem ESP8266.md",
-    "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-07 18.03.50.excalidraw.md",
     "AP1/GroupLearning/Dokumente",
     "AP1/GroupLearning/Bilder",
     "AP1/GroupLearning",

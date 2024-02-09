@@ -25,3 +25,5 @@ topic: CheatSheet, Commands
 `nslookup`: Fragt den Nameserver nach der dazugehörigen IP-Adresse einer Domain (Linux und Windows)
 
 `netsh`: Ermöglicht die Konfiguration von Netzwerkparametern (Windows)
+
+Siehe auch [[DNS]].

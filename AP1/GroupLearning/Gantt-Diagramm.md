@@ -3,7 +3,6 @@ tags:
   - "#AP1"
 topic: Projektmanagement
 ---
-
 ## Definition
 Das Gantt-Diagramm ist eine Spezialform des Balkendiagramms, das alle Terminplanvorgänge des Projekts zeitlich und graphisch darstellt.
 ![[Pasted image 20240207174056.png]]
