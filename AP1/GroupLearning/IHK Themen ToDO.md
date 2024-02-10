@@ -11,8 +11,8 @@ topic: Inhaltsverzeichnis
 - [x]  Störungsmanagment
 - [ ]  Kundengespräch
 - [x]  Stärken-Schwächen-Analyse
-- [ ]  Anwendungen/Betriebssysteme
-- [ ]  Infrastuktur as a Service
+- [x]  Anwendungen/Betriebssysteme
+- [ ] Cloudcomputing (Servicemodelle, Cloudlösungen)
 - [ ]  Netzwerkprotokolle
 - [ ]  SMTP
 - [ ]  IPSec
@@ -43,7 +43,17 @@ topic: Inhaltsverzeichnis
 - [ ]  Definiton von personenbezogenen Daten
 - [ ]  Authentifizierungen und Passwort-Policy
 - [ ]  Veränderungsprozesse
-- [ ]  Feedback-Kultur Lessons LearnedFehlermanagementVertriebsformenCloudlösungOSI-ModelHTTPARPRAIDLeistungsaufnahmeFinanzierungskostenDebugging formale und inhaltliche FehlerUML ( Use-Case
+- [ ]  Feedback-Kultur 
+- [ ] Lessons Learned
+- [ ] Fehlermanagement
+- [ ] Vertriebsformen
+- [ ] OSI-Model
+- [ ] HTTP
+- [ ] ARP
+- [ ] RAID
+- [ ] Leistungsaufnahme
+- [ ] Finanzierungskosten
+- [ ] Debugging formale und inhaltliche FehlerUML ( Use-Case
 - [ ] Klassendiagramm)Sicherung der Verfügbarkeit - RAID und SAN
 - [ ]  SLA
 - [ ]  -Käufer verkäufer markt -Betriebssysteme -Datensicherung/Backupverfahren -MedienkompetenzMathieu:     - Rahmenbedingungen Datensicherheit /Datenschutz
@@ -132,5 +142,4 @@ topic: Inhaltsverzeichnis
 - [ ]  Schleifenyand: Marktform (Polypol
 - [ ]  Monopol)Christian: Ticketsystem
 - [ ]  Onlineschulung
-- [ ]  Platform as a service
 - [ ]  SMTP

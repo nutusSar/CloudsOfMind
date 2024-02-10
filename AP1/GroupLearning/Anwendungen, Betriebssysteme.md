@@ -93,5 +93,3 @@ Prozess <----1 : n----> Thread
 + Singleuser vs Multiuser
 + Einprozessor vs Multiprozessor 
 + Stapelverarbeitung, Echtzeit, Netzwerk, ...
-
-test
