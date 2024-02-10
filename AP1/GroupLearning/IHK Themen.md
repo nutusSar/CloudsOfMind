@@ -15,7 +15,4 @@ topic: Übersicht
 | [[AP1/GroupLearning/Stärken- Schwächenanalyse.md\|Stärken- Schwächenanalyse]]       | Wirtschaft                            | <ul><li>#AP1</li></ul>               |
 | [[AP1/GroupLearning/Störungsmangement.md\|Störungsmangement]]                       | Wirtschaft                            | <ul><li>#AP1</li></ul>               |
 | [[AP1/GroupLearning/Strukturplan.md\|Strukturplan]]                                 | Projektmanagement                     | <ul><li>#AP1</li></ul>               |
-
-
-
-
+| [[AP1/GroupLearning/Virtualisierung.md\|Virtualisierung]]                           | \-                                    | <ul><li>#AP1</li></ul>               |

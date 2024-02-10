@@ -13,7 +13,7 @@ topic: Inhaltsverzeichnis
 - [x]  Stärken-Schwächen-Analyse
 - [x]  Anwendungen/Betriebssysteme
 - [x] Cloudcomputing (Servicemodelle, Cloudlösungen)
-- [ ]  Virtualisierung
+- [x]  Virtualisierung
 - [ ]  Netzwerkprotokolle
 - [ ]  SMTP
 - [ ]  IPSec
