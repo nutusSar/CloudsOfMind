@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/Cloudcomputing.md",
+                "file": "AP1/GroupLearning/Virtualisierung.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/Cloudcomputing.md",
+                "file": "AP1/GroupLearning/Virtualisierung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/Cloudcomputing.md",
+                "file": "AP1/GroupLearning/Virtualisierung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/Cloudcomputing.md"
+                "file": "AP1/GroupLearning/Virtualisierung.md"
               }
             }
           },
@@ -171,23 +171,25 @@
   },
   "active": "ff75d2e1d640e9d1",
   "lastOpenFiles": [
+    "AP1/GroupLearning/Cloudcomputing.md",
+    "AP1/GroupLearning/Virtualisierung.md",
+    "AP1/GroupLearning/IHK Themen.md",
+    "templates/IHK Themen Temp.md",
+    "templates/IT-Sicherheit.md",
+    "AP1/GroupLearning/IHK Themen ToDO.md",
     "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
     "AP1/GroupLearning/Stärken- Schwächenanalyse.md",
     "AP1/GroupLearning/Netzplan.md",
     "AP1/GroupLearning/Kundengespräch.md",
     "AP1/GroupLearning/Konsolenbefehle.md",
     "AP1/GroupLearning/Gantt-Diagramm.md",
-    "AP1/GroupLearning/Cloudcomputing.md",
     "index.md",
     "µ-Controller/Led-Schaltung.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240209124039.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240210154834.png",
-    "AP1/GroupLearning/IHK Themen.md",
-    "AP1/GroupLearning/IHK Themen ToDO.md",
     "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md",
     "Lernfeld 9/DNS.md",
     "µ-Controller/Wetterstation mit dem ESP8266.md",
-    "templates/IHK Themen Temp.md",
     "Excalidraw/Drawing 2024-02-09 13.00.48.excalidraw.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240208102923.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240208102643.png",
@@ -205,8 +207,6 @@
     "AP1/Alle AP1 Notes.md",
     "Excalidraw/Drawing 2024-01-22 14.31.59.excalidraw.md",
     "Excalidraw/Drawing 2024-01-22 14.50.27.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-29 12.23.56.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-07 18.03.50.excalidraw.md",
     "AP1/GroupLearning/Dokumente",
     "AP1/GroupLearning/Dokumente/Prufungsvorbereitung_FI22.pdf",
     "Prufungsvorbereitung_FI22.docx",

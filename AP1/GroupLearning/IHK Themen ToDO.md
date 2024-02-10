@@ -12,7 +12,8 @@ topic: Inhaltsverzeichnis
 - [ ]  Kundengespräch
 - [x]  Stärken-Schwächen-Analyse
 - [x]  Anwendungen/Betriebssysteme
-- [ ] Cloudcomputing (Servicemodelle, Cloudlösungen)
+- [x] Cloudcomputing (Servicemodelle, Cloudlösungen)
+- [ ]  Virtualisierung
 - [ ]  Netzwerkprotokolle
 - [ ]  SMTP
 - [ ]  IPSec
@@ -102,7 +103,6 @@ topic: Inhaltsverzeichnis
 - [ ] Auswertung von englischen TextenNutzwertanalyseIT-Systeme CPU
 - [ ]  Motherboard
 - [ ]  speicher
-- [ ]  Virtualisierung
 - [ ]  Benutzeroberfläche
 - [ ]  Netzwerkkomponenten (Router
 - [ ]  Switches
