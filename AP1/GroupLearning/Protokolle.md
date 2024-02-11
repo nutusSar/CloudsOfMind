@@ -10,8 +10,8 @@ topic: Übersicht
 |CSMA/CD oder CA|–|Carrier Sense Multiple Access with Collision Detection ist ein Protokoll für den Zugriff auf einen gemeinsam genutzten Übertragungskanal.  <br>Dabei werden Kollisionen bei Datenübertragungen vermieden bzw. erkannt.|
 |[[DNS]] |53/UDP|Domain Name System ist ein Protokoll, das es ermöglicht, leicht lesbare Domainnamen in IP-Adressen umzuwandeln.|
 |[[DHCP]] |67/UDP, 68/UDP|Dynamic Host Configuration Protocol ist ein Protokoll, das es ermöglicht, Netzwerkgeräten automatisch IP-Adressen zuzuweisen und weitere Netzwerkeinstellungen zu konfigurieren.|
-|ARP|–|Address Resolution Protocol ist ein Protokoll, das es ermöglicht, die MAC-Adresse eines Geräts anhand seiner IP-Adresse zu ermitteln.|
-|IP|–|Internet Protocol ist das Grundprotokoll für die Übertragung von Datenpaketen in IP-basierten Netzwerken.|
+|ARP |–|Address Resolution Protocol ist ein Protokoll, das es ermöglicht, die MAC-Adresse eines Geräts anhand seiner IP-Adresse zu ermitteln.|
+|[[IP]] |–|Internet Protocol ist das Grundprotokoll für die Übertragung von Datenpaketen in IP-basierten Netzwerken.|
 |TCP|–|Transmission Control Protocol ist ein verbindungsorientiertes Protokoll, das sicherstellt, dass Daten in der richtigen Reihenfolge ankommen und vollständig übertragen werden.|
 |UDP|–|User Datagram Protocol ist ein verbindungsloses Protokoll, das es ermöglicht, Datenpakete ohne Verbindungsaufbau zu senden.|
 |SMB|137, 138, 139|Server Message Block (SMB) ist ein Protokoll, das es ermöglicht, Dateien, Drucker und andere Ressourcen in einem Netzwerk zu teilen.|

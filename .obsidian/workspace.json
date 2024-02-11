@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lernfeld 9/DNS.md",
+                "file": "AP1/GroupLearning/IP.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lernfeld 9/DNS.md",
+                "file": "AP1/GroupLearning/IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lernfeld 9/DNS.md",
+                "file": "AP1/GroupLearning/IP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lernfeld 9/DNS.md"
+                "file": "AP1/GroupLearning/IP.md"
               }
             }
           },
@@ -169,14 +169,17 @@
   },
   "active": "d492b1421a9fbfb6",
   "lastOpenFiles": [
+    "Pasted image 20240211164820.png",
     "AP1/GroupLearning/Protokolle.md",
+    "AP1/GroupLearning/IP.md",
     "AP1/GroupLearning/ISO-OSI.md",
+    "AP1/GroupLearning/ARP.md",
+    "Lernfeld 9/DNS.md",
     "Protokolle/TCP.md",
     "Protokolle/Grunddateneinheiten.md",
     "AP1/IT-Sicherheit/Verschlüsselung.md",
     "AP1/Alle AP1 Notes.md",
     "Lernfeld 9/DHCP.md",
-    "Lernfeld 9/DNS.md",
     "AP1/GroupLearning/IHK Themen ToDO.md",
     "AP1/GroupLearning/Dokumente/Prufungsvorbereitung_FI22.pdf",
     "AP1/GroupLearning/Dokumente/PV_gekurzt.pdf",
