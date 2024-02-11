@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/IT-Sicherheit/Kryptographie.md",
+                "file": "Protokolle/ISO-OSI.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/IT-Sicherheit/Kryptographie.md",
+                "file": "Protokolle/ISO-OSI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/IT-Sicherheit/Kryptographie.md",
+                "file": "Protokolle/ISO-OSI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,16 +133,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/IT-Sicherheit/Kryptographie.md"
+                "file": "Protokolle/ISO-OSI.md"
               }
             }
+          },
+          {
+            "id": "b4b26ec62f947600",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,12 +169,23 @@
   },
   "active": "d492b1421a9fbfb6",
   "lastOpenFiles": [
-    "HTTPS & TLS.md",
+    "Protokolle/TCP.md",
+    "Protokolle/ISO-OSI.md",
+    "Protokolle/Grunddateneinheiten.md",
+    "AP1/IT-Sicherheit/Verschlüsselung.md",
     "AP1/Alle AP1 Notes.md",
+    "Lernfeld 9/DHCP.md",
+    "Lernfeld 9/DNS.md",
+    "AP1/GroupLearning/IHK Themen ToDO.md",
+    "AP1/GroupLearning/Dokumente/Prufungsvorbereitung_FI22.pdf",
+    "AP1/GroupLearning/Dokumente/PV_gekurzt.pdf",
+    "AP1/GroupLearning/Bilder/Niklas Unterlagen.md",
+    "AP1/GroupLearning/Dokumente/lu184525auvvr.tmp",
+    "AP1/IT-Sicherheit/Kryptographie.md",
+    "AP1/GroupLearning/Dokumente/PV_gekurzt.docx",
+    "HTTPS & TLS.md",
     "templates/AP1 Notes Temp.md",
     "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
-    "Maßnahmen zur Informationssicherheit.md",
-    "AP1/IT-Sicherheit/Verschlüsselung.md",
-    "AP1/IT-Sicherheit/Kryptographie.md"
+    "Maßnahmen zur Informationssicherheit.md"
   ]
 }
