@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "65b5c02afc128ac6",
+        "id": "46cdb991a0e9ccef",
         "type": "tabs",
         "children": [
           {
-            "id": "b652a472471054bf",
+            "id": "d492b1421a9fbfb6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AP1/IT-Sicherheit/Kryptographie.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AP1/IT-Sicherheit/Kryptographie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AP1/IT-Sicherheit/Kryptographie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AP1/IT-Sicherheit/Kryptographie.md"
+              }
             }
           }
         ]
@@ -151,6 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b652a472471054bf",
-  "lastOpenFiles": []
+  "active": "d492b1421a9fbfb6",
+  "lastOpenFiles": [
+    "HTTPS & TLS.md",
+    "AP1/Alle AP1 Notes.md",
+    "templates/AP1 Notes Temp.md",
+    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
+    "Maßnahmen zur Informationssicherheit.md",
+    "AP1/IT-Sicherheit/Verschlüsselung.md",
+    "AP1/IT-Sicherheit/Kryptographie.md"
+  ]
 }

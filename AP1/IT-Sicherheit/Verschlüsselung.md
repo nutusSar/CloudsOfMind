@@ -36,7 +36,6 @@ Die Asymmetrische Verschlüsselung beruht meist auf mathematischen Rechenproblem
 
 
 ### Bekannte verfahren
-+ [[Diffie-Hellman]]
 + [[RSA]]
 + ...
 
@@ -48,7 +47,7 @@ Die Asymmetrische Verschlüsselung beruht meist auf mathematischen Rechenproblem
 | Schneller | Langsamer |
 | Sicherer | Theoretisch immer brechbar |
 | Ein Schlüssel zum Ver- Entschlüsseln | Ein Schlüssel zum Verschlüsseln und ein Schlüssel zum Entschlüsseln |
-| Eigener Schlüssel für jeden Kommunikationspartner | Jede Person besitzt einen öffentlichen und einen privaten Schlüssel|
+| Eigener Schlüssel für jeden Kommunikationspartner | Jede Person besitzt einen öffentlichen und einen privaten Schlüssel |
 
 ## Fachbegriffe
 + Brechen => Knacken einer Verschlüsselung

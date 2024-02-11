@@ -23,4 +23,4 @@ Dabei befassen sich nicht alle Verfahren der Kryptographie gleichermaßen mit al
 + [[Verschlüsselung]]
 + [[Hashverfahren]]
 + [[Authentifizierung und Zertifikate]]
-+ [[HTTPS & TLS]]
++ HTTPS & TLS
