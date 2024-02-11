@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protokolle/ISO-OSI.md",
+                "file": "Lernfeld 9/DNS.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protokolle/ISO-OSI.md",
+                "file": "Lernfeld 9/DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protokolle/ISO-OSI.md",
+                "file": "Lernfeld 9/DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protokolle/ISO-OSI.md"
+                "file": "Lernfeld 9/DNS.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -169,8 +169,9 @@
   },
   "active": "d492b1421a9fbfb6",
   "lastOpenFiles": [
+    "AP1/GroupLearning/Protokolle.md",
+    "AP1/GroupLearning/ISO-OSI.md",
     "Protokolle/TCP.md",
-    "Protokolle/ISO-OSI.md",
     "Protokolle/Grunddateneinheiten.md",
     "AP1/IT-Sicherheit/Verschlüsselung.md",
     "AP1/Alle AP1 Notes.md",
