@@ -41,7 +41,7 @@ Welche Subnetzmaske kann 1000 Hosts beinhalten
 	11111111 . 11111111 . 000000**00 . 00000000** ->Die hinteren 10Bits sind reserviert für Hosts 
 	Das heißt 6Bits stehen für Subnetze zur Verfügung:$$2^6=64Subnetze$$
 	CIDR = Anzahl der Einsen -> 8 + 8 + 6 = 22
-1. **Einteilen der Subnetze:**
+4. **Einteilen der Subnetze:**
 
 | **IP-Adresse mit CIDR** | **Netzwerkadresse** | **Broadcastadresse** | **Erste und letzte Hoastadresse** |
 | --- | --- | ---- | --- |
