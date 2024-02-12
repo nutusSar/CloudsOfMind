@@ -1,5 +1,6 @@
 ---
 tags:
+  - "#AP1"
   - "#SQL"
 topic: Syntax
 page: "2"

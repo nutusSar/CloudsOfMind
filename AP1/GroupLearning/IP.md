@@ -25,7 +25,10 @@ tags:
 **Beispiel:**
 + Netzwerkadresse: 192.168.100.0
 + Broadcastadresse: 192.168.100.255
-
+#### Formeln
++ $$2^n-2 = AnzahlDerHosts$$ (n = Anzahl der Bits des Hostanteils)
++ $$2^n=AnzahlDerSubnetze$$
++ (n = Anzahl der Subnetzbits)
 #### Vorgehen anhand eines Beispiels:
 ![[Pasted image 20240212115406.png]]
 Ziel: 64 Subnetze mit je mindestens 1000 Hosts
@@ -52,7 +55,14 @@ Welche Subnetzmaske kann 1000 Hosts beinhalten
 | 158.45.252.0/22 | 158.45.252.0 |  158.45.255.255 | 158.45.252.1 bis 158.45.255.254  |
 ## IPv6
 ### Aufbau
-
++ 4Mal so lang wie IPv4 -> 128 Bits
++ Ersten 64 Bits Netzwerkanteil, Hinteren 64 Bits Hostanteil
++ Darstellung in 4er Hexadezimal Blöcken: 2001:0db8:85a3:08d3:1319:8a2e:0370:7344 -> 1 Block entsprechen 16 Bit
 ### Kürzen
++ Führende Nullen in einem Block werden weggelassen
++ Die längste Kette von 0er Blöcken darf einmalig 
 
+### Private  IPv6 Adressen
+### Loopback
++ ::1
 ### Subnetting

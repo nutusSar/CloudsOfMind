@@ -1,8 +1,9 @@
 ---
 tags:
+  - "#AP1"
+  - "#Netzwerktechnik"
   - "#Lernfeld3"
 topic: Einführung
-page: "1"
 ---
 ## Definition
 Das Internet ist eine Sammlung von Netzwerken, welche miteinander verbunden sind -> **Ein Netzwerk aus Netzwerken**. Der Name Internet kommt von dem Wort "Internetwork", was so viel bedeutet wie Zwischennetzwerk. 
