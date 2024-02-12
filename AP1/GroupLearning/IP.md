@@ -27,8 +27,7 @@ tags:
 + Broadcastadresse: 192.168.100.255
 
 #### Vorgehen anhand eines Beispiels:
-
-![[Pasted image 20240212113423.png]]
+![[Pasted image 20240212115406.png]]
 Ziel: 64 Subnetze mit je mindestens 1000 Hosts
 Welche Subnetzmaske kann 1000 Hosts beinhalten
 ![[Pasted image 20240212110350.png]]
@@ -36,8 +35,21 @@ Welche Subnetzmaske kann 1000 Hosts beinhalten
 	![[Pasted image 20240212113921.png]] 
 	-> Genügend Hostadressen
 2. **Welche Netzmaske bietet ausreichend Hosts:**
-	
-3. 
+	![[Pasted image 20240212114351.png]]
+	Anzahl der Hosts >= 1000, $$2^9-2 = 510 < 1000$$ Deswegen n = 10.
+3. **Wie viele Subnetze sind mit 1022 Hosts möglich:**
+	11111111 . 11111111 . 000000**00 . 00000000** ->Die hinteren 10Bits sind reserviert für Hosts 
+	Das heißt 6Bits stehen für Subnetze zur Verfügung:$$2^6=64Subnetze$$
+	CIDR = Anzahl der Einsen -> 8 + 8 + 6 = 22
+1. **Einteilen der Subnetze:**
+
+| **IP-Adresse mit CIDR** | **Netzwerkadresse** | **Broadcastadresse** | **Erste und letzte Hoastadresse** |
+| --- | --- | ---- | --- |
+| 158.45.0.0/22           | 158.45.0.0 |  158.45.3.255 | 158.45.0.1 bis 158.45.3.254 |
+| 158.45.4.0/22           | 158.45.4.0 |  158.45.7.255 | 158.45.4.1 bis 158.45.7.254  |
+| 158.45.8.0/22           | 158.45.8.0 |  158.45.11.255 | 158.45.8.1 bis 158.45.11.254  |
+| ...                     | ... | ... | ... |
+| 158.45.252.0/22 | 158.45.252.0 |  158.45.255.255 | 158.45.252.1 bis 158.45.255.254  |
 ## IPv6
 ### Aufbau
 

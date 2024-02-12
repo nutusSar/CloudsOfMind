@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ddce945382bd8a08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP1/GroupLearning/ISO-OSI.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ]
       }
@@ -169,14 +181,18 @@
   },
   "active": "d492b1421a9fbfb6",
   "lastOpenFiles": [
-    "Pasted image 20240212113921.png",
-    "Pasted image 20240212113917.png",
     "AP1/GroupLearning/ISO-OSI.md",
     "AP1/GroupLearning/IP.md",
-    "AP1/GroupLearning/Bilder/Pasted image 20240212113423.png",
+    "AP1/GroupLearning/Bilder/Pasted image 20240212115406.png",
+    "Pasted image 20240212115347.png",
+    "AP1/GroupLearning/Bilder/Pasted image 20240212113921.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240212110350.png",
-    "AP1/GroupLearning/Bilder/Pasted image 20240212105531.png",
-    "AP1/GroupLearning/Bilder/Pasted image 20240212105008.png",
+    "AP1/GroupLearning/Bilder/Pasted image 20240212114351.png",
+    "Pasted image 20240212115243.png",
+    "Pasted image 20240212115236.png",
+    "Pasted image 20240212115130.png",
+    "Pasted image 20240212115115.png",
+    "Pasted image 20240212115104.png",
     "AP1/Alle AP1 Notes.md",
     "AP1/GroupLearning/Konsolenbefehle.md",
     "AP1/IT-Sicherheit/AES.md",
@@ -188,7 +204,6 @@
     "AP1/IT-Sicherheit/Schutzziele.md",
     "AP1/IT-Sicherheit/Vigenere-Ciffre.md",
     "AP1/IT-Sicherheit/Verschlüsselung.md",
-    "AP1/GroupLearning/Bilder/Pasted image 20240211164820.png",
     "Berufsschule/Lernfeld 9/DHCP.md",
     "Berufsschule",
     "Berufsschule/Lernfeld 9/DNS.md",
