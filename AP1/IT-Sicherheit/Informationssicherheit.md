@@ -2,7 +2,6 @@
 tags:
   - "#IT-Sicherheit"
   - "#AP1"
-topic: IT-Sicherheit
 ---
 ## Bedeutung
 Das Ziel der Informationssicherheit ist es, Informationen von beliebiger Art und Quelle zu schützen. Das heißt, nicht nur elektronische Informationen, sondern auch geschriebene oder die in den Köpfen von Menschen. Somit verfolgt Informationssicherheit einen breiteren Ansatz als IT-Sicherheit, da sich IT-Sicherheit mehr auf elektronisch gespeicherte/verarbeitete Informationen bezieht.

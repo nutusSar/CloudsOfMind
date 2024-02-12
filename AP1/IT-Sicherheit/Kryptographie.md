@@ -2,7 +2,6 @@
 tags:
   - "#IT-Sicherheit"
   - "#AP1"
-topic: IT-Sicherheit
 ---
 ## Bedeutung
 Der Begriff Kryptographie stammt von den beiden altgriechischen Wörtern "kryptos" (geheim) und "graphien" (schreiben) zusammen.

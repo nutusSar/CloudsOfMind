@@ -1,10 +1,9 @@
 ---
 tags:
-  - "#Berufsschule"
   - "#Lernfeld9"
-  - "#Protokolle"
-  - "#Anwendungsschicht"
-topic: Netzwerktechnik
+  - "#AP1"
+  - "#Berufsschule"
+  - "#Netzwerktechnik"
 ---
 ## Dynamic Naming System
 

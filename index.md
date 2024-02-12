@@ -18,7 +18,7 @@ Hier findest du meine Übersicht Seiten:
 | [[Angular/Angular.md\|Angular]]                                              | Übersicht                            | <ul><li>#Angular</li><li>#Übersicht</li></ul>                            |
 | [[AP1/GroupLearning/IHK Themen.md\|IHK Themen]]                              | Übersicht                            | <ul><li>#AP1</li><li>#Übersicht</li></ul>                                |
 | [[AP1/GroupLearning/IHK Themen ToDO.md\|IHK Themen ToDO]]                    | Inhaltsverzeichnis                   | <ul><li>#Übersicht</li><li>#ToDo</li></ul>                               |
-| [[Lernfeld 3/Netzwerkgrundlagen Übersicht.md\|Netzwerkgrundlagen Übersicht]] | Inhaltsverzeichnis                   | <ul><li>#Lernfeld3</li><li>#Übersicht</li></ul>                          |
+| [[Netzwerkgrundlagen Übersicht|Netzwerkgrundlagen Übersicht]] | Inhaltsverzeichnis                   | <ul><li>#Lernfeld3</li><li>#Übersicht</li></ul>                          |
 | [[ISO-OSI|Protokolle]]                                     | \-                                   | \-                                                                       |
 | [[SQL/SQL.md\|SQL]]                                                          | Übersicht                            | <ul><li>#SQL</li><li>#Übersicht</li></ul>                                |
-| [[µ-Controller/µ-Controller.md\|µ-Controller]]                               | Übersicht                            | <ul><li>#µ-Controller</li><li>#Übersicht</li><li>#Berufsschule</li></ul> |
+| [[µ-Controller|µ-Controller]]                               | Übersicht                            | <ul><li>#µ-Controller</li><li>#Übersicht</li><li>#Berufsschule</li></ul> |

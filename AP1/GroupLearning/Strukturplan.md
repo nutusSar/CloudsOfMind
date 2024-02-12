@@ -1,7 +1,7 @@
 ---
 tags:
   - "#AP1"
-topic: Projektmanagement
+  - "#Projektmanagement"
 ---
 
 ## Definition

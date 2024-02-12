@@ -1,4 +1,11 @@
-#Berufsschule #Lernfeld9 #Protokolle #Anwendungsschicht #AP1
+---
+tags:
+  - "#AP1"
+  - "#Lernfeld9"
+  - "#Berufsschule"
+  - "#Netzwerktechnik"
+---
+
 ## Dynamic Host Configuration Protocol
 DHCP Verteilt IPv4 Adressen an Hosts im Lan. Dabei werden auch Zusatz Informationen weitergegeben z.B.:
 * Gateway

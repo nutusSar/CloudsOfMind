@@ -2,7 +2,6 @@
 tags:
   - "#AP1"
   - "#IT-Sicherheit"
-topic: IT-Sicherheit
 ---
 ## Erklärung
 Die Vigenere-Chiffre ist eine symmetrische Verschlüsselung aus dem 16. Jahrhundert.  Sie ist polyalphabetisch, d.h., dass Buchstaben sich im Schlüssel wiederholen dürfen.

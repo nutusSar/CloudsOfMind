@@ -1,7 +1,9 @@
 ---
 tags:
   - "#AP1"
-topic: Netzwerktechnik, Wirtschaft
+  - "#Netzwerktechnik"
+  - "#Wirtschaft"
+topic:
 ---
 ## Definition
 Cloud Computing ist ein Modell für den allgegenwärtigen, bequemen und bedarfsgerechten Netzzugang zu einem gemeinsam genutzten Pool von konfigurierbaren Computerressourcen (z. B. Netzwerke, Server, Speicher, Anwendungen und Dienste), die die mit minimalem Verwaltungsaufwand und ohne Interaktion mit dem Dienstanbieter schnell bereitgestellt und freigegeben werden können.

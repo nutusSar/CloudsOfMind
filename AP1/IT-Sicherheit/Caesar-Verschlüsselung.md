@@ -2,7 +2,6 @@
 tags:
   - "#AP1"
   - "#IT-Sicherheit"
-topic: IT-Sicherheit
 ---
 ## Erklärung
 Die Caesar-Verschlüsselung ist eine symmetrische Verschlüsselung. Sie gilt als sehr unsicher und dient zur Veranschaulichung von Verschlüsselungsgrundlagen. 

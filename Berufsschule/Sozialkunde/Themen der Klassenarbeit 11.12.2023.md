@@ -1,5 +1,5 @@
 
 + [[Besitz und Eigentum]]
 + Werbung
-+ [BBiG](Berufsbildungsgesetz)
++ [BBiG](Berufsbildungsgesetz.md)
 + Mutterschutz

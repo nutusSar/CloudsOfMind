@@ -1,7 +1,8 @@
 ---
 tags:
   - "#AP1"
-topic: Wirtschaft
+  - "#Wirtschaft"
+topic: Definition
 ---
 
 ## Definition

@@ -11,12 +11,8 @@
             "id": "d492b1421a9fbfb6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP1/GroupLearning/IP.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#AP1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/IP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AP1/GroupLearning/IP.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,29 +160,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d492b1421a9fbfb6",
+  "active": "5a520a03c267679e",
   "lastOpenFiles": [
-    "Pasted image 20240211164820.png",
-    "AP1/GroupLearning/Protokolle.md",
+    "AP1/Alle AP1 Notes.md",
+    "AP1/IT-Sicherheit/AES.md",
+    "AP1/IT-Sicherheit/Caesar-Verschlüsselung.md",
+    "AP1/IT-Sicherheit/Grundbegriffe.md",
+    "AP1/IT-Sicherheit/Informationssicherheit.md",
+    "templates/IT-Sicherheit.md",
+    "AP1/IT-Sicherheit/Kryptographie.md",
+    "AP1/IT-Sicherheit/Schutzziele.md",
+    "AP1/IT-Sicherheit/Vigenere-Ciffre.md",
+    "AP1/IT-Sicherheit/Verschlüsselung.md",
+    "AP1/GroupLearning/Bilder/Pasted image 20240211164820.png",
+    "Berufsschule/Lernfeld 9/DHCP.md",
+    "Berufsschule",
+    "Berufsschule/Lernfeld 9/DNS.md",
+    "templates/AP1 Notes Temp.md",
+    "templates/IHK Themen Temp.md",
+    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
+    "templates/Grundbegriffe Temp.md",
+    "AP1/GroupLearning/IHK Themen.md",
+    "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
+    "AP1/GroupLearning/Cloudcomputing.md",
+    "AP1/GroupLearning/Gantt-Diagramm.md",
+    "AP1/GroupLearning/IHK Themen ToDO.md",
     "AP1/GroupLearning/IP.md",
     "AP1/GroupLearning/ISO-OSI.md",
-    "AP1/GroupLearning/ARP.md",
-    "Lernfeld 9/DNS.md",
-    "Protokolle/TCP.md",
-    "Protokolle/Grunddateneinheiten.md",
-    "AP1/IT-Sicherheit/Verschlüsselung.md",
-    "AP1/Alle AP1 Notes.md",
-    "Lernfeld 9/DHCP.md",
-    "AP1/GroupLearning/IHK Themen ToDO.md",
+    "AP1/GroupLearning/Konsolenbefehle.md",
+    "AP1/GroupLearning/Kundengespräch.md",
+    "AP1/GroupLearning/Netzplan.md",
     "AP1/GroupLearning/Dokumente/Prufungsvorbereitung_FI22.pdf",
     "AP1/GroupLearning/Dokumente/PV_gekurzt.pdf",
-    "AP1/GroupLearning/Bilder/Niklas Unterlagen.md",
     "AP1/GroupLearning/Dokumente/lu184525auvvr.tmp",
-    "AP1/IT-Sicherheit/Kryptographie.md",
-    "AP1/GroupLearning/Dokumente/PV_gekurzt.docx",
-    "HTTPS & TLS.md",
-    "templates/AP1 Notes Temp.md",
-    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
-    "Maßnahmen zur Informationssicherheit.md"
+    "AP1/GroupLearning/Dokumente/PV_gekurzt.docx"
   ]
 }

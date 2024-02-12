@@ -2,7 +2,6 @@
 tags:
   - "#AP1"
   - "#IT-Sicherheit"
-topic: IT-Sicherheit
 ---
 ## Bedeutung 
 AES steht für Advanced Encryption Standard und wurde von Joan Daemen und Vincent Rijmen entwickelt. Es handelt sich um ein symmetrisches Verschlüsselungsverfahren, d.h. der Schlüssel zum Ver- und Entschlüsseln ist der Selbe. 

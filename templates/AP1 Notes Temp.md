@@ -2,8 +2,7 @@
 const dv = app.plugins.plugins["dataview"].api;
 const filename = "Alle AP1 Notes";
 const query = `table topic as 
-"\<div style\=\'width\:150px\;\'\>Topic\<div\>", tags as "\<div style\=\'width\:200px\;\'\>Tags\<div\>"
-from "AP1"
+"\<div style\=\'width\:150px\;\'\>Topic\</div\>", tags as "\<div style\=\'width\:200px\;\'\>Tags\</div\>"
 where contains(file.tags, "AP1") and !contains(file.tags, "Übersicht")
 sort file.name ASC`;
 

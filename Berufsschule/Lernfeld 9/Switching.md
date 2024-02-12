@@ -1,5 +1,5 @@
-## [Switch](Switch)
-+ [Switches](Switch) arbeiten auf Layer 2
+## [Switch](Switch.md)
++ [Switches](Switch.md) arbeiten auf Layer 2
 + Speichern Ziel MAC-Adressen mit dem Port in einer MAC-Address-Table 
 + Eingangsport (Ingress) eines Frames kann nie gleichzeitig Ausgangsport (Egress) sein
 + Anzeigen der MAC-Address-Table:
@@ -12,13 +12,13 @@ show mac address-table
 ![[switch_logik.png]]
 
 ## Unterschied zum Hub:
-+ [Frame](Ethernet%20Frame) gehen nur zum Ziel Port raus, Ziel wird anhand der MAC-Adresstabelle (CAM Content-addressable Memory) ermittelt.
++ [Frame](Ethernet%20Frame.md) gehen nur zum Ziel Port raus, Ziel wird anhand der MAC-Adresstabelle (CAM Content-addressable Memory) ermittelt.
 
 ## Verfahren 1: Store and Forward 
-[Frame](Ethernet%20Frame) wirst erst nach der Prüfung der Frame Check Sequenz Weitergeleitet. Dazu wird der gesamte Frame gespeichert. Dies hat den Nachteil, dass es zu einer höheren Latenz kommt. Jedoch ergibt sich daraus auch der Vorteil, dass es weniger fehleranfällig ist.
+[Frame](Ethernet%20Frame.md) wirst erst nach der Prüfung der Frame Check Sequenz Weitergeleitet. Dazu wird der gesamte Frame gespeichert. Dies hat den Nachteil, dass es zu einer höheren Latenz kommt. Jedoch ergibt sich daraus auch der Vorteil, dass es weniger fehleranfällig ist.
 
 ## Verfahren 2: Cut-Through
-[Frame](Ethernet%20Frame) wird nach Empfangen von Preamble (010101...) und Ziel-Mac direkt weitergeleitet. Keine FCS-Prüfung möglich.
+[Frame](Ethernet%20Frame.md) wird nach Empfangen von Preamble (010101...) und Ziel-Mac direkt weitergeleitet. Keine FCS-Prüfung möglich.
 **Vorteil:** Schneller (weniger Latenz)
 **Nachteil:** Keine Fehlererkennung
 

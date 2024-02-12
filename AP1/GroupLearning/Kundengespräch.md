@@ -1,5 +1,6 @@
 ---
 tags:
   - "#AP1"
-topic: Wirtschaft
+  - "#Wirtschaft"
+topic: EMPTY
 ---
