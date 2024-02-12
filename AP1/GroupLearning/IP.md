@@ -56,13 +56,18 @@ Welche Subnetzmaske kann 1000 Hosts beinhalten
 ## IPv6
 ### Aufbau
 + 4Mal so lang wie IPv4 -> 128 Bits
-+ Ersten 64 Bits Netzwerkanteil, Hinteren 64 Bits Hostanteil
 + Darstellung in 4er Hexadezimal Blöcken: 2001:0db8:85a3:08d3:1319:8a2e:0370:7344 -> 1 Block entsprechen 16 Bit
 ### Kürzen
 + Führende Nullen in einem Block werden weggelassen
-+ Die längste Kette von 0er Blöcken darf einmalig 
++ Die längste Kette von 0er Blöcken darf einmalig mit :: gekürzt werden
+**Beispiel:**
++ Ungekürzt: 2001:0DB8:0000:0001:0000:0000:0010:01FF
++ Gekürzt: 2001:DB8:0:1::10:1FF
 
-### Private  IPv6 Adressen
-### Loopback
-+ ::1
+### Scopes IPv6
+![[Pasted image 20240212125349.png]]
+Die beiden wichtigsten Scopes sind der Link-Local-Scope und Global-Scope. Nur IPv6-Pakete mit einer globalen Absender-Adresse werden außerhalb des lokalen Netzwerks geroutet. IPv6-Pakete mit link-lokaler Absender-Adresse sind nur innerhalb des lokalen Netzwerks gültig und werden auch nur dann verwendet, wenn das Ziel link-lokal ist.
 ### Subnetting
++ Ersten 64 Bits Netzwerkanteil, Hinteren 64 Bits Hostanteil
++ Standardmäßig /64 für ein komplettes Netz
+![[Pasted image 20240212131511.png]]
