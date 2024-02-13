@@ -1,48 +1,35 @@
 {
   "main": {
-    "id": "a01833a833ab1a73",
+    "id": "f9916100d8602c2a",
     "type": "split",
     "children": [
       {
-        "id": "46cdb991a0e9ccef",
+        "id": "893914813ee900a2",
         "type": "tabs",
         "children": [
           {
-            "id": "d492b1421a9fbfb6",
+            "id": "256e64e9e4b5d68a",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "ddce945382bd8a08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP1/GroupLearning/IP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f7772c37406ca303",
+    "id": "81f7af3a6fe82aa5",
     "type": "split",
     "children": [
       {
-        "id": "ffdc805d0dc32423",
+        "id": "16684b371fc6d0bf",
         "type": "tabs",
         "children": [
           {
-            "id": "1f2c6d4b27417489",
+            "id": "740dda16f3245ff6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,7 +39,7 @@
             }
           },
           {
-            "id": "5a520a03c267679e",
+            "id": "eb9699aac87f96df",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +54,7 @@
             }
           },
           {
-            "id": "bfddd854e4e523a3",
+            "id": "cbc8bec009aaec71",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,32 +65,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "15ca42f9e4339db1",
+    "id": "5c2cbcb20a05d1a3",
     "type": "split",
     "children": [
       {
-        "id": "6c7de3dc0f89954a",
+        "id": "55d27f625c0a791d",
         "type": "tabs",
         "children": [
           {
-            "id": "b7973696f230e4a0",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "f7211238b7f67f39",
+            "id": "5bff2845cda7a337",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/IP.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -114,40 +92,45 @@
             }
           },
           {
-            "id": "8bc8d6f4388a4f07",
+            "id": "42bf7dfd1b7f1572",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "a6e6f7cf7454dacd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/IP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4b987af9a75af6ed",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "16b1bdd270c993d5",
+            "id": "dd36e9d7e434e840",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AP1/GroupLearning/IP.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "b4b26ec62f947600",
+            "id": "a9776f79dea1e3e9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d8a5c9095187a48",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -155,69 +138,75 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 213.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian42-brat:BRAT": false,
-      "cmdr:QuickAdd: IT-Sicherheit": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "cmdr:QuickAdd: IT-Sicherheit": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ddce945382bd8a08",
+  "active": "256e64e9e4b5d68a",
   "lastOpenFiles": [
-    "AP1/GroupLearning/Virtualisierung.md",
-    "AP1/GroupLearning/ISO-OSI.md",
-    "AP1/GroupLearning/IP.md",
-    "AP1/GroupLearning/Protokolle.md",
-    "AP1/GroupLearning/IHK Themen ToDO.md",
-    "AP1/Alle AP1 Notes.md",
-    "index.md",
-    "AP1/GroupLearning/Bilder/Pasted image 20240212131511.png",
+    "µ-Controller/Wetterstation mit dem ESP8266.md",
+    "µ-Controller/Bilder/Pasted image 20240207211433.png",
+    "Berufsschule/µ-Controller/Bilder/Pasted image 20240207211433.png",
+    "Berufsschule/µ-Controller/Bilder/Pasted image 20240205010859.png",
+    "Berufsschule/µ-Controller/Bilder/Pasted image 20240205010813.png",
+    "Berufsschule/µ-Controller/Bilder/Pasted image 20240205010441.png",
+    "Berufsschule/µ-Controller/Bilder/Pasted image 20240205003037.png",
+    "Berufsschule/µ-Controller/Bilder/Pasted image 20231119162109.png",
+    "Berufsschule/µ-Controller/Bilder/Pasted image 20231119160912.png",
+    "Berufsschule/Sozialkunde/Externe Sourcen/82316_sowirp_lb1_besitz_eigentum_arbeitsblatt.pdf",
+    "Berufsschule/Lernfeld 9/Bilder/RAID.md",
+    "Berufsschule/Lernfeld 9/Bilder/switch_logik.png",
+    "Berufsschule/Lernfeld 9/Bilder/modi_uebersicht_router.png",
+    "Berufsschule/µ-Controller/µ-Controller.md",
+    "Berufsschule/µ-Controller/Wiederstände.md",
+    "Berufsschule/µ-Controller/Wichtige Befehle.md",
+    "Berufsschule/µ-Controller/Wetterstation mit dem ESP8266.md",
+    "Berufsschule/µ-Controller/Led-Schaltung.md",
+    "Berufsschule/µ-Controller/Bilder",
+    "Berufsschule/Sozialkunde/Werbung.md",
+    "Berufsschule/Sozialkunde/Themen der Klassenarbeit 11.12.2023.md",
+    "Berufsschule/Sozialkunde/Sozialkunde.md",
+    "Berufsschule/Sozialkunde/Mutterschutz, Mutterschutzgesetz.md",
+    "Berufsschule/Sozialkunde/Externe Sourcen",
+    "Berufsschule/Sozialkunde/Besitz und Eigentum.md",
+    "Berufsschule/Sozialkunde/Berufsbildungsgesetz.md",
+    "Berufsschule/Lernfeld 9/Switching.md",
+    "Berufsschule/Lernfeld 9/Switch.md",
+    "Berufsschule/Lernfeld 9/NAT Network Address Translation Protokoll.md",
+    "Berufsschule/Lernfeld 9/Ethernet Frame.md",
+    "Berufsschule/Lernfeld 9/DNS.md",
     "Berufsschule/Lernfeld 9/DHCP.md",
-    "AP1/GroupLearning/Bilder/Pasted image 20240212125349.png",
-    "AP1/GroupLearning/Netzplan.md",
-    "AP1/GroupLearning/Stärken- Schwächenanalyse.md",
-    "AP1/GroupLearning/Strukturplan.md",
-    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
-    "Pasted image 20240212125248.png",
-    "SQL/Statistikfunktionen.md",
-    "SQL/SQL Statements.md",
-    "SQL/SQL - Structured Query Language.md",
-    "SQL/Spaltenausdrücke.md",
-    "SQL/SELECT und FROM.md",
-    "SQL/SQL.md",
-    "AP1/GroupLearning/IHK Themen.md",
+    "Berufsschule/Lernfeld 9/Cisco.md",
+    "Berufsschule/Lernfeld 9/Cisco Config CheatSheet.md",
+    "Berufsschule/Lernfeld 9/Bilder",
     "Berufsschule/Lernfeld 8/SQL Befehle auf einer Tabelle.md",
+    "Berufsschule/Lernfeld 8/ERM.md",
+    "Berufsschule/Lernfeld 8/Bilder",
+    "Berufsschule/Lernfeld 7/Bilder",
+    "Berufsschule/Lernfeld 7/Analyse OPC UA.md",
     "Berufsschule/Lernfeld 3/Wie funktionieren Netzwerke.md",
-    "Berufsschule/Lernfeld 3/Netzwerkgrundlagen Übersicht.md",
-    "Protokolle/TCP.md",
-    "Protokolle/UDP.md",
-    "AP1/GroupLearning/Bilder/Pasted image 20240212115406.png",
-    "Pasted image 20240212115347.png",
-    "AP1/GroupLearning/Bilder/Pasted image 20240212113921.png",
-    "AP1/GroupLearning/Bilder/Pasted image 20240212110350.png",
-    "AP1/GroupLearning/Bilder/Pasted image 20240212114351.png",
-    "Pasted image 20240212115243.png",
-    "Pasted image 20240212115236.png",
-    "AP1/GroupLearning/Konsolenbefehle.md",
-    "AP1/IT-Sicherheit/AES.md",
-    "Berufsschule",
-    "AP1/GroupLearning/Dokumente/Prufungsvorbereitung_FI22.pdf",
-    "AP1/GroupLearning/Dokumente/PV_gekurzt.pdf",
-    "AP1/GroupLearning/Dokumente/lu184525auvvr.tmp",
-    "AP1/GroupLearning/Dokumente/PV_gekurzt.docx"
+    "Berufsschule/µ-Controller",
+    "Berufsschule/Sozialkunde",
+    "Berufsschule/Lernfeld 9",
+    "Berufsschule/Lernfeld 8",
+    "AP1/GroupLearning/Protokolle.md",
+    "Untitled.canvas"
   ]
 }
