@@ -1,4 +1,10 @@
-#AP1 #berufsschule #IT 
+---
+tags:
+  - "#AP1"
+  - "#Übersicht"
+topic: Lernzettel
+---
+
 
 ---
 
@@ -7,15 +13,15 @@
 ---
 # **Teil 1 der gestreckten Abschlussprüfung in den IT-Berufen**
 
-- [x] [Lernzettel Leistungserbringung zur GAP1 in den IT-Berufen](https://blog.christianeirich.de/lernzettel-leistungserbringung-zur-gap1-in-den-it-berufen/) ✅ 2024-02-10
-- [x] [Backup/Datensicherung vs. RAID](https://blog.christianeirich.de/backup-datensicherung-vs-raid/) ✅ 2024-02-10
-- [x] [Lernzettel Verträge zur GAP1 in den IT-Berufen](https://blog.christianeirich.de/lernzettel-vertraege-zur-gap1-in-den-it-berufen/) ✅ 2024-02-11
-- [x] [Lernzettel Angebotsvergleich zur GAP1 in den IT-Berufen](https://blog.christianeirich.de/lernzettel-angebotsvergleich-zur-gap1-in-den-it-berufen/) ✅ 2024-02-11
-- [x] [Lernzettel Wirtschaftlichkeit zur GAP1 in den IT-Berufen](https://blog.christianeirich.de/lernzettel-wirtschaftlichkeit-zur-gap1-in-den-it-berufen/) ✅ 2024-02-11
-- [x] [Lernzettel Softwareentwicklung zur GAP1 in den IT-Berufe](https://blog.christianeirich.de/lernzettel-softwareentwicklung-zur-gap1-in-den-it-berufen/) ✅ 2024-02-11
-- [x] [Lernzettel IT-Sicherheit zur GAP1 in den IT-Berufen](https://blog.christianeirich.de/lernzettel-it-sicherheit-zur-gap1-in-den-it-berufen/) ✅ 2024-02-12
-- [x] [Lernzettel Software zur GAP1 in den IT-Berufen](https://blog.christianeirich.de/lernzettel-software-zur-gap1-in-den-it-berufen/) ✅ 2024-02-12
-- [x] [Lernzettel Betriebssysteme zur GAP1 in den IT-Berufen](https://blog.christianeirich.de/lernzettel-betriebssysteme/) ✅ 2024-02-13
+- [ ] [Lernzettel Leistungserbringung zur GAP1 in den IT-Berufen](https://blog.christianeirich.de/lernzettel-leistungserbringung-zur-gap1-in-den-it-berufen/) ✅ 2024-02-10
+- [ ] [Backup/Datensicherung vs. RAID](https://blog.christianeirich.de/backup-datensicherung-vs-raid/) ✅ 2024-02-10
+- [ ] [Lernzettel Verträge zur GAP1 in den IT-Berufen](https://blog.christianeirich.de/lernzettel-vertraege-zur-gap1-in-den-it-berufen/) ✅ 2024-02-11
+- [ ] [Lernzettel Angebotsvergleich zur GAP1 in den IT-Berufen](https://blog.christianeirich.de/lernzettel-angebotsvergleich-zur-gap1-in-den-it-berufen/) ✅ 2024-02-11
+- [ ] [Lernzettel Wirtschaftlichkeit zur GAP1 in den IT-Berufen](https://blog.christianeirich.de/lernzettel-wirtschaftlichkeit-zur-gap1-in-den-it-berufen/) ✅ 2024-02-11
+- [ ] [Lernzettel Softwareentwicklung zur GAP1 in den IT-Berufe](https://blog.christianeirich.de/lernzettel-softwareentwicklung-zur-gap1-in-den-it-berufen/) ✅ 2024-02-11
+- [ ] [Lernzettel IT-Sicherheit zur GAP1 in den IT-Berufen](https://blog.christianeirich.de/lernzettel-it-sicherheit-zur-gap1-in-den-it-berufen/) ✅ 2024-02-12
+- [ ] [Lernzettel Software zur GAP1 in den IT-Berufen](https://blog.christianeirich.de/lernzettel-software-zur-gap1-in-den-it-berufen/) ✅ 2024-02-12
+- [ ] [Lernzettel Betriebssysteme zur GAP1 in den IT-Berufen](https://blog.christianeirich.de/lernzettel-betriebssysteme/) ✅ 2024-02-13
 - [ ] [Lernzettel Internet zur GAP1 in den IT-Berufen](https://blog.christianeirich.de/lernzettel-internet-zur-gap1-in-den-it-berufen/)
 - [ ] [Lernzettel Multimedia zur GAP1 in den IT-Berufen](https://blog.christianeirich.de/lernzettel-multimedia-zur-gap1-in-den-it-berufen/)
 - [ ] [Lernzettel Projektmanagement zur GAP1 in den IT-Berufen](https://blog.christianeirich.de/lernzettel-projektmanagement-zur-gap1-in-den-it-berufen/)

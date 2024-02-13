@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/Untitled.md",
+                "file": "AP1/GroupLearning/Protokolle.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/Untitled.md",
+                "file": "AP1/GroupLearning/Protokolle.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/Untitled.md",
+                "file": "AP1/GroupLearning/Protokolle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/Untitled.md"
+                "file": "AP1/GroupLearning/Protokolle.md"
               }
             }
           },
@@ -169,14 +169,25 @@
   },
   "active": "256e64e9e4b5d68a",
   "lastOpenFiles": [
-    "AP1/GroupLearning/Prufungsvorbereitung.md",
-    "AP1/GroupLearning/Unconfirmed 101674.crdownload",
+    "AP1/GroupLearning/IP.md",
+    "AP1/GroupLearning/ISO-OSI.md",
+    "AP1/GroupLearning/Konsolenbefehle.md",
+    "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
     "AP1/Alle AP1 Notes.md",
+    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
+    "AP1/GroupLearning/Kundengespräch.md",
+    "AP1/GroupLearning/Themen_Abschlussprufung_Teil_1.md",
+    "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-07 18.03.50.excalidraw.md",
+    "AP1/GroupLearning/Virtualisierung.md",
+    "AP1/GroupLearning/Strukturplan.md",
     "AP1/GroupLearning/Untitled.md",
+    "AP1/GroupLearning/Prufungsvorbereitung.md",
+    "AP1/GroupLearning/Unconfirmed 842376.crdownload",
+    "AP1/GroupLearning/Unconfirmed 101674.crdownload",
     "AP1/GroupLearning/Protokolle.md",
     "AP1/GroupLearning/IHK Themen ToDO.md",
     "AP1/GroupLearning/Cloudcomputing.md",
-    "AP1/GroupLearning/ISO-OSI.md",
     "AP1/GroupLearning/Gantt-Diagramm.md",
     "µ-Controller/Wetterstation mit dem ESP8266.md",
     "µ-Controller/Bilder/Pasted image 20240207211433.png",
@@ -198,23 +209,12 @@
     "Berufsschule/µ-Controller/Led-Schaltung.md",
     "Berufsschule/µ-Controller/Bilder",
     "Berufsschule/Sozialkunde/Werbung.md",
-    "Berufsschule/Sozialkunde/Themen der Klassenarbeit 11.12.2023.md",
-    "Berufsschule/Sozialkunde/Sozialkunde.md",
-    "Berufsschule/Sozialkunde/Mutterschutz, Mutterschutzgesetz.md",
     "Berufsschule/Sozialkunde/Externe Sourcen",
-    "Berufsschule/Sozialkunde/Besitz und Eigentum.md",
-    "Berufsschule/Sozialkunde/Berufsbildungsgesetz.md",
-    "Berufsschule/Lernfeld 9/Switching.md",
-    "Berufsschule/Lernfeld 9/Switch.md",
-    "Berufsschule/Lernfeld 9/NAT Network Address Translation Protokoll.md",
-    "Berufsschule/Lernfeld 9/Ethernet Frame.md",
-    "Berufsschule/Lernfeld 9/DNS.md",
     "Berufsschule/Lernfeld 9/Bilder",
     "Berufsschule/Lernfeld 8/Bilder",
     "Berufsschule/Lernfeld 7/Bilder",
     "Berufsschule/µ-Controller",
     "Berufsschule/Sozialkunde",
-    "Berufsschule/Lernfeld 9",
     "Untitled.canvas"
   ]
 }
