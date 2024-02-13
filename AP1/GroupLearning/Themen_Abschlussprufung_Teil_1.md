@@ -1,4 +1,11 @@
-#berufsschule #IT #AP1
+---
+tags:
+  - "#AP1"
+  - "#Übersicht"
+  - "#ToDo"
+topic: Albert
+---
+
 
 ---
 
@@ -27,11 +34,11 @@
 - [ ] TLS ✅ 2024-02-09
 - [x] DNS ✅ 2024-02-09
 - [ ] RAID ✅ 2024-02-09
-- [ ] ~~Leistungsaufnahme~~
-- [ ] ~~Installationen und Konfigurationen von Betriebssystemen~~
+- [ ] Leistungsaufnahme
+- [ ] Installationen und Konfigurationen von Betriebssystemen
 - [ ] Remote-Desktop ✅ 2024-02-09
-- [ ] ~~Geräte-Klassen z.B. Desktops, Notebooks, Tablets, Smartphone~~
-- [ ] ~~Betriebssysteme~~
+- [ ] Geräte-Klassen z.B. Desktops, Notebooks, Tablets, Smartphone
+- [x] Betriebssysteme
 - [x] Netzwerk-Komponenten (Router, Switches, Access Point) ✅ 2024-02-09
 - [ ] IMAP, IP/TCP/UDP ✅ 2024-02-09
 - [ ] Ethernetstandards ✅ 2024-02-09

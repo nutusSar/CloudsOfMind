@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/Protokolle.md",
+                "file": "AP1/GroupLearning/Geräteklassen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/Protokolle.md",
+                "file": "AP1/GroupLearning/Geräteklassen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/Protokolle.md",
+                "file": "AP1/GroupLearning/Geräteklassen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/Protokolle.md"
+                "file": "AP1/GroupLearning/Geräteklassen.md"
               }
             }
           },
@@ -169,6 +169,14 @@
   },
   "active": "256e64e9e4b5d68a",
   "lastOpenFiles": [
+    "AP1/GroupLearning/Themen_Abschlussprufung_Teil_1.md",
+    "AP1/GroupLearning/Geräteklassen.md",
+    "AP1/GroupLearning/Virtualisierung.md",
+    "AP1/GroupLearning/IHK Themen ToDO.md",
+    "AP1/GroupLearning/Strukturplan.md",
+    "AP1/GroupLearning/Störungsmangement.md",
+    "AP1/GroupLearning/Stärken- Schwächenanalyse.md",
+    "AP1/GroupLearning/Protokolle.md",
     "AP1/GroupLearning/IP.md",
     "AP1/GroupLearning/ISO-OSI.md",
     "AP1/GroupLearning/Konsolenbefehle.md",
@@ -176,17 +184,11 @@
     "AP1/Alle AP1 Notes.md",
     "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
     "AP1/GroupLearning/Kundengespräch.md",
-    "AP1/GroupLearning/Themen_Abschlussprufung_Teil_1.md",
     "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md",
     "Excalidraw/Drawing 2024-02-07 18.03.50.excalidraw.md",
-    "AP1/GroupLearning/Virtualisierung.md",
-    "AP1/GroupLearning/Strukturplan.md",
-    "AP1/GroupLearning/Untitled.md",
     "AP1/GroupLearning/Prufungsvorbereitung.md",
     "AP1/GroupLearning/Unconfirmed 842376.crdownload",
     "AP1/GroupLearning/Unconfirmed 101674.crdownload",
-    "AP1/GroupLearning/Protokolle.md",
-    "AP1/GroupLearning/IHK Themen ToDO.md",
     "AP1/GroupLearning/Cloudcomputing.md",
     "AP1/GroupLearning/Gantt-Diagramm.md",
     "µ-Controller/Wetterstation mit dem ESP8266.md",
@@ -206,9 +208,7 @@
     "Berufsschule/µ-Controller/Wiederstände.md",
     "Berufsschule/µ-Controller/Wichtige Befehle.md",
     "Berufsschule/µ-Controller/Wetterstation mit dem ESP8266.md",
-    "Berufsschule/µ-Controller/Led-Schaltung.md",
     "Berufsschule/µ-Controller/Bilder",
-    "Berufsschule/Sozialkunde/Werbung.md",
     "Berufsschule/Sozialkunde/Externe Sourcen",
     "Berufsschule/Lernfeld 9/Bilder",
     "Berufsschule/Lernfeld 8/Bilder",
