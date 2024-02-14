@@ -20,7 +20,7 @@ topic: Albert
 - [x] Störungsmanagement ✅ 2024-02-07
 - [x] Feedback-Kultur / Lessons Learned ✅ 2024-02-07
 - [x] Fehlermanagement ✅ 2024-02-07
-- [ ] Zielgruppendefinition ✅ 2024-02-07
+- [x] Zielgruppendefinition ✅ 2024-02-07
 - [ ] Projektphasen: Meilensteine ✅ 2024-02-07
 
 ### IT-Infrastruktur:

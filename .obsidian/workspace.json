@@ -8,27 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d492b1421a9fbfb6",
+            "id": "ddce945382bd8a08",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "ddce945382bd8a08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP1/Themen_Abschlussprufung_Teil_1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/Themen_Abschlussprufung_Teil_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/Themen_Abschlussprufung_Teil_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AP1/Themen_Abschlussprufung_Teil_1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,11 +161,14 @@
   },
   "active": "ddce945382bd8a08",
   "lastOpenFiles": [
-    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
-    "AP1/IHK Themen ToDO.md",
-    "AP1/GroupLearning/Fehlermanagement.md",
-    "AP1/Themen_Abschlussprufung_Teil_1.md",
     "AP1/Alle AP1 Notes.md",
+    "AP1/IHK Themen ToDO.md",
+    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
+    "AP1/Themen_Abschlussprufung_Teil_1.md",
+    "AP1/GroupLearning/Projektphasen und Meilensteine.md",
+    "AP1/GroupLearning/Bilder/Pasted image 20240214183638.png",
+    "AP1/GroupLearning/Zielgruppendefinition.md",
+    "AP1/GroupLearning/Fehlermanagement.md",
     "AP1/GroupLearning/Feedback-Kultur, Lessons Learned.md",
     "AP1/GroupLearning/Netzplan.md",
     "AP1/GroupLearning/Stakeholderanalyse.md",
@@ -204,16 +190,12 @@
     "AP1/GroupLearning/Stärken- Schwächenanalyse.md",
     "AP1/GroupLearning/Strukturplan.md",
     "Pasted image 20240212125248.png",
-    "SQL/Statistikfunktionen.md",
-    "SQL/SQL Statements.md",
-    "SQL/SQL - Structured Query Language.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240212115406.png",
     "Pasted image 20240212115347.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240212113921.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240212110350.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240212114351.png",
     "Pasted image 20240212115243.png",
-    "Pasted image 20240212115236.png",
     "Berufsschule",
     "AP1/GroupLearning/Dokumente/Prufungsvorbereitung_FI22.pdf",
     "AP1/GroupLearning/Dokumente/PV_gekurzt.pdf",
