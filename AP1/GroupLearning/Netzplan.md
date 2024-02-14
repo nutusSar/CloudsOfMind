@@ -21,5 +21,11 @@ Ein Netzplan bildet die Grundlage für die Terminplanung und hat folgende Funkti
 - ein Gesamtpuffer (GP) (= SAZ – FAZ oder = SEZ – FEZ)
 - und der freie Puffer (FP) (= FAZ des Nachfolgers – FEZ des aktuellen Vorgangs)
 ![[Pasted image 20240207171724.png]]
+
+## Funktion
+- die Dauer des Projektes bestimmt
+- die zeitliche und logische Abfolge von Vorgängen festgelegt
+- der kritische Pfad ermittelt und visualisiert
+- ein möglicher Puffer dargestellt
 ## Kritischer Pfad
 Als kritischen Pfad bezeichnet man in einem Projektplan die längste Kette von Vorgängen, bei denen es keinen Puffer (Puffer = 0) gibt.
