@@ -1,3 +1,9 @@
+---
+tags:
+  - "#AP1"
+  - "#IT-Sicherheit"
+---
+
 ## HTTPS (Hypertext Transfer Protocol Secure)
 HTTPS ist eine sichere Variante des HTTP-Protokolls, das für die Übertragung von Daten im Web verwendet wird. Es integriert das Transport Layer Security (TLS)-Protokoll, um eine verschlüsselte Verbindung zwischen einem Webbrowser und einem Webserver herzustellen. Durch die Verschlüsselung werden die Vertraulichkeit und Integrität der übertragenen Daten gewährleistet, und HTTPS schützt vor Man-in-the-Middle-Angriffen.
 

@@ -11,8 +11,12 @@
             "id": "256e64e9e4b5d68a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AP1/Alle AP1 Notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AP1/Alle AP1 Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AP1/Alle AP1 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AP1/Alle AP1 Notes.md"
+              }
             }
           },
           {
@@ -161,6 +169,17 @@
   },
   "active": "256e64e9e4b5d68a",
   "lastOpenFiles": [
+    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
+    "AP1/IT-Sicherheit/Hashverfahren.md",
+    "AP1/IT-Sicherheit/Informationssicherheit.md",
+    "AP1/IT-Sicherheit/Kryptographie.md",
+    "AP1/IT-Sicherheit/Schutzziele.md",
+    "AP1/IT-Sicherheit/Vigenere-Ciffre.md",
+    "AP1/IT-Sicherheit/Verschlüsselung.md",
+    "AP1/IT-Sicherheit/Secure Protokolle im Überblick.md",
+    "AP1/IT-Sicherheit/Grundbegriffe.md",
+    "AP1/IT-Sicherheit/Caesar-Verschlüsselung.md",
+    "AP1/IT-Sicherheit/Authentifizierung und Zertifikate.md",
     "AP1/Alle AP1 Notes.md",
     "AP1/GroupLearning/Remote-Desktop.md",
     "AP1/GroupLearning/IHK Themen ToDO.md",
@@ -176,19 +195,8 @@
     "AP1/GroupLearning/Protokolle.md",
     "AP1/SMTP.md",
     "AP1/GroupLearning/Netzplan.md",
-    "AP1/GroupLearning/Geräteklassen.md",
-    "AP1/GroupLearning/Störungsmangement.md",
-    "AP1/GroupLearning/Stärken- Schwächenanalyse.md",
-    "AP1/GroupLearning/ISO-OSI.md",
-    "AP1/GroupLearning/Konsolenbefehle.md",
-    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
-    "AP1/GroupLearning/Kundengespräch.md",
-    "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-07 18.03.50.excalidraw.md",
-    "AP1/GroupLearning/Prufungsvorbereitung.md",
     "AP1/GroupLearning/Unconfirmed 842376.crdownload",
     "AP1/GroupLearning/Unconfirmed 101674.crdownload",
-    "AP1/GroupLearning/Cloudcomputing.md",
     "µ-Controller/Bilder/Pasted image 20240207211433.png",
     "Berufsschule/µ-Controller/Bilder/Pasted image 20240207211433.png",
     "Berufsschule/µ-Controller/Bilder/Pasted image 20240205010859.png",

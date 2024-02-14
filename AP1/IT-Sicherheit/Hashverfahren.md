@@ -1,3 +1,9 @@
+---
+tags:
+  - "#AP1"
+  - "#IT-Sicherheit"
+---
+
 ## Definition
 
 Ein Hashverfahren ist eine kryptografische Funktion, die dazu dient, Daten in einer festen Länge abzubilden, wobei selbst kleine Änderungen in den Eingabedaten zu erheblichen Veränderungen im erzeugten Hashwert führen.

@@ -1,3 +1,9 @@
+---
+tags:
+  - "#AP1"
+  - "#IT-Sicherheit"
+---
+
 ## Zertifikatsstellen (CAs)
 Zertifikatsstellen (Certificate Authorities, CAs) sind vertrauenswürdige Organisationen, die digitale Zertifikate ausstellen. Diese Zertifikate binden öffentliche Schlüssel an bestimmte Identitäten und dienen dazu, die Echtheit von Schlüsselpaaren zu bestätigen. Die CAs spielen eine zentrale Rolle in der Public-Key-Infrastruktur (PKI) und ermöglichen es, sicherzustellen, dass die öffentlichen Schlüssel tatsächlich den angegebenen Entitäten zugeordnet sind.
 
