@@ -19,11 +19,11 @@ tags:
 - [x]  SSH
 - [x]  TLS
 - [x]  Datenspeicher
-- [ ]  Normen
-- [ ]  Vorschriften
+- [ ]  Normen ???
+- [ ]  Vorschriften ???
 - [ ]  Zertifikate
-- [ ]  Vorschriften
-- [ ]  Bedarfsanalyse
+- [ ]  Vorschriften ???
+- [x]  Bedarfsanalyse
 - [ ]  Remote-Desktop
 - [x]  Geräte-Klassen zB. Desktops, Notebooks, Tablets, Smartphone
 - [ ]  IDE

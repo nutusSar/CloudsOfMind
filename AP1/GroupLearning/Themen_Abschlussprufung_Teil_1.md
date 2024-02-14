@@ -14,7 +14,7 @@ topic: Albert
 - [x] Strukturplan ✅ 2024-02-07
 - [x] Netzplan ✅ 2024-02-07
 - [x] Gantt-Diagramm ✅ 2024-02-07
-- [ ] Kundengespräch ✅ 2024-02-07
+- [x] Kundengespräch ✅ 2024-02-07
 - [ ] Angebotsbewertung ✅ 2024-02-07
 - [ ] Stakeholderanalyse ✅ 2024-02-07
 - [x] Störungsmanagement ✅ 2024-02-07
@@ -29,22 +29,23 @@ topic: Albert
 - [x] Infrastuktur as a Service ✅ 2024-02-09
 - [x] Netzwerkprotokolle ✅ 2024-02-09
 - [x] SMTP ✅ 2024-02-09
-- [ ] IPSec ✅ 2024-02-09
-- [ ] SSH ✅ 2024-02-09
-- [ ] TLS ✅ 2024-02-09
+- [x] IPSec ✅ 2024-02-09
+- [x] SSH ✅ 2024-02-09
+- [x] TLS ✅ 2024-02-09
 - [x] DNS ✅ 2024-02-09
 - [ ] RAID ✅ 2024-02-09
 - [ ] Leistungsaufnahme
 - [ ] Installationen und Konfigurationen von Betriebssystemen
 - [ ] Remote-Desktop ✅ 2024-02-09
-- [ ] Geräte-Klassen z.B. Desktops, Notebooks, Tablets, Smartphone
+- [x] Geräte-Klassen z.B. Desktops, Notebooks, Tablets, Smartphone
 - [x] Betriebssysteme
 - [x] Netzwerk-Komponenten (Router, Switches, Access Point) ✅ 2024-02-09
 - [ ] IMAP, IP/TCP/UDP ✅ 2024-02-09
 - [ ] Ethernetstandards ✅ 2024-02-09
-- [ ] DHCP, BIOS, UEFI, CPU, RAM ✅ 2024-02-09
+- [x] DHCP, 
+- [ ] BIOS, UEFI, 
+- [ ] CPU, RAM ✅ 2024-02-09
 - [ ] NFS ✅ 2024-02-09
-- [x] DHCP ✅ 2024-02-09
 - [ ] W-Lanzugang pre-shared Key/Enterprise VPN ✅ 2024-02-09
 - [x] IP-Adressen ✅ 2024-02-09
 
@@ -70,7 +71,7 @@ topic: Albert
 - [ ] Rahmenbedingungen Datensicherheit / Datenschutz ✅ 2024-02-08
 - [ ] Datenschutzgesetze (DSGVO, BDSG) ✅ 2024-02-08
 - [ ] Zugangs- und Zugriffskontrolle ✅ 2024-02-08
-- [ ] Verschlüsselungstechniken (symmetrische und asymmetrische, CAs, Zertifikate nach https, TLS) ✅ 2024-02-08
+- [x] Verschlüsselungstechniken (symmetrische und asymmetrische, CAs, Zertifikate nach https, TLS) ✅ 2024-02-08
 
 ### Wirtschaftlichkeit und Finanzen:
 
@@ -106,15 +107,15 @@ topic: Albert
 
 ### Rechtliche Aspekte und Vertrieb:
 
-- [ ] Normen
-- [ ] Vorschriften
+- [ ] Normen ???
+- [ ] Vorschriften ???
 - [ ] Zertifikate
 - [ ] Vertriebsformen
 - [x] Cloudlösung
 - [ ] BSI IT Grundschutz
 - [ ] Schutzbedarfsanalyse nach BSI
 - [ ] Bausteine der Grundschutzanalyse
-- [ ] Verschlüsselungstechniken (symmetrische und asymmetrische, CAs, Zertifikate nach https, TLS)
+- [x] Verschlüsselungstechniken (symmetrische und asymmetrische, CAs, Zertifikate nach https, TLS)
 - [ ] Kaufvertrags, Lizenzvertrag Mietvertrag, Werkvertrag
 - [ ] Vertragsbestandteile
 - [ ] Aufbau und Organisation des eigenen Unternehmens
