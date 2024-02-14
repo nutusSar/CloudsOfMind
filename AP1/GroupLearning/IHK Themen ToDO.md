@@ -18,17 +18,14 @@ tags:
 - [x]  IPSec
 - [x]  SSH
 - [x]  TLS
-- [ ]  Datenspeicher
+- [x]  Datenspeicher
 - [ ]  Normen
 - [ ]  Vorschriften
 - [ ]  Zertifikate
 - [ ]  Vorschriften
 - [ ]  Bedarfsanalyse
 - [ ]  Remote-Desktop
-- [ ]  Geräte-Klassen zB. Desktops
-- [ ]  Notebooks
-- [ ]  Tablets
-- [ ]  Smartphone
+- [x]  Geräte-Klassen zB. Desktops, Notebooks, Tablets, Smartphone
 - [ ]  IDE
 - [ ]  Open-Source
 - [ ]  x Schnittstellen
@@ -36,10 +33,7 @@ tags:
 - [ ]  Instalationen und Konfigurationen von Betriebssystemen
 - [ ]  Prozeduren und Fuktionen
 - [ ] Softwareergonomie Barrierenfreiheit
-- [ ]  PDCA (Plan
-- [ ]  Do
-- [ ]  Check
-- [ ]  Act)
+- [ ]  PDCA (Plan, Do, Check, Act)
 - [ ]  Definiton von personenbezogenen Daten
 - [ ]  Authentifizierungen und Passwort-Policy
 - [ ]  Veränderungsprozesse
@@ -56,7 +50,8 @@ tags:
 - [ ] Debugging formale und inhaltliche FehlerUML ( Use-Case
 - [ ] Klassendiagramm)Sicherung der Verfügbarkeit - RAID und SAN
 - [ ]  SLA
-- [ ]  -Käufer verkäufer markt -Betriebssysteme -Datensicherung/Backupverfahren -MedienkompetenzMathieu:     - Rahmenbedingungen Datensicherheit /Datenschutz
+- [ ]  -Käufer verkäufer markt -Betriebssysteme -Datensicherung/Backupverfahren -Medienkompetenz
+- [ ] - Rahmenbedingungen Datensicherheit /Datenschutz
 - [ ]     - Betriebskosten
 - [ ]     - Installation und Konfiguration von Betriebssystemen
 - [ ]      - Firewall: SSH vs. Telnet
