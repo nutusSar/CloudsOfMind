@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/Geräteklassen.md",
+                "file": "AP1/GroupLearning/Datenspeicher.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/Geräteklassen.md",
+                "file": "AP1/GroupLearning/Datenspeicher.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/Geräteklassen.md",
+                "file": "AP1/GroupLearning/Datenspeicher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/Geräteklassen.md"
+                "file": "AP1/GroupLearning/Datenspeicher.md"
               }
             }
           },
@@ -169,15 +169,19 @@
   },
   "active": "256e64e9e4b5d68a",
   "lastOpenFiles": [
-    "AP1/GroupLearning/Themen_Abschlussprufung_Teil_1.md",
-    "AP1/GroupLearning/Geräteklassen.md",
+    "AP1/GroupLearning/IP.md",
+    "AP1/GroupLearning/Datenspeicher.md",
     "AP1/GroupLearning/Virtualisierung.md",
     "AP1/GroupLearning/IHK Themen ToDO.md",
+    "AP1/GroupLearning/Protokolle.md",
     "AP1/GroupLearning/Strukturplan.md",
+    "AP1/SMTP.md",
+    "AP1/GroupLearning/Themen_Abschlussprufung_Teil_1.md",
+    "AP1/GroupLearning/Gantt-Diagramm.md",
+    "AP1/GroupLearning/Netzplan.md",
+    "AP1/GroupLearning/Geräteklassen.md",
     "AP1/GroupLearning/Störungsmangement.md",
     "AP1/GroupLearning/Stärken- Schwächenanalyse.md",
-    "AP1/GroupLearning/Protokolle.md",
-    "AP1/GroupLearning/IP.md",
     "AP1/GroupLearning/ISO-OSI.md",
     "AP1/GroupLearning/Konsolenbefehle.md",
     "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
@@ -190,7 +194,6 @@
     "AP1/GroupLearning/Unconfirmed 842376.crdownload",
     "AP1/GroupLearning/Unconfirmed 101674.crdownload",
     "AP1/GroupLearning/Cloudcomputing.md",
-    "AP1/GroupLearning/Gantt-Diagramm.md",
     "µ-Controller/Wetterstation mit dem ESP8266.md",
     "µ-Controller/Bilder/Pasted image 20240207211433.png",
     "Berufsschule/µ-Controller/Bilder/Pasted image 20240207211433.png",
@@ -205,9 +208,6 @@
     "Berufsschule/Lernfeld 9/Bilder/switch_logik.png",
     "Berufsschule/Lernfeld 9/Bilder/modi_uebersicht_router.png",
     "Berufsschule/µ-Controller/µ-Controller.md",
-    "Berufsschule/µ-Controller/Wiederstände.md",
-    "Berufsschule/µ-Controller/Wichtige Befehle.md",
-    "Berufsschule/µ-Controller/Wetterstation mit dem ESP8266.md",
     "Berufsschule/µ-Controller/Bilder",
     "Berufsschule/Sozialkunde/Externe Sourcen",
     "Berufsschule/Lernfeld 9/Bilder",

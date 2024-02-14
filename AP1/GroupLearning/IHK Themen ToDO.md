@@ -8,16 +8,16 @@ tags:
 - [x] Netzplan
 - [x]  Gantt-Diagramm
 - [x]  Störungsmanagment
-- [ ]  Kundengespräch
+- [x]  Kundengespräch
 - [x]  Stärken-Schwächen-Analyse
 - [x]  Anwendungen/Betriebssysteme
 - [x] Cloudcomputing (Servicemodelle, Cloudlösungen)
 - [x]  Virtualisierung
 - [ ]  Netzwerkprotokolle
-- [ ]  SMTP
-- [ ]  IPSec
-- [ ]  SSH
-- [ ]  TLS
+- [x]  SMTP
+- [x]  IPSec
+- [x]  SSH
+- [x]  TLS
 - [ ]  Datenspeicher
 - [ ]  Normen
 - [ ]  Vorschriften

@@ -16,7 +16,7 @@ topic: Übersicht
 |UDP|–|User Datagram Protocol ist ein verbindungsloses Protokoll, das es ermöglicht, Datenpakete ohne Verbindungsaufbau zu senden.|
 |SMB|137, 138, 139|Server Message Block (SMB) ist ein Protokoll, das es ermöglicht, Dateien, Drucker und andere Ressourcen in einem Netzwerk zu teilen.|
 |NFS|2049|Network File System (NFS) ist ein Protokoll, das es ermöglicht ganze Dateisysteme über das Netzwerk zu mounten und Dateien zwischen verschiedenen Computern auszutauschen. Es wird unter Linux verwendet.|
-|SMTP/S|25, 587|Simple Mail Transfer Protocol ist ein Protokoll, das es ermöglicht, E-Mails zwischen Mail-Servern auszutauschen, also E-Mails zu versenden.|
+|SMTP/S|25, 587|Simple Mail Transfer Protocol ist ein Protokoll, das es ermöglicht, E-Mails zwischen Mail-Servern auszutauschen, also E-Mails zu versenden. SMPTS nutzt TLS. |
 |IMAP/S|143, 993|Internet Message Access Protocol ist ein Protokoll, das es ermöglicht, E-Mails auf einem Mail-Server zu lesen und zu verwalten.|
 |POP3/S|110, 995|Post Office Protocol Version 3 ist ein Protokoll, das es ermöglicht, E-Mails von einem Mail-Server abzurufen und lokal zu speichern.|
 |HTTP|80|Hypertext Transfer Protocol ist das Protokoll, das verwendet wird, um Webseiten im Internet zu übertragen. Es ist jedoch prinzipiell nicht darauf beschränkt, Webseiten zu übertragen.|
