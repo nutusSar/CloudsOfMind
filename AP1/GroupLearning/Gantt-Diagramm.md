@@ -9,5 +9,3 @@ Das Gantt-Diagramm ist eine Spezialform des Balkendiagramms, das alle Terminpla
 
 ## Vergleich Gantt-Diagramm vs. Netzplan
 ![[Pasted image 20240207174134.png]]
-Gantt-Diagramm
-+ Bessere Virsualisierung
