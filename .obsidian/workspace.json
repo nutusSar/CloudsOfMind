@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/Finanzierung und Kosten.md",
+                "file": "AP1/GroupLearning/IP.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/Finanzierung und Kosten.md",
+                "file": "AP1/GroupLearning/IP.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/Finanzierung und Kosten.md",
+                "file": "AP1/GroupLearning/IP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/Finanzierung und Kosten.md"
+                "file": "AP1/GroupLearning/IP.md"
               }
             }
           },
@@ -181,18 +180,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb9699aac87f96df",
+  "active": "929669ec25b94ba3",
   "lastOpenFiles": [
+    "AP1/Alle AP1 Notes.md",
+    "AP1/GroupLearning/Mengenplanung.md",
+    "AP1/GroupLearning/Finanzierung und Kosten.md",
     "Pasted image 20240215153403.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240215153315.png",
-    "AP1/Alle AP1 Notes.md",
     "AP1/GroupLearning/Virtualisierung.md",
     "AP1/GroupLearning/Strukturplan.md",
     "AP1/GroupLearning/Störungsmangement.md",
     "AP1/GroupLearning/Stärken- Schwächenanalyse.md",
     "AP1/GroupLearning/Remote-Desktop.md",
     "templates/AP1 Notes Temp.md",
-    "AP1/GroupLearning/Finanzierung und Kosten.md",
     "AP1/Themen_Abschlussprufung_Teil_1.md",
     "AP1/IHK Themen ToDO.md",
     "AP1/GroupLearning/Feedback-Kultur, Lessons Learned.md",
@@ -220,7 +220,6 @@
     "Berufsschule/µ-Controller/Bilder/Pasted image 20240205010441.png",
     "Berufsschule/µ-Controller/Bilder/Pasted image 20240205003037.png",
     "Berufsschule/µ-Controller/Bilder/Pasted image 20231119162109.png",
-    "Berufsschule/µ-Controller/Bilder/Pasted image 20231119160912.png",
     "Berufsschule/Sozialkunde/Externe Sourcen/82316_sowirp_lb1_besitz_eigentum_arbeitsblatt.pdf",
     "Berufsschule/µ-Controller/Bilder",
     "Berufsschule/Sozialkunde/Externe Sourcen",

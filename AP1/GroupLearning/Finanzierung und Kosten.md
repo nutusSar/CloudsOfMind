@@ -73,7 +73,7 @@ $$Wertschöpfung = Produktionswert - Vorleistung$$
 ### Wertschöpfungskette
 Die Wertschöpfungskette (Value Chain) veranschaulicht alle zusammenhängenden unternehmerischen Tätigkeiten grafisch. Demnach umfasst sie eine Abfolge von Tätigkeiten, durch die ein Produkt entwickelt, produziert, verkauft, versandt und unterstützt wird.
 
-### Die Wertschöpfungskette bietet Einsichten in
+**Die Wertschöpfungskette bietet Einsichten in**:
 - das Kostenverhalten: Stehen Kosten und Kundennutzen in einem adäquaten Verhältnis? 
 - die sinnvolle Verwendung von Technologie 
 - bestehende und potenzielle Quellen der Differenzierung und deren Ausbau zu Wettbewerbsvorteilen
