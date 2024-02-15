@@ -16,11 +16,11 @@ topic: Albert
 - [x] Gantt-Diagramm ✅ 2024-02-07
 - [x] Kundengespräch ✅ 2024-02-07
 - [ ] Angebotsbewertung ✅ 2024-02-07
-- [ ] Stakeholderanalyse ✅ 2024-02-07
+- [x] Stakeholderanalyse ✅ 2024-02-07
 - [x] Störungsmanagement ✅ 2024-02-07
-- [ ] Feedback-Kultur / Lessons Learned ✅ 2024-02-07
-- [ ] Fehlermanagement ✅ 2024-02-07
-- [ ] Zielgruppendefinition ✅ 2024-02-07
+- [x] Feedback-Kultur / Lessons Learned ✅ 2024-02-07
+- [x] Fehlermanagement ✅ 2024-02-07
+- [x] Zielgruppendefinition ✅ 2024-02-07
 - [ ] Projektphasen: Meilensteine ✅ 2024-02-07
 
 ### IT-Infrastruktur:
@@ -36,7 +36,7 @@ topic: Albert
 - [ ] RAID ✅ 2024-02-09
 - [ ] Leistungsaufnahme
 - [ ] Installationen und Konfigurationen von Betriebssystemen
-- [ ] Remote-Desktop ✅ 2024-02-09
+- [x] Remote-Desktop ✅ 2024-02-09
 - [x] Geräte-Klassen z.B. Desktops, Notebooks, Tablets, Smartphone
 - [x] Betriebssysteme
 - [x] Netzwerk-Komponenten (Router, Switches, Access Point) ✅ 2024-02-09

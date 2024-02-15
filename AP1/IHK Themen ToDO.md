@@ -24,7 +24,7 @@ tags:
 - [ ]  Zertifikate
 - [ ]  Vorschriften ???
 - [x]  Bedarfsanalyse
-- [ ]  Remote-Desktop
+- [x]  Remote-Desktop
 - [x]  Geräte-Klassen zB. Desktops, Notebooks, Tablets, Smartphone
 - [ ]  IDE
 - [ ]  Open-Source
@@ -41,14 +41,14 @@ tags:
 - [ ] Lessons Learned
 - [ ] Fehlermanagement
 - [ ] Vertriebsformen
-- [ ] OSI-Model
+- [x] OSI-Model
 - [ ] HTTP
 - [ ] ARP
 - [ ] RAID
 - [ ] Leistungsaufnahme
 - [ ] Finanzierungskosten
-- [ ] Debugging formale und inhaltliche FehlerUML ( Use-Case
-- [ ] Klassendiagramm)Sicherung der Verfügbarkeit - RAID und SAN
+- [ ] Debugging formale und inhaltliche FehlerUML ( Use-Case Klassendiagramm)
+- [ ] Sicherung der Verfügbarkeit - RAID und SAN
 - [ ]  SLA
 - [ ]  -Käufer verkäufer markt -Betriebssysteme -Datensicherung/Backupverfahren -Medienkompetenz
 - [ ] - Rahmenbedingungen Datensicherheit /Datenschutz
@@ -121,7 +121,7 @@ tags:
 - [ ]  Perepherie( Netzwerkkomponenten
 - [ ]  Wlan)
 - [ ]  NFS
-- [ ]  DHCP
+- [x]  DHCP
 - [ ] BIOS UEFI
 - [ ]  CPU
 - [ ]  RAM
@@ -133,7 +133,7 @@ tags:
 - [ ]  Zertifikate nach https
 - [ ]  TLSRoloutprozesseDaniel S.:    Kontrollstrukturen
 - [ ]  zb. Verzweigung
-- [ ]  Schleifenyand: Marktform (Polypol
-- [ ]  Monopol)Christian: Ticketsystem
+- [ ]  Schleifenyand: Marktform (Polypol Monopol): 
+- [ ] Ticketsystem
 - [ ]  Onlineschulung
 - [ ]  SMTP
