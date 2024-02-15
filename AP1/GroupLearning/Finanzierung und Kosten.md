@@ -46,7 +46,10 @@ $$= Anschaffungspreis + Nebenkosten - Minderungen$$
 + Kosten, die über einen Gewissen Zeitpunkt konstant bleiben
 + Dürfen auf die Stückkosten draufgerechnet werden
 **Beispiele**:
-
++ Miete
++ Strom
++ Versicherungen
++ Telefon und Internet
 
 ## Variable Kosten
 Variable Kosten sind veränderliche Kosten, die in Abhängigkeit vom Beschäftigungsgrad oder der Produktionsmenge eines Unternehmens steigen oder sinken
