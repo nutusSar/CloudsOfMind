@@ -11,8 +11,12 @@
             "id": "ddce945382bd8a08",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AP1/GroupLearning/Mengenplanung.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AP1/GroupLearning/Mengenplanung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AP1/GroupLearning/Mengenplanung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AP1/GroupLearning/Mengenplanung.md"
+              }
             }
           },
           {
@@ -161,10 +169,10 @@
   },
   "active": "ddce945382bd8a08",
   "lastOpenFiles": [
-    "AP1/GroupLearning/Mengenplanung.md",
-    "AP1/GroupLearning/Finanzierung und Kosten.md",
-    "AP1/GroupLearning/Bilder/Pasted image 20240215153315.png",
     "AP1/Alle AP1 Notes.md",
+    "AP1/GroupLearning/Finanzierung und Kosten.md",
+    "AP1/GroupLearning/Mengenplanung.md",
+    "AP1/GroupLearning/Bilder/Pasted image 20240215153315.png",
     "AP1/IHK Themen ToDO.md",
     "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
     "AP1/Themen_Abschlussprufung_Teil_1.md",

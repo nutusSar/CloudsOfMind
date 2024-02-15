@@ -5,3 +5,14 @@ tags:
 ---
 ## Definition
 Die Mengenplanung hat die Aufgabe, Aufträge über Erzeugnisse und davon abgeleitete Materialien an die Fertigung und den Einkauf mit den erforderlichen Zeitpunkten und über die erforderliche Menge zu übermitteln, so dass das Fertigungsprogramm erfüllt werden kann.
+
+## Aspekte der Mengenplanung
+1. **Absatzprognose:** Vorhersage der Nachfrage basierend auf Daten und Trends, um die richtige Produktionsmenge zu bestimmen.
+    
+2. **Kapazitätsplanung:** Festlegung der benötigten Produktionskapazität unter Berücksichtigung von Maschinenauslastung, Arbeitskräftebedarf und Betriebszeiten.
+    
+3. **Optimierung von Produktionsprozessen:** Effiziente Nutzung von Anlagen und Ressourcen, um Kosten zu minimieren und Produktivität zu maximieren.
+    
+4. **Just-in-Time-Produktion (JIT):** Herstellung von Produkten nur bei Bedarf, um Lagerbestände zu minimieren und Effizienz zu steigern.
+    
+5. **Risikomanagement:** Identifizierung und Management von Risiken, die die Produktion beeinträchtigen könnten, wie Lieferantenprobleme oder unvorhergesehene Ereignisse.
