@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/Remote-Desktop.md",
+                "file": "AP1/GroupLearning/Finanzierung und Kosten.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/Remote-Desktop.md",
+                "file": "AP1/GroupLearning/Finanzierung und Kosten.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/Remote-Desktop.md",
+                "file": "AP1/GroupLearning/Finanzierung und Kosten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/Remote-Desktop.md"
+                "file": "AP1/GroupLearning/Finanzierung und Kosten.md"
               }
             }
           },
@@ -182,10 +182,16 @@
   },
   "active": "929669ec25b94ba3",
   "lastOpenFiles": [
+    "AP1/Alle AP1 Notes.md",
+    "AP1/GroupLearning/Virtualisierung.md",
+    "AP1/GroupLearning/Strukturplan.md",
+    "AP1/GroupLearning/Störungsmangement.md",
+    "AP1/GroupLearning/Stärken- Schwächenanalyse.md",
+    "AP1/GroupLearning/Remote-Desktop.md",
+    "templates/AP1 Notes Temp.md",
     "AP1/GroupLearning/Finanzierung und Kosten.md",
     "AP1/Themen_Abschlussprufung_Teil_1.md",
     "AP1/IHK Themen ToDO.md",
-    "AP1/Alle AP1 Notes.md",
     "AP1/GroupLearning/Feedback-Kultur, Lessons Learned.md",
     "conflict-files-obsidian-git.md",
     "AP1/GroupLearning/Zielgruppendefinition.md",
@@ -203,12 +209,6 @@
     "AP1/IT-Sicherheit/Vigenere-Ciffre.md",
     "AP1/IT-Sicherheit/Verschlüsselung.md",
     "AP1/IT-Sicherheit/Secure Protokolle im Überblick.md",
-    "AP1/IT-Sicherheit/Grundbegriffe.md",
-    "AP1/IT-Sicherheit/Caesar-Verschlüsselung.md",
-    "AP1/IT-Sicherheit/Authentifizierung und Zertifikate.md",
-    "AP1/GroupLearning/Remote-Desktop.md",
-    "AP1/GroupLearning/IHK Themen ToDO.md",
-    "AP1/GroupLearning/Bedarfsanalyse.md",
     "AP1/GroupLearning/Unconfirmed 842376.crdownload",
     "AP1/GroupLearning/Unconfirmed 101674.crdownload",
     "µ-Controller/Bilder/Pasted image 20240207211433.png",
