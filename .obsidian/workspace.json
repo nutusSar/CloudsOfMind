@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "929669ec25b94ba3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP1/GroupLearning/Finanzierungskosten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/Themen_Abschlussprufung_Teil_1.md",
+                "file": "AP1/GroupLearning/Finanzierungskosten.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/Themen_Abschlussprufung_Teil_1.md",
+                "file": "AP1/GroupLearning/Finanzierungskosten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/Themen_Abschlussprufung_Teil_1.md"
+                "file": "AP1/GroupLearning/Finanzierungskosten.md"
               }
             }
           },
@@ -167,11 +180,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "256e64e9e4b5d68a",
+  "active": "929669ec25b94ba3",
   "lastOpenFiles": [
-    "AP1/Alle AP1 Notes.md",
+    "AP1/GroupLearning/Finanzierungskosten.md",
     "AP1/Themen_Abschlussprufung_Teil_1.md",
     "AP1/IHK Themen ToDO.md",
+    "AP1/Alle AP1 Notes.md",
     "AP1/GroupLearning/Feedback-Kultur, Lessons Learned.md",
     "conflict-files-obsidian-git.md",
     "AP1/GroupLearning/Zielgruppendefinition.md",
@@ -195,7 +209,6 @@
     "AP1/GroupLearning/Remote-Desktop.md",
     "AP1/GroupLearning/IHK Themen ToDO.md",
     "AP1/GroupLearning/Bedarfsanalyse.md",
-    "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
     "AP1/GroupLearning/Unconfirmed 842376.crdownload",
     "AP1/GroupLearning/Unconfirmed 101674.crdownload",
     "µ-Controller/Bilder/Pasted image 20240207211433.png",

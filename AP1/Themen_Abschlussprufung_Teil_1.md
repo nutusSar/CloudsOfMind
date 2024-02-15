@@ -76,9 +76,9 @@ topic: Albert
 ### Wirtschaftlichkeit und Finanzen:
 
 - [ ] Finanzierungskosten
-- [ ] Lizenskosten
+- [ ] Lizenzskosten
 - [ ] Preisleistungsverhältnis
-- [ ] Auswertung von englischen Texten
+- [x] Auswertung von englischen Texten
 - [ ] Betriebswirtschaftliche Kennzahlen (Umsatz, Zins)
 - [ ] Variable und fixe Kosten
 - [ ] Qualitätsmerkmale von Präsentationen
@@ -86,6 +86,7 @@ topic: Albert
 - [ ] Vertragsbestandteile
 - [ ] Risikoanalyse
 - [ ] Qualitätsbegriff nach ISO 9000
+- [ ] Fachbegriffe
 
 ### Technische Grundlagen:
 
@@ -99,7 +100,7 @@ topic: Albert
 - [ ] Proprietäre Software
 - [ ] Installation und Konfiguration von Hardware
 - [ ] Installation und Konfiguration von Betriebssystemen
-- [ ] Dateisysteme
+- [x] Dateisysteme
 - [ ] IT-Systeme CPU, Motherboard, Speicher
 - [x] Virtualisierung
 - [ ] Benutzeroberfläche
