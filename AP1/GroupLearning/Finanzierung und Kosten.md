@@ -26,9 +26,30 @@ $$=Ausbringungsmenge / Einsatzmenge$$
 ### Definition
  Aufwendungen bzw. Kosten, die geleistet werden, um einen Vermögensgegenstand zu erwerben und ihn in einen betriebsbereiten Zustand zu versetzen, soweit sie dem Vermögensgegenstand einzeln zugeordnet werden können (§ 255 I HGB).
 
-$$Anschaff$$
+$$= Anschaffungspreis + Nebenkosten - Minderungen$$
+#### Minderungen
++ Skonti -> Abzug bei Sofortzahlung
++ Rabatte -> Entgegenkommen des Verkäufers
++ Preisnachlässe
++ Zahlungsabzüge (für Subventionen und nicht rückzahlbare Zuschüsse der öffentlichen Hand besteht ein Wahlrecht)
+#### Anschaffungspreis
++ Kaufpreis des Erwerbgegenstandes
+
+#### Nebenkosten
++ Kosten, die von Erwerb bis zur Inbetriebnahme des Erwerbgegenstandes anfallen 
+**Beispiele**:
++ Transport
+- Versicherung
+- Verpackung
+- Vermittlungsprovision
 ## Fixkosten
++ Kosten, die über einen Gewissen Zeitpunkt konstant bleiben
++ Dürfen auf die Stückkosten draufgerechnet werden
+**Beispiele**:
+
+
 ## Variable Kosten
+Variable Kosten sind veränderliche Kosten, die in Abhängigkeit vom Beschäftigungsgrad oder der Produktionsmenge eines Unternehmens steigen oder sinken
 
 ## Deckungsbeitrag
 

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/Finanzierungskosten.md",
+                "file": "AP1/GroupLearning/Finanzierung und Kosten.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/Finanzierungskosten.md",
+                "file": "AP1/GroupLearning/Finanzierung und Kosten.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/Finanzierungskosten.md",
+                "file": "AP1/GroupLearning/Finanzierung und Kosten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/Finanzierungskosten.md"
+                "file": "AP1/GroupLearning/Finanzierung und Kosten.md"
               }
             }
           },
@@ -182,7 +182,7 @@
   },
   "active": "929669ec25b94ba3",
   "lastOpenFiles": [
-    "AP1/GroupLearning/Finanzierungskosten.md",
+    "AP1/GroupLearning/Finanzierung und Kosten.md",
     "AP1/Themen_Abschlussprufung_Teil_1.md",
     "AP1/IHK Themen ToDO.md",
     "AP1/Alle AP1 Notes.md",
