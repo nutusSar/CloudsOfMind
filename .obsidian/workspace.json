@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ac927a808b22144b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "AP1/Alle AP1 Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "AP1/Alle AP1 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "AP1/Alle AP1 Notes.md"
               }
             }
           },
@@ -180,8 +167,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ac927a808b22144b",
+  "active": "256e64e9e4b5d68a",
   "lastOpenFiles": [
+    "AP1/GroupLearning/Feedback-Kultur, Lessons Learned.md",
     "AP1/Alle AP1 Notes.md",
     "conflict-files-obsidian-git.md",
     "AP1/Themen_Abschlussprufung_Teil_1.md",
@@ -190,7 +178,6 @@
     "AP1/GroupLearning/Stakeholderanalyse.md",
     "AP1/GroupLearning/Projektphasen und Meilensteine.md",
     "AP1/GroupLearning/Fehlermanagement.md",
-    "AP1/GroupLearning/Feedback-Kultur, Lessons Learned.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240214183638.png",
     "AP1/GroupLearning/Kundengespräch.md",
     "Berufsschule/Lernfeld 3/Wie funktionieren Netzwerke.md",
