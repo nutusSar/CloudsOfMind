@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,8 +181,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "929669ec25b94ba3",
+  "active": "eb9699aac87f96df",
   "lastOpenFiles": [
+    "Pasted image 20240215153403.png",
+    "AP1/GroupLearning/Bilder/Pasted image 20240215153315.png",
     "AP1/Alle AP1 Notes.md",
     "AP1/GroupLearning/Virtualisierung.md",
     "AP1/GroupLearning/Strukturplan.md",
@@ -208,7 +211,6 @@
     "AP1/IT-Sicherheit/Schutzziele.md",
     "AP1/IT-Sicherheit/Vigenere-Ciffre.md",
     "AP1/IT-Sicherheit/Verschlüsselung.md",
-    "AP1/IT-Sicherheit/Secure Protokolle im Überblick.md",
     "AP1/GroupLearning/Unconfirmed 842376.crdownload",
     "AP1/GroupLearning/Unconfirmed 101674.crdownload",
     "µ-Controller/Bilder/Pasted image 20240207211433.png",
@@ -220,7 +222,6 @@
     "Berufsschule/µ-Controller/Bilder/Pasted image 20231119162109.png",
     "Berufsschule/µ-Controller/Bilder/Pasted image 20231119160912.png",
     "Berufsschule/Sozialkunde/Externe Sourcen/82316_sowirp_lb1_besitz_eigentum_arbeitsblatt.pdf",
-    "Berufsschule/Lernfeld 9/Bilder/switch_logik.png",
     "Berufsschule/µ-Controller/Bilder",
     "Berufsschule/Sozialkunde/Externe Sourcen",
     "Berufsschule/Lernfeld 9/Bilder",

@@ -2,6 +2,7 @@
 tags:
   - "#AP1"
   - "#Wirtschaft"
+topic: Grundbegriffe
 ---
 ## Definition
 Die Finanzierung ist eine betriebliche Funktion, bei deren Wahrnehmung Finanzierungskosten verursacht werden. Die Finanzierungskosten eines Unternehmens setzen sich aus den Kosten für die Nutzung von Eigenkapital und den Kosten für die Inanspruchnahme von Fremdkapital zusammen. Die Finanzierungskosten heißen in der Betriebswirtschaftslehre auch Gesamtkapitalkosten.
@@ -42,29 +43,40 @@ $$= Anschaffungspreis + Nebenkosten - Minderungen$$
 - Versicherung
 - Verpackung
 - Vermittlungsprovision
-## Fixkosten
+## Fix- und Variable Kosten
+### Fixkosten
 + Kosten, die über einen Gewissen Zeitpunkt konstant bleiben
 + Dürfen auf die Stückkosten draufgerechnet werden
-**Beispiele**:
-+ Miete
-+ Strom
-+ Versicherungen
-+ Telefon und Internet
 
-## Variable Kosten
+### Variable Kosten
 Variable Kosten sind veränderliche Kosten, die in Abhängigkeit vom Beschäftigungsgrad oder der Produktionsmenge eines Unternehmens steigen oder sinken
 
-## Deckungsbeitrag
+### Beispiele
+![[Pasted image 20240215153315.png]]
 
-## Leasing
-## Kreditfinanzierung
+## Deckungsbeitrag
+Der Deckungsbeitrag (DB) bezeichnet den Betrag, der sich aus dem Verkaufspreis abzüglich der variablen Kosten ergibt.
+
+## Leasing vs. Kreditfinanzierung
+| Leasing                                              | Kreditfinanzierung                         |
+| ---------------------------------------------------- | ------------------------------------------ |
+| Geringer Kapitalbedarf zum Zeitpunkt der Anschaffung | Verfügungsgewalt über das Gerät (Eigentum) |
+| Klare Kalkulationsgrundlage (Gleichbleibende Rate)   | Keine Nutzungsfristen                      |
+| Am Ende des Vertrags können neure Modelle geleast werden                                                     | Unabhängig vom Anbieter                    |
+| Verwaltung durch Anbieter                                                     | Langfristige Investition                                           |
 
 ## Wertschöpfung
+### Definition
+Unter der betriebswirtschaftlichen Wertschöpfung versteht man die Leistungen eines Unternehmens, um Produkte oder Dienstleistungen herzustellen, die einen höheren Wert haben als die verwendeten Inputs. Es geht also darum, den Wert und damit den Verkaufspreis zu erhöhen und somit Gewinn zu generieren.
 
-## Bedarfsplanung
+$$Wertschöpfung = Produktionswert - Vorleistung$$
+### Wertschöpfungskette
+Die Wertschöpfungskette (Value Chain) veranschaulicht alle zusammenhängenden unternehmerischen Tätigkeiten grafisch. Demnach umfasst sie eine Abfolge von Tätigkeiten, durch die ein Produkt entwickelt, produziert, verkauft, versandt und unterstützt wird.
 
-## Mengenplanung
-
+### Die Wertschöpfungskette bietet Einsichten in
+- das Kostenverhalten: Stehen Kosten und Kundennutzen in einem adäquaten Verhältnis? 
+- die sinnvolle Verwendung von Technologie 
+- bestehende und potenzielle Quellen der Differenzierung und deren Ausbau zu Wettbewerbsvorteilen
 
 ## Eigen- vs. Fremdfinanzierung
 **Eigenfinanzierung** bedeutet, dass das Unternehmen die finanziellen Mittel aus eigenen Quellen aufbringt, wie z.B. durch das Zurückhalten von Gewinnen oder den Verkauf von Vermögenswerten.
