@@ -21,7 +21,8 @@ topic: Albert
 - [x] Feedback-Kultur / Lessons Learned ✅ 2024-02-07
 - [x] Fehlermanagement ✅ 2024-02-07
 - [x] Zielgruppendefinition ✅ 2024-02-07
-- [ ] Projektphasen: Meilensteine ✅ 2024-02-07
+- [x] Projektphasen: Meilensteine ✅ 2024-02-07
+- [ ] Phasenmodelle
 
 ### IT-Infrastruktur:
 
@@ -34,7 +35,7 @@ topic: Albert
 - [x] TLS ✅ 2024-02-09
 - [x] DNS ✅ 2024-02-09
 - [ ] RAID ✅ 2024-02-09
-- [ ] Leistungsaufnahme
+- [x] Leistungsaufnahme
 - [ ] Installationen und Konfigurationen von Betriebssystemen
 - [x] Remote-Desktop ✅ 2024-02-09
 - [x] Geräte-Klassen z.B. Desktops, Notebooks, Tablets, Smartphone
