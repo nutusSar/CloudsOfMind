@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "f9916100d8602c2a",
+    "id": "a01833a833ab1a73",
     "type": "split",
     "children": [
       {
-        "id": "893914813ee900a2",
+        "id": "46cdb991a0e9ccef",
         "type": "tabs",
         "children": [
           {
-            "id": "256e64e9e4b5d68a",
+            "id": "ddce945382bd8a08",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,35 +18,22 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "929669ec25b94ba3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP1/Alle AP1 Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "81f7af3a6fe82aa5",
+    "id": "f7772c37406ca303",
     "type": "split",
     "children": [
       {
-        "id": "16684b371fc6d0bf",
+        "id": "ffdc805d0dc32423",
         "type": "tabs",
         "children": [
           {
-            "id": "740dda16f3245ff6",
+            "id": "1f2c6d4b27417489",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +43,7 @@
             }
           },
           {
-            "id": "eb9699aac87f96df",
+            "id": "5a520a03c267679e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "cbc8bec009aaec71",
+            "id": "bfddd854e4e523a3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,24 +69,32 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "5c2cbcb20a05d1a3",
+    "id": "15ca42f9e4339db1",
     "type": "split",
     "children": [
       {
-        "id": "55d27f625c0a791d",
+        "id": "6c7de3dc0f89954a",
         "type": "tabs",
         "children": [
           {
-            "id": "5bff2845cda7a337",
+            "id": "b7973696f230e4a0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f7211238b7f67f39",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/Alle AP1 Notes.md",
-                "collapseAll": true,
+                "file": "AP1/Themen_Abschlussprufung_Teil_1.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -110,48 +105,40 @@
             }
           },
           {
-            "id": "42bf7dfd1b7f1572",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "a6e6f7cf7454dacd",
+            "id": "8bc8d6f4388a4f07",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/Alle AP1 Notes.md",
+                "file": "AP1/Themen_Abschlussprufung_Teil_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "dd36e9d7e434e840",
+            "id": "4b987af9a75af6ed",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "tag",
               "state": {
-                "file": "AP1/Alle AP1 Notes.md"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "a9776f79dea1e3e9",
+            "id": "16b1bdd270c993d5",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "AP1/Themen_Abschlussprufung_Teil_1.md"
+              }
             }
           },
           {
-            "id": "3d8a5c9095187a48",
+            "id": "b4b26ec62f947600",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -159,75 +146,69 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
+      "cmdr:QuickAdd: IT-Sicherheit": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "cmdr:QuickAdd: IT-Sicherheit": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "929669ec25b94ba3",
+  "active": "ddce945382bd8a08",
   "lastOpenFiles": [
-    "AP1/GroupLearning/Marktformen.md",
-    "AP1/Themen_Abschlussprufung_Teil_1.md",
-    "AP1/GroupLearning/ISO-OSI.md",
-    "AP1/GroupLearning/SAN und NAS.md",
     "AP1/GroupLearning/Verträge.md",
-    "AP1/Alle AP1 Notes.md",
-    "AP1/IHK Themen ToDO.md",
-    "AP1/GroupLearning/Projektphasen und Meilensteine.md",
+    "AP1/GroupLearning/Finanzierung und Kosten.md",
+    "AP1/GroupLearning/Mengenplanung.md",
     "AP1/GroupLearning/Softwarequalität.md",
+    "AP1/GroupLearning/SAN und NAS.md",
+    "AP1/GroupLearning/Marktformen.md",
+    "AP1/GroupLearning/Formeln Elektrotechnik.md",
     "AP1/GroupLearning/Bilder/Testebenen[1388].png",
     "AP1/GroupLearning/Bilder/Pasted image 20240216135637.png",
-    "Excalidraw/Drawing 2024-02-07 18.03.50.excalidraw.md",
-    "AP1/GroupLearning/Formeln Elektrotechnik.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240216134004.png",
-    "AP1/GroupLearning/Mengenplanung.md",
-    "AP1/GroupLearning/IP.md",
-    "AP1/GroupLearning/Finanzierung und Kosten.md",
-    "Pasted image 20240215153403.png",
+    "AP1/Alle AP1 Notes.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240215153315.png",
-    "AP1/GroupLearning/Virtualisierung.md",
-    "AP1/GroupLearning/Strukturplan.md",
-    "AP1/GroupLearning/Störungsmangement.md",
-    "AP1/GroupLearning/Stärken- Schwächenanalyse.md",
-    "AP1/GroupLearning/Remote-Desktop.md",
-    "templates/AP1 Notes Temp.md",
-    "AP1/GroupLearning/Feedback-Kultur, Lessons Learned.md",
-    "conflict-files-obsidian-git.md",
-    "AP1/GroupLearning/Zielgruppendefinition.md",
-    "AP1/GroupLearning/Stakeholderanalyse.md",
-    "AP1/GroupLearning/Fehlermanagement.md",
+    "AP1/IHK Themen ToDO.md",
+    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
+    "AP1/Themen_Abschlussprufung_Teil_1.md",
+    "AP1/GroupLearning/Projektphasen und Meilensteine.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240214183638.png",
-    "AP1/GroupLearning/Kundengespräch.md",
-    "AP1/GroupLearning/Unconfirmed 842376.crdownload",
-    "AP1/GroupLearning/Unconfirmed 101674.crdownload",
-    "µ-Controller/Bilder/Pasted image 20240207211433.png",
-    "Berufsschule/µ-Controller/Bilder/Pasted image 20240207211433.png",
-    "Berufsschule/µ-Controller/Bilder/Pasted image 20240205010859.png",
-    "Berufsschule/µ-Controller/Bilder/Pasted image 20240205010813.png",
-    "Berufsschule/Sozialkunde/Externe Sourcen/82316_sowirp_lb1_besitz_eigentum_arbeitsblatt.pdf",
-    "Berufsschule/µ-Controller/Bilder",
-    "Berufsschule/Sozialkunde/Externe Sourcen",
-    "Berufsschule/Lernfeld 9/Bilder",
-    "Berufsschule/Lernfeld 8/Bilder",
-    "Berufsschule/Lernfeld 7/Bilder",
-    "Berufsschule/µ-Controller",
-    "Berufsschule/Sozialkunde",
-    "Untitled.canvas"
+    "AP1/GroupLearning/Zielgruppendefinition.md",
+    "AP1/GroupLearning/Fehlermanagement.md",
+    "AP1/GroupLearning/Feedback-Kultur, Lessons Learned.md",
+    "AP1/GroupLearning/Netzplan.md",
+    "AP1/GroupLearning/Stakeholderanalyse.md",
+    "AP1/GroupLearning/Bedarfsanalyse.md",
+    "AP1/GroupLearning/Cloudcomputing.md",
+    "AP1/GroupLearning/Datenspeicher.md",
+    "AP1/GroupLearning/Geräteklassen.md",
+    "AP1/GroupLearning/Gantt-Diagramm.md",
+    "AP1/GroupLearning/IP.md",
+    "AP1/GroupLearning/Remote-Desktop.md",
+    "AP1/GroupLearning/Prufungsvorbereitung.md",
+    "AP1/GroupLearning/Virtualisierung.md",
+    "AP1/GroupLearning/Bilder/Pasted image 20240212131511.png",
+    "AP1/GroupLearning/Bilder/Pasted image 20240212125349.png",
+    "Pasted image 20240212125248.png",
+    "AP1/GroupLearning/Bilder/Pasted image 20240212115406.png",
+    "Pasted image 20240212115347.png",
+    "Berufsschule",
+    "AP1/GroupLearning/Dokumente/Prufungsvorbereitung_FI22.pdf",
+    "AP1/GroupLearning/Dokumente/PV_gekurzt.pdf",
+    "AP1/GroupLearning/Dokumente/lu184525auvvr.tmp",
+    "AP1/GroupLearning/Dokumente/PV_gekurzt.docx"
   ]
 }
