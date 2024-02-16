@@ -2,7 +2,6 @@
 tags:
   - "#AP1"
   - "#Projektmanagement"
-topic: PHASENMODELLE???
 ---
 
 ## Projektphasen
@@ -17,4 +16,3 @@ Meilensteine sind Entscheidungspunkte.
 2. Einige Aktivitäten, die eigentlich laut Planung bereits abgeschlossen sein sollten, weisen in den relevanten Größen (Kosten, Termine, Ergebnisse) signifikante Abweichungen auf. Es muss nachgearbeitet werden, um die Phase abschließen zu können.
 3. Es sind Ereignisse eingetreten, die eine sinnvolle Projektfortsetzung unmöglich erscheinen lassen, das Projekt wird gestoppt und gegebenenfalls ganz eingestellt oder unter neuen Rahmenbedingungen völlig neu aufgestellt.
 ![[Pasted image 20240214183638.png]]
-## Phasenmodelle???

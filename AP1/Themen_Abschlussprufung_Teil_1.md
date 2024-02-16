@@ -76,16 +76,15 @@ topic: Albert
 
 ### Wirtschaftlichkeit und Finanzen:
 
-- [ ] Finanzierungskosten
+- [x] Finanzierungskosten
 - [ ] Lizenzskosten
 - [ ] Preisleistungsverhältnis
 - [x] Auswertung von englischen Texten
 - [ ] Betriebswirtschaftliche Kennzahlen (Umsatz, Zins)
 - [ ] Variable und fixe Kosten
 - [ ] Qualitätsmerkmale von Präsentationen
-- [ ] Kaufvertrags, Lizenzvertrag Mietvertrag, Werkvertrag
-- [ ] Vertragsbestandteile
-- [ ] Risikoanalyse
+- [ ] Verträge (Kaufvertrags, Lizenzvertrag Mietvertrag, Werkvertrag), Vertragsbestandteile
+- [ ] Risikoanalyse 
 - [ ] Qualitätsbegriff nach ISO 9000
 - [ ] Fachbegriffe
 

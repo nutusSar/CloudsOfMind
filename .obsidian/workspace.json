@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/Marktformen.md",
+                "file": "AP1/Themen_Abschlussprufung_Teil_1.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/Projektphasen und Meilensteine.md",
-                "mode": "preview",
+                "file": "AP1/GroupLearning/Verträge.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/Marktformen.md",
+                "file": "AP1/GroupLearning/Verträge.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/Marktformen.md",
+                "file": "AP1/GroupLearning/Verträge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/Marktformen.md"
+                "file": "AP1/GroupLearning/Verträge.md"
               }
             }
           },
@@ -179,14 +180,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "256e64e9e4b5d68a",
+  "active": "929669ec25b94ba3",
   "lastOpenFiles": [
-    "Pasted image 20240216135637.png",
     "AP1/Themen_Abschlussprufung_Teil_1.md",
-    "AP1/GroupLearning/Marktformen.md",
-    "AP1/GroupLearning/Projektphasen und Meilensteine.md",
-    "Excalidraw/Drawing 2024-02-07 18.03.50.excalidraw.md",
+    "AP1/GroupLearning/Verträge.md",
     "AP1/Alle AP1 Notes.md",
+    "AP1/IHK Themen ToDO.md",
+    "AP1/GroupLearning/Projektphasen und Meilensteine.md",
+    "AP1/GroupLearning/Softwarequalität.md",
+    "AP1/GroupLearning/Bilder/Testebenen[1388].png",
+    "AP1/GroupLearning/Marktformen.md",
+    "AP1/GroupLearning/Bilder/Pasted image 20240216135637.png",
+    "Excalidraw/Drawing 2024-02-07 18.03.50.excalidraw.md",
     "AP1/GroupLearning/Formeln Elektrotechnik.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240216134004.png",
     "AP1/GroupLearning/Mengenplanung.md",
@@ -200,7 +205,6 @@
     "AP1/GroupLearning/Stärken- Schwächenanalyse.md",
     "AP1/GroupLearning/Remote-Desktop.md",
     "templates/AP1 Notes Temp.md",
-    "AP1/IHK Themen ToDO.md",
     "AP1/GroupLearning/Feedback-Kultur, Lessons Learned.md",
     "conflict-files-obsidian-git.md",
     "AP1/GroupLearning/Zielgruppendefinition.md",
@@ -210,15 +214,12 @@
     "AP1/GroupLearning/Kundengespräch.md",
     "Berufsschule/Lernfeld 3/Wie funktionieren Netzwerke.md",
     "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
-    "AP1/IT-Sicherheit/Hashverfahren.md",
     "AP1/GroupLearning/Unconfirmed 842376.crdownload",
     "AP1/GroupLearning/Unconfirmed 101674.crdownload",
     "µ-Controller/Bilder/Pasted image 20240207211433.png",
     "Berufsschule/µ-Controller/Bilder/Pasted image 20240207211433.png",
     "Berufsschule/µ-Controller/Bilder/Pasted image 20240205010859.png",
     "Berufsschule/µ-Controller/Bilder/Pasted image 20240205010813.png",
-    "Berufsschule/µ-Controller/Bilder/Pasted image 20240205010441.png",
-    "Berufsschule/µ-Controller/Bilder/Pasted image 20240205003037.png",
     "Berufsschule/Sozialkunde/Externe Sourcen/82316_sowirp_lb1_besitz_eigentum_arbeitsblatt.pdf",
     "Berufsschule/µ-Controller/Bilder",
     "Berufsschule/Sozialkunde/Externe Sourcen",
