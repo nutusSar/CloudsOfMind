@@ -41,8 +41,5 @@ Beim **Dienstvertrag** verpflichtet sich der Beauftragte zum Tätigwerden und 
 4. **Verantwortlichkeiten:** In der Regel ist der Vermieter für die Wartung und Reparatur des Objekts verantwortlich, während der Mieter für die Instandhaltung seines persönlichen Eigentums und die Einhaltung der Mietbedingungen verantwortlich ist.
     
 5. **Kein Eigentumserwerb:** Am Ende des Mietvertrags hat der Mieter keine Ansprüche auf das Eigentum und muss das Objekt an den Vermieter zurückgeben, es sei denn, es wird eine Verlängerung oder ein neuer Vertrag vereinbart.
-    
-
-
 
 ## Lizenzvertrag
