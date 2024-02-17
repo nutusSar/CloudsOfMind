@@ -32,6 +32,22 @@ Ansonsten ähnelt der Aufbau dem des Einliniensystems.
 | Hohe Fachkompetenz in den einzelnen Bereichen.              | Nur langsame Anpassung an Veränderungen möglich.             |
 | Kostensenkung durch zentrale Organisation gleicher Aufgaben und daraus resultierenden Skaleneffekten. | Geringe Orientierung an Markt und Produkt.                   |
 
+### Divisionale Organisation
+#### Aufbau
+Charakteristisch für die divisionale Organisation ist, dass die Sparten separat voneinander agieren und demnach auch jeweils gewinn- und funktionsverantwortlich sind. Die Unternehmensleitung stellt dabei die zentrale übergeordnete Ebene des Unternehmens dar. In den einzelnen Sparten sind daher die einzelnen Funktionsbereiche separat voneinander angesiedelt.
+![[Pasted image 20240217130817.png]]
+
+#### Vor- und Nachteile
+| **Vorteile**                                                                                   | **Nachteile**                                                                                                                 |
+|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| Hohe Orientierung an den Bedürfnissen der jeweiligen Sparte, dadurch entsprechend höhere Markt- und Kundenorientierung. | Gefahr des Spartenegoismus, wodurch Konflikte innerhalb des Unternehmens entstehen können.                              |
+| Entlastung der Entscheidungsebene.                                                         | Hoher Verwaltungsaufwand.                                                                                                 |
+| Spezialisierung und Bündelung von Wissen.                                                   | Einzelne Funktionsbereiche existieren mehrfach innerhalb eines Unternehmens, wodurch Synergien nur wenig genutzt werden können. |
+| Hohes Maß an Anpassungsfähigkeiten an Veränderungen.                                        |                                                                                                                           |
+| Transparente Beurteilung von Leistungen.                                                    |                                                                                                                           |
+| Steigerung der Motivation der Mitarbeiter durch Identifizierung mit “ihrer” Sparte.         |                                                                                                                           |
+
+
 ### Stabliniensystem
 #### Aufbau
 Liniensystem mit zusätzlichen Stabstellen (ohne Weisungsbefugnis). Stabstellen sollen (als Leitungshilfsstellen) Instanzen entlasten und haben grundsätzlich nur eine Beratungsfunktion, jedoch keine Weisungsfunktion. Stabstellen besitzen normalerweise ein Informationsrecht aus allen Linienstellen und sollen Leitungsstellen entlasten.
