@@ -83,7 +83,7 @@ topic: Albert
 - [ ] Betriebswirtschaftliche Kennzahlen (Umsatz, Zins)
 - [ ] Variable und fixe Kosten
 - [ ] Qualitätsmerkmale von Präsentationen
-- [ ] Verträge (Kaufvertrags, Lizenzvertrag Mietvertrag, Werkvertrag), Vertragsbestandteile
+- [x] Verträge (Kaufvertrags, Lizenzvertrag Mietvertrag, Werkvertrag), Vertragsbestandteile
 - [ ] Risikoanalyse 
 - [ ] Qualitätsbegriff nach ISO 9000
 - [ ] Fachbegriffe
@@ -117,7 +117,7 @@ topic: Albert
 - [ ] Schutzbedarfsanalyse nach BSI
 - [ ] Bausteine der Grundschutzanalyse
 - [x] Verschlüsselungstechniken (symmetrische und asymmetrische, CAs, Zertifikate nach https, TLS)
-- [ ] Kaufvertrags, Lizenzvertrag Mietvertrag, Werkvertrag
+- [x] Kaufvertrags, Lizenzvertrag Mietvertrag, Werkvertrag
 - [ ] Vertragsbestandteile
 - [ ] Aufbau und Organisation des eigenen Unternehmens
 - [ ] Leistungsübergabe

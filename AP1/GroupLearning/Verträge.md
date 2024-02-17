@@ -6,7 +6,18 @@ tags:
 ## Dienstvertrag vs. Werkvertrag
 Beim **Dienstvertrag** verpflichtet sich der Beauftragte zum Tätigwerden und die Bezahlung erfolgt unabhängig vom erzielten Erfolg. Der **Werkvertrag** verpflichtet zur Erstellung eines Werks und die Entlohnung erfolgt erst nach Fertigstellung und Abnahme.
 ### Dienstvertrag
-**Beispiele**:
+#### Wesentliche Inhalte
+1. Identität der Vertragsparteien (Auftraggeber und Auftragnehmer).
+2. Beschreibung der zu erbringenden Dienstleistungen.
+3. Beginn und Dauer der Dienstleistungen.
+4. Vergütung und Zahlungsmodalitäten.
+5. Rechte und Pflichten beider Parteien.
+6. Vertraulichkeitsvereinbarungen und Datenschutzbestimmungen.
+7. Haftungsbeschränkungen und Gewährleistungen.
+8. Regelungen zur Kündigung oder Verlängerung des Vertrags.
+9. Sonstige Vereinbarungen und Klauseln (z.B. Arbeitszeit, Arbeitsort).
+
+#### Beispiele
 - Arbeitsverträge (ein langfristiger Dienstvertrag),
 - Unterrichtsverträge,
 - Arzt- und Behandlungsverträge,
@@ -14,7 +25,18 @@ Beim **Dienstvertrag** verpflichtet sich der Beauftragte zum Tätigwerden und 
 - Beraterverträge,
 - rechtsanwaltliche Mandatsverträge.
 ### Werkvertrag
-**Beispiele**:
+#### Wesentliche Inhalte
+1. Identität der Vertragsparteien (Auftraggeber und Auftragnehmer).
+2. Beschreibung des zu erstellenden Werks oder Produkts.
+3. Lieferzeitpunkt und Fertigstellungstermine.
+4. Vergütung und Zahlungsmodalitäten (z.B. Pauschalpreis, Stundensatz).
+5. Material- und Ressourcenbereitstellung.
+6. Rechte an geistigem Eigentum und Nutzungsrechte.
+7. Haftungsbeschränkungen und Gewährleistungen.
+8. Regelungen zur Abnahme und Mängelbeseitigung.
+9. Vertragsstrafen und Rücktrittsrechte.
+10. Sonstige Vereinbarungen und Klauseln (z.B. Änderungen, Vertraulichkeit).
+#### Beispiele
 - Reparaturen,
 - Wartungen,
 - Erstellung, Einführung und Veränderung von Software,
@@ -33,6 +55,7 @@ Beim **Dienstvertrag** verpflichtet sich der Beauftragte zum Tätigwerden und 
 ## Kaufvertrag vs. Mietvertrag
 
 ### Kaufvertrag
+
 #### Eigenschaften
 1. **Eigentumsübertragung:** Ein Kaufvertrag ermöglicht es dem Käufer, das Eigentum an einem Objekt zu erwerben, nachdem alle Zahlungen gemäß den Vertragsbedingungen erfolgt sind.
     
@@ -43,6 +66,15 @@ Beim **Dienstvertrag** verpflichtet sich der Beauftragte zum Tätigwerden und 
 4. **Verantwortlichkeiten:** Nach dem Kauf ist der Käufer für die Instandhaltung und Reparatur des Objekts verantwortlich, einschließlich aller Wartungs- und Renovierungsarbeiten.
     
 5. **Eigentumsrechte:** Der Käufer erwirbt alle Rechte und Befugnisse an dem Objekt, einschließlich des Rechts, es zu verkaufen, zu vermieten oder anderweitig zu nutzen.
+#### Wesentliche Inhalte
+1. Identität der Vertragsparteien (Käufer und Verkäufer).
+2. Beschreibung des zu verkaufenden Objekts.
+3. Kaufpreis und Zahlungsbedingungen.
+4. Übertragung des Eigentumsrechts.
+5. Zusicherungen und Gewährleistungen.
+6. Regelungen zu Haftung und Risikoübergang.
+7. Vertragsstrafen und Rücktrittsrechte.
+8. Sonstige Vereinbarungen und Klauseln.
 #### Vorteile gegenüber Mietvertrag
 1. Eigentumsübertragung nach vollständiger Zahlung.
 2. Langfristige Investition und Vermögensbildung.
@@ -59,6 +91,17 @@ Beim **Dienstvertrag** verpflichtet sich der Beauftragte zum Tätigwerden und 
 4. **Verantwortlichkeiten:** In der Regel ist der Vermieter für die Wartung und Reparatur des Objekts verantwortlich, während der Mieter für die Instandhaltung seines persönlichen Eigentums und die Einhaltung der Mietbedingungen verantwortlich ist.
     
 5. **Kein Eigentumserwerb:** Am Ende des Mietvertrags hat der Mieter keine Ansprüche auf das Eigentum und muss das Objekt an den Vermieter zurückgeben, es sei denn, es wird eine Verlängerung oder ein neuer Vertrag vereinbart.
+
+#### Wesentliche Inhalte
+1. Identität der Vertragsparteien (Vermieter und Mieter).
+2. Beschreibung des Mietobjekts und der Mietbedingungen.
+3. Mietdauer und Kündigungsbedingungen.
+4. Mietzins und Zahlungsmodalitäten.
+5. Nutzungsrechte und -pflichten.
+6. Wartungs- und Reparaturverantwortlichkeiten.
+7. Regelungen zu Haftung und Schadensersatz.
+8. Optionen zur Verlängerung oder Beendigung des Vertrags.
+9. Sonstige Vereinbarungen und Klauseln (z.B. Untervermietung, Haustierhaltung).
 
 #### Vorteile gegenüber Kaufvertrag
 1. Geringere anfängliche Kosten und finanzielle Flexibilität.
@@ -82,6 +125,17 @@ In einem Lizenzvertrag werden in der Regel Rechte und Pflichten sowohl des Lizen
 + Einschränkungen der Nutzung
 + Haftungsbeschränkungen
 + Etwaige Zusicherungen oder Gewährleistungen.
+
+### Wesentliche Inhalte
+1. Identität der Vertragsparteien (Lizenzgeber und Lizenznehmer).
+2. Beschreibung des lizenzierten Materials (z.B. Software, Patent, Marke).
+3. Lizenzdauer und Nutzungsrechte (z.B. Nutzungsumfang, Standorte).
+4. Lizenzgebühren und Zahlungsmodalitäten.
+5. Einschränkungen und Bedingungen der Nutzung (z.B. Kopierschutz, Geografie).
+6. Haftungsbeschränkungen und Gewährleistungen.
+7. Regelungen zur Beendigung oder Verlängerung der Lizenz.
+8. Schutz von geistigem Eigentum und Vertraulichkeit.
+9. Sonstige Vereinbarungen und Klauseln (z.B. Upgrades, technischer Support).
 
 ### Vorteile
 1. **Rechtssicherheit:** Klare rechtliche Grundlage für die Nutzung von Software oder geschütztem Material.

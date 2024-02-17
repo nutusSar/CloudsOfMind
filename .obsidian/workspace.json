@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "AP1/GroupLearning/Phasenmodelle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "399d0946d634d2c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "AP1/Themen_Abschlussprufung_Teil_1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a225ecb7814ff97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP1/GroupLearning/Verträge.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 281.5
   },
   "right": {
     "id": "15ca42f9e4339db1",
@@ -93,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/Themen_Abschlussprufung_Teil_1.md",
+                "file": "AP1/GroupLearning/Phasenmodelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/Themen_Abschlussprufung_Teil_1.md",
+                "file": "AP1/GroupLearning/Phasenmodelle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/Themen_Abschlussprufung_Teil_1.md"
+                "file": "AP1/GroupLearning/Phasenmodelle.md"
               }
             }
           },
@@ -150,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 251.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,7 +193,14 @@
   },
   "active": "ddce945382bd8a08",
   "lastOpenFiles": [
+    "AP1/Themen_Abschlussprufung_Teil_1.md",
+    "AP1/GroupLearning/Phasenmodelle.md",
+    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
+    "AP1/IHK Themen ToDO.md",
     "AP1/GroupLearning/Verträge.md",
+    "AP1/Alle AP1 Notes.md",
+    "AP1/GroupLearning/IP.md",
+    "AP1/GroupLearning/ISO-OSI.md",
     "AP1/GroupLearning/Finanzierung und Kosten.md",
     "AP1/GroupLearning/Mengenplanung.md",
     "AP1/GroupLearning/Softwarequalität.md",
@@ -179,11 +210,7 @@
     "AP1/GroupLearning/Bilder/Testebenen[1388].png",
     "AP1/GroupLearning/Bilder/Pasted image 20240216135637.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240216134004.png",
-    "AP1/Alle AP1 Notes.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240215153315.png",
-    "AP1/IHK Themen ToDO.md",
-    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
-    "AP1/Themen_Abschlussprufung_Teil_1.md",
     "AP1/GroupLearning/Projektphasen und Meilensteine.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240214183638.png",
     "AP1/GroupLearning/Zielgruppendefinition.md",
@@ -196,10 +223,7 @@
     "AP1/GroupLearning/Datenspeicher.md",
     "AP1/GroupLearning/Geräteklassen.md",
     "AP1/GroupLearning/Gantt-Diagramm.md",
-    "AP1/GroupLearning/IP.md",
     "AP1/GroupLearning/Remote-Desktop.md",
-    "AP1/GroupLearning/Prufungsvorbereitung.md",
-    "AP1/GroupLearning/Virtualisierung.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240212131511.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240212125349.png",
     "Pasted image 20240212125248.png",
