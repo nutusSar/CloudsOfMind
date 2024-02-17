@@ -17,7 +17,7 @@ Ermöglichen ein systematisches Vorgehen für die Entwicklung von Informationssy
 + **Methoden**: Konkrete verfahren der Umsetzung
 + **Tools**: Werkzeuge zur Unterstützung (Frameworks, Git usw.)
 
-## Modelle
+## Klassische Modelle
 ### Wasserfallmodell
 #### Ablauf
 ![[Pasted image 20240217105710.png]]
@@ -40,4 +40,46 @@ Ermöglichen ein systematisches Vorgehen für die Entwicklung von Informationssy
 |                                          | Einbindung des Kunden in den Entwicklungsprozesses                                       |
 
 ### Das V-Modell
-Unterteilung des Vorgehens 
+Unterteilung des Vorgehens in Entwicklung und Qualitätssicherung
+![[Pasted image 20240217111606.png]]
+
+### Das Spiralmodell
+#### Definition
+Inkrementelles und iteratives Modell für Projekte deren Anforderungen sich im Laufe des Zyklus ändern
+
+#### Ablauf
+1. Festlegen der Ziele
+2. Risikoanalyse / Alternativen
+3. Entwicklung und Tests
+4. Planung des nächsten Zyklus / Abnahme
+
+#### Merkmale
++ Jeder Durchlauf verläuft nach den gleichen Schritten
++ Die Ziele ergeben sich aus vorherigen Zyklen
++ Anpassbare Zyklen ohne Trennung in Entwicklung und Wartung
+
+#### Vor- und Nachteile
+| **Vorteile**                                        | **Nachteile**                  |
+| --------------------------------------------------- | ------------------------------ |
+| Risikoreduzierung durch Rückkopplung mit dem Kunden | Endless Prototyping            |
+| Flexibilität                                        | Höherer Entwicklungsaufwand    |
+| Integration in andere Prozessmodelle                | Prototypen statt Dokumentation |
+|                                                     | Höherer Managementaufwand                               |
+
+## Agile Prozesse (Agile Vorgehensmodelle)
+Agile Prozesse sollen anpassbar sein und den Dokumentationsaufwand minimieren. Eine höhere Einbindung der Kunden wird ebenfalls vorgesehen.
+
+### Scrum
+#### Definition
+Scrum ist ein agiles Vorgehensmodell mit sehr wenigen Festlegungen indem die Teams / Entwickler die Organisation übernehmen. Methoden und Vorgehensweisen werden nach jeder Integration angepasst.
+
+#### Scrum Artefakte
++ Product Owner
++ Scrum Master
++ Review
++ Product-Backlog
++ Inkrement
++ Dev team
++ Daily Meeting
++ Retroperspektive
++ Sprint-Backlog

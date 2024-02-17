@@ -11,22 +11,8 @@
             "id": "ddce945382bd8a08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP1/GroupLearning/Phasenmodelle, Vorgehensmodelle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a398335dca7616b3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-02-17 10.52.11.excalidraw.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -40,8 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "06ff7b49ddc27bf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angebotsbewertung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/Phasenmodelle, Vorgehensmodelle.md",
+                "file": "Angebotsbewertung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/Phasenmodelle, Vorgehensmodelle.md",
+                "file": "Angebotsbewertung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/Phasenmodelle, Vorgehensmodelle.md"
+                "file": "Angebotsbewertung.md"
               }
             }
           },
@@ -189,23 +188,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f2c6d4b27417489",
+  "active": "06ff7b49ddc27bf9",
   "lastOpenFiles": [
-    "AP1/GroupLearning/Bilder/Pasted image 20240217105710.png",
+    "Angebotsbewertung.md",
+    "AP1/GroupLearning/Marktformen.md",
     "AP1/Themen_Abschlussprufung_Teil_1.md",
-    "AP1/GroupLearning/Verträge.md",
-    "Excalidraw/Drawing 2024-02-17 10.52.11.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-17 11.05.52.excalidraw.md",
     "AP1/GroupLearning/Phasenmodelle, Vorgehensmodelle.md",
+    "AP1/GroupLearning/Bilder/Pasted image 20240217111606.png",
+    "Excalidraw/Drawing 2024-02-07 18.03.50.excalidraw.md",
+    "Pasted image 20240217111510.png",
+    "AP1/Alle AP1 Notes.md",
+    "Excalidraw/Drawing 2024-02-17 10.52.11.excalidraw.md",
+    "AP1/GroupLearning/Bilder/Pasted image 20240217105710.png",
+    "AP1/GroupLearning/Verträge.md",
     "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
     "AP1/IHK Themen ToDO.md",
-    "AP1/Alle AP1 Notes.md",
     "AP1/GroupLearning/IP.md",
     "AP1/GroupLearning/ISO-OSI.md",
     "AP1/GroupLearning/Finanzierung und Kosten.md",
     "AP1/GroupLearning/Mengenplanung.md",
     "AP1/GroupLearning/Softwarequalität.md",
     "AP1/GroupLearning/SAN und NAS.md",
-    "AP1/GroupLearning/Marktformen.md",
     "AP1/GroupLearning/Formeln Elektrotechnik.md",
     "AP1/GroupLearning/Bilder/Testebenen[1388].png",
     "AP1/GroupLearning/Bilder/Pasted image 20240216135637.png",
@@ -220,13 +224,8 @@
     "AP1/GroupLearning/Stakeholderanalyse.md",
     "AP1/GroupLearning/Bedarfsanalyse.md",
     "AP1/GroupLearning/Cloudcomputing.md",
-    "AP1/GroupLearning/Datenspeicher.md",
-    "AP1/GroupLearning/Geräteklassen.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240212131511.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240212125349.png",
-    "Pasted image 20240212125248.png",
-    "AP1/GroupLearning/Bilder/Pasted image 20240212115406.png",
-    "Pasted image 20240212115347.png",
     "Berufsschule",
     "AP1/GroupLearning/Dokumente/Prufungsvorbereitung_FI22.pdf",
     "AP1/GroupLearning/Dokumente/PV_gekurzt.pdf",

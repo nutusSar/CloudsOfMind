@@ -22,7 +22,7 @@ topic: Albert
 - [x] Fehlermanagement ✅ 2024-02-07
 - [x] Zielgruppendefinition ✅ 2024-02-07
 - [x] Projektphasen: Meilensteine ✅ 2024-02-07
-- [ ] Phasenmodelle
+- [x] Phasenmodelle
 
 ### IT-Infrastruktur:
 
@@ -81,7 +81,7 @@ topic: Albert
 - [ ] Preisleistungsverhältnis
 - [x] Auswertung von englischen Texten
 - [ ] Betriebswirtschaftliche Kennzahlen (Umsatz, Zins)
-- [ ] Variable und fixe Kosten
+- [x] Variable und fixe Kosten
 - [ ] Qualitätsmerkmale von Präsentationen
 - [x] Verträge (Kaufvertrags, Lizenzvertrag Mietvertrag, Werkvertrag), Vertragsbestandteile
 - [ ] Risikoanalyse 
