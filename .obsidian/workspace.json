@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/Phasenmodelle.md",
+                "file": "AP1/GroupLearning/Phasenmodelle, Vorgehensmodelle.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "a398335dca7616b3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-17 10.52.11.excalidraw.md"
               }
             }
           },
@@ -26,18 +36,6 @@
               "type": "markdown",
               "state": {
                 "file": "AP1/Themen_Abschlussprufung_Teil_1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a225ecb7814ff97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP1/GroupLearning/Verträge.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/Phasenmodelle.md",
+                "file": "AP1/GroupLearning/Phasenmodelle, Vorgehensmodelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/Phasenmodelle.md",
+                "file": "AP1/GroupLearning/Phasenmodelle, Vorgehensmodelle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/Phasenmodelle.md"
+                "file": "AP1/GroupLearning/Phasenmodelle, Vorgehensmodelle.md"
               }
             }
           },
@@ -191,13 +189,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ddce945382bd8a08",
+  "active": "1f2c6d4b27417489",
   "lastOpenFiles": [
+    "AP1/GroupLearning/Bilder/Pasted image 20240217105710.png",
     "AP1/Themen_Abschlussprufung_Teil_1.md",
-    "AP1/GroupLearning/Phasenmodelle.md",
+    "AP1/GroupLearning/Verträge.md",
+    "Excalidraw/Drawing 2024-02-17 10.52.11.excalidraw.md",
+    "AP1/GroupLearning/Phasenmodelle, Vorgehensmodelle.md",
     "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
     "AP1/IHK Themen ToDO.md",
-    "AP1/GroupLearning/Verträge.md",
     "AP1/Alle AP1 Notes.md",
     "AP1/GroupLearning/IP.md",
     "AP1/GroupLearning/ISO-OSI.md",
@@ -222,8 +222,6 @@
     "AP1/GroupLearning/Cloudcomputing.md",
     "AP1/GroupLearning/Datenspeicher.md",
     "AP1/GroupLearning/Geräteklassen.md",
-    "AP1/GroupLearning/Gantt-Diagramm.md",
-    "AP1/GroupLearning/Remote-Desktop.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240212131511.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240212125349.png",
     "Pasted image 20240212125248.png",
