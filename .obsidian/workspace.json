@@ -28,12 +28,12 @@
             }
           },
           {
-            "id": "06ff7b49ddc27bf9",
+            "id": "6ed23faae0cd35b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angebotsbewertung.md",
+                "file": "AP1/GroupLearning/Leitungssysteme.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angebotsbewertung.md",
+                "file": "AP1/GroupLearning/Leitungssysteme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angebotsbewertung.md",
+                "file": "AP1/GroupLearning/Leitungssysteme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angebotsbewertung.md"
+                "file": "AP1/GroupLearning/Leitungssysteme.md"
               }
             }
           },
@@ -188,17 +188,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06ff7b49ddc27bf9",
+  "active": "6ed23faae0cd35b2",
   "lastOpenFiles": [
-    "Angebotsbewertung.md",
-    "AP1/GroupLearning/Marktformen.md",
+    "AP1/GroupLearning/Bilder/Pasted image 20240217115914.png",
+    "AP1/GroupLearning/Leitungssysteme.md",
     "AP1/Themen_Abschlussprufung_Teil_1.md",
+    "AP1/Alle AP1 Notes.md",
+    "AP1/GroupLearning/Kundengespräch.md",
+    "AP1/GroupLearning/Angebotsbewertung.md",
+    "AP1/GroupLearning/Marktformen.md",
     "Excalidraw/Drawing 2024-02-17 11.05.52.excalidraw.md",
     "AP1/GroupLearning/Phasenmodelle, Vorgehensmodelle.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240217111606.png",
     "Excalidraw/Drawing 2024-02-07 18.03.50.excalidraw.md",
     "Pasted image 20240217111510.png",
-    "AP1/Alle AP1 Notes.md",
     "Excalidraw/Drawing 2024-02-17 10.52.11.excalidraw.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240217105710.png",
     "AP1/GroupLearning/Verträge.md",
@@ -221,9 +224,6 @@
     "AP1/GroupLearning/Fehlermanagement.md",
     "AP1/GroupLearning/Feedback-Kultur, Lessons Learned.md",
     "AP1/GroupLearning/Netzplan.md",
-    "AP1/GroupLearning/Stakeholderanalyse.md",
-    "AP1/GroupLearning/Bedarfsanalyse.md",
-    "AP1/GroupLearning/Cloudcomputing.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240212131511.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240212125349.png",
     "Berufsschule",

@@ -2,7 +2,6 @@
 tags:
   - "#AP1"
   - "#Wirtschaft"
-topic: EMPTY
 ---
 ## Definition 
 + Austausch von Informationen zwischen Unternehmen und Kunden
