@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/Leitungssysteme.md",
+                "file": "AP1/Alle AP1 Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/Leitungssysteme.md",
+                "file": "AP1/Alle AP1 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/Leitungssysteme.md",
+                "file": "AP1/Alle AP1 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/Leitungssysteme.md"
+                "file": "AP1/Alle AP1 Notes.md"
               }
             }
           },
@@ -190,8 +190,16 @@
   },
   "active": "6ed23faae0cd35b2",
   "lastOpenFiles": [
-    "AP1/GroupLearning/Bilder/Pasted image 20240217115914.png",
     "AP1/GroupLearning/Leitungssysteme.md",
+    "AP1/GroupLearning/Bilder/Pasted image 20240217123207.png",
+    "Pasted image 20240217123114.png",
+    "AP1/GroupLearning/Bilder/Pasted image 20240217122305.png",
+    "AP1/GroupLearning/Bilder/Pasted image 20240217122151.png",
+    "Pasted image 20240217115914.png.md",
+    "AP1/GroupLearning/Bilder/Pasted image 20240217115914.png",
+    "AP1/GroupLearning/Bilder/Pasted image 20240217121703.png",
+    "Pasted image 20240217121610.png",
+    "AP1/IT-Sicherheit/Schutzziele.md",
     "AP1/Themen_Abschlussprufung_Teil_1.md",
     "AP1/Alle AP1 Notes.md",
     "AP1/GroupLearning/Kundengespräch.md",
@@ -214,18 +222,9 @@
     "AP1/GroupLearning/Softwarequalität.md",
     "AP1/GroupLearning/SAN und NAS.md",
     "AP1/GroupLearning/Formeln Elektrotechnik.md",
-    "AP1/GroupLearning/Bilder/Testebenen[1388].png",
-    "AP1/GroupLearning/Bilder/Pasted image 20240216135637.png",
-    "AP1/GroupLearning/Bilder/Pasted image 20240216134004.png",
-    "AP1/GroupLearning/Bilder/Pasted image 20240215153315.png",
     "AP1/GroupLearning/Projektphasen und Meilensteine.md",
-    "AP1/GroupLearning/Bilder/Pasted image 20240214183638.png",
     "AP1/GroupLearning/Zielgruppendefinition.md",
     "AP1/GroupLearning/Fehlermanagement.md",
-    "AP1/GroupLearning/Feedback-Kultur, Lessons Learned.md",
-    "AP1/GroupLearning/Netzplan.md",
-    "AP1/GroupLearning/Bilder/Pasted image 20240212131511.png",
-    "AP1/GroupLearning/Bilder/Pasted image 20240212125349.png",
     "Berufsschule",
     "AP1/GroupLearning/Dokumente/Prufungsvorbereitung_FI22.pdf",
     "AP1/GroupLearning/Dokumente/PV_gekurzt.pdf",
