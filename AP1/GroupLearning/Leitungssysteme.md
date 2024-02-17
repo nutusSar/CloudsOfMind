@@ -16,6 +16,22 @@ Jede untergeordnete Stelle hat nur einen übergeordnete Instanz
 |                                               | Zahlreiche Schnittstellen und Übermittlungsfehler |
 |                                               | Mangelnde Flexibilität                                                  |
 
+### Funktionalorganisation
+#### Aufbau
+Bei der funktionalen Organisation handelt es sich um eine Form der Aufbauorganisation innerhalb eines Unternehmens, bei der das Unternehmen verrichtungsorientiert in einzelne Bereiche gemäß den Aufgaben- bzw. Funktionsbereiche untergliedert wird. Dabei handelt es sich um Einliniensystem der Aufbauorganisation, welches mithilfe eines Organigramms dargestellt werden kann.
+Ansonsten ähnelt der Aufbau dem des Einliniensystems.
+![[Pasted image 20240217130150.png]]
+
+#### Vor- und Nachteile
+| **Vorteile**                                                    | **Nachteile**                                                    |
+|-------------------------------------------------------------|--------------------------------------------------------------|
+| Starke Arbeitsteilung und Spezialisierung möglich.          | Hoher Koordinationsaufwand zwischen den einzelnen Abteilungen. |
+| Hohes Maß an Transparenz und Kontrollierbarkeit.            | Herausforderung für die Unternehmensleitung zur Wahrung des Überblicks und der Koordination. |
+| Klare Abgrenzung von Verantwortlichkeiten und Befugnissen.  | Mangel an gegenseitigem Verständnis der Abteilungen untereinander. |
+| Kurze Kommunikationswege innerhalb der Abteilungen.         | Lange Kommunikationswege zwischen den Abteilungen.            |
+| Hohe Fachkompetenz in den einzelnen Bereichen.              | Nur langsame Anpassung an Veränderungen möglich.             |
+| Kostensenkung durch zentrale Organisation gleicher Aufgaben und daraus resultierenden Skaleneffekten. | Geringe Orientierung an Markt und Produkt.                   |
+
 ### Stabliniensystem
 #### Aufbau
 Liniensystem mit zusätzlichen Stabstellen (ohne Weisungsbefugnis). Stabstellen sollen (als Leitungshilfsstellen) Instanzen entlasten und haben grundsätzlich nur eine Beratungsfunktion, jedoch keine Weisungsfunktion. Stabstellen besitzen normalerweise ein Informationsrecht aus allen Linienstellen und sollen Leitungsstellen entlasten.
@@ -54,3 +70,9 @@ Als Weiterentwicklung des Mehrliniensystems zu sehen, wobei jede Stelle von zwei
 | Ergebnis wird durch zwei Kompetenzen verbessert | Streitigkeiten in den Zuständigkeiten und zum Einsatz der Mitarbeiter möglich              |
 | Teamarbeit wird gefördert                       | Gleichverteilung der Aufgaben in der Matrix i.d.R. nicht gegeben (Arbeitsbelastung, Aufgabenzuordnung prüfen)              |
 | Organisationsform unterstützt Produkt- und Geschäftsprozessorientierung                                                |               |
+
+
+### Tensororganisation
+Die Tensororganisation wird hauptsächlich in international tätigen Unternehmen angewendet, um die einzelnen Organisationseinheiten nicht nur nach fachlichen und disziplinarischen, sondern auch nach räumlichen Kriterien zu organisieren. Aufgrund ihrer Komplexität und möglicher Konflikte zwischen den einzelnen Weisungsbefugten ist sie in der Praxis allerdings weniger häufig anzutreffen.
+![[Pasted image 20240217125611.png]]
+
