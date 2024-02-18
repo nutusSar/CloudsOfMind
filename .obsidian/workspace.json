@@ -11,36 +11,15 @@
             "id": "ddce945382bd8a08",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "399d0946d634d2c5",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/Themen_Abschlussprufung_Teil_1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ed23faae0cd35b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP1/GroupLearning/Leitungssysteme.md",
+                "file": "2024-02-18.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 300
   },
   "right": {
     "id": "15ca42f9e4339db1",
@@ -114,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/Leitungssysteme.md",
+                "file": "2024-02-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/Leitungssysteme.md",
+                "file": "2024-02-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/Leitungssysteme.md"
+                "file": "2024-02-18.md"
               }
             }
           },
@@ -165,13 +144,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "04cb4c5e83737669",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 519.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,47 +172,48 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "6ed23faae0cd35b2",
+  "active": "ddce945382bd8a08",
   "lastOpenFiles": [
-    "Pasted image 20240217130817.png",
-    "AP1/GroupLearning/Bilder/Pasted image 20240217130150.png",
-    "AP1/GroupLearning/Leitungssysteme.md",
-    "Pasted image 20240217125841.png",
-    "Pasted image 20240217125837.png",
-    "AP1/GroupLearning/Bilder/Pasted image 20240217125611.png",
+    "2024-02-17.md",
+    "2024-02-18.md",
+    "MyLife/Goals for 2024.md",
     "AP1/Alle AP1 Notes.md",
+    "MyLife",
+    "AP1/GroupLearning/Leitungssysteme.md",
+    "AP1/GroupLearning/Bilder/Pasted image 20240217130817.png",
+    "index.md",
+    "AP1/Themen_Abschlussprufung_Teil_1.md",
+    "AP1/GroupLearning/Phasenmodelle, Vorgehensmodelle.md",
+    "AP1/GroupLearning/Bilder/Pasted image 20240217130150.png",
+    "AP1/GroupLearning/Bilder/Pasted image 20240217125611.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240217123207.png",
-    "Pasted image 20240217123114.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240217122305.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240217122151.png",
-    "Pasted image 20240217115914.png.md",
-    "AP1/GroupLearning/Bilder/Pasted image 20240217115914.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240217121703.png",
-    "AP1/IT-Sicherheit/Schutzziele.md",
-    "AP1/Themen_Abschlussprufung_Teil_1.md",
-    "AP1/GroupLearning/Kundengespräch.md",
+    "AP1/GroupLearning/Bilder/Pasted image 20240217111606.png",
+    "AP1/GroupLearning/Bilder/Pasted image 20240217105710.png",
     "AP1/GroupLearning/Angebotsbewertung.md",
-    "AP1/GroupLearning/Marktformen.md",
-    "Excalidraw/Drawing 2024-02-17 11.05.52.excalidraw.md",
-    "AP1/GroupLearning/Phasenmodelle, Vorgehensmodelle.md",
-    "Excalidraw/Drawing 2024-02-07 18.03.50.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-17 10.52.11.excalidraw.md",
     "AP1/GroupLearning/Verträge.md",
-    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
-    "AP1/IHK Themen ToDO.md",
-    "AP1/GroupLearning/IP.md",
-    "AP1/GroupLearning/ISO-OSI.md",
     "AP1/GroupLearning/Finanzierung und Kosten.md",
     "AP1/GroupLearning/Mengenplanung.md",
     "AP1/GroupLearning/Softwarequalität.md",
     "AP1/GroupLearning/SAN und NAS.md",
+    "AP1/GroupLearning/Marktformen.md",
     "AP1/GroupLearning/Formeln Elektrotechnik.md",
+    "AP1/GroupLearning/Bilder/Testebenen[1388].png",
+    "AP1/IHK Themen ToDO.md",
+    "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
     "AP1/GroupLearning/Projektphasen und Meilensteine.md",
     "AP1/GroupLearning/Zielgruppendefinition.md",
     "AP1/GroupLearning/Fehlermanagement.md",
+    "AP1/GroupLearning/Feedback-Kultur, Lessons Learned.md",
+    "AP1/GroupLearning/Netzplan.md",
+    "AP1/GroupLearning/Stakeholderanalyse.md",
+    "AP1/GroupLearning/Bedarfsanalyse.md",
     "Berufsschule",
     "AP1/GroupLearning/Dokumente/Prufungsvorbereitung_FI22.pdf",
     "AP1/GroupLearning/Dokumente/PV_gekurzt.pdf",
