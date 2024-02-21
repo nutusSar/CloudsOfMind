@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-02-18.md",
+                "file": "templates/AP1 Notes Temp.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-02-18.md",
+                "file": "templates/AP1 Notes Temp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-02-18.md",
+                "file": "templates/AP1 Notes Temp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-02-18.md"
+                "file": "templates/AP1 Notes Temp.md"
               }
             }
           },
@@ -158,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 519.5
+    "width": 519.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,16 +177,23 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "1f2c6d4b27417489",
+  "active": "ddce945382bd8a08",
   "lastOpenFiles": [
-    "2024-02-17.md",
+    "index.md",
     "2024-02-18.md",
-    "MyLife/Goals for 2024.md",
+    "Berufsschule/Lernfeld 9/Ethernet Frame.md",
+    "AP1/GroupLearning/Formeln Elektrotechnik.md",
     "AP1/Alle AP1 Notes.md",
+    "AP1/IHK Themen ToDO.md",
+    "Excalidraw/Drawing 2024-02-07 18.03.50.excalidraw.md",
+    "AP1/Untitled.md",
+    "AP1/GroupLearning/Angebotsbewertung.md",
+    "templates/AP1 Notes Temp.md",
+    "2024-02-17.md",
+    "MyLife/Goals for 2024.md",
     "MyLife",
     "AP1/GroupLearning/Leitungssysteme.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240217130817.png",
-    "index.md",
     "AP1/Themen_Abschlussprufung_Teil_1.md",
     "AP1/GroupLearning/Phasenmodelle, Vorgehensmodelle.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240217130150.png",
@@ -196,24 +204,18 @@
     "AP1/GroupLearning/Bilder/Pasted image 20240217121703.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240217111606.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240217105710.png",
-    "AP1/GroupLearning/Angebotsbewertung.md",
     "AP1/GroupLearning/Verträge.md",
     "AP1/GroupLearning/Finanzierung und Kosten.md",
     "AP1/GroupLearning/Mengenplanung.md",
     "AP1/GroupLearning/Softwarequalität.md",
     "AP1/GroupLearning/SAN und NAS.md",
     "AP1/GroupLearning/Marktformen.md",
-    "AP1/GroupLearning/Formeln Elektrotechnik.md",
     "AP1/GroupLearning/Bilder/Testebenen[1388].png",
-    "AP1/IHK Themen ToDO.md",
     "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
     "AP1/GroupLearning/Projektphasen und Meilensteine.md",
     "AP1/GroupLearning/Zielgruppendefinition.md",
     "AP1/GroupLearning/Fehlermanagement.md",
     "AP1/GroupLearning/Feedback-Kultur, Lessons Learned.md",
-    "AP1/GroupLearning/Netzplan.md",
-    "AP1/GroupLearning/Stakeholderanalyse.md",
-    "AP1/GroupLearning/Bedarfsanalyse.md",
     "Berufsschule",
     "AP1/GroupLearning/Dokumente/Prufungsvorbereitung_FI22.pdf",
     "AP1/GroupLearning/Dokumente/PV_gekurzt.pdf",
