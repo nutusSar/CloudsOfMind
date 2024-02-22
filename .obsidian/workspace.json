@@ -163,6 +163,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-day-planner:Timeline": false,
       "obsidian42-brat:BRAT": false,
       "cmdr:QuickAdd: IT-Sicherheit": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
