@@ -68,6 +68,19 @@ Inkrementelles und iteratives Modell für Projekte deren Anforderungen sich im L
 
 ## Agile Prozesse (Agile Vorgehensmodelle)
 Agile Prozesse sollen anpassbar sein und den Dokumentationsaufwand minimieren. Eine höhere Einbindung der Kunden wird ebenfalls vorgesehen.
+Ein Prozess ist ein Verlauf oder eine Entwicklung über eine bestimmte Zeit, bei dem etwas entsteht. Der agile Prozess hat zum Ziel, die Entwurfsphase bei der Softwareentwicklung kurz zu halten und schnell ein Ergebnis zu entwickeln, das dann mit dem Kunden abgestimmt werden kann. Dabei werden agile Methoden eingesetzt.
+**Leitsätze der agilen Softwareentwicklung**:
+>[!Quote]
+>Wir entdecken bessere Wege Software zu entwickeln, indem wir es selbst tun und anderen dabei helfen es zu tun.
+>Dadurch haben wir folgende Werte zu schätzen gelernt:
++ Individuen und Interaktionen mehr als Prozesse und Werkzeuge
++ Funktionierende Software mehr als umfassende Dokus
++ Zusammenarbeit mit Kunden mehr als Vertragsverhandlung
++ Reagieren auf Veränderung mehr als Befolgen eines Plans
+
+### Agile Methoden
+Eine Methode ist ein eingeübter oder formalisierter Ablauf, der sich als sinnvoll und erfolgreich erwiesen hat. Eine Agile Methode richtet sich nach den Prinzipien der agilen Entwicklung (z.B. Paarprogrammierung).
+
 
 ### Scrum
 #### Definition
