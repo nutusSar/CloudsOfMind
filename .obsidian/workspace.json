@@ -11,8 +11,12 @@
             "id": "ddce945382bd8a08",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AP1/IT-Sicherheit/Schutzziele.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -27,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/Phasenmodelle, Vorgehensmodelle.md",
+                "file": "AP1/IT-Sicherheit/Schutzziele.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/Phasenmodelle, Vorgehensmodelle.md",
+                "file": "AP1/IT-Sicherheit/Schutzziele.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/Phasenmodelle, Vorgehensmodelle.md"
+                "file": "AP1/IT-Sicherheit/Schutzziele.md"
               }
             }
           },
@@ -177,8 +180,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "399d0946d634d2c5",
+  "active": "ddce945382bd8a08",
   "lastOpenFiles": [
+    "AP1/GroupLearning/Phasenmodelle, Vorgehensmodelle.md",
     "AP1/GroupLearning/Angebotsbewertung.md",
     "AP1/Themen_Abschlussprufung_Teil_1.md",
     "AP1/GroupLearning/Untitled.md",
@@ -204,7 +208,6 @@
     "AP1/GroupLearning/Kundengespräch.md",
     "AP1/GroupLearning/Marktformen.md",
     "Excalidraw/Drawing 2024-02-17 11.05.52.excalidraw.md",
-    "AP1/GroupLearning/Phasenmodelle, Vorgehensmodelle.md",
     "Excalidraw/Drawing 2024-02-07 18.03.50.excalidraw.md",
     "Excalidraw/Drawing 2024-02-17 10.52.11.excalidraw.md",
     "AP1/GroupLearning/Verträge.md",
