@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "46cdb991a0e9ccef",
+        "id": "c570468aa95643f0",
         "type": "tabs",
         "children": [
           {
-            "id": "ddce945382bd8a08",
+            "id": "81ca985ad9f959e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fe0434af4b99299f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,8 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe0434af4b99299f",
+  "active": "81ca985ad9f959e8",
   "lastOpenFiles": [
+    "AP1/NiklasVault/Themenblock_2/Feststellung_des_Bedarfs_von_Waren_Dienstleistungen_Personal.md",
+    "AP1/Alle AP1 Notes.md",
+    "AP1/NiklasVault/Themenblock_3/Bring your own Device.md",
     "AP1/IHK Themen ToDO.md",
     "Excalidraw/Drawing 2024-02-24 13.44.21.excalidraw.md",
     "AP1/GroupLearning/RAID.md",
@@ -196,7 +188,6 @@
     "Excalidraw/Drawing 2024-02-24 12.14.11.excalidraw.md",
     "AP1/GroupLearning/Virtualisierung.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240224114730.png",
-    "AP1/Alle AP1 Notes.md",
     "AP1/GroupLearning/Cloudcomputing.md",
     "AP1/GroupLearning/Dateiformate und Speichergrößen.md",
     "AP1/Themen_Abschlussprufung_Teil_1.md",
@@ -215,9 +206,7 @@
     "MyLife/Goals for 2024.md",
     "MyLife",
     "AP1/GroupLearning/Bilder/Pasted image 20240217130817.png",
-    "2024-02-18.md",
     "Pasted image 20240217130817.png",
-    "Pasted image 20240217115914.png.md",
     "Berufsschule",
     "AP1/GroupLearning/Dokumente/Prufungsvorbereitung_FI22.pdf",
     "AP1/GroupLearning/Dokumente/PV_gekurzt.pdf",
