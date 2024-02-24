@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/Anschlüsse.md",
+                "file": "AP1/GroupLearning/RAID.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 227.5
   },
   "right": {
     "id": "15ca42f9e4339db1",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/Anschlüsse.md",
+                "file": "AP1/GroupLearning/RAID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/Anschlüsse.md",
+                "file": "AP1/GroupLearning/RAID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/Anschlüsse.md"
+                "file": "AP1/GroupLearning/RAID.md"
               }
             }
           },
@@ -170,8 +170,12 @@
   },
   "active": "ddce945382bd8a08",
   "lastOpenFiles": [
-    "AP1/GroupLearning/Phasenmodelle, Vorgehensmodelle.md",
+    "Pasted image 20240224133934.png",
+    "Excalidraw/Drawing 2024-02-05 14.38.13.excalidraw.md",
+    "AP1/GroupLearning/RAID.md",
+    "Excalidraw/Drawing 2024-01-22 14.31.59.excalidraw.md",
     "AP1/GroupLearning/Anschlüsse.md",
+    "AP1/GroupLearning/Phasenmodelle, Vorgehensmodelle.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240224123051.png",
     "Pasted image 20240224123043.png",
     "AP1/GroupLearning/DIN VDE 100-410.md",
@@ -203,9 +207,6 @@
     "Pasted image 20240217130817.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240217130150.png",
     "Pasted image 20240217115914.png.md",
-    "AP1/GroupLearning/Kundengespräch.md",
-    "AP1/GroupLearning/Marktformen.md",
-    "Excalidraw/Drawing 2024-02-17 11.05.52.excalidraw.md",
     "Berufsschule",
     "AP1/GroupLearning/Dokumente/Prufungsvorbereitung_FI22.pdf",
     "AP1/GroupLearning/Dokumente/PV_gekurzt.pdf",

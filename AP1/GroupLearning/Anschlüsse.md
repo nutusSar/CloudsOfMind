@@ -15,12 +15,14 @@ tags:
 |**Sound**| | |&check; |&check; |&check; |&check; |
 ## USB 
 ### Vergleich 
-|USB-Standard|**1.0  <br>**|**2.0  <br>**|**3.0  <br>**|**3.1**|**3.2**|**4.0**|
-|---|---|---|---|---|---|---|
-|max. Übertragungsgeschwindigkeit|12 Mbit/s|480 Mbit/s|5 Gbit/s|10 Gbit/s|20 Gbit/s|40 Gbit/s|
-|max. Stromversorgung|500 mA|500 mA|900 mA|5 A|5 A|5 A|
-|Anzahl der benötigten Lanes|-|-|1|2|2|?|
 
+| USB-Standard | **1.0  <br>** | **2.0  <br>** | **3.0  <br>** | **3.1** | **3.2** | **4.0** |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| max. Übertragungsgeschwindigkeit | 12 Mbit/s | 480 Mbit/s | 5 Gbit/s | 10 Gbit/s | 20 Gbit/s | 40 Gbit/s |
+| max. Stromstärke | 500 mA | 500 mA | 900 mA | 5 A | 5 A | 5 A |
+| Spannung | 4,40–5,25 V | 4,75–5,25 V | 4,45–5,25 V | 4,45–5,25 V | 4,45–5,25 V |  |
+| Anzahl der benötigten Lanes | - | - | 1 | 2 | 2 | ? |
+		
 ### USB-C
 + Kann in beide Richtungen eingesteckt werden 
 + HDMI Geräte können (mit Adapter) angeschlossen werden
