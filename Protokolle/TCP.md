@@ -37,3 +37,13 @@ Durch TCP werden Daten in der richtigen Reihenfolge, verlustsicher, zeitüberwac
 | Versenden und Empfangen von Daten gleichzeitig möglich                    | Geringere Datenübertragung als UDP                                                             |
 | Datenpakete können einer Anwendung zugeordnet werden                      |                                                              |
 
+## Vergleich TCP und UDP
+| **Merkmale** | **TCP** | **UDP** |
+| ---- | ---- | ---- |
+| Verbindungslosigkeit | Nein | Ja |
+| Zuverlässige Zustellung | Ja | Nein |
+| Paketsequenzierung | Ja | Nein |
+| Fehlerkorrektur | Ja | Nein |
+| Overhead | Höher als UDP | Gering |
+| Geschwindigkeit | Abhängig von der Netzwerkbedingungen und -last | Schnell |
+| Einfachheit | Nein | Ja |

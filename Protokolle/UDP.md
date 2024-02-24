@@ -23,3 +23,15 @@ Der Client muss nicht erst eine Verbindung aufbauen, sondern sendet direkt Paket
 | Schnelle Übertragung     | Keine Paketsequenzierung oder Fehlerkorrektur            |
 | Einfache Implementierung | Möglicher Datenverlust bei schlechter Netzwerkverbindung |
 |                          | UPD-Flood-Attack                                                         |
+
+
+## Vergleich UDP und TCP
+|**Merkmale**|**UDP**|**TCP**|
+|---|---|---|
+|Verbindungslosigkeit|Ja|Nein|
+|Zuverlässige Zustellung|Nein|Ja|
+|Paketsequenzierung|Nein|Ja|
+|Fehlerkorrektur|Nein|Ja|
+|Overhead|Gering|Höher als UDP|
+|Geschwindigkeit|Schnell|Abhängig von der Netzwerkbedingungen und -last|
+|Einfachheit|Ja|Nein|
