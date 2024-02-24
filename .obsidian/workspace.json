@@ -13,9 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/DIN VDE 100-410.md",
+                "file": "AP1/GroupLearning/Anschlüsse.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "e9c9c65ef04263a4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "AP1/GroupLearning/Bilder/Pasted image 20240224123051.png"
+              }
+            }
+          },
+          {
+            "id": "d0bc439cb1170d70",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-24 12.14.11.excalidraw.md"
               }
             }
           },
@@ -115,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/DIN VDE 100-410.md",
+                "file": "AP1/GroupLearning/Anschlüsse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/DIN VDE 100-410.md",
+                "file": "AP1/GroupLearning/Anschlüsse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/DIN VDE 100-410.md"
+                "file": "AP1/GroupLearning/Anschlüsse.md"
               }
             }
           },
@@ -190,10 +210,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f2c6d4b27417489",
+  "active": "ddce945382bd8a08",
   "lastOpenFiles": [
-    "AP1/GroupLearning/Virtualisierung.md",
+    "AP1/GroupLearning/Bilder/Pasted image 20240224123051.png",
+    "AP1/GroupLearning/Anschlüsse.md",
+    "Pasted image 20240224123043.png",
     "AP1/GroupLearning/DIN VDE 100-410.md",
+    "AP1/GroupLearning/Bilder/Pasted image 20240224121912.png",
+    "Excalidraw/Drawing 2024-02-24 12.14.11.excalidraw.md",
+    "AP1/GroupLearning/Virtualisierung.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240224114730.png",
     "AP1/Alle AP1 Notes.md",
     "AP1/GroupLearning/Cloudcomputing.md",
@@ -219,15 +244,10 @@
     "2024-02-18.md",
     "Pasted image 20240217130817.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240217130150.png",
-    "Pasted image 20240217125841.png",
-    "Pasted image 20240217125837.png",
-    "AP1/GroupLearning/Bilder/Pasted image 20240217125611.png",
     "Pasted image 20240217115914.png.md",
     "AP1/GroupLearning/Kundengespräch.md",
     "AP1/GroupLearning/Marktformen.md",
     "Excalidraw/Drawing 2024-02-17 11.05.52.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-07 18.03.50.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-17 10.52.11.excalidraw.md",
     "Berufsschule",
     "AP1/GroupLearning/Dokumente/Prufungsvorbereitung_FI22.pdf",
     "AP1/GroupLearning/Dokumente/PV_gekurzt.pdf",
