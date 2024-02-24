@@ -1,0 +1,94 @@
+---
+tags:
+  - IT-Sicherheit
+  - ITS
+  - Datenschutz
+---
+[Back](Pruefungsvorbereitung.md)
+# IT-Sicherheit
+- [Schutzziele: Vertraulichkeit, Integrität, Authentizität, Verfügbarkeit](Exam_Preparation/Themenblock_6/Schutzziele)
+- [Maßnahmen zur Informationssicherheit](Massnahmen%20der%20Informationssicherheit.md)
+	- Organisatorische Maßnahmen, z.B. IT-Sicherheitsbeauftragter im Betrieb, Erstellung einer IT-Sicherheitsrichtlinie, z.B. Passwort-Policy
+	- Technische Maßnahmen, z.B. Virenschutzsystem, Firewall, Anti-Spam
+	- Personelle Maßnahmen, Sicherheitsbewusstsein herstellen
+	- Passwörter, PINs, TANs, Captchas erklären und Komplexität/Sicherheit berechnen
+- [Normen und Branchenstandards zur Informationssicherheit, z.B.](Normen%20und%20Branchenstandards.md)
+	- ISO 27001
+	- ISO 27002
+	- BSI IT-Grundschutz
+- [(Anwenden von Vorschriften), z.B.:](Exam_Preparation/Themenblock_6/Vorschriften)
+	- Basel II und III
+	- SOX
+- [Schutzbedarfsanalyse nach BSI IT-Grundschutz für](Exam_Preparation/Themenblock_6/Schutzbedarfsanalyse)
+	- Anwendungen
+	- IT-Systeme
+	- Räume
+	- Kommunikationsverbindungen
+- [Anwenden von Evaluierungstechniken zur IT-Sicherheit (IT-Grundschutz-Handbuch)](Exam_Preparation/Themenblock_6/Evaluierungstechniken)
+- [Schutzbedarfskategorien (normal, hoch, sehr hoch)](Exam_Preparation/Themenblock_6/Schutzbedarfskategorien)
+	- Erreichen des mittleren, angemessenen und ausreichenden Schutzniveaus, für ID-Systeme durch technische Sicherheitsmaßnahmen und infrastrukturelle, organisatorische und personelle Schutzmaßnahmen
+- [IT-Sicherheitsmanagementsysteme implementieren](IT-Sicherheitsmanagementsysteme.md)
+	- Betrieblicher IT-Sicherheitsbeauftragter
+	- Schaffung eines Sicherheitsbewusstseins bei den Mitarbeitern
+	- IT-Sicherheitsmanagement
+	- Durch technische, infrastrukturelle, organisatorische und personelle Schutzmaßnahmen
+	- Verhindern oder Abwehr von Gefahren für die Informationssicherheit oder Bedrohungen des Datenschutzes, z.B. durch Etablierung eines IT-Sicherheitsmanagements (ISMS) unter Verwendung von Standards wie IT-Grundschutz, ISO/IEC 27001
+- [Security by Design, Security by Default](Security%20by%20Design%20vs%20Security%20by%20Default.md)
+- [Datensicherung/Backup-Verfahren](Datensicherungs%20und%20Backup-Verfahren.md)
+	- Wie erkennt die Software, welche Daten zu sichern sind?
+	- Inkrementelles, differenzielles und Vollbackup
+	- Generationenprinzip bzw. Großvater/Vater/Sohn
+	- Medien nennen und erläutern
+		- Kriterien bei der Auswahl von Backupmedien: Lebensdauer, Zugriffsgeschwindigkeit, Kosten, Störanfälligkeit, Kapazität
+	- Hot/Cold Backup
+	- Was sind sicherungswürdige Daten?
+	- Mögliche Gründe für Datenverluste auf Servern erläutern und Gegenmaßnahmen vorschlagen
+	- Folgen von Datenverlust, Auswirkungen von Datenverlusten für das Unternehmen erläutern
+	- Maßnahmen der Mitarbeiter zur Vermeidung von Datenverlusten erläutern
+- [Verschrottung von Datenträgern](Verschrottung%20der%20Datentraeger.md)
+- [Sicherung der Verfügbarkeit, z.B. RAID-Systeme, SAN](Sicherung%20der%20Verfuegbarkeit.md)
+	- RAID 0, 1, 5, 6, 01, 10, JBOD erklären
+	- Nested RAID levels
+- [Zugangs- und Zugriffskontrolle](Zugangs%20und%20Zugriffskontrolle.md)
+- [Grundbegriffe](Grundbegriffe%20der%20IT-Sicherheit.md)
+	- Schadprogramme: Viren, Würmer
+	- Rootkits, Botnetze, Trojaner, Malware, Ransomware, Spyware, Adware, Scareware, Hoax, Dialer (veraltet), Keylogger
+		- Verbreitung von Viren/Würmer/Trojaner erläutern
+	- Hacker (White Hat, Black Hat), Cracker, Script-Kiddies
+	- Spam, Phishing, Sniffing, Spoofing, Man-in-the-Middle
+	- SQL-Injection, XSS, CSRF, Session Hijacking, DoS, DDoS
+	- Backdoor, Exploit, 0-Day-Exploit, Rootkit
+- [Kryptographie](Exam_Preparation/Themenblock_6/Kryptographie)
+	- Verschlüsselungstechniken, symmetrische und asymmetrische Verschlüsselung
+	- Hashverfahren
+	- Cas, Zertifikate, Digitale Signaturen, PKI
+	- Techniken wie HTTPS, TLS
+- [SSH vs. Telnet](Exam_Preparation/Themenblock_6/SSH_und_Telnet)
+- [WLAN](WLAN.md)
+	- SSID, Mac-Filter, WPS, Wi-Fi Easy Connect
+	- Sicherheitsmethoden: WEP, WPA 1/2/3 (PSK, Enterprise), RADIUS
+	- Verschlüsselungsstandards: AES, TKIP, SAE
+- [Endpoint-Security](Exam_Preparation/Themenblock_6/Endpoint-Security)
+	- Virenscanner, Firewall, Application Control, Datenträgerverschlüsselung
+- [Arten und Funktionsweise von Firewalls](Firewall%20und%20DMZ.md)
+	- Packet Filter, Stateful Packet Inspection, Application Firewall, WAF
+- [Sinn und Aufbau einer DMZ](Firewall%20und%20DMZ)
+	- Port-Forwarding erklären
+- [Authentifizierung vs. Autorisierung](Authentifizierung%20und%20Autorisierung.md)
+	- MFA
+	- Passwort-Policy
+	- 
+# Datenschutz
+- [Datenschutzgesetze – national und auf EU-Ebene, z.B. DSGVO, BDSG](Exam_Preparation/Themenblock_6/Datenschutzgesetze)
+	- Definition von personenbezogenen Daten
+	- Maßnahmen des Datenschutzes: Datensparsamkeit, Zweckbindung usw.
+	- Betroffenenrechte: Auskunftsrecht, Recht auf Löschung etc.
+- [Grundsätze des Datenschutzes](Grundsaetze%20des%20Datenschutzes.md)
+	- Gesetzmäßigkeit (Erfordernis der gesetzlichen Grundlage)
+	- Verhältnismäßigkeit (Datensparsamkeit und Datenvermeidung (§3a BDSG))
+	- Zweckbindung
+	- Richtigkeit/Integrität
+	- Transparenz gegenüber den betroffenen Personen
+	- Informationssicherheit
+- [Persönlichkeitsrechte](Exam_Preparation/Themenblock_6/Persoenlichkeitsrechte)
+	- Recht am eigenen Bild

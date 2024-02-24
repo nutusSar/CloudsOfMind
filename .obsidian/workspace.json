@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe0434af4b99299f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +179,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f2c6d4b27417489",
+  "active": "fe0434af4b99299f",
   "lastOpenFiles": [
     "AP1/IHK Themen ToDO.md",
     "Excalidraw/Drawing 2024-02-24 13.44.21.excalidraw.md",

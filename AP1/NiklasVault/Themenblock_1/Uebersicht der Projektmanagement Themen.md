@@ -1,0 +1,147 @@
+---
+tags:
+  - Projektmanagement
+  - MethodenUndModelle
+  - Teamarbeit
+  - Changemanagement
+---
+[Back](Pruefungsvorbereitung.md)
+# Projektmanagement
+- [Projekt: zeitlich befristet, relativ innovativ, risikobehaftet, erhebliche Komplexität, erfordert ein Projektmanagement](Exam_Preparation/Themenblock_1/Projekt)
+	- Nach DIN 69901: Vorhaben, das im Wesentlichen durch Einmaligkeit der Bedingungen in ihrer Gesamtheit gekennzeichnet ist
+	- Nach PRINCE2: a temporary organization that is created for the purpose of delivering one or more business products according to an agreed Business Case
+- [Magisches Dreieck: Qualität, Kosten, Zeit](Exam_Preparation/Themenblock_1/Magisches_Dreieck)
+- [Qualität: Übereinstimmung der Anforderungen](Exam_Preparation/Themenblock_1/Qualitaet)
+- [SMARTe Ziele: spezifisch, messbar, attraktiv, realistisch, terminiert](SMARTe_Ziele.md)
+- [4-Phasen-Modell](Exam_Preparation/Themenblock_1/4_Phasen_Modell)
+	- Projektdefinition
+	- Projektplanung
+	- Projektdurchführung und -controlling
+	- Projektabschluss
+- [Kick-Off-Meeting](Exam_Preparation/Themenblock_1/Kick_Off_Meeting)
+	- Nach erfolgter Planung vor Start der Projektdurchführung
+	- Projektstrukturplan wird erstellt.
+- [Meilensteine: wichtige Ereignisse des Projekts werden visualisiert und geplant](Exam_Preparation/Themenblock_1/Meilensteine)
+- [Aufgaben/Inhalte/Verbindlichkeit von Lasten-/Pflichtenheften und Angeboten](Exam_Preparation/Themenblock_1/Lasten_und_Pflichtenheft)
+	- Lastenheft: was/wofür?
+	- Pflichtenheft: wie/womit?
+- [Definieren von Aufgaben, Rollen und Verantwortlichkeiten für alle Projektbeteiligten. Z.B.:](Exam_Preparation/Themenblock_1/Projektrollen)
+	- Projekt-Auftraggeber
+	- Projektleiter
+	- Projekt-Steuerkreis
+	- Projektmitarbeiter
+- [Stakeholder: Gruppen oder Personen, die irgendein Interesse am Projekt haben.](Exam_Preparation/Themenblock_1/Stakeholder)
+- [Aufgaben eines Projektleiters: Mitwirkung bei der Zieldefinition Koordination des Teams, Aufgabenverteilung innerhalb des Teams. Überwachung der Projektfortschritte, Kommunikation, Projektcontrolling, Dokumentation, Aufwandschätzung, Vorlage der Ergebnisse beim Lenkungsausschuss, Eskalation von Konfliktsituationen, Erstellen des Projektabschlussberichtes](Exam_Preparation/Themenblock_1/Projektleiter)
+- [Analysieren im Sinne von Erkennen und Einordnen](Exam_Preparation/Themenblock_1/Analysieren_Erkennen_Einordnen)
+- [Problemlösungsvarianten entwickeln und Probleme beseitigen z.B. durch](Problemloesungsvarianten.md)
+	- Situationsanalyse
+	- Problemeingrenzung
+	- Aufzeigen von Alternativen
+	- Auswahl von Lösungen
+	- Analysieren der Chancen und Risiken der ausgewählten Lösung anhand vorher definierter Beurteilungskriterien
+	- Root-Cause-Analysis
+	- 5 Whys
+- [Kundenkommunikation](Exam_Preparation/Themenblock_1/Kundenkommunikation)
+- [Fehlermanagement, Störungsmanagement](Exam_Preparation/Themenblock_1/Fehlermanagement)
+- [Supportanfragen, Bearbeitungsstatus, z.B. mittels Ticketsystem](Exam_Preparation/Themenblock_1/Supportanfragen)
+	- Ticketsystem: Verteilung der Aufgaben, Koordination der Beteiligten, Historie, Dokumentation, Auswertungen
+# Methoden und Modelle
+- [Unterscheiden verschiedener Projektmanagementmethoden und Vorgehensmodelle](Exam_Preparation/Themenblock_1/Projektmanagementmethoden)
+	- Projektphasen, z.B. Analyse, Entwurf, Implementierung, Test, Betrieb
+	- „klassisch“: Wasserfall, V-Modell, Spiralmodell
+	- Agil: Scrum Kanban, Extreme Programming
+- [Anwendungen von Methoden, Hilfsmitteln, Techniken und Kompetenzen in einem Projekt, z.B.:](Exam_Preparation/Themenblock_1/Anwenden_von_Methoden)
+	- Projektplan
+	- Meilensteine
+	- Risikoanalyse
+	- Standards und Normen
+	- Projektmanagementsysteme
+- [Projektplanung mit Hilfe von Strukturplan, Netzplan, Gantt-Diagramm](Exam_Preparation/Themenblock_1/Struktur_Netzplan_Gantt_Diagramm)
+	- Kritischer Pfad: Gesamtpuffer ist 0, bestimmt die gesamte Projektdauer
+	- Pufferzeiten
+	- Fristgerechte Terminierung
+	- Lösungsmöglichkeiten bei Terminproblemen
+	- Meilensteine
+	- Definieren und Festlegen von Arbeitspaketen und Abhängigkeiten
+	- Erleichterung der Planung und der Fortschrittskontrolle durch Aufteilung des Arbeits- bzw. Projektverlaufs in überprüfbare Etappen mit Zwischenzielen
+	- Umsetzung der Arbeitspakete in konkrete Handlungen und Messen anhand von Prüfkriterien
+	- Ggf. Ableiten einer Prognose für den weiteren Fortschritt bzw. den Endtermin
+	- Vollständige Erfassung aller relevanten Tätigkeiten eines Projektes (funktionsorientierte, objektorientierte oder zeitorientierte Gliederung) im Top-down-, Bottom-up- oder Yo-Yo-Ansatz
+- [Erstellung von Projektstrukturplänen zur Gliederung von Projekten in plan- und kontrollierbare Elemente](Exam_Preparation/Themenblock_1/Projektstrukturplan)
+	- Statische Sicht
+	- Zerlegung des Gesamtprojekts in Teilschritte
+	- Top-Down-Verfahren (deduktiv) vs. Bottom-Up-Verfahren (induktiv) vs. Yo-Yo-Verfahren (Gegenstromverfahren)
+- [Netzplan](Exam_Preparation/Themenblock_1/Netzplan)
+	- Dauer der Aktivitäten
+	- Zeitliche und logische Abhängigkeiten werden gezeigt
+	- Pufferzeiten und der kritische Pfad sind erkennbar
+	- Frühester/spätester Anfangszeitpunkt, frühester/spätester Endzeitpunkt, Gesamtpuffer, freier Puffer
+- [Gantt-Diagramm](Exam_Preparation/Themenblock_1/Gantt_Diagramm)
+	- Zeitliche Reihenfolge der Aktivitäten auf einer Zeitachse (z.B. Kalenderwochen)
+	- Parallelität sichtbar
+	- Abhängigkeiten können visualisiert werden
+- [Visualisierung](Exam_Preparation/Themenblock_1/Visualisierungen)
+	- Netzplantechnik
+	- Scrum Board
+	- Kanban Board
+	- Gantt-Diagramme
+- [Kanban-Board: WIP-Limit (work in progress), Pull statt Push, Spalten entsprechen Prozessschritten](Exam_Preparation/Themenblock_1/Kanban_Board)
+# Teamarbeit
+- [Teambildung und -entwicklung](Exam_Preparation/Themenblock_1/Teambuilding)
+	- Prozess der Teambildung nach Bruch Tuckman:
+		- Forming
+		- Storming
+		- Norming
+		- Performing
+		- (Adjourning)
+	- Team als soziales Gefüge verstehen („social awareness“)
+	- Phasen der Teamentwicklung kennen und anwenden (Konflikt, Kontrakt, Kooperation)
+- [Reflexion](Exam_Preparation/Themenblock_1/Reflexion)
+	- Gemeinsame kritische Analyse der bisherigen Zusammenarbeit und der Ergebnisse („lessons learned“)
+	- Offenes Ansprechen von Erfolgen und Problemen
+	- Gemeinsame Entwicklung von Maßnahmen zur Verbesserung, z.B. SCRUM-Retrospektive
+	- Konstruktive Kritik
+	- Retrospektive: Wie kann der Prozess und die Zusammenarbeit im Team verbessert werden?
+	- Konstruktive Kritik: konkrete Wahrnehmung schildern (nicht interpretieren, nicht verallgemeinern), Auswirkungen aufzeigen, Ich-Botschaften senden, Wunsch äußern
+	- Reflexionsmethoden, z.B. Feedback-Kultur, Lessons learned.
+- [Adressatengerechte Kommunikation](Exam_Preparation/Themenblock_1/Adressatengerechte_Kommunikation)
+- [Methoden des sachbezogenen Verhandelns kennen und anwenden, Verhandlungen führen](Exam_Preparation/Themenblock_1/Verhandlungen_fuehren)
+	- Win-win-Strategie: Konfliktlösung ohne Verlierer
+	- Havard-Konzept
+		- Menschen und Interessen trennen
+		- Fokus auf Interessen und nicht auf Positionen
+		- Entscheidungsoptionen entwickeln
+		- Objektive Beurteilungskriterien anwenden
+	- BATNA: Best Alternative to a Negotiated Agreement
+	- Communication is what the listener does (Peter Druckner)
+- [Berücksichtigung der Formen von Arbeitsorganisation, z.B.:](Exam_Preparation/Themenblock_1/Arbeitsorganisation)
+	- Gruppenarbeit
+	- Pair Programming
+- [Betriebsrat](Exam_Preparation/Themenblock_1/Betriebsrat)
+	- Rechte und Pflichten
+	- Rechtliche Voraussetzungen
+- [Kündigung](Exam_Preparation/Themenblock_1/Kuendigung)
+	- Gesetzliche/vertragliche Fristen
+	- Notwendige Unterlagen
+- [Diversität, Interkulturalität, Fehlerkultur](Diversitaet.md)
+# Changemanagement
+- [Basiskenntnisse des Veränderungsmanagements](Veraenderungsmanagement.md)
+	- Darstellung der Veränderungsschritte, z.B. anhand der sieben Phasen eines Change-Prozesses
+	- Change-Management (Prozess zur Umsetzung von Veränderungen in Unternehmen) z.B. nach Lewin (Unfreeze, Change, Refreeze)
+	- Kaizen, Continuous Improvement
+- [Motivierte Herangehensweise und Betonung der Chancen](Exam_Preparation/Themenblock_1/Betonung_der_Chancen)
+	- Hervorhebung der Vorteile und Nutzen-Argumentation
+	- Identifizierung und Darstellung von Veränderungsschritten
+	- Voranbringen schnell und in geeigneter Weise unterstützen
+	- Zielorientierte Vorgehensweise
+- [Einbeziehung der Mitarbeiter in den Veränderungsprozess](Exam_Preparation/Themenblock_1/Einbeziehung_der_Mitarbeiter)
+	- Mitarbeiterqualifizierung, z.B. durch BlendedLearning, Multiplikatoren
+	- Erkennen von Promoter, Bremser, Skeptiker und Widerständler
+	- Fragen beantworten, informieren und zuhören
+	- Anreichern mit eigenem Know-how
+	- Unterstützung bei der Umsetzung von Schulungsangeboten
+	- Durchführung von Einführungsveranstaltungen (auch begleitende Unterstützung vor Ort)
+- [Ursachen von Widerständen gegen Veränderungen, z.B.](Widerstaende.md)
+	- Angst vor Kompetenzverlust
+	- Wissenslücken
+	- Persönliche Historie

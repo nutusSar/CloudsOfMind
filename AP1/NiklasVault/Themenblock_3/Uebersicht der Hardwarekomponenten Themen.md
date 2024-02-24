@@ -1,0 +1,115 @@
+---
+tags:
+  - Hardwarekomponenten
+  - Hardware
+  - Betriebssysteme
+  - MultimediaUndBerechnungen
+---
+[Back](Pruefungsvorbereitung.md)
+# Hardware
+- [Hardwareprodukte, z.B. CPU, Motherboard, Speicher, Datenspeicher, Netzteile, Grafikkarte, Peripheriegeräte, Netzwerkkomponenten, WLAN](Exam_Preparation/Themenblock_3/Hardwareprodukte)
+	- Ein-/Ausgabegeräte: Drucker, Scanner, Maus, Display, Touchpad, Tastatur
+	- Arten von Scannern: Flachbett, Handscanner, Trommelscanner, Dokumentenscanner
+	- Arten von Druckern: Tintenstrahl, Laser, Thermo, Nadel
+- [Prozessor/CPU, Kühlung](Exam_Preparation/Themenblock_3/Prozessor)
+	- Von-Neumann-Architektur
+	- ALU
+	- [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
+- [RAM-Arten und Unterschiede](RAM%20Arten.md)
+	- Unterschiede Stack/Heap
+- [Kenngrößen, Leistungsdaten, Funktionsumfang, z.B. BIOS, UEFI, CPU, RAM, Datenspeicher, RAID, Dateisysteme, Grafikkarte, Netzwerkkarte, Router, Switch, LWL, Ethernet-Standards, WLAN-Standards](Kenngroessen%20Leistungsdaten%20und%20Funktionsumfang.md)
+	- RAM: Dual Channel
+- [Speichermedien](Exam_Preparation/Themenblock_3/Speichermedien)
+	- Magnetisch (Festplatten, HDD, Band),
+	- Elektrisch (SDD)
+	- Optisch (CD, DVD, BluRay)
+- [Schnittstellen](Exam_Preparation/Themenblock_3/Schnittstellen)
+	- USB, Bluetooth, Firewire
+	- DIE, SATA, iSCSI, SAS
+	- Video-Schnittstellen: VGA, DVI, HDMI, DisplayPort, übliche Auflösungen, z.B. HD, UHD, 4K, 8K
+	- Single-/Multimode Fasers
+- [Geräteklassen, z.B. Desktops, Notebooks/Laptops, Tablets, Smartphones, Convertible](Exam_Preparation/Themenblock_3/Geraeteklassen)
+- [Mobile und stationäre Arbeitsplatzsysteme wie PC, Terminals, LAN, WLAN, Dockingstation, Thin Client vs. Fat Client](Mobile%20und%20stationaere%20Arbeitsplatzsysteme.md)
+- [WLAN](Exam_Preparation/Themenblock_3/WLAN)
+	- Hotspot, Ad-Hoc, Repeater, Access Point
+	- Sicherheit (WPA, WEP, MAC-Filter, WPS)
+- [Bussysteme, Storage etc.](Bussysteme%20und%20Storage.md)
+	- Glasfaser, Fibre Channel, Host-Bus-Adapter
+	- Eigenschaften/Unterscheidung/Vor-/Nachteile DAS, SAN und NAS
+		- DAS, SAN und NAS: ![[SAN_NAS_DAS_1.webp]] ![[SAN_NAS_DAS_2.png]]
+-  [Abkürzungen und Bedeutungen kennen: sATA, AGP, PCI, IDE, iSCSI, SAS, USB, RAID, USV, SSD](Abkuerzungen%20und%20Bedeutungen%20kennen.md)
+	- Veraltet: ISA, SCSI, IDE: Master/Slave, Jumper
+- [Arten von Druckern und Scannern](Drucker%20und%20Scanner.md)
+	- 3D-Drucker
+- [Monitore (-arten)](Monitor-Arten.md)
+	- VGA, DVI, HDMI, DisplayPort
+- [USV nach IEC 62040-3: VFI, VI, VFD](Ununterbrochene%20Stromversorgung.md)
+	- Mögliche Probleme bei der Stromversorgung: Stromausfall, Über-/Unterspannung, Frequenzabweichung etc.
+	- Standby-, Offline-, Online-USV
+	- Typen von USVen (z.B. VFI) nach DIN EN 62040-3
+		- Voltage Independent, Voltage and Frequency Dependent, Voltage and Frequency Independent
+	- Benötigte Scheinleistung für vorgegebene Hardware ermitteln
+	- Netzstörung, vor denen USVen schützen
+- [Bootvorgang eines Computers](Bootvorgang%20eines%20Computers.md)
+	- S.M.A.R.T.
+	- P.O.S.T.
+	- Bootsektor, Boot Loader
+- [Barrierefreiheit, z.B. Arbeitsplatz mit zweitem Monitor ausstatten, Lautsprecher/Mikrofon zur Verfügung stellen](Exam_Preparation/Themenblock_3/Barrierefreiheit)
+- [Hot Swapping, Hot Spare erläutern](Hot%20Swapping%20und%20Hot%20Spare.md)
+- [Vor-/Nachteile von SSDs](SSDs%20Solid%20State%20Drives.md)
+- [Power over Ethernet (PoE)](PoE%20vs%20dLAN.md)
+- [BYOD](Bring%20your%20own%20Device.md)
+- [Elektrotechnik](Exam_Preparation/Themenblock_3/Elektrotechnik)
+	- Energiegrößen, Wirkungsgrad
+	- Strom, Spannung, Wirkleistung (P = U * I)
+	- Leistungsaufnahme (W = P * t)
+- [Green IT, Energy Star, Recycling, Nachhaltigkeit](Oekologische%20IT.md)
+- [Barcodes, QR-Codes, RFID](Barcodes%20QR-Codes%20und%20RFID.md)
+	- Asset Tag vs. Service Tag
+- [Ergonomierichtlinien, Arbeitsstättenverordnung](Ergonomierichtlinien%20und%20Arbeitsstättenverordnung.md)
+	- Vorgaben bzgl. Arbeitsplatzergonomie kennen
+	- ergonomische Anforderungen an Bildschirme, Drucker, Stühle, Tische, Temperatur, Lichtverhältnisse, Peripherie
+	- Nutzen ergonomischer Arbeitsplätze für das Unternehmen
+# Betriebssysteme
+- [Typen von Multitasking erläutern (kooperativ vs. Präemptiv)](Multitasking%20Typen.md)
+- [Prozess vs. Task vs. Thread](Prozess%20vs%20Task%20vs%20Thread.md)
+- [Verschiedene Betriebssysteme kennen (Linux, Windows, Android, iOS, Windows Phone)](Verschiedene%20Betriebssysteme.md)
+- [Unterschied Unix/Linux](Unix%20vs%20Linux.md)
+- [Vor-/Nachteile Linux/Windows](Vor%20und%20Nachteile%20Linux%20zu%20Windows.md)
+	- Dateisysteme (FAT, NTFS, ext)
+	- Aufbau des Dateibaums
+	- Kommandozeile vs. GUI
+- [Linux](Exam_Preparation/Themenblock_3/Linux)
+	- Arbeiten mit der Kommandozeile, Befehlssyntax, Parameter
+	- Wichtige Befehle kennen (ls, chmod, chown, ps, grep, mount)
+	- Wichtige Verzeichnisse kennen (bin, boot, dev, etc, home, lib, root, sbin, var)
+	- Dateirechtesystem erklären (ugw, rwx)
+	- Gängige Linux-Distributionen nennen (Debian, Suse, Red Hat, Ubuntu etc.)
+	- Wie wird die Hardware angesteuert?
+	- Mounten von Laufwerken
+- [Konsolenbefehle für Dateioperationen und Netzwerktroubleshooting/Namensauflösung](Konsolenbefehle%20Grundlagen.md)
+	- dir, ls, mkdir, alias, del, cp, copy, chmod
+	- ipconfig, ifconfig, getmac, iprouteZ, arp, ping, traceroute, tracert, nslookup, netsh
+# Multimedia und Berechnungen
+- [Kompression](Exam_Preparation/Themenblock_3/Kompression)
+	- Verlustbehaftet vs. Verlustfrei
+		- ZIP
+		- Huffman-Code
+- [Datenraten von verschiedenen Laufwerken: Festplatte (HDD/SSD), CD, DVD, BluRay](Datenraten%20verschiedener%20Laufwerke.md)
+- [Audiobearbeitung](Exam_Preparation/Themenblock_3/Audiobearbeitung)
+	- Sampling (-rate, -tiefe)
+	- MP3
+- [Bildbearbeitung](Exam_Preparation/Themenblock_3/Bildbearbeitung)
+	- Unterschied Raster-/Vektorgrafik
+	- Auflösung
+	- GIF, JPG/JPEG, TIF, PNG, SVG, MPEG
+	- OCR
+- [Videobearbeitung](Videobearbeitung.md)
+	- HD/UltraHD/4k
+	- 3D-/HD-TV, BluRay
+	- Kompressionsverfahren
+- [Zeichensätze kennen und Unterschiede aufzeigen](Zeichensaetze%20und%20Unterschiede.md)
+	- ASCII, Unicode, UTF-8 kennen und erklären
+- [Sinn von Prüfziffern (z.B. EAN, IBAN)](Exam_Preparation/Themenblock_3/Pruefziffern)
+	- Längs-/Querparität berechnen
+- [Dateigrößen von Bildern/Audio/Videos berechnen](Dateigroessen%20von%20Bildern%20Audio%20Videos.md)
