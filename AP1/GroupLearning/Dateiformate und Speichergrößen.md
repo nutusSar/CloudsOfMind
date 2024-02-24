@@ -26,4 +26,4 @@ $$BreiteInch*HöheInch*DPI^2*Farbtiefe = AnzahlBits$$
 + Farbtiefe: 24Bit
 + 1Inch = 2,54cm
 $$(30cm*18cm)/(2,54cm)^2 * (300DPI)^2 * 24Bit = 180792362Bit
-=> 22,60MB$$
+=> 22,60MB => 21,55MiB$$

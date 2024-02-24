@@ -26,6 +26,9 @@ Desktopvirtualisierung ist eine Technologie, bei der ein zentraler Server Deskto
 ## Anwendungvirtualisierung
 Die Anwendungsvirtualisierung ist eine Technologie, bei der Anwendungen von der physischen Hardware isoliert und in einer virtualisierten Umgebung ausgeführt werden, was eine einfachere Bereitstellung, Portabilität und Verwaltung der Anwendungen ermöglicht, unabhängig von der zugrunde liegenden Betriebssystem- oder Hardwareplattform.
 
+## Snapshot
+**Abbild einer virtuellen Maschine**
+Bei der Erstellung werden Status, die Konfiguration und die Datenträgerinhalte einer virtuellen Maschine gespeichert. Dies kann im laufendem Betrieb erstellt werden. Es ist problemlos möglich auf einen Snapshot zurückzukehren. Vor Veränderung der Konfig ist ein Snapshot zu empfhelen
 
 ## Container vs Virtualisierung 
 Container und Virtualisierung sind beide Technologien zur Bereitstellung und Verwaltung von Anwendungen, unterscheiden sich jedoch in ihrer Herangehensweise und den damit verbundenen Vor- und Nachteilen.
@@ -40,6 +43,8 @@ Container und Virtualisierung sind beide Technologien zur Bereitstellung und Ver
 - Container sind leichtgewichtiger, da sie ohne eigenes Betriebssystem auskommen und Ressourcen effizienter nutzen.
 - Da sie den Kernel teilen, sind Container in der Regel schneller und verbrauchen weniger Speicher als virtuelle Maschinen.
 - Portabilität (Image -> Zweite Instanz, horizontale Skalierung)
+
+![[Pasted image 20240224114730.png]]
 
 Die Wahl zwischen Container und Virtualisierung hängt von den spezifischen Anforderungen ab. Container eignen sich gut für Anwendungen mit vielen Microservices, bei denen Effizienz und Skalierbarkeit wichtig sind. Virtualisierung wird oft für Workloads bevorzugt, die unterschiedliche Betriebssysteme erfordern oder mehr Isolation benötigen. Oft werden beide Technologien auch kombiniert, um die Vorteile beider Ansätze zu nutzen.
 

@@ -13,7 +13,6 @@ Cloud Computing ist ein Modell für den allgegenwärtigen, bequemen und bedarfsg
 Cloud Computing bezeichnet die Bereitstellung von Rechenressourcen wie Servern, Speicher, Netzwerke und Anwendungen über das Internet, wodurch Benutzer auf diese Ressourcen zugreifen und sie nach Bedarf nutzen können, ohne physisch auf lokale Infrastruktur angewiesen zu sein.
 
 ## Vorteile und Nachteile
-
 ### Vorteile
 - **Skalierbarkeit**: Cloud-Dienste ermöglichen es, die Ressourcen nach Bedarf zu erhöhen oder zu reduzieren, ohne dass dafür große Investitionen in Hardware erforderlich sind.
 - **Lastverteilung**: Cloud-Provider verfügen über große Rechenzentren, die in der Lage sind, Lastspitzen zu verarbeiten, ohne dass die Leistung beeinträchtigt wird.
@@ -74,3 +73,4 @@ Beispiele für Public Clouds sind:
 + Google Cloud Platform (GCP)
 ### Hybrid Cloud
 Eine Hybrid Cloud ist eine **Kombination aus Public und Private Cloud**. Es ermöglicht es Unternehmen, sensitive Daten in einer privaten Umgebung zu speichern und weniger sensitive Daten in einer öffentlichen Umgebung zu speichern. Es ermöglicht auch die Nutzung von Services, die in der Public Cloud verfügbar sind, aber nicht in der Private Cloud verfügbar sind.
+
