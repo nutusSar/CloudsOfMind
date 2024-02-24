@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/Konsolenbefehle.md",
+                "file": "Protokolle/TCP.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "4b45d02f6e742e03",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-24 10.16.57.excalidraw.md"
               }
             }
           },
@@ -105,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/Konsolenbefehle.md",
+                "file": "Protokolle/TCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/Konsolenbefehle.md",
+                "file": "Protokolle/TCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/Konsolenbefehle.md"
+                "file": "Protokolle/TCP.md"
               }
             }
           },
@@ -182,9 +192,13 @@
   },
   "active": "ddce945382bd8a08",
   "lastOpenFiles": [
+    "AP1/GroupLearning/Phasenmodelle, Vorgehensmodelle.md",
+    "Protokolle/TCP.md",
+    "Pasted image 20240224102454.png",
+    "Excalidraw/Drawing 2024-02-24 10.16.57.excalidraw.md",
+    "AP1/GroupLearning/Konsolenbefehle.md",
     "AP1/Alle AP1 Notes.md",
     "AP1/IT-Sicherheit/Schutzziele.md",
-    "AP1/GroupLearning/Phasenmodelle, Vorgehensmodelle.md",
     "AP1/GroupLearning/Angebotsbewertung.md",
     "AP1/Themen_Abschlussprufung_Teil_1.md",
     "AP1/GroupLearning/Untitled.md",
@@ -203,7 +217,6 @@
     "AP1/GroupLearning/Bilder/Pasted image 20240217123207.png",
     "Pasted image 20240217123114.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240217122305.png",
-    "AP1/GroupLearning/Bilder/Pasted image 20240217122151.png",
     "Pasted image 20240217115914.png.md",
     "AP1/GroupLearning/Kundengespräch.md",
     "AP1/GroupLearning/Marktformen.md",
@@ -215,10 +228,6 @@
     "AP1/GroupLearning/IP.md",
     "AP1/GroupLearning/ISO-OSI.md",
     "AP1/GroupLearning/Finanzierung und Kosten.md",
-    "AP1/GroupLearning/Mengenplanung.md",
-    "AP1/GroupLearning/Softwarequalität.md",
-    "AP1/GroupLearning/SAN und NAS.md",
-    "AP1/GroupLearning/Formeln Elektrotechnik.md",
     "Berufsschule",
     "AP1/GroupLearning/Dokumente/Prufungsvorbereitung_FI22.pdf",
     "AP1/GroupLearning/Dokumente/PV_gekurzt.pdf",
