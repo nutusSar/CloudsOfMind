@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1f029832bb106cfd",
+        "id": "39f98b224a2bb263",
         "type": "tabs",
         "children": [
           {
-            "id": "0223ffcb33bab7ae",
+            "id": "0e4ead55fcb48104",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/Softwarequalität.md",
+                "file": "AP1/GroupLearning/Datensicherung.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "37ee4c89a310034c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-02-25 15.04.24.excalidraw.md"
               }
             }
           }
@@ -103,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/Softwarequalität.md",
+                "file": "AP1/GroupLearning/Datensicherung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/Softwarequalität.md",
+                "file": "AP1/GroupLearning/Datensicherung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/Softwarequalität.md"
+                "file": "AP1/GroupLearning/Datensicherung.md"
               }
             }
           },
@@ -186,10 +176,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "0223ffcb33bab7ae",
+  "active": "0e4ead55fcb48104",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-02-25 15.04.24.excalidraw.md",
+    "AP1/GroupLearning/Datenschutz.md",
+    "AP1/GroupLearning/Datensicherung.md",
     "AP1/GroupLearning/Softwarequalität.md",
+    "Excalidraw/Drawing 2024-02-25 15.04.24.excalidraw.md",
     "AP1/GroupLearning/Qualität.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240225151200.png",
     "Excalidraw/Drawing 2024-02-25 12.38.50.excalidraw.md",
@@ -218,8 +210,6 @@
     "Excalidraw/Drawing 2024-02-24 12.14.11.excalidraw.md",
     "Excalidraw/Drawing 2024-02-24 10.59.06.excalidraw.md",
     "Excalidraw/Drawing 2024-02-24 10.16.57.excalidraw.md",
-    "AP1/NiklasVault/Themenblock_6/Zugangs und Zugriffskontrolle.md",
-    "AP1/NiklasVault/Themenblock_6/Vorschriften.md",
     "AP1/NiklasVault/Themenblock_6/Schutzbedarfsanalyse.png",
     "AP1/NiklasVault/Themenblock_5/test_pyramide.jpg",
     "AP1/NiklasVault/Themenblock_5/code_library_framework.jpg",

@@ -33,4 +33,8 @@ Barrierefreie-Informationstechnische Verordnung hat das Ziel, eine grundsätzlic
 ### Wie ist Barrierefreiheit in der IT definiert?
 Soll dafür sorgen, dass Webseiten, Programme und Betriebssysteme so gestaltet sind, dass auch Menschen mit körperlichen Einschränkungen sie bedienen können.
 **Beispiele**:
-+ Bilder mit Alternati
++ Bilder mit Alternativtext
++ Aussagekräftige Struktur mit jeweils HTML-Tags
++ Navigierbarkeit ohne Maus
++ Text muss skalierbar sein
+
