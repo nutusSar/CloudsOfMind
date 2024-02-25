@@ -1,7 +1,7 @@
 ---
 tags:
   - "#AP1"
-  - "#IT-Grundkenntnisse"
+  - "#Hardware"
 ---
 ## Bildanschlüsse
 ### Schaubild
@@ -31,8 +31,9 @@ tags:
 
 ### Berechnung USB 3.0 vs. USB 2.0
 #### Formeln
-$$ DateigrößeMB / SchreibrateMB/s = Dauer$$$$Dauer*Kosten(Schbearbeiter/sek) = KostenProVorgang$$
-$$KostenProVorgang * AnzahlVorgängeProTag*Arbeitstage = KostenProJahr$$
+$$DateigroesseMB / SchreibrateMB/s = Dauer$$
+$$Dauer*Kosten(Schbearbeiter/sek) = KostenProVorgang$$
+$$KostenProVorgang * AnzahlVorgaengeProTag*Arbeitstage = KostenProJahr$$
 $$KostenProJahr + Anschaffung = Gesamtkosten$$
 #### Beispiel
 + 1GB pro Sachbearbeiter pro Tag

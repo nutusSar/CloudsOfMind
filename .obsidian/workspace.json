@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "76e9e259f787ce25",
+        "id": "59196c7ec43b06d1",
         "type": "tabs",
         "children": [
           {
-            "id": "64a0bf22a19d2d75",
+            "id": "1e33b70bea45e4b9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AP1/GroupLearning/SMART.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AP1/GroupLearning/SMART.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AP1/GroupLearning/SMART.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AP1/GroupLearning/SMART.md"
+              }
             }
           },
           {
@@ -169,8 +177,17 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "64a0bf22a19d2d75",
+  "active": "1e33b70bea45e4b9",
   "lastOpenFiles": [
+    "AP1/GroupLearning/SMART.md",
+    "AP1/GroupLearning/Risikoanalyse.md",
+    "AP1/GroupLearning/Machbarkeitsanalyse.md",
+    "AP1/GroupLearning/Stärken- Schwächenanalyse.md",
+    "AP1/GroupLearning/Bedarfsanalyse.md",
+    "AP1/GroupLearning/Stakeholder.md",
+    "AP1/GroupLearning/Stakeholderanalyse.md",
+    "AP1/GroupLearning/Anschlüsse.md",
+    "AP1/Alle AP1 Notes.md",
     "AP1/NiklasVault/Themenblock_2/Rabatt_und_Skonto.md",
     "templates/AP1 Notes Temp.md",
     "Excalidraw/Drawing 2024-02-24 12.14.11.excalidraw.md",
@@ -189,15 +206,6 @@
     "AP1/NiklasVault/Themenblock_6/Schutzbedarfsanalyse.png",
     "AP1/NiklasVault/Themenblock_6/Schutzbedarfsanalyse.md",
     "AP1/NiklasVault/Themenblock_5/UML.md",
-    "AP1/NiklasVault/Themenblock_6/Persoenlichkeitsrechte.md",
-    "AP1/NiklasVault/Themenblock_6/Normen und Branchenstandards.md",
-    "AP1/NiklasVault/Themenblock_6/Massnahmen der Informationssicherheit.md",
-    "AP1/NiklasVault/Themenblock_6/Kryptographie.md",
-    "AP1/NiklasVault/Themenblock_6/IT-Sicherheitsmanagementsysteme.md",
-    "AP1/NiklasVault/Themenblock_6/Grundsaetze des Datenschutzes.md",
-    "AP1/NiklasVault/Themenblock_6/Datenschutzgesetze.md",
-    "AP1/NiklasVault/Themenblock_6/Grundbegriffe der IT-Sicherheit.md",
-    "AP1/NiklasVault/Themenblock_5/Zertifizierung und Audit.md",
     "AP1/NiklasVault/Themenblock_5/test_pyramide.jpg",
     "AP1/NiklasVault/Themenblock_5/code_library_framework.jpg",
     "AP1/NiklasVault/Themenblock_5/Black_Whitebox_Test.jpeg",
