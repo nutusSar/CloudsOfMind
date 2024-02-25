@@ -49,3 +49,4 @@ Teil der Qualitätsmanagements, der auf das Festlegen der Qualitätsziele und de
 
 ### Qualitätspolitik
 Die Leitung einer Organisation drückt ihre übergeordneten Absichten und Ausrichtung bezüglich der Qualität in Form der Qualitätspolitik aus.
+![[Pasted image 20240225125143.png]]
