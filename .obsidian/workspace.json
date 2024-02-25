@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "143dbc5999dc0572",
+            "id": "1db982f858c376be",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-25 12.09.45.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-02-25 12.38.50.excalidraw.md"
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-25 12.09.45.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-02-25 12.38.50.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-25 12.09.45.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-02-25 12.38.50.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-25 12.09.45.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-02-25 12.38.50.excalidraw.md"
               }
             }
           },
@@ -165,12 +165,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 519.5,
-    "collapsed": true
+    "width": 519.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,10 +187,15 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "143dbc5999dc0572",
+  "active": "1db982f858c376be",
   "lastOpenFiles": [
+    "2024-02-18.md",
+    "Excalidraw/Drawing 2024-02-25 12.38.50.excalidraw.md",
     "AP1/GroupLearning/Qualität.md",
+    "Excalidraw/Drawing 2024-02-25 12.28.56.excalidraw.md",
+    "AP1/GroupLearning/Bilder/Pasted image 20240225123410.png",
     "Excalidraw/Drawing 2024-02-25 12.09.45.excalidraw.md",
+    "AP1/GroupLearning/Bilder/Pasted image 20240225121904.png",
     "AP1/Alle AP1 Notes.md",
     "Excalidraw/Drawing 2024-02-25 11.52.48.excalidraw.md",
     "AP1/GroupLearning/Ablauf Projekt.md",
@@ -215,9 +219,6 @@
     "AP1/NiklasVault/Themenblock_6/Vorschriften.md",
     "AP1/NiklasVault/Themenblock_6/Verschrottung der Datentraeger.md",
     "AP1/NiklasVault/Themenblock_6/Uebersicht der IT-Sicherheit Themen.md",
-    "AP1/NiklasVault/Themenblock_6/Security by Design vs Security by Default.md",
-    "AP1/NiklasVault/Themenblock_6/SSH_und_Telnet.md",
-    "AP1/NiklasVault/Themenblock_6/Sicherung der Verfuegbarkeit.md",
     "AP1/NiklasVault/Themenblock_6/Schutzbedarfsanalyse.png",
     "AP1/NiklasVault/Themenblock_5/test_pyramide.jpg",
     "AP1/NiklasVault/Themenblock_5/code_library_framework.jpg",
@@ -225,8 +226,6 @@
     "AP1/NiklasVault/Themenblock_3/Wechselstrom.png",
     "AP1/NiklasVault/Themenblock_3/UTF_8.png",
     "AP1/NiklasVault/Themenblock_3/SAN_NAS_DAS_2.png",
-    "AP1/NiklasVault/Themenblock_3/SAN_NAS_DAS_1.webp",
-    "AP1/NiklasVault/Themenblock_3/Huffman_Codierung.png",
     "AP1/NiklasVault/Themenblock_6",
     "AP1/NiklasVault/Themenblock_5",
     "AP1/NiklasVault/Themenblock_4",
