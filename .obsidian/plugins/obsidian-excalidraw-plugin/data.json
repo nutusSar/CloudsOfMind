@@ -73,7 +73,107 @@
     "type": "excalidrawlib",
     "version": 2,
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.1",
-    "libraryItems": []
+    "libraryItems": [
+      {
+        "id": "yKMiW1RIc4AVA_9mtG0sW",
+        "status": "unpublished",
+        "elements": [
+          {
+            "id": "EmMcOyF-1zL7hxfB0JKEr",
+            "type": "arrow",
+            "x": 21,
+            "y": 301.734375,
+            "width": 8,
+            "height": 657,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "nCjEm4bBgzzFF5_sZsndN"
+            ],
+            "frameId": null,
+            "roundness": {
+              "type": 2
+            },
+            "seed": 1366812957,
+            "version": 110,
+            "versionNonce": 1698125043,
+            "isDeleted": false,
+            "boundElements": null,
+            "updated": 1708859466909,
+            "link": null,
+            "locked": false,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                -8,
+                -657
+              ]
+            ],
+            "lastCommittedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": "arrow"
+          },
+          {
+            "id": "ITszlch9gWi-Oh1GHjXFX",
+            "type": "arrow",
+            "x": -393,
+            "y": -33.265625,
+            "width": 882,
+            "height": 2,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "nCjEm4bBgzzFF5_sZsndN"
+            ],
+            "frameId": null,
+            "roundness": {
+              "type": 2
+            },
+            "seed": 178798909,
+            "version": 139,
+            "versionNonce": 1074151059,
+            "isDeleted": false,
+            "boundElements": null,
+            "updated": 1708859466909,
+            "link": null,
+            "locked": false,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                882,
+                -2
+              ]
+            ],
+            "lastCommittedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": "arrow"
+          }
+        ],
+        "created": 1708859468667
+      }
+    ]
   },
   "imageElementNotice": true,
   "mdSVGwidth": 500,

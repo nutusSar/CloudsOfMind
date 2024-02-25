@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "59196c7ec43b06d1",
+        "id": "1f029832bb106cfd",
         "type": "tabs",
         "children": [
           {
-            "id": "1e33b70bea45e4b9",
+            "id": "0223ffcb33bab7ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/SMART.md",
+                "file": "AP1/GroupLearning/Qualität.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "143dbc5999dc0572",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-25 12.09.45.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/SMART.md",
+                "file": "Excalidraw/Drawing 2024-02-25 12.09.45.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/SMART.md",
+                "file": "Excalidraw/Drawing 2024-02-25 12.09.45.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/SMART.md"
+                "file": "Excalidraw/Drawing 2024-02-25 12.09.45.excalidraw.md"
               }
             }
           },
@@ -177,8 +188,16 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "1e33b70bea45e4b9",
+  "active": "143dbc5999dc0572",
   "lastOpenFiles": [
+    "AP1/GroupLearning/Qualität.md",
+    "Excalidraw/Drawing 2024-02-25 12.09.45.excalidraw.md",
+    "AP1/Alle AP1 Notes.md",
+    "Excalidraw/Drawing 2024-02-25 11.52.48.excalidraw.md",
+    "AP1/GroupLearning/Ablauf Projekt.md",
+    "AP1/GroupLearning/Bilder/Pasted image 20240225115418.png",
+    "AP1/GroupLearning/Projektphasen und Meilensteine.md",
+    "Untitled",
     "AP1/GroupLearning/SMART.md",
     "AP1/GroupLearning/Risikoanalyse.md",
     "AP1/GroupLearning/Machbarkeitsanalyse.md",
@@ -187,7 +206,6 @@
     "AP1/GroupLearning/Stakeholder.md",
     "AP1/GroupLearning/Stakeholderanalyse.md",
     "AP1/GroupLearning/Anschlüsse.md",
-    "AP1/Alle AP1 Notes.md",
     "AP1/NiklasVault/Themenblock_2/Rabatt_und_Skonto.md",
     "templates/AP1 Notes Temp.md",
     "Excalidraw/Drawing 2024-02-24 12.14.11.excalidraw.md",
@@ -200,12 +218,7 @@
     "AP1/NiklasVault/Themenblock_6/Security by Design vs Security by Default.md",
     "AP1/NiklasVault/Themenblock_6/SSH_und_Telnet.md",
     "AP1/NiklasVault/Themenblock_6/Sicherung der Verfuegbarkeit.md",
-    "AP1/NiklasVault/Themenblock_6/Evaluierungstechniken.md",
-    "AP1/NiklasVault/Themenblock_6/Schutzziele.md",
-    "AP1/NiklasVault/Themenblock_6/Schutzbedarfskategorien.md",
     "AP1/NiklasVault/Themenblock_6/Schutzbedarfsanalyse.png",
-    "AP1/NiklasVault/Themenblock_6/Schutzbedarfsanalyse.md",
-    "AP1/NiklasVault/Themenblock_5/UML.md",
     "AP1/NiklasVault/Themenblock_5/test_pyramide.jpg",
     "AP1/NiklasVault/Themenblock_5/code_library_framework.jpg",
     "AP1/NiklasVault/Themenblock_5/Black_Whitebox_Test.jpeg",
@@ -214,7 +227,6 @@
     "AP1/NiklasVault/Themenblock_3/SAN_NAS_DAS_2.png",
     "AP1/NiklasVault/Themenblock_3/SAN_NAS_DAS_1.webp",
     "AP1/NiklasVault/Themenblock_3/Huffman_Codierung.png",
-    "AP1/NiklasVault/Themenblock_3/Gleichstrom.png",
     "AP1/NiklasVault/Themenblock_6",
     "AP1/NiklasVault/Themenblock_5",
     "AP1/NiklasVault/Themenblock_4",
@@ -223,7 +235,6 @@
     "AP1/NiklasVault/Themenblock_1",
     "AP1/NiklasVault",
     "MyLife",
-    "Berufsschule",
-    "AP1/GroupLearning/Dokumente/Prufungsvorbereitung_FI22.pdf"
+    "Berufsschule"
   ]
 }
