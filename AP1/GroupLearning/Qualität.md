@@ -50,3 +50,12 @@ Teil der Qualitätsmanagements, der auf das Festlegen der Qualitätsziele und de
 ### Qualitätspolitik
 Die Leitung einer Organisation drückt ihre übergeordneten Absichten und Ausrichtung bezüglich der Qualität in Form der Qualitätspolitik aus.
 ![[Pasted image 20240225125143.png]]
+![[Pasted image 20240225151200.png]]
+
+### Total Quality Management
+Besteht aus einer organisationsweiten Bemühung zur Installation und Herstellung eines dauerhaften Klimas, in dem die Mitarbeiter ihre Fähigkeiten kontinuierlich verbessern, um gewünschte Produkte und Dienstleistungen anzubieten, die von Kunden besonders wertgeschätzt werden.
+"Total" betont, dass auch Abteilungen neben der Produktion verpflichtet sind.
+"Management" betont, dass Führungskräfte verpflichtet sind, die Qualität aktiv zu verwalten.
+
+## European Fundation for Quality Management EFQM
+Ist eine gemeinnützige Stiftung in Brüssel, die gegründet wurde, um die Wettbewerbsfähigkeit der europäischen Wirtschaft zu steigern.

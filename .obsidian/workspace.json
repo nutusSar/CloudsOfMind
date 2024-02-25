@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/Qualität.md",
+                "file": "AP1/GroupLearning/Softwarequalität.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1db982f858c376be",
+            "id": "37ee4c89a310034c",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-25 12.38.50.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-02-25 15.04.24.excalidraw.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/Qualität.md",
+                "file": "AP1/GroupLearning/Softwarequalität.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/Qualität.md",
+                "file": "AP1/GroupLearning/Softwarequalität.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/Qualität.md"
+                "file": "AP1/GroupLearning/Softwarequalität.md"
               }
             }
           },
@@ -186,12 +186,15 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "1f2c6d4b27417489",
+  "active": "0223ffcb33bab7ae",
   "lastOpenFiles": [
-    "AP1/GroupLearning/Bilder/Pasted image 20240225125143.png",
-    "Excalidraw/Drawing 2024-02-25 12.38.50.excalidraw.md",
-    "2024-02-18.md",
+    "Excalidraw/Drawing 2024-02-25 15.04.24.excalidraw.md",
+    "AP1/GroupLearning/Softwarequalität.md",
     "AP1/GroupLearning/Qualität.md",
+    "AP1/GroupLearning/Bilder/Pasted image 20240225151200.png",
+    "Excalidraw/Drawing 2024-02-25 12.38.50.excalidraw.md",
+    "AP1/GroupLearning/Bilder/Pasted image 20240225125143.png",
+    "2024-02-18.md",
     "Excalidraw/Drawing 2024-02-25 12.28.56.excalidraw.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240225123410.png",
     "Excalidraw/Drawing 2024-02-25 12.09.45.excalidraw.md",
@@ -217,14 +220,11 @@
     "Excalidraw/Drawing 2024-02-24 10.16.57.excalidraw.md",
     "AP1/NiklasVault/Themenblock_6/Zugangs und Zugriffskontrolle.md",
     "AP1/NiklasVault/Themenblock_6/Vorschriften.md",
-    "AP1/NiklasVault/Themenblock_6/Verschrottung der Datentraeger.md",
     "AP1/NiklasVault/Themenblock_6/Schutzbedarfsanalyse.png",
     "AP1/NiklasVault/Themenblock_5/test_pyramide.jpg",
     "AP1/NiklasVault/Themenblock_5/code_library_framework.jpg",
     "AP1/NiklasVault/Themenblock_5/Black_Whitebox_Test.jpeg",
     "AP1/NiklasVault/Themenblock_3/Wechselstrom.png",
-    "AP1/NiklasVault/Themenblock_3/UTF_8.png",
-    "AP1/NiklasVault/Themenblock_3/SAN_NAS_DAS_2.png",
     "AP1/NiklasVault/Themenblock_6",
     "AP1/NiklasVault/Themenblock_5",
     "AP1/NiklasVault/Themenblock_4",
