@@ -8,7 +8,7 @@ topic: Grundbegriffe
 Die Finanzierung ist eine betriebliche Funktion, bei deren Wahrnehmung Finanzierungskosten verursacht werden. Die Finanzierungskosten eines Unternehmens setzen sich aus den Kosten für die Nutzung von Eigenkapital und den Kosten für die Inanspruchnahme von Fremdkapital zusammen. Die Finanzierungskosten heißen in der Betriebswirtschaftslehre auch Gesamtkapitalkosten.
 ## Kennzahlen
 ### Eigenkapitalrentabilität
-$$=(Gweinn*100)/Eigenkapital$$-> In Prozent
+$$Eigenkapitalrentabilitaet=(Gweinn*100)/Eigenkapital$$-> In Prozent
 -> >100% -> Rentabel
 -> <100% -> nicht rentabel
 
