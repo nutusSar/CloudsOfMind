@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/Datenübertragung.md",
+                "file": "Berufsschule/µ-Controller/Lautsprecher.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/Datenübertragung.md",
+                "file": "Berufsschule/µ-Controller/Lautsprecher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/Datenübertragung.md",
+                "file": "Berufsschule/µ-Controller/Lautsprecher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/Datenübertragung.md"
+                "file": "Berufsschule/µ-Controller/Lautsprecher.md"
               }
             }
           },
@@ -158,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 519.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,17 +178,24 @@
   },
   "active": "fb3ae7fb8adc9bb8",
   "lastOpenFiles": [
+    "Berufsschule/µ-Controller/Wichtige Befehle.md",
+    "Berufsschule/µ-Controller/Lautsprecher.md",
+    "Berufsschule/µ-Controller/Led-Schaltung.md",
+    "Berufsschule/µ-Controller/µ-Controller.md",
+    "Berufsschule/µ-Controller/Wiederstände.md",
+    "Berufsschule/µ-Controller/Wetterstation mit dem ESP8266.md",
+    "Excalidraw/Drawing 2024-02-26 08.11.27.excalidraw.md",
+    "AP1/GroupLearning/Qualität.md",
+    "2024-02-18.md",
     "AP1/GroupLearning/Datenübertragung.md",
     "AP1/GroupLearning/Formen von Urheberrechten.md",
     "AP1/GroupLearning/Datensicherung.md",
     "AP1/GroupLearning/Datenschutz.md",
     "AP1/GroupLearning/Softwarequalität.md",
     "Excalidraw/Drawing 2024-02-25 15.04.24.excalidraw.md",
-    "AP1/GroupLearning/Qualität.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240225151200.png",
     "Excalidraw/Drawing 2024-02-25 12.38.50.excalidraw.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240225125143.png",
-    "2024-02-18.md",
     "Excalidraw/Drawing 2024-02-25 12.28.56.excalidraw.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240225123410.png",
     "Excalidraw/Drawing 2024-02-25 12.09.45.excalidraw.md",
@@ -203,13 +210,6 @@
     "AP1/GroupLearning/Risikoanalyse.md",
     "AP1/GroupLearning/Machbarkeitsanalyse.md",
     "AP1/GroupLearning/Stärken- Schwächenanalyse.md",
-    "AP1/GroupLearning/Bedarfsanalyse.md",
-    "AP1/GroupLearning/Stakeholder.md",
-    "AP1/GroupLearning/Stakeholderanalyse.md",
-    "AP1/GroupLearning/Anschlüsse.md",
-    "AP1/NiklasVault/Themenblock_2/Rabatt_und_Skonto.md",
-    "templates/AP1 Notes Temp.md",
-    "Excalidraw/Drawing 2024-02-24 12.14.11.excalidraw.md",
     "AP1/NiklasVault/Themenblock_6/Schutzbedarfsanalyse.png",
     "AP1/NiklasVault/Themenblock_5/test_pyramide.jpg",
     "AP1/NiklasVault/Themenblock_5/code_library_framework.jpg",

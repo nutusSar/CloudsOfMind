@@ -1,7 +1,6 @@
 ---
 tags:
   - "#Berufsschule"
-  - "#WPF"
   - "#µ-Controller"
   - "#Elektrotechnik"
 topic: µ-Controller

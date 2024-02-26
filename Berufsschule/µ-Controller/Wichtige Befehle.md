@@ -1,9 +1,7 @@
 ---
 tags:
   - "#Berufsschule"
-  - "#WPF"
   - "#µ-Controller"
-  - "#Programmieren"
 topic: µ-Controller
 ---
 ## pinMode
