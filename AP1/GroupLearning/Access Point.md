@@ -16,3 +16,7 @@ WPA 3 bietet Sicherheitstechnische Verbesserung.
 
 ## WPA2-Personal
 Verwendet ein vorkonfiguriertes Passwort, das auf dem AP und am Client eingetragen werden muss (WPA2-PSK)  
+
+## WPA2-Enterprise
+Kommt eher im Unternehmensbereich vor. Vom Client wird eine Verbindung zu einem AAA-Server hergestellt. Dieser generiert dann die Verschlüsselungscodes, die vom jeweiligen Nutzer verwendet werden.
+
