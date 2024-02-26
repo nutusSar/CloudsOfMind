@@ -96,7 +96,13 @@ Beim **Dienstvertrag** verpflichtet sich der Beauftragte zum Tätigwerden und 
 #### Unterscheidung nach Zahlungszeitpunkt
 + Zahlungszeitpunkt vor Lieferung
 + Zahlungszeitpunkt bei Lieferung 
-+ 
++ Zahlungszeitpunkt nach Lieferung
+
+#### Unterscheidung nach Lieferzeitpunkt
++ **Sofortkauf**: umgehend und unmittelbare Lieferung
++ **Terminkauf**: Lieferung innerhalb einer Frist
++ **Fixkauf**: Genaues Datum
++ **Kauf auf Abruf**: Zeitpunkt kann von dem Käufer festgelegt werden
 
 ### Mietvertrag
 #### Eigenschaften
