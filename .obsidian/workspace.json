@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0055c6328da1604c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-26 12.42.02.excalidraw.md"
+              }
+            }
           }
         ]
       }
@@ -48,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Nutzwert",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,10 +186,15 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "5a520a03c267679e",
+  "active": "e1e742375b9edc2d",
   "lastOpenFiles": [
-    "AP1/GroupLearning/Access Point.md",
+    "Pasted image 20240226125522.png",
+    "Excalidraw/Drawing 2024-02-26 12.42.02.excalidraw.md",
     "AP1/GroupLearning/Kabel.md",
+    "Pasted image 20240226125033.png",
+    "Pasted image 20240226124942.png",
+    "Pasted image 20240226124637.png",
+    "AP1/GroupLearning/Access Point.md",
     "AP1/GroupLearning/Leitungssysteme.md",
     "AP1/GroupLearning/Marktformen.md",
     "AP1/GroupLearning/Machbarkeitsanalyse.md",
@@ -204,18 +218,13 @@
     "AP1/GroupLearning/Softwarequalität.md",
     "Excalidraw/Drawing 2024-02-25 15.04.24.excalidraw.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240225151200.png",
-    "Excalidraw/Drawing 2024-02-25 12.38.50.excalidraw.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240225125143.png",
-    "Excalidraw/Drawing 2024-02-25 12.28.56.excalidraw.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240225123410.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240225121904.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240225115418.png",
     "Untitled",
     "AP1/NiklasVault/Themenblock_6/Schutzbedarfsanalyse.png",
     "AP1/NiklasVault/Themenblock_5/test_pyramide.jpg",
-    "AP1/NiklasVault/Themenblock_5/code_library_framework.jpg",
-    "AP1/NiklasVault/Themenblock_5/Black_Whitebox_Test.jpeg",
-    "AP1/NiklasVault/Themenblock_3/Wechselstrom.png",
     "AP1/NiklasVault/Themenblock_6",
     "AP1/NiklasVault/Themenblock_5",
     "AP1/NiklasVault/Themenblock_4",
