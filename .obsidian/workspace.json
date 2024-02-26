@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/Mengenplanung.md",
+                "file": "AP1/GroupLearning/Verträge.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Kaufvert",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/Mengenplanung.md",
+                "file": "AP1/GroupLearning/Verträge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/Mengenplanung.md",
+                "file": "AP1/GroupLearning/Verträge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/Mengenplanung.md"
+                "file": "AP1/GroupLearning/Verträge.md"
               }
             }
           },
@@ -191,9 +192,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "16b1bdd270c993d5",
+  "active": "104d14a30e8dee65",
   "lastOpenFiles": [
-    "AP1/GroupLearning/Untitled.md",
+    "AP1/GroupLearning/Anfrage, Angebot, Anpreisung.md",
+    "AP1/GroupLearning/Mengenplanung.md",
+    "AP1/GroupLearning/Rechts- und Geschäftsfähigkeit.md",
     "AP1/Alle AP1 Notes.md",
     "AP1/GroupLearning/Bedarfsanalyse.md",
     "AP1/GroupLearning/Bedarfsplanung.md",
@@ -223,8 +226,6 @@
     "Berufsschule/µ-Controller/Wichtige Befehle.md",
     "Berufsschule/µ-Controller/Led-Schaltung.md",
     "Berufsschule/µ-Controller/µ-Controller.md",
-    "Berufsschule/µ-Controller/Wiederstände.md",
-    "Excalidraw/Drawing 2024-02-26 08.11.27.excalidraw.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240225151200.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240225125143.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240225123410.png",

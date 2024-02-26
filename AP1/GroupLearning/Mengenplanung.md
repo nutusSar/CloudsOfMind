@@ -28,4 +28,13 @@ $$Eiserner Bestand + Optimale Bestellmenge = Hoechstbestand$$
 ### Bestandsentwicklung
 ## Verfahren
 ### Bestellpunktverfahren
-Bestellung wird immer dann ausgelöst, wenn der Lagerbestand eines festgelegte Höhe (Meldebestand oder Bestellpunkt) erreicht bzw.
+Bestellung wird immer dann ausgelöst, wenn der Lagerbestand eines festgelegte Höhe (Meldebestand oder Bestellpunkt) erreicht bzw. unterschreitet. Im Bestellpunkverfahren wird bei Erreichen des Meldebestands eine festgelegte Menge (optimale Bestellmenge) bestellt, die bei eintreffen dann den Lagerbestand auf den Höchstbestand auffüllt.
+
+### Bestellrhythmusverfahren
+In festen Zeitabständen wird eine fixe Menge bestellt (führt bei ungleichmäßigen Lagerabgängen zu stark schwankenden Lagerbeständen) oder es wird in festen Zeitabständen jeweils die Menge beschafft, de den Lagerbestand auf den Höchstbestand auffüllt.
+
+## Bezugsquellen, Lieferanten
++ Internetrecherche
++ Gelbe Seiten
++ Messen
++ Fachzeitschriften

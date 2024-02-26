@@ -80,6 +80,24 @@ Beim **Dienstvertrag** verpflichtet sich der Beauftragte zum Tätigwerden und 
 2. Langfristige Investition und Vermögensbildung.
 3. Flexibilität bei der Nutzung ohne Vertragsbeschränkungen.
 
+#### Unterscheidungen 
+##### Nach Vertragsparteien
++ **Zweiseitiger Handelskauf**: Käufer und Verkäufer sind Kaufleute
++ **Einseitiger Handelskauf**: Käufer ist Privatperson, Verkäufer ist Kaufmann
++ **Bürgerlicher Kauf**: Käufer und Verkäufer sind nicht Kaufleute
+##### Unterscheidung nach Art und Beschaffenheit der Ware
++ **Stückkauf**: Kauf einer einzigartigen Sache, die sich von anderen leicht unterscheiden lässt
++ **Gattungskauf**: Zu verkaufende Sache stammt aus einer Sachgruppe, sogenannte "Gattung"
++ **Spezifikationskauf**: Möglichkeit Einzelheiten der Ware innerhalb einer vereinbarten Frist genauer zu bestimmen
++ **Kauf auf Probe**: Ware wird teilweise für Dauer eines festgelegten Zeitraumes überlassen
++ **Kauf nach Probe**: Käufer erhält zunächst Muster und kann dann entscheiden, ob er weitere Mengen erwerben möchte
++ **Kauf zur Probe**: Käufer erwirbt kleine Menge gegen Entgelt zu vergünstigten Konditionen
+
+#### Unterscheidung nach Zahlungszeitpunkt
++ Zahlungszeitpunkt vor Lieferung
++ Zahlungszeitpunkt bei Lieferung 
++ 
+
 ### Mietvertrag
 #### Eigenschaften
 1. **Nutzungsrecht:** Ein Mietvertrag gewährt dem Mieter das Recht, eine Immobilie oder ein Objekt für einen festgelegten Zeitraum zu nutzen, ohne das Eigentum daran zu erwerben.
