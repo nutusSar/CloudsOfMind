@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "95595d917e339adc",
+        "id": "96fa7b064d922d51",
         "type": "tabs",
         "children": [
           {
-            "id": "fb3ae7fb8adc9bb8",
+            "id": "e1e742375b9edc2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Berufsschule/µ-Controller/Wetterstation mit dem ESP8266.md",
+                "file": "AP1/IT-Sicherheit/Verschlüsselung.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Berufsschule/µ-Controller/Wetterstation mit dem ESP8266.md",
+                "file": "AP1/IT-Sicherheit/Verschlüsselung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Berufsschule/µ-Controller/Wetterstation mit dem ESP8266.md",
+                "file": "AP1/IT-Sicherheit/Verschlüsselung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Berufsschule/µ-Controller/Wetterstation mit dem ESP8266.md"
+                "file": "AP1/IT-Sicherheit/Verschlüsselung.md"
               }
             }
           },
@@ -176,16 +176,19 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "fb3ae7fb8adc9bb8",
+  "active": "e1e742375b9edc2d",
   "lastOpenFiles": [
+    "AP1/Alle AP1 Notes.md",
+    "AP1/IT-Sicherheit/Grundbegriffe.md",
+    "AP1/GroupLearning/Access Point.md",
+    "AP1/GroupLearning/Qualität.md",
+    "Berufsschule/µ-Controller/Wetterstation mit dem ESP8266.md",
     "Berufsschule/µ-Controller/Lautsprecher.md",
     "Berufsschule/µ-Controller/Wichtige Befehle.md",
     "Berufsschule/µ-Controller/Led-Schaltung.md",
     "Berufsschule/µ-Controller/µ-Controller.md",
     "Berufsschule/µ-Controller/Wiederstände.md",
-    "Berufsschule/µ-Controller/Wetterstation mit dem ESP8266.md",
     "Excalidraw/Drawing 2024-02-26 08.11.27.excalidraw.md",
-    "AP1/GroupLearning/Qualität.md",
     "2024-02-18.md",
     "AP1/GroupLearning/Datenübertragung.md",
     "AP1/GroupLearning/Formen von Urheberrechten.md",
@@ -200,7 +203,6 @@
     "AP1/GroupLearning/Bilder/Pasted image 20240225123410.png",
     "Excalidraw/Drawing 2024-02-25 12.09.45.excalidraw.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240225121904.png",
-    "AP1/Alle AP1 Notes.md",
     "Excalidraw/Drawing 2024-02-25 11.52.48.excalidraw.md",
     "AP1/GroupLearning/Ablauf Projekt.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240225115418.png",
@@ -208,8 +210,6 @@
     "Untitled",
     "AP1/GroupLearning/SMART.md",
     "AP1/GroupLearning/Risikoanalyse.md",
-    "AP1/GroupLearning/Machbarkeitsanalyse.md",
-    "AP1/GroupLearning/Stärken- Schwächenanalyse.md",
     "AP1/NiklasVault/Themenblock_6/Schutzbedarfsanalyse.png",
     "AP1/NiklasVault/Themenblock_5/test_pyramide.jpg",
     "AP1/NiklasVault/Themenblock_5/code_library_framework.jpg",
