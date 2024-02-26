@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Nutzwert",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,7 +177,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "e1e742375b9edc2d",
+  "active": "5a520a03c267679e",
   "lastOpenFiles": [
     "AP1/GroupLearning/Access Point.md",
     "AP1/GroupLearning/Kabel.md",
