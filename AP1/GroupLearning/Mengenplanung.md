@@ -16,3 +16,16 @@ Die Mengenplanung hat die Aufgabe, Aufträge über Erzeugnisse und davon abgel
 4. **Just-in-Time-Produktion (JIT):** Herstellung von Produkten nur bei Bedarf, um Lagerbestände zu minimieren und Effizienz zu steigern.
     
 5. **Risikomanagement:** Identifizierung und Management von Risiken, die die Produktion beeinträchtigen könnten, wie Lieferantenprobleme oder unvorhergesehene Ereignisse.
+
+## Formeln
+### Optimale Bestellmenge
+$$Summe Lagerkosten + Bestellmenge = Minimum DerGesamtkostenkurve$$
+### Meldebestand
+$$Tagesverbrauch * Lieferzeit + Eiserner Bestand = MeldeBestand$$
+
+### Höchstbestand
+$$Eiserner Bestand + Optimale Bestellmenge = Hoechstbestand$$
+### Bestandsentwicklung
+## Verfahren
+### Bestellpunktverfahren
+Bestellung wird immer dann ausgelöst, wenn der Lagerbestand eines festgelegte Höhe (Meldebestand oder Bestellpunkt) erreicht bzw.

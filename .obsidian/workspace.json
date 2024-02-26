@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/Bedarfsplanung.md",
+                "file": "AP1/GroupLearning/Mengenplanung.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "15ca42f9e4339db1",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/Bedarfsplanung.md",
+                "file": "AP1/GroupLearning/Mengenplanung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/Bedarfsplanung.md",
+                "file": "AP1/GroupLearning/Mengenplanung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/Bedarfsplanung.md"
+                "file": "AP1/GroupLearning/Mengenplanung.md"
               }
             }
           },
@@ -171,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,10 +191,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "104d14a30e8dee65",
+  "active": "16b1bdd270c993d5",
   "lastOpenFiles": [
-    "AP1/GroupLearning/Finanzierung und Kosten.md",
+    "AP1/GroupLearning/Untitled.md",
+    "AP1/Alle AP1 Notes.md",
+    "AP1/GroupLearning/Bedarfsanalyse.md",
     "AP1/GroupLearning/Bedarfsplanung.md",
+    "AP1/GroupLearning/Bilder/Pasted image 20240226144911.png",
+    "AP1/GroupLearning/Finanzierung und Kosten.md",
     "AP1/GroupLearning/Unternehmen.md",
     "Excalidraw/Drawing 2024-02-26 14.26.38.excalidraw.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240226124637.png",
@@ -200,7 +206,6 @@
     "AP1/GroupLearning/Bilder/Pasted image 20240226125522.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240226125033.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240226143731.png",
-    "AP1/Alle AP1 Notes.md",
     "AP1/GroupLearning/Vollmachten.md",
     "Excalidraw/Drawing 2024-02-26 12.42.02.excalidraw.md",
     "AP1/GroupLearning/Management.md",
@@ -220,13 +225,10 @@
     "Berufsschule/µ-Controller/µ-Controller.md",
     "Berufsschule/µ-Controller/Wiederstände.md",
     "Excalidraw/Drawing 2024-02-26 08.11.27.excalidraw.md",
-    "2024-02-18.md",
-    "AP1/GroupLearning/Datenübertragung.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240225151200.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240225125143.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240225123410.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240225121904.png",
-    "AP1/GroupLearning/Bilder/Pasted image 20240225115418.png",
     "Untitled",
     "AP1/NiklasVault/Themenblock_6",
     "AP1/NiklasVault/Themenblock_5",
