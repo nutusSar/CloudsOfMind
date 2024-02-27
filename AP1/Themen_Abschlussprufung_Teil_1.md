@@ -46,9 +46,9 @@ topic: Albert
 - [ ] Ethernetstandards ✅ 2024-02-09
 - [x] DHCP, 
 - [x] BIOS, UEFI, 
-- [ ] CPU, RAM ✅ 2024-02-09
-- [ ] NFS ✅ 2024-02-09
-- [ ] W-Lanzugang pre-shared Key/Enterprise VPN ✅ 2024-02-09
+- [x] CPU, RAM ✅ 2024-02-09
+- [x] NFS ✅ 2024-02-09
+- [x] W-Lanzugang pre-shared Key/Enterprise VPN ✅ 2024-02-09
 - [x] IP-Adressen ✅ 2024-02-09
 
 ### Softwareentwicklung:
@@ -56,13 +56,13 @@ topic: Albert
 - [x] IDE ✅ 2024-02-09
 - [x] Open-Source ✅ 2024-02-09
 - [ ] x-Schnittstellen ✅ 2024-02-09
-- [ ] Bibliotheken und Frameworks ✅ 2024-02-09
+- [x] Bibliotheken und Frameworks ✅ 2024-02-09
 - [ ] Prozeduren und Funktionen ✅ 2024-02-09
 - [x] Klassen ✅ 2024-02-09
 - [x] Vererbung ✅ 2024-02-09
 - [x] Methoden ✅ 2024-02-09
 - [ ] UML (Use-Case, Klassendiagramm) ✅ 2024-02-09
-- [ ] Debugging formale und inhaltliche Fehler ✅ 2024-02-09
+- [x] Debugging formale und inhaltliche Fehler ✅ 2024-02-09
 - [ ] Scriptsprachen (Shell Script) ✅ 2024-02-09
 - [x] Kontrollstrukturen, z.B. Verzweigung, Schleife ✅ 2024-02-09
 

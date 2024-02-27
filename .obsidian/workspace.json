@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/RAM.md",
+                "file": "AP1/Themen_Abschlussprufung_Teil_1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "52f1fedac7203416",
+            "id": "1a1bc64d0b8593e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/Themen_Abschlussprufung_Teil_1.md",
+                "file": "AP1/GroupLearning/Schnittstellen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/RAM.md",
+                "file": "AP1/GroupLearning/Schnittstellen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/RAM.md",
+                "file": "AP1/GroupLearning/Schnittstellen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/RAM.md"
+                "file": "AP1/GroupLearning/Schnittstellen.md"
               }
             }
           },
@@ -188,21 +189,30 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "104d14a30e8dee65",
+  "active": "1a1bc64d0b8593e7",
   "lastOpenFiles": [
-    "AP1/GroupLearning/CPU.md",
-    "AP1/GroupLearning/RAM.md",
-    "AP1/GroupLearning/Lasten- und Pflichtenheft.md",
+    "AP1/GroupLearning/Schnittstellen.md",
     "AP1/Themen_Abschlussprufung_Teil_1.md",
-    "AP1/GroupLearning/UEFI vs. BIOS.md",
-    "AP1/GroupLearning/Unternehmen.md",
+    "AP1/GroupLearning/Protokolle.md",
     "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
     "AP1/IHK Themen ToDO.md",
+    "AP1/Alle AP1 Notes.md",
+    "AP1/GroupLearning/Debugging.md",
+    "AP1/GroupLearning/Bibliotheken vs. Frameworks.md",
+    "AP1/GroupLearning/Übertragungsarten.md",
+    "AP1/GroupLearning/Kabel.md",
+    "AP1/GroupLearning/GPU.md",
+    "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
+    "Untitled",
+    "AP1/GroupLearning/UEFI vs. BIOS.md",
+    "AP1/GroupLearning/RAM.md",
+    "AP1/GroupLearning/CPU.md",
+    "AP1/GroupLearning/Lasten- und Pflichtenheft.md",
+    "AP1/GroupLearning/Unternehmen.md",
     "AP1/GroupLearning/Angebotsbewertung.md",
     "AP1/GroupLearning/Anfrage, Angebot, Anpreisung.md",
     "AP1/GroupLearning/Mengenplanung.md",
     "AP1/GroupLearning/Rechts- und Geschäftsfähigkeit.md",
-    "AP1/Alle AP1 Notes.md",
     "AP1/GroupLearning/Bedarfsanalyse.md",
     "AP1/GroupLearning/Bedarfsplanung.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240226144911.png",
@@ -214,19 +224,10 @@
     "AP1/GroupLearning/Bilder/Pasted image 20240226125033.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240226143731.png",
     "AP1/GroupLearning/Vollmachten.md",
-    "Excalidraw/Drawing 2024-02-26 12.42.02.excalidraw.md",
-    "AP1/GroupLearning/Management.md",
-    "AP1/GroupLearning/Kabel.md",
-    "AP1/GroupLearning/Access Point.md",
-    "AP1/GroupLearning/Leitungssysteme.md",
-    "AP1/GroupLearning/Marktformen.md",
-    "AP1/GroupLearning/Machbarkeitsanalyse.md",
-    "AP1/GroupLearning/Anwendungssysteme.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240225151200.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240225125143.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240225123410.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240225121904.png",
-    "Untitled",
     "AP1/NiklasVault/Themenblock_6",
     "AP1/NiklasVault/Themenblock_5",
     "AP1/NiklasVault/Themenblock_4",
