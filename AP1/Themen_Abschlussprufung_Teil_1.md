@@ -45,7 +45,7 @@ topic: Albert
 - [x] IMAP, IP/TCP/UDP ✅ 2024-02-09
 - [ ] Ethernetstandards ✅ 2024-02-09
 - [x] DHCP, 
-- [ ] BIOS, UEFI, 
+- [x] BIOS, UEFI, 
 - [ ] CPU, RAM ✅ 2024-02-09
 - [ ] NFS ✅ 2024-02-09
 - [ ] W-Lanzugang pre-shared Key/Enterprise VPN ✅ 2024-02-09
