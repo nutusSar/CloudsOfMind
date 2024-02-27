@@ -19,6 +19,7 @@ tags:
 ## VLAN-Trunking
 + Ein Trunkport an jeder Switch, ermöglicht das Kommunizieren der gleichen VLANSs zweier Switches über den gleichen Port
 + Frame wird mit einem VLAN-Tag versehen 
++ Hat ein Frame kein VLAN-Tag so geht die Switch davon aus, dass es sich um das Standard VLAN handelt.
 
 ## Vorteile
 + Günstiger als ein eigenes Netzwerk mit einem Router

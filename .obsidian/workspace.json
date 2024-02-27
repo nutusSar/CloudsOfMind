@@ -11,21 +11,17 @@
             "id": "3bb134a0b6fe4308",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP1/Alle AP1 Notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "c38bfb6833a6cd0d",
+            "id": "f975dc30322844b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/VLAN.md",
+                "file": "AP1/GroupLearning/Anschlüsse.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/VLAN.md",
+                "file": "AP1/GroupLearning/Anschlüsse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/VLAN.md",
+                "file": "AP1/GroupLearning/Anschlüsse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/VLAN.md"
+                "file": "AP1/GroupLearning/Anschlüsse.md"
               }
             }
           },
@@ -189,11 +185,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "c38bfb6833a6cd0d",
+  "active": "f975dc30322844b4",
   "lastOpenFiles": [
-    "AP1/GroupLearning/Protokolle.md",
-    "AP1/GroupLearning/VLAN.md",
     "AP1/Alle AP1 Notes.md",
+    "AP1/GroupLearning/Kabel.md",
+    "AP1/GroupLearning/VLAN.md",
+    "AP1/GroupLearning/Protokolle.md",
     "AP1/GroupLearning/Lasten- und Pflichtenheft.md",
     "AP1/GroupLearning/Nutzwertanalyse.md",
     "AP1/GroupLearning/RAM.md",
@@ -208,7 +205,6 @@
     "AP1/GroupLearning/Debugging.md",
     "AP1/GroupLearning/Bibliotheken vs. Frameworks.md",
     "AP1/GroupLearning/Übertragungsarten.md",
-    "AP1/GroupLearning/Kabel.md",
     "AP1/GroupLearning/GPU.md",
     "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
     "Untitled",

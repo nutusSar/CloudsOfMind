@@ -22,7 +22,7 @@ tags:
 | max. Stromstärke | 500 mA | 500 mA | 900 mA | 5 A | 5 A | 5 A |
 | Spannung | 4,40–5,25 V | 4,75–5,25 V | 4,45–5,25 V | 4,45–5,25 V | 4,45–5,25 V |  |
 | Anzahl der benötigten Lanes | - | - | 1 | 2 | 2 | ? |
-		
+
 ### USB-C
 + Kann in beide Richtungen eingesteckt werden 
 + HDMI Geräte können (mit Adapter) angeschlossen werden
