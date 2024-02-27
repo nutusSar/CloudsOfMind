@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/Marktformen.md",
+                "file": "AP1/GroupLearning/SMART.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "smart",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/Marktformen.md",
+                "file": "AP1/GroupLearning/SMART.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/Marktformen.md",
+                "file": "AP1/GroupLearning/SMART.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/Marktformen.md"
+                "file": "AP1/GroupLearning/SMART.md"
               }
             }
           },
@@ -190,6 +191,7 @@
   },
   "active": "104d14a30e8dee65",
   "lastOpenFiles": [
+    "AP1/GroupLearning/Marktformen.md",
     "AP1/GroupLearning/Nutzwertanalyse.md",
     "AP1/Themen_Abschlussprufung_Teil_1.md",
     "AP1/GroupLearning/Motherboard.md",
@@ -216,7 +218,6 @@
     "AP1/GroupLearning/Mengenplanung.md",
     "AP1/GroupLearning/Rechts- und Geschäftsfähigkeit.md",
     "AP1/GroupLearning/Bedarfsanalyse.md",
-    "AP1/GroupLearning/Bedarfsplanung.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240226144911.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240226124637.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240226124942.png",
