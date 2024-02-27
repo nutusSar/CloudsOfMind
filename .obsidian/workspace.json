@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/Anschlüsse.md",
+                "file": "AP1/Alle AP1 Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/Anschlüsse.md",
+                "file": "AP1/Alle AP1 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/Anschlüsse.md",
+                "file": "AP1/Alle AP1 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/Anschlüsse.md"
+                "file": "AP1/Alle AP1 Notes.md"
               }
             }
           },
@@ -187,6 +187,7 @@
   },
   "active": "f975dc30322844b4",
   "lastOpenFiles": [
+    "AP1/GroupLearning/Anschlüsse.md",
     "AP1/Alle AP1 Notes.md",
     "AP1/GroupLearning/Kabel.md",
     "AP1/GroupLearning/VLAN.md",
@@ -213,7 +214,6 @@
     "AP1/GroupLearning/Unternehmen.md",
     "AP1/GroupLearning/Angebotsbewertung.md",
     "AP1/GroupLearning/Anfrage, Angebot, Anpreisung.md",
-    "AP1/GroupLearning/Mengenplanung.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240226144911.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240226124637.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240226124942.png",
