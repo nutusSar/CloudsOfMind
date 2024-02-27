@@ -15,7 +15,7 @@ topic: Albert
 - [x] Netzplan ✅ 2024-02-07
 - [x] Gantt-Diagramm ✅ 2024-02-07
 - [x] Kundengespräch ✅ 2024-02-07
-- [ ] Angebotsbewertung ✅ 2024-02-07
+- [x] Angebotsbewertung ✅ 2024-02-07
 - [x] Stakeholderanalyse ✅ 2024-02-07
 - [x] Störungsmanagement ✅ 2024-02-07
 - [x] Feedback-Kultur / Lessons Learned ✅ 2024-02-07
@@ -23,6 +23,7 @@ topic: Albert
 - [x] Zielgruppendefinition ✅ 2024-02-07
 - [x] Projektphasen: Meilensteine ✅ 2024-02-07
 - [x] Phasenmodelle
+- [ ] Nutzwertanalyse
 
 ### IT-Infrastruktur:
 
@@ -34,14 +35,14 @@ topic: Albert
 - [x] SSH ✅ 2024-02-09
 - [x] TLS ✅ 2024-02-09
 - [x] DNS ✅ 2024-02-09
-- [ ] RAID ✅ 2024-02-09
+- [x] RAID ✅ 2024-02-09
 - [x] Leistungsaufnahme
 - [ ] Installationen und Konfigurationen von Betriebssystemen
 - [x] Remote-Desktop ✅ 2024-02-09
 - [x] Geräte-Klassen z.B. Desktops, Notebooks, Tablets, Smartphone
 - [x] Betriebssysteme
 - [x] Netzwerk-Komponenten (Router, Switches, Access Point) ✅ 2024-02-09
-- [ ] IMAP, IP/TCP/UDP ✅ 2024-02-09
+- [x] IMAP, IP/TCP/UDP ✅ 2024-02-09
 - [ ] Ethernetstandards ✅ 2024-02-09
 - [x] DHCP, 
 - [ ] BIOS, UEFI, 
@@ -52,49 +53,49 @@ topic: Albert
 
 ### Softwareentwicklung:
 
-- [ ] IDE ✅ 2024-02-09
-- [ ] Open-Source ✅ 2024-02-09
+- [x] IDE ✅ 2024-02-09
+- [x] Open-Source ✅ 2024-02-09
 - [ ] x-Schnittstellen ✅ 2024-02-09
 - [ ] Bibliotheken und Frameworks ✅ 2024-02-09
 - [ ] Prozeduren und Funktionen ✅ 2024-02-09
-- [ ] Klassen ✅ 2024-02-09
-- [ ] Vererbung ✅ 2024-02-09
-- [ ] Methoden ✅ 2024-02-09
+- [x] Klassen ✅ 2024-02-09
+- [x] Vererbung ✅ 2024-02-09
+- [x] Methoden ✅ 2024-02-09
 - [ ] UML (Use-Case, Klassendiagramm) ✅ 2024-02-09
 - [ ] Debugging formale und inhaltliche Fehler ✅ 2024-02-09
 - [ ] Scriptsprachen (Shell Script) ✅ 2024-02-09
-- [ ] Kontrollstrukturen, z.B. Verzweigung, Schleife ✅ 2024-02-09
+- [x] Kontrollstrukturen, z.B. Verzweigung, Schleife ✅ 2024-02-09
 
 ### Sicherheit und Datenschutz:
 
 - [ ] Sicherung der Verfügbarkeit - RAID und SAN, SLA ✅ 2024-02-07
 - [ ] Authentifizierungen und Passwort-Policy ✅ 2024-02-07
 - [ ] Rahmenbedingungen Datensicherheit / Datenschutz ✅ 2024-02-08
-- [ ] Datenschutzgesetze (DSGVO, BDSG) ✅ 2024-02-08
-- [ ] Zugangs- und Zugriffskontrolle ✅ 2024-02-08
+- [x] Datenschutzgesetze (DSGVO, BDSG) ✅ 2024-02-08
+- [x] Zugangs- und Zugriffskontrolle ✅ 2024-02-08
 - [x] Verschlüsselungstechniken (symmetrische und asymmetrische, CAs, Zertifikate nach https, TLS) ✅ 2024-02-08
 
 ### Wirtschaftlichkeit und Finanzen:
 
 - [x] Finanzierungskosten
-- [ ] Lizenzskosten
-- [ ] Preisleistungsverhältnis
+- [x] Lizenzskosten
+- [x] Preisleistungsverhältnis
 - [x] Auswertung von englischen Texten
 - [ ] Betriebswirtschaftliche Kennzahlen (Umsatz, Zins)
 - [x] Variable und fixe Kosten
 - [ ] Qualitätsmerkmale von Präsentationen
 - [x] Verträge (Kaufvertrags, Lizenzvertrag Mietvertrag, Werkvertrag), Vertragsbestandteile
 - [ ] Risikoanalyse 
-- [ ] Qualitätsbegriff nach ISO 9000
-- [ ] Fachbegriffe
-- [ ] Leitungssysteme
+- [x] Qualitätsbegriff nach ISO 9000
+- [x] Fachbegriffe
+- [x] Leitungssysteme
 
 ### Technische Grundlagen:
 
-- [ ] Datenspeicher
+- [x] Datenspeicher
 - [ ] Datenspeicher/Backupverfahren
 - [ ] Installation und Einrichtung von Systemen
-- [ ] Arbeit auf der Kommandozeile
+- [x] Arbeit auf der Kommandozeile
 - [x] Konsolenbefehle für Dateioperationen und Netzwerktroubleshooting
 - [ ] Partitionierung und Formatierung
 - [ ] Standard- oder individuelle Software
@@ -104,22 +105,22 @@ topic: Albert
 - [x] Dateisysteme
 - [ ] IT-Systeme CPU, Motherboard, Speicher
 - [x] Virtualisierung
-- [ ] Benutzeroberfläche
-- [ ] Variablen, Datentypen und Datenstrukturen
+- [x] Benutzeroberfläche
+- [x] Variablen, Datentypen und Datenstrukturen
 
 ### Rechtliche Aspekte und Vertrieb:
 
 - [ ] Normen ???
 - [ ] Vorschriften ???
-- [ ] Zertifikate
-- [ ] Vertriebsformen
+- [x] Zertifikate
+- [x] Vertriebsformen
 - [x] Cloudlösung
-- [ ] BSI IT Grundschutz
+- [x] BSI IT Grundschutz
 - [ ] Schutzbedarfsanalyse nach BSI
 - [ ] Bausteine der Grundschutzanalyse
 - [x] Verschlüsselungstechniken (symmetrische und asymmetrische, CAs, Zertifikate nach https, TLS)
 - [x] Kaufvertrags, Lizenzvertrag Mietvertrag, Werkvertrag
-- [ ] Vertragsbestandteile
-- [ ] Aufbau und Organisation des eigenen Unternehmens
-- [ ] Leistungsübergabe
-- [ ] Machbarkeitsanalyse
+- [x] Vertragsbestandteile
+- [x] Aufbau und Organisation des eigenen Unternehmens
+- [x] Leistungsübergabe
+- [x] Machbarkeitsanalyse
