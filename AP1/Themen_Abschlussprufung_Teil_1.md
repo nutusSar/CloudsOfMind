@@ -55,9 +55,9 @@ topic: Albert
 
 - [x] IDE ✅ 2024-02-09
 - [x] Open-Source ✅ 2024-02-09
-- [ ] x-Schnittstellen ✅ 2024-02-09
+- [x] x-Schnittstellen ✅ 2024-02-09
 - [x] Bibliotheken und Frameworks ✅ 2024-02-09
-- [ ] Prozeduren und Funktionen ✅ 2024-02-09
+- [x] Prozeduren und Funktionen ✅ 2024-02-09
 - [x] Klassen ✅ 2024-02-09
 - [x] Vererbung ✅ 2024-02-09
 - [x] Methoden ✅ 2024-02-09

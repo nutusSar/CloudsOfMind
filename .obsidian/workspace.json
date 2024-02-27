@@ -13,26 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/Themen_Abschlussprufung_Teil_1.md",
+                "file": "AP1/GroupLearning/Marktformen.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1a1bc64d0b8593e7",
+            "id": "3bb134a0b6fe4308",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/GroupLearning/Schnittstellen.md",
+                "file": "AP1/GroupLearning/Nutzwertanalyse.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/Schnittstellen.md",
+                "file": "AP1/GroupLearning/Marktformen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/Schnittstellen.md",
+                "file": "AP1/GroupLearning/Marktformen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/GroupLearning/Schnittstellen.md"
+                "file": "AP1/GroupLearning/Marktformen.md"
               }
             }
           },
@@ -189,10 +188,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "1a1bc64d0b8593e7",
+  "active": "104d14a30e8dee65",
   "lastOpenFiles": [
-    "AP1/GroupLearning/Schnittstellen.md",
+    "AP1/GroupLearning/Nutzwertanalyse.md",
     "AP1/Themen_Abschlussprufung_Teil_1.md",
+    "AP1/GroupLearning/Motherboard.md",
+    "AP1/GroupLearning/Prozedur vs. Funktion.md",
+    "AP1/GroupLearning/Schnittstellen.md",
     "AP1/GroupLearning/Protokolle.md",
     "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
     "AP1/IHK Themen ToDO.md",
@@ -216,14 +218,11 @@
     "AP1/GroupLearning/Bedarfsanalyse.md",
     "AP1/GroupLearning/Bedarfsplanung.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240226144911.png",
-    "AP1/GroupLearning/Finanzierung und Kosten.md",
-    "Excalidraw/Drawing 2024-02-26 14.26.38.excalidraw.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240226124637.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240226124942.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240226125522.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240226125033.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240226143731.png",
-    "AP1/GroupLearning/Vollmachten.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240225151200.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240225125143.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240225123410.png",
