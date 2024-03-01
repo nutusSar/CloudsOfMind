@@ -1,7 +1,6 @@
 ---
 tags:
   - "#Testing"
-  - "#Grundbegriffe"
 ---
 
 ## Definition
