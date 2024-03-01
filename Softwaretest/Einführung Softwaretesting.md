@@ -12,9 +12,11 @@ page: "1"
 + Testen prüft verschiedene Testfälle ab, kann jedoch nicht eine 100% Abdeckung liefern
 + Risikobewertung 
 + Validierung der Funktion eines Systems
-+ 
++ Aus Fehlern lernen
 
 
 ## Übersicht
 ![[Pasted image 20240301100825.png]]
 
+
+## Testen vs. Debugging
