@@ -31,4 +31,9 @@ Somit ist Debugging Aufgabe eines Entwicklers und nicht die eines Testers.
 
 
 ## Ökonomisch Sinnvoll
-Der AufwaTesten ist solange sinvoll 
+Der Aufwand des Testen ist solange sinnvoll, wie das finden und beseitigen einer Fehlerwirkung günstiger ist, als die Folgen einer Fehlerwirkung. Daher muss der Testaufwand immer in Abhängigkeit mit dem Fehlerfall verbundenen Risiko und der Gefährdungsbewertung stehen.
+
+## Vorteile der Einbeziehung von Testern
++ Durch das Beteiligen von Testern an der Prüfung der Anforderungen, können Unklarheiten und Fehler frühzeitig aufgedeckt werden. Dadurch wird das Risiko der Entwicklung falscher oder nicht testbarer Funktionen reduziert.
++ Bei der Zusammenarbeit von Testern mit Systemdesignern während des Entwurfs des Systems, wird das Risiko grundlegender Konstruktionsfehler reduziert und es können frühzeitig Testfälle identifiziert werden.
++ 
