@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Softwaretest/Grundbegriffe/Benennung von Tests.md",
+                "file": "Softwaretest/Grundbegriffe/Testkonzept.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Softwaretest/Grundbegriffe/Benennung von Tests.md",
+                "file": "Softwaretest/Grundbegriffe/Testkonzept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Softwaretest/Grundbegriffe/Benennung von Tests.md",
+                "file": "Softwaretest/Grundbegriffe/Testkonzept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Softwaretest/Grundbegriffe/Benennung von Tests.md"
+                "file": "Softwaretest/Grundbegriffe/Testkonzept.md"
               }
             }
           },
@@ -191,8 +191,15 @@
   },
   "active": "7bf090394fddfc06",
   "lastOpenFiles": [
-    "Softwaretest/Einführung Softwaretesting.md",
+    "Softwaretest/Grundbegriffe/Testskript.md",
+    "Softwaretest/Grundbegriffe/Testkonzept.md",
+    "Softwaretest/Grundbegriffe/Testsuiten und Testausführungsplanung.md",
+    "Softwaretest/Grundbegriffe/Testelemente.md",
+    "Softwaretest/Grundbegriffe/Testbedingung.md",
+    "Softwaretest/Grundbegriffe/Testfall und Testlauf.md",
+    "Softwaretest/Grundbegriffe/Testbasis.md",
     "Softwaretest/Grundbegriffe/Benennung von Tests.md",
+    "Softwaretest/Einführung Softwaretesting.md",
     "Softwaretest/Grundbegriffe/Fehlernachtests.md",
     "Softwaretest/Grundbegriffe Softwaretesting.md",
     "templates/Softwaretesting Grundbegriffe Temp.md",
@@ -211,16 +218,9 @@
     "Softwaretest/Grundbegriffe/Fehlhandlung.md",
     "Softwaretest/Grundbegriffe/Fehlermaskierung.md",
     "Softwaretest/Grundbegriffe/Fehlerzustand.md",
-    "Softwaretest/Grundbegriffe/Statische Tests.md",
-    "Softwaretest/Grundbegriffe/Dynamische Tests.md",
-    "Softwaretest/Grundbegriffe/Fehler.md",
-    "Softwaretest/Grundbegriffe/Fehlerwirkung.md",
     "Softwaretest/Grundbegriffe",
     "Softwaretest/Bilder",
     "Softwaretest/Bilder/Pasted image 20240301100825.png",
-    "Excalidraw/Drawing 2024-03-01 10.04.55.excalidraw.md",
-    "Softwaretest/TEST2.md",
-    "Softwaretest/ABC.md",
     "Softwaretest",
     "AP1/GroupLearning/Bilder/Pasted image 20240226144911.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240226124637.png",
