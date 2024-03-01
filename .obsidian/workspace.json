@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Softwaretest/Einführung Softwaretesting.md",
+                "file": "Softwaretest/Grundbegriffe/Fehlernachtests.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Softwaretest/Einführung Softwaretesting.md",
+                "file": "Softwaretest/Grundbegriffe/Fehlernachtests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Softwaretest/Einführung Softwaretesting.md",
+                "file": "Softwaretest/Grundbegriffe/Fehlernachtests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Softwaretest/Einführung Softwaretesting.md"
+                "file": "Softwaretest/Grundbegriffe/Fehlernachtests.md"
               }
             }
           },
@@ -191,6 +191,8 @@
   },
   "active": "7bf090394fddfc06",
   "lastOpenFiles": [
+    "Softwaretest/Einführung Softwaretesting.md",
+    "Softwaretest/Grundbegriffe/Fehlernachtests.md",
     "Softwaretest/Grundbegriffe Softwaretesting.md",
     "templates/Softwaretesting Grundbegriffe Temp.md",
     "Softwaretest/Softwaretesting.md",
@@ -204,7 +206,6 @@
     "Softwaretest/Grundbegriffe/Falsch-Negativ-Ergebnis.md",
     "Softwaretest/Grundbegriffe/Falsch-Positiv-Ergebnis.md",
     "Softwaretest/Bilder/Pasted image 20240301112501.png",
-    "Softwaretest/Einführung Softwaretesting.md",
     "templates/AP1 Notes Temp.md",
     "Softwaretest/Grundbegriffe/Fehlhandlung.md",
     "Softwaretest/Grundbegriffe/Fehlermaskierung.md",
@@ -220,7 +221,6 @@
     "Softwaretest/TEST2.md",
     "Softwaretest/ABC.md",
     "templates/SQL Temp.md",
-    "AP1/GroupLearning/SMART.md",
     "Softwaretest",
     "AP1/GroupLearning/Bilder/Pasted image 20240226144911.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240226124637.png",

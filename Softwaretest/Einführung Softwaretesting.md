@@ -20,3 +20,6 @@ page: "1"
 
 
 ## Testen vs. Debugging
+Bei Testen werden Fehlerwirkungen aufgedeckt während bei Debugging Fehlerzustände lokalisiert werden.
+Somit ist Debugging Aufgabe eines Entwicklers und nicht die eines Testers.
+
