@@ -56,7 +56,7 @@
 + [ ] SAN
 ### Zugangs- und Zugriffskontrolle
 + [ ] Zugangs- und Zugriffskontrolle
-### [[Grundbegriffe]]
+### [[AP1/IT-Sicherheit/Grundbegriffe]]
 + [x] Schadprogramme: Vieren, Würmer, Rootkits, Botnetze, Trojaner, Maleware, Ransomware, Spyware, Adware, Scareware, Hoax, Dialer (veraltet), Keylogger
 	+ [x] Verbreitung von Viren/Würmer/Trojaner erläutern
 + [ ] Hacker (White / Black Hat), Cracker, Script-Kiddies 

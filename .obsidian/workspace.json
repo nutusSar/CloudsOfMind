@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Softwaretest/Einführung Softwaretesting.md",
+                "file": "Softwaretest/Dynamische Tests.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7bf090394fddfc06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Softwaretest/Grundbegriffe.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Softwaretest/Einführung Softwaretesting.md",
+                "file": "Softwaretest/Dynamische Tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Softwaretest/Einführung Softwaretesting.md",
+                "file": "Softwaretest/Dynamische Tests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Softwaretest/Einführung Softwaretesting.md"
+                "file": "Softwaretest/Dynamische Tests.md"
               }
             }
           },
@@ -178,8 +190,14 @@
   },
   "active": "104d14a30e8dee65",
   "lastOpenFiles": [
-    "Softwaretest/Softwaretesting.md",
+    "Softwaretest/Grundbegriffe.md",
+    "Softwaretest/Dynamische Tests.md",
+    "Softwaretest/Fehlerzustand und Fehlerwirkung Dilamer.md",
     "Softwaretest/Einführung Softwaretesting.md",
+    "Softwaretest/Bilder",
+    "Softwaretest/Bilder/Pasted image 20240301100825.png",
+    "Softwaretest/Softwaretesting.md",
+    "Excalidraw/Drawing 2024-03-01 10.04.55.excalidraw.md",
     "Softwaretest/TEST2.md",
     "Softwaretest/ABC.md",
     "templates/Softwaretesting Temp.md",
@@ -201,10 +219,6 @@
     "AP1/GroupLearning/Debugging.md",
     "AP1/GroupLearning/Bibliotheken vs. Frameworks.md",
     "AP1/GroupLearning/Übertragungsarten.md",
-    "AP1/GroupLearning/Kabel.md",
-    "AP1/GroupLearning/GPU.md",
-    "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
-    "AP1/GroupLearning/UEFI vs. BIOS.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240226144911.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240226124637.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240226124942.png",
@@ -214,7 +228,6 @@
     "AP1/GroupLearning/Bilder/Pasted image 20240225151200.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240225125143.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240225123410.png",
-    "AP1/GroupLearning/Bilder/Pasted image 20240225121904.png",
     "AP1/NiklasVault/Themenblock_6",
     "AP1/NiklasVault/Themenblock_5",
     "AP1/NiklasVault/Themenblock_4",
@@ -222,7 +235,6 @@
     "AP1/NiklasVault/Themenblock_2",
     "AP1/NiklasVault/Themenblock_1",
     "AP1/NiklasVault",
-    "MyLife",
-    "Berufsschule"
+    "MyLife"
   ]
 }
