@@ -23,10 +23,12 @@ page: "1"
 + Nachweis, dass das Testobjekt funktioniert
 
 ## Übersicht
-![[Pasted image 20240301100825.png]]
-
+![[Pasted image 20240301143208.png]]
 
 ## Testen vs. Debugging
 Bei Testen werden Fehlerwirkungen aufgedeckt während bei Debugging Fehlerzustände lokalisiert werden.
 Somit ist Debugging Aufgabe eines Entwicklers und nicht die eines Testers.
 
+
+## Ökonomisch Sinnvoll
+Der AufwaTesten ist solange sinvoll 
