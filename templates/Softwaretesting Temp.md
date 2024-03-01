@@ -3,7 +3,7 @@ const dv = app.plugins.plugins["dataview"].api;
 const filename = "Softwaretesting";
 const query = `table topic as 
 "\<div style\=\'width\:150px\;\'\>Topic\</div\>", tags as "\<div style\=\'width\:200px\;\'\>Tags\</div\>"
-where contains(file.tags, "Testing") and !contains(file.tags, "Übersicht")
+where (contains(file.tags, "Testing") and !contains(file.tags, "Übersicht") and  !contains(file.tags, "Grundbegriffe")) or file.name = "Grundbegriffe Softwaretesting"
 sort page ASC`;
 
 const tFile = tp.file.find_tfile(filename);
