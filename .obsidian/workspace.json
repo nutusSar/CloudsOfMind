@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3bb134a0b6fe4308",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "f975dc30322844b4",
+            "id": "104d14a30e8dee65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/Alle AP1 Notes.md",
+                "file": "Softwaretest/Einführung Softwaretesting.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 244.5
   },
   "right": {
     "id": "15ca42f9e4339db1",
@@ -102,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/Alle AP1 Notes.md",
+                "file": "Softwaretest/Einführung Softwaretesting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/Alle AP1 Notes.md",
+                "file": "Softwaretest/Einführung Softwaretesting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/Alle AP1 Notes.md"
+                "file": "Softwaretest/Einführung Softwaretesting.md"
               }
             }
           },
@@ -185,35 +176,35 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "f975dc30322844b4",
+  "active": "104d14a30e8dee65",
   "lastOpenFiles": [
-    "AP1/GroupLearning/Anschlüsse.md",
-    "AP1/Alle AP1 Notes.md",
-    "AP1/GroupLearning/Kabel.md",
-    "AP1/GroupLearning/VLAN.md",
-    "AP1/GroupLearning/Protokolle.md",
-    "AP1/GroupLearning/Lasten- und Pflichtenheft.md",
-    "AP1/GroupLearning/Nutzwertanalyse.md",
-    "AP1/GroupLearning/RAM.md",
+    "Softwaretest/Softwaretesting.md",
+    "Softwaretest/Einführung Softwaretesting.md",
+    "Softwaretest/TEST2.md",
+    "Softwaretest/ABC.md",
+    "templates/Softwaretesting Temp.md",
+    "templates/SQL Temp.md",
+    "templates/AP1 Notes Temp.md",
     "AP1/GroupLearning/SMART.md",
+    "Softwaretest",
+    "AP1/GroupLearning/Nutzwertanalyse.md",
+    "AP1/GroupLearning/VLAN.md",
     "AP1/GroupLearning/Marktformen.md",
     "AP1/Themen_Abschlussprufung_Teil_1.md",
     "AP1/GroupLearning/Motherboard.md",
     "AP1/GroupLearning/Prozedur vs. Funktion.md",
     "AP1/GroupLearning/Schnittstellen.md",
+    "AP1/GroupLearning/Protokolle.md",
     "AP1/Inhalte IT-Sicherheit & Datenschutz.md",
     "AP1/IHK Themen ToDO.md",
+    "AP1/Alle AP1 Notes.md",
     "AP1/GroupLearning/Debugging.md",
     "AP1/GroupLearning/Bibliotheken vs. Frameworks.md",
     "AP1/GroupLearning/Übertragungsarten.md",
+    "AP1/GroupLearning/Kabel.md",
     "AP1/GroupLearning/GPU.md",
     "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
-    "Untitled",
     "AP1/GroupLearning/UEFI vs. BIOS.md",
-    "AP1/GroupLearning/CPU.md",
-    "AP1/GroupLearning/Unternehmen.md",
-    "AP1/GroupLearning/Angebotsbewertung.md",
-    "AP1/GroupLearning/Anfrage, Angebot, Anpreisung.md",
     "AP1/GroupLearning/Bilder/Pasted image 20240226144911.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240226124637.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240226124942.png",
