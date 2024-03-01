@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Softwaretest/Grundbegriffe/Fehlernachtests.md",
+                "file": "Softwaretest/Grundbegriffe/Benennung von Tests.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Softwaretest/Grundbegriffe/Fehlernachtests.md",
+                "file": "Softwaretest/Grundbegriffe/Benennung von Tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Softwaretest/Grundbegriffe/Fehlernachtests.md",
+                "file": "Softwaretest/Grundbegriffe/Benennung von Tests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Softwaretest/Grundbegriffe/Fehlernachtests.md"
+                "file": "Softwaretest/Grundbegriffe/Benennung von Tests.md"
               }
             }
           },
@@ -192,6 +192,7 @@
   "active": "7bf090394fddfc06",
   "lastOpenFiles": [
     "Softwaretest/Einführung Softwaretesting.md",
+    "Softwaretest/Grundbegriffe/Benennung von Tests.md",
     "Softwaretest/Grundbegriffe/Fehlernachtests.md",
     "Softwaretest/Grundbegriffe Softwaretesting.md",
     "templates/Softwaretesting Grundbegriffe Temp.md",
@@ -220,7 +221,6 @@
     "Excalidraw/Drawing 2024-03-01 10.04.55.excalidraw.md",
     "Softwaretest/TEST2.md",
     "Softwaretest/ABC.md",
-    "templates/SQL Temp.md",
     "Softwaretest",
     "AP1/GroupLearning/Bilder/Pasted image 20240226144911.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240226124637.png",

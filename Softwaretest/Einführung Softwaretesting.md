@@ -13,7 +13,14 @@ page: "1"
 + Risikobewertung 
 + Validierung der Funktion eines Systems
 + Aus Fehlern lernen
-
+## Ziele
++ Qualitative Bewertung von Arbeitsergebnissen
++ Nachweis. das alle Spezifikationen erfolgreich umgesetzt wurden
++ Informationen zur Qualität zu Verfügung stellen 
++ Analysieren der Anwendung um Fehlerzustände zu vermeiden
++ Um Fehlerwirkungen nachzuweisen
++ Entscheidung um das Testobjekt für die Integration freizugeben 
++ Nachweis, dass das Testobjekt funktioniert
 
 ## Übersicht
 ![[Pasted image 20240301100825.png]]
