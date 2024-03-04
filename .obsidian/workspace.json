@@ -8,43 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "104d14a30e8dee65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Softwaretesting Grundbegriffe Temp.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7bf090394fddfc06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Softwaretest/Einführung Softwaretesting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "71b8f6c3629839c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP1/GroupLearning/VLAN.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/GroupLearning/VLAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/GroupLearning/VLAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AP1/GroupLearning/VLAN.md"
-              }
+              "state": {}
             }
           },
           {
@@ -203,11 +170,16 @@
   },
   "active": "71b8f6c3629839c6",
   "lastOpenFiles": [
-    "AP1/Alle AP1 Notes.md",
+    "Berufsschule/Lernfeld 9/VLAN.md",
+    "Softwaretest/Einführung Softwaretesting.md",
     "templates/Softwaretesting Grundbegriffe Temp.md",
+    "Berufsschule/Lernfeld 9/Bilder/Pasted image 20240304125434.png",
+    "Excalidraw/Drawing 2024-03-04 12.33.53.excalidraw.md",
+    "Pasted image 20240304124849.png",
+    "Excalidraw/Untitled.md",
+    "AP1/Alle AP1 Notes.md",
     "Softwaretest/Bilder/Pasted image 20240301143208.png",
     "Excalidraw/Drawing 2024-03-01 14.13.01.excalidraw.md",
-    "Softwaretest/Einführung Softwaretesting.md",
     "Softwaretest/Grundbegriffe/Testkonzept.md",
     "Softwaretest/Grundbegriffe/Testskript.md",
     "Softwaretest/Grundbegriffe/Testsuiten und Testausführungsplanung.md",
@@ -226,10 +198,7 @@
     "Softwaretest/Grundbegriffe/Richtig-Negativ-Ergebnis.md",
     "Softwaretest/Grundbegriffe/Richtig-Positiv-Ergebnis.md",
     "Softwaretest/Grundbegriffe/Falsch-Negativ-Ergebnis.md",
-    "Softwaretest/Grundbegriffe/Falsch-Positiv-Ergebnis.md",
     "Softwaretest/Bilder/Pasted image 20240301112501.png",
-    "templates/AP1 Notes Temp.md",
-    "Softwaretest/Grundbegriffe/Fehlhandlung.md",
     "Softwaretest/Grundbegriffe",
     "Softwaretest/Bilder",
     "Softwaretest/Bilder/Pasted image 20240301100825.png",
@@ -239,8 +208,6 @@
     "AP1/GroupLearning/Bilder/Pasted image 20240226124942.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240226125522.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240226125033.png",
-    "AP1/GroupLearning/Bilder/Pasted image 20240226143731.png",
-    "AP1/GroupLearning/Bilder/Pasted image 20240225151200.png",
     "AP1/NiklasVault/Themenblock_6",
     "AP1/NiklasVault/Themenblock_5",
     "AP1/NiklasVault/Themenblock_4",

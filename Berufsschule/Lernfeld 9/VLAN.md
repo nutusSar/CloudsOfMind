@@ -2,6 +2,8 @@
 tags:
   - "#AP1"
   - "#Netzwerktechnik"
+  - "#Berufsschule"
+  - "#Lernfeld9"
 ---
 ## Definition
 + **V**irtual **L**ocal **A**rea **N**etwork
@@ -9,14 +11,15 @@ tags:
 + Logische Verbindung
 + Kann auf Switchen realisiert werden.
 VLANs (Virtuelle LANs) teilen einen Switch per Konfiguration in mehrere virtuelle Switches
-
+VLANs sind in IEEE 802.1Q spezifiziert.
 
 ## Funktionsweise
 ### Portbasiertes VLAN
 + Zuweisen der einzelnen Port zu unterschiedlichen VLANs
 + VLANs werden mit einer VLAN-ID durchnummeriert (Standard-ID: 1)
 + Verfügbare IDs 1 - 4094 (0 und 4095 sind reserviert)
-
+Vor das EtherType-Feld wird ein Tag eingesetzt
+![[Pasted image 20240304125434.png]]
 
 ## VLAN-Trunking
 + Ein Trunkport an jeder Switch, ermöglicht das Kommunizieren der gleichen VLANSs zweier Switches über den gleichen Port
