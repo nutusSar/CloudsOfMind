@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Softwaretest/Einführung Softwaretesting.md",
+                "file": "AP1/GroupLearning/VLAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Softwaretesting Grundbegriffe Temp.md",
+                "file": "AP1/GroupLearning/VLAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Softwaretesting Grundbegriffe Temp.md",
+                "file": "AP1/GroupLearning/VLAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Softwaretesting Grundbegriffe Temp.md"
+                "file": "AP1/GroupLearning/VLAN.md"
               }
             }
           },
@@ -201,8 +201,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "1f2c6d4b27417489",
+  "active": "71b8f6c3629839c6",
   "lastOpenFiles": [
+    "AP1/Alle AP1 Notes.md",
+    "templates/Softwaretesting Grundbegriffe Temp.md",
     "Softwaretest/Bilder/Pasted image 20240301143208.png",
     "Excalidraw/Drawing 2024-03-01 14.13.01.excalidraw.md",
     "Softwaretest/Einführung Softwaretesting.md",
@@ -216,11 +218,9 @@
     "Softwaretest/Grundbegriffe/Benennung von Tests.md",
     "Softwaretest/Grundbegriffe/Fehlernachtests.md",
     "Softwaretest/Grundbegriffe Softwaretesting.md",
-    "templates/Softwaretesting Grundbegriffe Temp.md",
     "Softwaretest/Softwaretesting.md",
     "templates/Softwaretesting Temp.md",
     "Excalidraw/Drawing 2024-03-01 11.19.18.excalidraw.md",
-    "AP1/Alle AP1 Notes.md",
     "templates/Grundbegriffe Temp.md",
     "Softwaretest/Fehlerzustand und Fehlerwirkung Lemma.md",
     "Softwaretest/Grundbegriffe/Richtig-Negativ-Ergebnis.md",
@@ -241,7 +241,6 @@
     "AP1/GroupLearning/Bilder/Pasted image 20240226125033.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240226143731.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240225151200.png",
-    "AP1/GroupLearning/Bilder/Pasted image 20240225125143.png",
     "AP1/NiklasVault/Themenblock_6",
     "AP1/NiklasVault/Themenblock_5",
     "AP1/NiklasVault/Themenblock_4",

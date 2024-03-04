@@ -5,9 +5,11 @@ tags:
 ---
 ## Definition
 + **V**irtual **L**ocal **A**rea **N**etwork
-+ Aufteilen eines Netzwerkes in seperrate Einheiten
++ Aufteilen eines Netzwerkes in sepperrate Einheiten
 + Logische Verbindung
 + Kann auf Switchen realisiert werden.
+VLANs (Virtuelle LANs) teilen einen Switch per Konfiguration in mehrere virtuelle Switches
+
 
 ## Funktionsweise
 ### Portbasiertes VLAN
