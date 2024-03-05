@@ -11,8 +11,12 @@
             "id": "71b8f6c3629839c6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Example Folder/Example for Structures.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Example Folder/Example for Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Example Folder/Example for Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Example Folder/Example for Structures.md"
+              }
             }
           },
           {
@@ -170,6 +178,8 @@
   },
   "active": "71b8f6c3629839c6",
   "lastOpenFiles": [
+    "Example Folder/Example for Structures.md",
+    "Example Folder",
     "Berufsschule/Lernfeld 9/VLAN.md",
     "Softwaretest/Einführung Softwaretesting.md",
     "templates/Softwaretesting Grundbegriffe Temp.md",
@@ -213,7 +223,6 @@
     "AP1/NiklasVault/Themenblock_4",
     "AP1/NiklasVault/Themenblock_3",
     "AP1/NiklasVault/Themenblock_2",
-    "AP1/NiklasVault/Themenblock_1",
-    "AP1/NiklasVault"
+    "AP1/NiklasVault/Themenblock_1"
   ]
 }
