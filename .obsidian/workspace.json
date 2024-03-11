@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f55d74a29ca02981",
+        "id": "bc1756c1a5b762a9",
         "type": "tabs",
         "children": [
           {
-            "id": "71b8f6c3629839c6",
+            "id": "0f35ad2c8af33c7f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Berufsschule/Lernfeld 9/VLAN.md",
-                "mode": "source",
-                "source": false
+                "file": "GroupLearning/Sozialkunde/Kanbanboard.md"
               }
             }
           }
@@ -48,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "File: vlan",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +63,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Berufsschule/Lernfeld 9/VLAN.md",
+                "file": "GroupLearning/Sozialkunde/Kanbanboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Berufsschule/Lernfeld 9/VLAN.md",
+                "file": "GroupLearning/Sozialkunde/Kanbanboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Berufsschule/Lernfeld 9/VLAN.md"
+                "file": "GroupLearning/Sozialkunde/Kanbanboard.md"
               }
             }
           },
@@ -177,9 +174,20 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "71b8f6c3629839c6",
+  "active": "0f35ad2c8af33c7f",
   "lastOpenFiles": [
+    "Besitz und Eigentum.md",
+    "GroupLearning/Sozialkunde/Kanbanboard.md",
+    "GroupLearning/Softwareprodukt/Kanbanboard.md",
+    "GroupLearning/Sozialkunde/Untitled.md",
+    "GroupLearning/Algorithmen/Kanbanboard.md",
+    "GroupLearning/Sozialkunde",
+    "GroupLearning/Algorithmen",
+    "GroupLearning/Untitled.md",
+    "GroupLearning/Softwareprodukt",
     "Example Folder/Example for Structures.md",
+    "Berufsschule/Lernfeld 9/VLAN.md",
+    "GroupLearning",
     "!test2/test.md",
     "test3/hallo.md",
     "!test2",
@@ -193,7 +201,6 @@
     "AP1/Alle AP1 Notes.md",
     "templates/AP1 Notes Temp.md",
     "Example Folder",
-    "Berufsschule/Lernfeld 9/VLAN.md",
     "Softwaretest/Einführung Softwaretesting.md",
     "templates/Softwaretesting Grundbegriffe Temp.md",
     "Berufsschule/Lernfeld 9/Bilder/Pasted image 20240304125434.png",
@@ -207,23 +214,13 @@
     "Softwaretest/Grundbegriffe/Testsuiten und Testausführungsplanung.md",
     "Softwaretest/Grundbegriffe/Testelemente.md",
     "Softwaretest/Grundbegriffe/Testbedingung.md",
-    "Softwaretest/Grundbegriffe/Testfall und Testlauf.md",
-    "Softwaretest/Grundbegriffe/Testbasis.md",
-    "Softwaretest/Grundbegriffe/Benennung von Tests.md",
-    "Softwaretest/Grundbegriffe/Fehlernachtests.md",
-    "Softwaretest/Grundbegriffe Softwaretesting.md",
-    "templates/Softwaretesting Temp.md",
     "Softwaretest/Bilder/Pasted image 20240301112501.png",
     "Softwaretest/Grundbegriffe",
-    "Softwaretest/Bilder",
     "Softwaretest/Bilder/Pasted image 20240301100825.png",
-    "Softwaretest",
     "AP1/GroupLearning/Bilder/Pasted image 20240226144911.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240226124637.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240226124942.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240226125522.png",
-    "AP1/GroupLearning/Bilder/Pasted image 20240226125033.png",
-    "AP1/NiklasVault/Themenblock_6",
-    "AP1/NiklasVault/Themenblock_5"
+    "AP1/GroupLearning/Bilder/Pasted image 20240226125033.png"
   ]
 }
