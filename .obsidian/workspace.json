@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bc1756c1a5b762a9",
+        "id": "d152365fc1962655",
         "type": "tabs",
         "children": [
           {
-            "id": "0f35ad2c8af33c7f",
+            "id": "6dc2602d349f7c08",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "GroupLearning/Sozialkunde/Kanbanboard.md"
+                "file": "GroupLearning/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GroupLearning/Sozialkunde/Kanbanboard.md",
+                "file": "GroupLearning/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GroupLearning/Sozialkunde/Kanbanboard.md",
+                "file": "GroupLearning/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GroupLearning/Sozialkunde/Kanbanboard.md"
+                "file": "GroupLearning/Untitled.md"
               }
             }
           },
@@ -174,16 +176,21 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "0f35ad2c8af33c7f",
+  "active": "6dc2602d349f7c08",
   "lastOpenFiles": [
-    "Besitz und Eigentum.md",
-    "GroupLearning/Sozialkunde/Kanbanboard.md",
+    "GroupLearning/Netzwerktechnik/Kanbanboard.md",
+    "GroupLearning/Untitled.md",
     "GroupLearning/Softwareprodukt/Kanbanboard.md",
-    "GroupLearning/Sozialkunde/Untitled.md",
     "GroupLearning/Algorithmen/Kanbanboard.md",
+    "2024-02-18.md",
+    "2024-03-11.md",
+    "GroupLearning/Sozialkunde/Kanbanboard.md",
+    "GroupLearning/Untitled",
+    "GroupLearning/Netzwerktechnik",
+    "Besitz und Eigentum.md",
+    "GroupLearning/Sozialkunde/Untitled.md",
     "GroupLearning/Sozialkunde",
     "GroupLearning/Algorithmen",
-    "GroupLearning/Untitled.md",
     "GroupLearning/Softwareprodukt",
     "Example Folder/Example for Structures.md",
     "Berufsschule/Lernfeld 9/VLAN.md",
@@ -200,7 +207,6 @@
     "Softwaretest/Softwaretesting.md",
     "AP1/Alle AP1 Notes.md",
     "templates/AP1 Notes Temp.md",
-    "Example Folder",
     "Softwaretest/Einführung Softwaretesting.md",
     "templates/Softwaretesting Grundbegriffe Temp.md",
     "Berufsschule/Lernfeld 9/Bilder/Pasted image 20240304125434.png",
@@ -211,11 +217,7 @@
     "Excalidraw/Drawing 2024-03-01 14.13.01.excalidraw.md",
     "Softwaretest/Grundbegriffe/Testkonzept.md",
     "Softwaretest/Grundbegriffe/Testskript.md",
-    "Softwaretest/Grundbegriffe/Testsuiten und Testausführungsplanung.md",
-    "Softwaretest/Grundbegriffe/Testelemente.md",
-    "Softwaretest/Grundbegriffe/Testbedingung.md",
     "Softwaretest/Bilder/Pasted image 20240301112501.png",
-    "Softwaretest/Grundbegriffe",
     "Softwaretest/Bilder/Pasted image 20240301100825.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240226144911.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240226124637.png",

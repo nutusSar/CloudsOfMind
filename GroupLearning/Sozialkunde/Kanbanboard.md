@@ -9,13 +9,16 @@ kanban-plugin: basic
 - [ ] Arbeitsschutzgesetz
 - [ ] Aufbau, Organisation, Führungsstile, Leistungssysteme
 - [ ] Berufsbidlungsgesetz
-- [ ] [[Besitz und Eigentum]]
+- [ ] Besitz und Eigentum
 - [ ] Betriebsverfassungsgesetz
+- [ ] Bezugspreisermittlung
 - [ ] Gleichgewichtspreis
 - [ ] Güter
 - [ ] Kaufmannsarten
+- [ ] Leasing, Verträge
 - [ ] Marktformen
 - [ ] Mutterschutz
+- [ ] Nutzwertanalyse
 - [ ] Ökonomisches Prinzip
 - [ ] Projektorganisation
 - [ ] Rechtsformen
@@ -24,9 +27,11 @@ kanban-plugin: basic
 - [ ] Wertscchöpfung
 - [ ] Wirtschaftskreislauf
 - [ ] Zielbeziehungen
-- [ ] Nutzwertanalyse
-- [ ] Bezugspreisermittlung
-- [ ] Leasing, Verträge
+- [ ] Informieren und Beraten von Kunden
+- [ ] Beurteilen marktgängiger IT-Systeme und kundenspezifischer Lösungen
+- [ ] Kundenbeziehungen
+- [ ] Präsentieren
+- [ ] Trends
 
 
 ## Todo
