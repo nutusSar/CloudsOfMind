@@ -1,0 +1,20 @@
+---
+tags:
+  - "#AP2"
+  - "#ToDo"
+---
+- [ ] dynamische Websites (CGI, ASP, JSP, PHP)
+    - [ ] Applet und Servlet unterscheiden (veraltet)
+- [ ] Web 2.0
+    - [ ] Social Networks, Wikis, Blogs, Twitter, Forum, Podcast
+- [ ] Web 3.0
+- [ ] RIA und AJAX
+    - [ ] Vor-/Nachteile
+    - [ ] Funktionsweise
+- [ ] Anforderungen durch Mobilgeräte
+    - [ ] Offline-Fähigkeit, Deployment auf mehrere Plattformen, verschiedene Programmiersprachen, native Apps vs. HTML5/JavaScript, geringe Bandbreiten, kleine Auflösungen
+- [ ] Angriffsmöglichkeiten gegen Anwendungen abgrenzen
+    - [ ] SQL-Injection, XSS, CSRF, Session Hijacking, DoS, DDoS
+- [ ] HTTP
+    - [ ] Methoden kennen und einordnen: safe/sicher, idempotent
+    - [ ] Status-Codes kennen (z.B. 200, 404)

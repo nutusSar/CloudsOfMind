@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d152365fc1962655",
+        "id": "16cd95b83bbbdcd1",
         "type": "tabs",
         "children": [
           {
-            "id": "6dc2602d349f7c08",
+            "id": "a3fc6efb48d33ddb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GroupLearning/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GroupLearning/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GroupLearning/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GroupLearning/Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,47 +168,47 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "6dc2602d349f7c08",
+  "active": "a3fc6efb48d33ddb",
   "lastOpenFiles": [
-    "GroupLearning/Netzwerktechnik/Kanbanboard.md",
-    "GroupLearning/Untitled.md",
-    "GroupLearning/Softwareprodukt/Kanbanboard.md",
-    "GroupLearning/Algorithmen/Kanbanboard.md",
-    "2024-02-18.md",
-    "2024-03-11.md",
-    "GroupLearning/Sozialkunde/Kanbanboard.md",
+    "AP2/AP2.md",
+    "AP2/Themen Checklist/Algorithmen.md",
+    "AP2/Themen Checklist/Datenschutz.md",
+    "AP2/Themen Checklist/Datenbanken 1.md",
+    "AP2/Themen Checklist/Datenbanken.md",
+    "AP2/KANBAN AP2.md",
+    "AP2/Themen Checklist/Webentwicklung.md",
+    "AP2/Themen Checklist/Versionsverwaltung.md",
+    "AP2/Themen Checklist/UML.md",
+    "AP2/Themen Checklist/Trends.md",
+    "AP2/Themen Checklist/Testen.md",
+    "AP2/Themen Checklist/SQL.md",
+    "AP2/Themen Checklist/Speicherlösungen.md",
+    "AP2/Themen Checklist/Softwarequalität.md",
+    "AP2/Themen Checklist/Softwareergonomie.md",
+    "AP2/Themen Checklist/Softwareentwicklung.md",
+    "AP2/Themen Checklist/Softwarearchitektur.md",
+    "AP2/Themen Checklist/Software Engineering.md",
+    "AP2/Themen Checklist/Schnittstellen, APIs, Datenaustausch.md",
+    "AP2/Themen Checklist/Qualitätssicherung.md",
+    "AP2/Themen Checklist/Programmiersprachen.md",
+    "AP2/Themen Checklist/Präsentieren.md",
+    "AP2/Themen Checklist/Objektorientierung.md",
+    "AP2/Themen Checklist/Normalisierung.md",
+    "AP2/Themen Checklist/Netzwerktechnik.md",
+    "AP2/Themen Checklist/Kundenbeziehungen.md",
+    "AP2/Themen Checklist",
+    "AP2",
     "GroupLearning/Untitled",
     "GroupLearning/Netzwerktechnik",
-    "Besitz und Eigentum.md",
-    "GroupLearning/Sozialkunde/Untitled.md",
     "GroupLearning/Sozialkunde",
     "GroupLearning/Algorithmen",
     "GroupLearning/Softwareprodukt",
-    "Example Folder/Example for Structures.md",
-    "Berufsschule/Lernfeld 9/VLAN.md",
     "GroupLearning",
-    "!test2/test.md",
-    "test3/hallo.md",
     "!test2",
-    "test2/test.md",
-    "test1/test.md",
     "test3",
-    "test2",
-    "test1",
-    "index.md",
-    "Softwaretest/Softwaretesting.md",
-    "AP1/Alle AP1 Notes.md",
-    "templates/AP1 Notes Temp.md",
-    "Softwaretest/Einführung Softwaretesting.md",
-    "templates/Softwaretesting Grundbegriffe Temp.md",
     "Berufsschule/Lernfeld 9/Bilder/Pasted image 20240304125434.png",
-    "Excalidraw/Drawing 2024-03-04 12.33.53.excalidraw.md",
     "Pasted image 20240304124849.png",
-    "Excalidraw/Untitled.md",
     "Softwaretest/Bilder/Pasted image 20240301143208.png",
-    "Excalidraw/Drawing 2024-03-01 14.13.01.excalidraw.md",
-    "Softwaretest/Grundbegriffe/Testkonzept.md",
-    "Softwaretest/Grundbegriffe/Testskript.md",
     "Softwaretest/Bilder/Pasted image 20240301112501.png",
     "Softwaretest/Bilder/Pasted image 20240301100825.png",
     "AP1/GroupLearning/Bilder/Pasted image 20240226144911.png",
