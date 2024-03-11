@@ -4,7 +4,6 @@ tags:
   - "#Übersicht" 
 topic: Übersicht
 ---
-
 | <div style="width:275px;">File</div>                                                          | <div style='width:150px;'>Topic</div> | <div style='width:200px;'>Tags</div>                                                     |
 | --------------------------------------------------------------------------------------------- | ------------------------------------- | ---------------------------------------------------------------------------------------- |
 | [[AP1/GroupLearning/Ablauf Projekt.md\|Ablauf Projekt]]                                       | \-                                    | <ul><li>#AP1</li><li>#Projektmanagement</li></ul>                                        |

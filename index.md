@@ -14,7 +14,7 @@ Hier findest du meine Übersicht Seiten:
 
 | <div style="width:275px;">File</div>                                      | <div style='width:150px;'>Topic<div> | <div style='width:200px;'>Tags<div>                                      |
 | ------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------------------ |
-| [[AP1/Alle AP1 Notes.md\|Alle AP1 Notes]]                                 | Übersicht                            | <ul><li>#AP1</li><li>#Übersicht</li></ul>                                |
+| [[AP1|Alle AP1 Notes]]                                 | Übersicht                            | <ul><li>#AP1</li><li>#Übersicht</li></ul>                                |
 | [[Angular/Angular.md\|Angular]]                                           | Übersicht                            | <ul><li>#Angular</li><li>#Übersicht</li></ul>                            |
 | [[AP2/AP2.md\|AP2]]                                                       | \-                                   | <ul><li>#AP2</li><li>#Übersicht</li></ul>                                |
 | [[AP1/IHK Themen ToDO.md\|IHK Themen ToDO]]                               | \-                                   | <ul><li>#Übersicht</li><li>#ToDo</li></ul>                               |

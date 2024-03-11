@@ -1,16 +1,16 @@
 <%*
 const dv = app.plugins.plugins["dataview"].api;
-const filename = "Alle AP1 Notes";
+const filename = "AP2";
 const query = `table topic as 
 "\<div style\=\'width\:150px\;\'\>Topic\</div\>", tags as "\<div style\=\'width\:200px\;\'\>Tags\</div\>"
-where contains(file.tags, "AP1") and !contains(file.tags, "Übersicht")
+where contains(file.tags, "AP2") and !contains(file.tags, "Übersicht")
 sort file.name ASC`;
 
 const tFile = tp.file.find_tfile(filename);
 const queryOutput = await dv.queryMarkdown(query);
 const metadata = `---
 tags:
-  - "#AP1"
+  - "#AP2"
   - "#Übersicht" 
 topic: Übersicht
 ---
