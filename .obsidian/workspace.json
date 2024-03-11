@@ -11,8 +11,12 @@
             "id": "a3fc6efb48d33ddb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AP2/AP2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AP2/AP2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AP2/AP2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AP2/AP2.md"
+              }
             }
           },
           {
@@ -170,6 +178,8 @@
   },
   "active": "a3fc6efb48d33ddb",
   "lastOpenFiles": [
+    "templates/Angular Temp.md",
+    "AP2/AP2.md",
     "AP2/KANBAN AP2.md",
     "templates/IHK Themen Temp.md",
     "AP1/IT-Sicherheit/Grundbegriffe.md",
@@ -183,7 +193,6 @@
     "templates/AP2 Temp.md",
     "templates/AP1 Temp.md",
     "AP1/AP1.md",
-    "AP2/AP2.md",
     "AP1/GroupLearning/Prufungsvorbereitung.md",
     "AP1/GroupLearning/Ablauf Projekt.md",
     "AP1/Themen_Abschlussprufung_Teil_1.md",
@@ -195,7 +204,6 @@
     "AP2/Themen Checklist/Datenbanken 1.md",
     "AP2/Themen Checklist/Datenbanken.md",
     "AP2/Themen Checklist/Webentwicklung.md",
-    "AP2/Themen Checklist/Versionsverwaltung.md",
     "AP2/Themen Checklist",
     "AP2",
     "GroupLearning/Untitled",
