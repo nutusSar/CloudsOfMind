@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP2/AP2.md",
+                "file": "DnD/Mark/Tag 1 (16.03.2024).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP2/AP2.md",
+                "file": "DnD/Mark/Tag 1 (16.03.2024).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP2/AP2.md",
+                "file": "DnD/Mark/Tag 1 (16.03.2024).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP2/AP2.md"
+                "file": "DnD/Mark/Tag 1 (16.03.2024).md"
               }
             }
           },
@@ -178,8 +178,13 @@
   },
   "active": "a3fc6efb48d33ddb",
   "lastOpenFiles": [
-    "templates/Angular Temp.md",
+    "DnD/Mark/Saturnus Skayn.md",
+    "DnD/Mark/Tag 1 (16.03.2024).md",
+    "SaturnusSkayn.pdf",
     "AP2/AP2.md",
+    "DnD/Mark",
+    "DnD",
+    "templates/Angular Temp.md",
     "AP2/KANBAN AP2.md",
     "templates/IHK Themen Temp.md",
     "AP1/IT-Sicherheit/Grundbegriffe.md",
@@ -202,8 +207,6 @@
     "AP2/Themen Checklist/Algorithmen.md",
     "AP2/Themen Checklist/Datenschutz.md",
     "AP2/Themen Checklist/Datenbanken 1.md",
-    "AP2/Themen Checklist/Datenbanken.md",
-    "AP2/Themen Checklist/Webentwicklung.md",
     "AP2/Themen Checklist",
     "AP2",
     "GroupLearning/Untitled",
@@ -211,9 +214,6 @@
     "GroupLearning/Sozialkunde",
     "GroupLearning/Algorithmen",
     "GroupLearning/Softwareprodukt",
-    "GroupLearning",
-    "!test2",
-    "test3",
     "Berufsschule/Lernfeld 9/Bilder/Pasted image 20240304125434.png",
     "Pasted image 20240304124849.png",
     "Softwaretest/Bilder/Pasted image 20240301143208.png",
