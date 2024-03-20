@@ -87,5 +87,75 @@ Es werden die Variablen in einem Schritt deklariert und initialisiert.
 ## Bedingungen
 **Beispiele**
 ```java
-if
+...
+if(a > b){
+	System.out.println("Zahl 1 ist größer Zahl 2");
+}
+else if (a < b){
+	System.outprintln("Zahl 1 ist kleiner Zahl 2");
+}
+else (a == b){
+	System.out.println("Zahl 1 ist gleich Zahl2");
+}
+```
+Bedingungen evaluieren zu true or false.
+
+## Schleifen 
+### for-Schleife
+**Beispiel**
+```java
+for (int i = 0; i < 10; i++){
+	System.out.println(i);
+}
+```
+
+### while-Schleife
+**Beispiel**
+```java
+int zaehler = 0;
+while (zaehler < 10){
+	System.out.println(zaehler);
+	zaehler++;
+}
+System.out.println(zaehler);
+```
+
+### do-while-Schleife
+**Beispiel**
+```java
+int zaehler = 0;
+do{
+	System.out.println(zaehler);
+	zaehler++;
+}while (zaehler < 10)
+System.out.println(zaehler);
+```
+
+## Zufallszahlen
+**Beispiel** 
+```java
+Random random = new Random();
+int zufallszahl = random.nextInt(6);
+System.out.println(zufallszahl)
+```
+Bei dem Beispiel werden Zahlen von 0 bis einschließlich 5 zufällig ausgeben. Die Obergrenze 6 ist nicht bei den zufälligen Zahlen enthalten!
+
+Für Zufallszahlen von (untereGrenze) ... bis (obereGrenze) ... zu erhalten gilt folgende Regel:
+```java
+Random random = new Random();
+int zufallszahl = random.nextInt(obereGrenze - untereGrenze + 1) + untereGrenze;
+System.out.println(zufallszahl)
+```
+
+## Ein- und Ausgabe
+**Beispiel**
+```java
+Scanner scanner = new Scanner(System.in);
+
+System.out.println("Bitte geben sie was ein: ");
+// Eingabe
+String eingabe = scanner.nextLine();
+
+// Ausgabe
+Sysetem.out.println("Ihre Eingabe war: \n" + eingabe);
 ```
