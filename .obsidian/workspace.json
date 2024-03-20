@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "16cd95b83bbbdcd1",
+        "id": "ca143342a7d213b8",
         "type": "tabs",
         "children": [
           {
-            "id": "a3fc6efb48d33ddb",
+            "id": "7ac5579f893261d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DnD/Mark/Tag 1 (16.03.2024).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "744d58872ca145b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PraktikantenAufgraben/Einführung Programmierung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23b6efb6a954e6e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Berufsschule/µ-Controller/Wetterstation mit dem ESP8266.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Berufsschule/µ-Controller/Wetterstation mit dem ESP8266.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Berufsschule/µ-Controller/Wetterstation mit dem ESP8266.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Berufsschule/µ-Controller/Wetterstation mit dem ESP8266.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,12 +168,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "23b6efb6a954e6e1",
+  "active": "7ac5579f893261d1",
   "lastOpenFiles": [
+    "DnD/Mark/Tag 1 (16.03.2024).md",
+    "PraktikantenAufgraben/Einführung Programmierung.md",
+    "Berufsschule/µ-Controller/Wetterstation mit dem ESP8266.md",
     "Berufsschule/µ-Controller/µ-Controller.md",
     "Berufsschule/µ-Controller/Led-Schaltung.md",
     "Berufsschule/µ-Controller/Lautsprecher.md",
-    "Berufsschule/µ-Controller/Wetterstation mit dem ESP8266.md",
     "Berufsschule/Lernfeld 3/Wie funktionieren Netzwerke.md",
     "Berufsschule/Lernfeld 7/Analyse OPC UA.md",
     "Berufsschule/Lernfeld 8/ERM.md",
@@ -220,12 +189,10 @@
     "AP1/AP1.md",
     "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
     "PraktikantenAufgraben/Einfache Aufgaben.md",
-    "PraktikantenAufgraben/Einführung Programmierung.md",
     "PraktikantenAufgraben/Einführungstest.md",
     "Berufsschule/Sozialkunde/Themen der Klassenarbeit 29.04.2024.md",
     "PraktikantenAufgraben",
     "Excalidraw/Drawing 2024-03-16 15.44.32.excalidraw.md",
-    "DnD/Mark/Tag 1 (16.03.2024).md",
     "DnD/Mark/Saturnus Skayn.md",
     "SaturnusSkayn.pdf",
     "AP2/AP2.md",
