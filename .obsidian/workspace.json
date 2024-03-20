@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP1/AP1.md",
+                "file": "Berufsschule/µ-Controller/Wetterstation mit dem ESP8266.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP1/AP1.md",
+                "file": "Berufsschule/µ-Controller/Wetterstation mit dem ESP8266.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP1/AP1.md",
+                "file": "Berufsschule/µ-Controller/Wetterstation mit dem ESP8266.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP1/AP1.md"
+                "file": "Berufsschule/µ-Controller/Wetterstation mit dem ESP8266.md"
               }
             }
           },
@@ -203,8 +203,22 @@
   },
   "active": "23b6efb6a954e6e1",
   "lastOpenFiles": [
-    "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
+    "Berufsschule/µ-Controller/µ-Controller.md",
+    "Berufsschule/µ-Controller/Led-Schaltung.md",
+    "Berufsschule/µ-Controller/Lautsprecher.md",
+    "Berufsschule/µ-Controller/Wetterstation mit dem ESP8266.md",
+    "Berufsschule/Lernfeld 3/Wie funktionieren Netzwerke.md",
+    "Berufsschule/Lernfeld 7/Analyse OPC UA.md",
+    "Berufsschule/Lernfeld 8/ERM.md",
+    "Berufsschule/Lernfeld 9/DNS.md",
+    "Berufsschule/Lernfeld 9/Ethernet Frame.md",
+    "Berufsschule/Lernfeld 9/NAT Network Address Translation Protokoll.md",
+    "Berufsschule/Lernfeld 9/DHCP.md",
+    "Berufsschule/Lernfeld 9/Cisco Config CheatSheet.md",
+    "Berufsschule/Sozialkunde/Besitz und Eigentum.md",
+    "Berufsschule/Sozialkunde/Berufsbildungsgesetz.md",
     "AP1/AP1.md",
+    "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
     "PraktikantenAufgraben/Einfache Aufgaben.md",
     "PraktikantenAufgraben/Einführung Programmierung.md",
     "PraktikantenAufgraben/Einführungstest.md",
@@ -219,20 +233,6 @@
     "DnD",
     "templates/Angular Temp.md",
     "AP2/KANBAN AP2.md",
-    "templates/IHK Themen Temp.md",
-    "AP1/IT-Sicherheit/Grundbegriffe.md",
-    "templates/Grundbegriffe Temp.md",
-    "templates/index Temp.md",
-    "templates/Softwaretesting Grundbegriffe Temp.md",
-    "templates/SQL Temp.md",
-    "templates/µ-Controller Temp.md",
-    "templates/µ-Controller QuickADD.md",
-    "templates/IT-Sicherheit.md",
-    "templates/AP2 Temp.md",
-    "templates/AP1 Temp.md",
-    "AP1/GroupLearning/Prufungsvorbereitung.md",
-    "AP1/GroupLearning/Ablauf Projekt.md",
-    "AP1/Themen_Abschlussprufung_Teil_1.md",
     "AP2/Themen Checklist",
     "AP2",
     "GroupLearning/Untitled",
