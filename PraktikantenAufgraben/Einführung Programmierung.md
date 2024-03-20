@@ -159,3 +159,7 @@ String eingabe = scanner.nextLine();
 // Ausgabe
 Sysetem.out.println("Ihre Eingabe war: \n" + eingabe);
 ```
+
+
+## Aufgaben Teil 1
+[[Einfache Aufgaben]]
