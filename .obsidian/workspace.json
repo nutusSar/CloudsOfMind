@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PraktikantenAufgraben/Einfache Aufgaben.md",
+                "file": "PraktikantenAufgraben/Einführung Programmierung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PraktikantenAufgraben/Einfache Aufgaben.md",
+                "file": "PraktikantenAufgraben/Einführung Programmierung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PraktikantenAufgraben/Einfache Aufgaben.md"
+                "file": "PraktikantenAufgraben/Einführung Programmierung.md"
               }
             }
           },
@@ -201,10 +201,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "23b6efb6a954e6e1",
+  "active": "744d58872ca145b8",
   "lastOpenFiles": [
-    "PraktikantenAufgraben/Einführung Programmierung.md",
     "PraktikantenAufgraben/Einfache Aufgaben.md",
+    "PraktikantenAufgraben/Einführung Programmierung.md",
     "PraktikantenAufgraben/Untitled.md",
     "Berufsschule/Sozialkunde/Themen der Klassenarbeit 29.04.2024.md",
     "PraktikantenAufgraben",
