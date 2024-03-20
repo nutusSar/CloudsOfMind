@@ -1,4 +1,4 @@
-## Aufgabe 0
+w## Aufgabe 0
 1) Machen sie sich vorab mit der [[Einführung Programmierung]] vertraut.
 
 ## Aufgab 1
@@ -28,4 +28,3 @@ Speichern sie ihren Namen und ihr Alter in sinnvolle Variablen und geben sie die
 ## Aufgabe 7
 1) Berechnen Sie, wie viel Euro der DM-Betrag 9876,54 entspricht (Kurs: 1 EUR = 1,95583 DM). Geben Sie das Ergebnis aus. Sie brauchen keine Rücksicht auf die Formatierung der Ausgabe nehmen - es kann sein, dass mehr oder weniger als zwei Nachkommastellen angezeigt werden. 
 2) Geben Sie einen DM Betrag ein, welcher umgerechnet und in Euro ausgegeben werden soll
-3) 

@@ -94,7 +94,7 @@ if(a > b){
 else if (a < b){
 	System.outprintln("Zahl 1 ist kleiner Zahl 2");
 }
-else (a == b){
+else{
 	System.out.println("Zahl 1 ist gleich Zahl2");
 }
 ```
