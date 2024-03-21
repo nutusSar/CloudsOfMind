@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ca143342a7d213b8",
+        "id": "9fa9a27d64bbaabe",
         "type": "tabs",
         "children": [
           {
-            "id": "7ac5579f893261d1",
+            "id": "4dd09c2427f1560a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "PraktikantenAufgraben/Einführung Programmierung.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PraktikantenAufgraben/Einführung Programmierung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PraktikantenAufgraben/Einführung Programmierung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PraktikantenAufgraben/Einführung Programmierung.md"
+              }
             }
           },
           {
@@ -170,10 +176,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "7ac5579f893261d1",
+  "active": "4dd09c2427f1560a",
   "lastOpenFiles": [
-    "DnD/Mark/Tag 1 (16.03.2024).md",
+    "PraktikantenAufgraben/Einfache Aufgaben.md",
+    "PraktikantenAufgraben/Einführungstest.md",
     "PraktikantenAufgraben/Einführung Programmierung.md",
+    "DnD/Mark/Tag 1 (16.03.2024).md",
     "Berufsschule/µ-Controller/Wetterstation mit dem ESP8266.md",
     "Berufsschule/µ-Controller/µ-Controller.md",
     "Berufsschule/µ-Controller/Led-Schaltung.md",
@@ -190,8 +198,6 @@
     "Berufsschule/Sozialkunde/Berufsbildungsgesetz.md",
     "AP1/AP1.md",
     "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
-    "PraktikantenAufgraben/Einfache Aufgaben.md",
-    "PraktikantenAufgraben/Einführungstest.md",
     "Berufsschule/Sozialkunde/Themen der Klassenarbeit 29.04.2024.md",
     "PraktikantenAufgraben",
     "Excalidraw/Drawing 2024-03-16 15.44.32.excalidraw.md",
