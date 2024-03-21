@@ -127,7 +127,7 @@ int zaehler = 0;
 do{
 	System.out.println(zaehler);
 	zaehler++;
-}while (zaehler < 10)
+}while (zaehler < 10);
 System.out.println(zaehler);
 ```
 

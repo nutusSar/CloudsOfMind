@@ -1,4 +1,4 @@
-w## Aufgabe 0
+## Aufgabe 0
 1) Machen sie sich vorab mit der [[Einführung Programmierung]] vertraut.
 
 ## Aufgab 1

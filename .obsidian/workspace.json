@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "9fa9a27d64bbaabe",
+        "id": "d2285578e2e71903",
         "type": "tabs",
         "children": [
           {
-            "id": "4dd09c2427f1560a",
+            "id": "a151af66a1f520da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PraktikantenAufgraben/Einführung Programmierung.md",
+                "file": "AP2/Themen Checklist/Webentwicklung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2349bf634680f1f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP2/Webentwicklung.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PraktikantenAufgraben/Einführung Programmierung.md",
+                "file": "AP2/Themen Checklist/Webentwicklung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PraktikantenAufgraben/Einführung Programmierung.md",
+                "file": "AP2/Themen Checklist/Webentwicklung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PraktikantenAufgraben/Einführung Programmierung.md"
+                "file": "AP2/Themen Checklist/Webentwicklung.md"
               }
             }
           },
@@ -176,10 +188,22 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "4dd09c2427f1560a",
+  "active": "a151af66a1f520da",
   "lastOpenFiles": [
-    "PraktikantenAufgraben/Einfache Aufgaben.md",
+    "AP2/Webentwicklung.md",
+    "AP2/Themen Checklist/Webentwicklung.md",
+    "AP2/AP2.md",
+    "AP2/Themen Checklist/Datenbanken.md",
+    "AP2/Themen Checklist/Datenbanken.md",
+    "AP2/KANBAN AP2.md",
+    "templates/AP2 Temp.md",
+    "AP2/Themen Checklist/Algorithmen.md",
+    "AP2/Themen Checklist/Trends.md",
+    "AP2/Themen Checklist/UML.md",
+    "AP2/Themen Checklist/Datenschutz.md",
+    "AP2/Themen Checklist/Datenbankmodelle und -modellierung.md",
     "PraktikantenAufgraben/Einführungstest.md",
+    "PraktikantenAufgraben/Einfache Aufgaben.md",
     "PraktikantenAufgraben/Einführung Programmierung.md",
     "DnD/Mark/Tag 1 (16.03.2024).md",
     "Berufsschule/µ-Controller/Wetterstation mit dem ESP8266.md",
@@ -192,22 +216,10 @@
     "Berufsschule/Lernfeld 9/DNS.md",
     "Berufsschule/Lernfeld 9/Ethernet Frame.md",
     "Berufsschule/Lernfeld 9/NAT Network Address Translation Protokoll.md",
-    "Berufsschule/Lernfeld 9/DHCP.md",
-    "Berufsschule/Lernfeld 9/Cisco Config CheatSheet.md",
-    "Berufsschule/Sozialkunde/Besitz und Eigentum.md",
-    "Berufsschule/Sozialkunde/Berufsbildungsgesetz.md",
-    "AP1/AP1.md",
-    "AP1/GroupLearning/Anwendungen, Betriebssysteme.md",
-    "Berufsschule/Sozialkunde/Themen der Klassenarbeit 29.04.2024.md",
     "PraktikantenAufgraben",
-    "Excalidraw/Drawing 2024-03-16 15.44.32.excalidraw.md",
-    "DnD/Mark/Saturnus Skayn.md",
     "SaturnusSkayn.pdf",
-    "AP2/AP2.md",
     "DnD/Mark",
     "DnD",
-    "templates/Angular Temp.md",
-    "AP2/KANBAN AP2.md",
     "AP2/Themen Checklist",
     "AP2",
     "GroupLearning/Untitled",
