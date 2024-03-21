@@ -2,4 +2,8 @@
 tags:
   - "#AP2"
 ---
-## Dynamische Webseites
+## Dynamische Websites
+
+### CGI
+
+###

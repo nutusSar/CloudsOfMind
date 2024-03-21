@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP2/Themen Checklist/Webentwicklung.md",
+                "file": "AP2/Webentwicklung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP2/Themen Checklist/Webentwicklung.md",
+                "file": "AP2/Webentwicklung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP2/Themen Checklist/Webentwicklung.md"
+                "file": "AP2/Webentwicklung.md"
               }
             }
           },
@@ -188,18 +189,19 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "a151af66a1f520da",
+  "active": "2349bf634680f1f0",
   "lastOpenFiles": [
-    "AP2/Webentwicklung.md",
-    "AP2/Themen Checklist/Webentwicklung.md",
     "AP2/AP2.md",
+    "AP2/Themen Checklist/Webentwicklung.md",
+    "AP2/Themen Checklist/Versionsverwaltung.md",
+    "AP2/Webentwicklung.md",
+    "AP2/Themen Checklist/UML.md",
     "AP2/Themen Checklist/Datenbanken.md",
     "AP2/Themen Checklist/Datenbanken.md",
     "AP2/KANBAN AP2.md",
     "templates/AP2 Temp.md",
     "AP2/Themen Checklist/Algorithmen.md",
     "AP2/Themen Checklist/Trends.md",
-    "AP2/Themen Checklist/UML.md",
     "AP2/Themen Checklist/Datenschutz.md",
     "AP2/Themen Checklist/Datenbankmodelle und -modellierung.md",
     "PraktikantenAufgraben/Einführungstest.md",
@@ -215,7 +217,6 @@
     "Berufsschule/Lernfeld 8/ERM.md",
     "Berufsschule/Lernfeld 9/DNS.md",
     "Berufsschule/Lernfeld 9/Ethernet Frame.md",
-    "Berufsschule/Lernfeld 9/NAT Network Address Translation Protokoll.md",
     "PraktikantenAufgraben",
     "SaturnusSkayn.pdf",
     "DnD/Mark",
