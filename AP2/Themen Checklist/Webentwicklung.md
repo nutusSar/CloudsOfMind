@@ -8,13 +8,13 @@ tags:
 - [x] Web 2.0
     - [x] Social Networks, Wikis, Blogs, Twitter, Forum, Podcast
 - [x] Web 3.0
-- [ ] RIA und AJAX
-    - [ ] Vor-/Nachteile
-    - [ ] Funktionsweise
-- [ ] Anforderungen durch Mobilgeräte
-    - [ ] Offline-Fähigkeit, Deployment auf mehrere Plattformen, verschiedene Programmiersprachen, native Apps vs. HTML5/JavaScript, geringe Bandbreiten, kleine Auflösungen
-- [ ] Angriffsmöglichkeiten gegen Anwendungen abgrenzen
-    - [ ] SQL-Injection, XSS, CSRF, Session Hijacking, DoS, DDoS
+- [x] RIA und AJAX
+    - [x] Vor-/Nachteile
+    - [x] Funktionsweise
+- [x] Anforderungen durch Mobilgeräte
+    - [x] Offline-Fähigkeit, Deployment auf mehrere Plattformen, verschiedene Programmiersprachen, native Apps vs. HTML5/JavaScript, geringe Bandbreiten, kleine Auflösungen
+- [x] Angriffsmöglichkeiten gegen Anwendungen abgrenzen
+    - [x] SQL-Injection, XSS, CSRF, Session Hijacking, DoS, DDoS
 - [ ] HTTP
     - [ ] Methoden kennen und einordnen: safe/sicher, idempotent
     - [ ] Status-Codes kennen (z.B. 200, 404)

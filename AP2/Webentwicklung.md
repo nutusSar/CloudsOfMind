@@ -89,10 +89,75 @@ Web 3.0 ist ein Begriff, der verschiedene Konzepte und Entwicklungen beschreibt,
 - AJAX wird häufig zusammen mit anderen Webtechnologien wie HTML, CSS und serverseitigen Skriptsprachen wie PHP, Python oder Ruby verwendet.
 
 ### Vor- und Nachteile
-| **Vorteile**                     | **Nachteile**                         |
-| -------------------------------- | ------------------------------------- |
-| Verbesserte Benutzererfahrrung   | Barriere für Suchmaschinenoptimierung |
-| Reduzierter Bandbreitenverbrauch | Browserkompalität                     |
-| Bessere Skalierbarkeit           | Komplexität der Implementierung       |
-| Verbesserte Benutzerinteraktion  | Sicherheitsrisiken                    |
-| Mehr Desktop-ähnliche Funktionen |                                       |
+| **Vorteile**                       | **Nachteile**                                                                      |
+| ---------------------------------- | ---------------------------------------------------------------------------------- |
+| Kein Neuladen aufgebauter Seiten   | Umfangreiche Tests erforderlich                                                    |
+| Kein Browser-Plug-in wird benötigt | Verwendung der „Zurück“-Schaltfläche nicht möglich                                 |
+| Serverseitige Browsererkennung     | Polling-Problem                                                                    |
+| Verbesserte Benutzerinteraktion    | Ein Lesezeichen auf einen bestimmten Zustand der Seite zu setzen ist nicht möglich |
+| Reduzierter Bandbreitenverbrauch   | Barriere für Suchmaschinenoptimierung (SEO)                                        |
+
+## Anforderrungen durch Mobilgeräte
+### Offline-Fähigkeit
+- Webanwendungen sollten Mechanismen für die Offline-Nutzung bieten, da Mobilgeräte oft in Bereichen mit schlechter oder keiner Netzabdeckung verwendet werden.
+- Die Verwendung von Technologien wie Service Workers und lokale Speicherung ermöglicht es, bestimmte Funktionen auch ohne Internetverbindung verfügbar zu machen.
+
+### Deployment auf mehrere Plattformen
+- Entwickler müssen sicherstellen, dass ihre Anwendungen auf verschiedenen mobilen Plattformen wie iOS und Android lauffähig sind.
+- Die Verwendung plattformübergreifender Entwicklungswerkzeuge wie React Native oder Xamarin kann die Entwicklung und Wartung erleichtern.
+
+### Verschiedene Programmiersprachen
+- Entwickler sollten in der Lage sein, verschiedene Programmiersprachen wie Swift für iOS und Kotlin für Android zu beherrschen, um native Apps zu entwickeln.
+- Alternativ kann die Verwendung von Webtechnologien wie HTML5, CSS und JavaScript für plattformübergreifende Anwendungen eine effiziente Lösung sein.
+
+### Native Apps vs. HTML5/JavaScript
+- Native Apps bieten oft eine bessere Leistung und Benutzererfahrung, da sie speziell für die jeweilige Plattform optimiert sind.
+- HTML5/JavaScript-basierte Anwendungen bieten hingegen plattformübergreifende Kompatibilität und eine schnellere Entwicklungszeit, sind jedoch möglicherweise nicht so leistungsfähig wie native Apps.
+
+### Geringe Bandbreiten
+- Mobilgeräte haben oft Einschränkungen bei der Bandbreite, insbesondere in ländlichen Gebieten oder bei der Nutzung von Mobilfunknetzen.
+- Die Optimierung von Datenübertragungen durch Komprimierung, Zwischenspeicherung und minimale Datenübertragungen kann helfen, die Auswirkungen geringer Bandbreiten zu minimieren.
+
+### Kleine Auflösungen
+- Mobilgeräte haben kleinere Bildschirme und niedrigere Auflösungen im Vergleich zu Desktop-Computern.
+- Webdesign sollte für kleinere Bildschirme optimiert werden, indem Responsive Design-Techniken verwendet werden, um sicherzustellen, dass Inhalte gut lesbar und benutzerfreundlich bleiben.
+
+## Angriffsmöglichkeiten gegen Anwendungen Abgrenzen
+### SQL-Injection 
+- Bei SQL-Injection werden schädliche SQL-Abfragen in Eingabeformulare oder URL-Parameter eingeschleust, um auf die zugrunde liegende Datenbank zuzugreifen oder sie zu manipulieren.
+- Die Abwehr erfolgt durch die Verwendung von parametrisierten Abfragen oder durch die Verwendung von ORM-Frameworks (Object-Relational Mapping), die SQL-Injection-Angriffe automatisch verhindern können.
+
+### XSS
+- Bei XSS-Injektionen werden bösartige Skripte in Webseiten eingefügt, die von Benutzern ausgeführt werden, die die manipulierten Seiten besuchen.
+- Zur Abwehr sollten Eingaben von Benutzern immer korrekt validiert und sanitisiert werden, bevor sie an den Browser gesendet werden. Content Security Policy (CSP) kann auch verwendet werden, um XSS-Angriffe zu verhindern.
+
+### CSRF
+- CSRF-Angriffe zielen darauf ab, dass ein Benutzer ohne sein Wissen eine schädliche Aktion auf einer Webseite ausführt, auf die er authentifiziert ist.
+- CSRF-Token sollten in Formularen verwendet werden, um sicherzustellen, dass Aktionen nur von autorisierten Benutzern durchgeführt werden können.
+
+### Session Hijacking
+- Bei einem Session-Hijacking greift ein Angreifer auf die Session-ID eines Benutzers zu und übernimmt dadurch dessen Sitzung, um auf geschützte Ressourcen zuzugreifen.
+- Zur Abwehr sollten Sessions sicher implementiert werden, z.B. durch die Verwendung von HTTPS, das automatische Ablaufdatum von Sitzungen und die Speicherung sensitiver Daten wie Passwörter in verschlüsselter Form.
+
+### DoS
+- Bei DoS-Angriffen versucht ein Angreifer, eine Anwendung oder einen Dienst durch Überlastung mit einer großen Anzahl von Anfragen lahmzulegen.
+- Zur Abwehr können Firewalls, Lastenausgleich und Rate-Limiting eingesetzt werden, um den Datenverkehr zu steuern und Angriffe zu erkennen.
+
+### DDoS
+- DDoS-Angriffe sind ähnlich wie DoS-Angriffe, jedoch werden sie von mehreren Quellen gleichzeitig ausgeführt, was die Abwehr erschwert.
+- Zur Abwehr können spezialisierte DDoS-Schutzdienste, Cloud-basierte Sicherheitslösungen und die Zusammenarbeit mit Internetdienstanbietern eingesetzt werden, um den Datenverkehr zu filtern und zu stoppen.
+
+## HTTP
+### Methods
+#### Safe
+- Eine HTTP-Methode wird als "safe" bezeichnet, wenn sie keine Auswirkungen auf den Zustand des Servers oder der Ressource hat.
+- Das bedeutet, dass eine "safe" Methode eine Anfrage an den Server senden kann, ohne den Zustand der Ressource zu ändern oder Daten zu modifizieren.
+- Beispiele für "safe" Methoden sind GET und HEAD, da sie lediglich Informationen von einem Server anfordern, ohne Daten zu ändern.
+
+#### Idempotent
+- Eine HTTP-Methode ist "idempotent", wenn sie bei wiederholter Ausführung mit denselben Eingaben dasselbe Ergebnis liefert, ohne zusätzliche Auswirkungen zu haben.
+- Mit anderen Worten, eine "idempotent" Methode kann mehrmals ausgeführt werden, ohne den Endzustand zu verändern, sofern die Eingaben gleich bleiben.
+- Beispiele für "idempotent" Methoden sind GET, HEAD, PUT und DELETE. PUT und DELETE können mehrmals hintereinander aufgerufen werden, ohne den Zustand der Ressource zu ändern, solange die Eingaben gleich bleiben.
+
+### Statuscodes
+
