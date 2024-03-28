@@ -3,9 +3,9 @@ tags:
   - "#AP2"
   - "#ToDo"
 ---
-- [ ] dynamische Websites (CGI, ASP, JSP, PHP)
-    - [ ] Applet und Servlet unterscheiden (veraltet)
-- [ ] Web 2.0
+- [x] dynamische Websites (CGI, ASP, JSP, PHP)
+    - [x] Applet und Servlet unterscheiden (veraltet)
+- [x] Web 2.0
     - [ ] Social Networks, Wikis, Blogs, Twitter, Forum, Podcast
 - [ ] Web 3.0
 - [ ] RIA und AJAX

@@ -37,10 +37,13 @@ Dynamische Websites sind Websites, deren Inhalte sich basierend auf Benutzerinte
 | Zugriff auf lokale Ressourcen -> anfälliger für Sicherheitsrisiken | Laufen auf dem Server und haben keinen direkten Zugriff auf die lokalen Ressourcen des Benutzers |
 ## Web 2.0
 ### Definition
+Web 2.0 ist ein Schlagwort, das für eine Reihe interaktiver und kollaborativer Elemente des Internets, speziell des World Wide Webs, verwendet wird. Dabei konsumiert der Nutzer nicht nur den Inhalt, er stellt als Prosument selbst Inhalt zur Verfügung.
 
 ### Social Networks
+Web 2.0 ist ein Schlagwort, das für eine Reihe interaktiver und kollaborativer Elemente des Internets, speziell des World Wide Webs, verwendet wird. Dabei konsumiert der Nutzer nicht nur den Inhalt, er stellt als Prosument selbst Inhalt zur Verfügung.
 
 ### Wikis
+Ein Wiki ist eine kollaborative Website oder eine Software, die es Benutzern ermöglicht, gemeinsam Inhalte zu erstellen, zu bearbeiten und zu organisieren. Hier sind einige wichtige Merkmale von Wikis.
 
 ### Blogs
 
@@ -49,3 +52,5 @@ Dynamische Websites sind Websites, deren Inhalte sich basierend auf Benutzerinte
 ### Forum 
 
 ### Podcast
+
+## Web 3.0
