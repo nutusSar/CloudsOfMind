@@ -6,8 +6,8 @@ tags:
 - [x] dynamische Websites (CGI, ASP, JSP, PHP)
     - [x] Applet und Servlet unterscheiden (veraltet)
 - [x] Web 2.0
-    - [ ] Social Networks, Wikis, Blogs, Twitter, Forum, Podcast
-- [ ] Web 3.0
+    - [x] Social Networks, Wikis, Blogs, Twitter, Forum, Podcast
+- [x] Web 3.0
 - [ ] RIA und AJAX
     - [ ] Vor-/Nachteile
     - [ ] Funktionsweise

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP2/Themen Checklist/Webentwicklung.md",
+                "file": "AP2/Webentwicklung.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP2/Themen Checklist/Webentwicklung.md",
+                "file": "AP2/Webentwicklung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP2/Themen Checklist/Webentwicklung.md",
+                "file": "AP2/Webentwicklung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP2/Themen Checklist/Webentwicklung.md"
+                "file": "AP2/Webentwicklung.md"
               }
             }
           },
@@ -191,8 +191,8 @@
   },
   "active": "2349bf634680f1f0",
   "lastOpenFiles": [
-    "AP2/Webentwicklung.md",
     "AP2/Themen Checklist/Webentwicklung.md",
+    "AP2/Webentwicklung.md",
     "AP2/KANBAN AP2.md",
     "AP2/Unconfirmed 562064.crdownload",
     "AP2/AP2.md",
