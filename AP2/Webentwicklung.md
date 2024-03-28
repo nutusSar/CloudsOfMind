@@ -160,4 +160,31 @@ Web 3.0 ist ein Begriff, der verschiedene Konzepte und Entwicklungen beschreibt,
 - Beispiele für "idempotent" Methoden sind GET, HEAD, PUT und DELETE. PUT und DELETE können mehrmals hintereinander aufgerufen werden, ohne den Zustand der Ressource zu ändern, solange die Eingaben gleich bleiben.
 
 ### Statuscodes
+1. **200 OK:**
+    
+    - Die Anfrage wurde erfolgreich bearbeitet und die Antwort enthält die angeforderten Daten.
+2. **201 Created:**
+    
+    - Die Anfrage wurde erfolgreich bearbeitet und eine neue Ressource wurde erstellt. Die URL der neuen Ressource wird normalerweise in der Antwort angegeben.
+3. **400 Bad Request:**
+    
+    - Die Anfrage konnte aufgrund eines ungültigen Clientanforderungssyntax nicht verarbeitet werden.
+4. **401 Unauthorized:**
+    
+    - Die Anfrage erfordert eine Authentifizierung des Clients, die jedoch fehlgeschlagen ist oder nicht bereitgestellt wurde.
+5. **403 Forbidden:**
+    
+    - Der Server hat die Anfrage des Clients verstanden, verweigert jedoch die Autorisierung für den Zugriff auf die angeforderte Ressource.
+6. **404 Not Found:**
+    
+    - Die angeforderte Ressource wurde auf dem Server nicht gefunden.
+7. **405 Method Not Allowed:**
+    
+    - Die Methode, die in der Anfrage verwendet wurde, ist für die angeforderte Ressource nicht zulässig.
+8. **500 Internal Server Error:**
+    
+    - Ein allgemeiner Fehler ist auf dem Server aufgetreten, der die Bearbeitung der Anfrage verhindert hat.
+9. **503 Service Unavailable:**
+    
+    - Der Server ist vorübergehend nicht in der Lage, die Anfrage zu bearbeiten, da er überlastet ist oder für Wartungsarbeiten offline ist.
 
